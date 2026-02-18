@@ -1,0 +1,62 @@
+name: Hybrid Market Data Collector
+
+on:
+  schedule:
+    # 9:00 AM IST (03:30 UTC)
+    - cron: "30 3 * * 1-5"
+
+    # 9:30 AM – 3:30 PM IST (04:00–09:30 UTC every 30 mins)
+    - cron: "0,30 4-9 * * 1-5"
+
+    # 4:00 PM IST (10:30 UTC)
+    - cron: "0 10 * * 1-5"
+
+  workflow_dispatch:
+
+permissions:
+  contents: write   # REQUIRED for push access
+
+jobs:
+  collect-data:
+    runs-on: ubuntu-latest
+
+    steps:
+      # 📥 Checkout Repository
+      - name: Checkout Repo
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      # 🐍 Setup Python
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      # 📦 Install Dependencies
+      - name: Install Dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install pandas numpy tvdatafeed pyarrow fastparquet
+
+      # 📂 Ensure Directories Exist
+      - name: Create Required Directories
+        run: |
+          mkdir -p market_data/broader_index
+          mkdir -p market_data/sector_index
+          mkdir -p market_data/fno
+
+      # 🚀 Run Datacopier
+      - name: Run Data Collector
+        run: |
+          python Datacopier.py
+
+      # 📤 Commit & Push Changes
+      - name: Commit and Push
+        run: |
+          git config --global user.name "github-actions"
+          git config --global user.email "github-actions@github.com"
+
+          git add market_data/
+          git commit -m "📊 Auto update market data (Hybrid Collector)" || echo "No changes"
+          git push
