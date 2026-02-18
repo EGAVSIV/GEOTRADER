@@ -14,7 +14,8 @@ BARS = 4000
 # =====================================================
 # BASE PATH (AUTO-DETECT FOR GITHUB ACTIONS)
 # =====================================================
-BASE_PATH = /home/runner/work/Stock_Scanner_With_ASTA_Parameters/Stock_Scanner_With_ASTA_Parameters
+BASE_PATH = os.path.dirname(os.path.abspath(__file__))
+
 
 
 MARKET_DATA_PATH = os.path.join(BASE_PATH, "market_data")
