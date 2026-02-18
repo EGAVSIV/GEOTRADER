@@ -1,41 +1,51 @@
-name: Market Data Collector
+name: Sync Stock Data From Scanner Repo
 
 on:
-  workflow_dispatch:
   schedule:
-    - cron: "30 10 * * 1-5"
+    # Every 30 minutes from 03:30 to 10:30 UTC (9 AM – 4 PM IST)
+    - cron: "30 3 * * 1-5"
+    - cron: "0,30 4-9 * * 1-5"
+    - cron: "0 10 * * 1-5"
+  workflow_dispatch:
 
 permissions:
   contents: write
 
 jobs:
-  collect-data:
+  sync-data:
     runs-on: ubuntu-latest
 
     steps:
-      - name: 📥 Checkout Repository
+      # Checkout destination repo (GEOTRADER)
+      - name: 📥 Checkout GEOTRADER
         uses: actions/checkout@v4
         with:
-          fetch-depth: 0   # Important for proper commits
+          fetch-depth: 0
 
-      - name: 🐍 Setup Python
-        uses: actions/setup-python@v5
+      # Checkout source repo inside temp folder
+      - name: 📥 Checkout Stock Scanner Repo
+        uses: actions/checkout@v4
         with:
-          python-version: "3.11"
+          repository: EGAVSIV/Stock_Scanner_With_ASTA_Parameters
+          path: source_repo
 
-      - name: 📦 Install Dependencies
+      # Copy required folders
+      - name: 📂 Copy Stock Data Folders
         run: |
-          python -m pip install --upgrade pip
-          pip install -r requirements.txt
+          rm -rf stock_data_15 stock_data_1H stock_data_D stock_data_M stock_data_W
 
-      - name: 🚀 Run Data Copier
-        run: python Datacopier.py
+          cp -r source_repo/stock_data_15 .
+          cp -r source_repo/stock_data_1H .
+          cp -r source_repo/stock_data_D .
+          cp -r source_repo/stock_data_M .
+          cp -r source_repo/stock_data_W .
 
-      - name: 📤 Commit & Push Changes
+      # Commit & Push
+      - name: 📤 Commit and Push Changes
         run: |
           git config --global user.name "github-actions"
           git config --global user.email "github-actions@github.com"
 
-          git add market_data/
-          git commit -m "📊 Auto update market data" || echo "No changes"
+          git add stock_data_15 stock_data_1H stock_data_D stock_data_M stock_data_W
+          git commit -m "🔄 Auto Sync Stock Data from Scanner Repo" || echo "No changes"
           git push
