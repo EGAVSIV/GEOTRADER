@@ -1,12 +1,12 @@
 name: Market Data Collector
 
 on:
-  workflow_dispatch:        # Manual Run Button
+  workflow_dispatch:
   schedule:
-    - cron: "30 10 * * 1-5"   # 10:30 UTC (4:00 PM IST) Mon-Fri
+    - cron: "30 10 * * 1-5"
 
 permissions:
-  contents: write   # IMPORTANT: Allows push back to repo
+  contents: write
 
 jobs:
   collect-data:
@@ -15,6 +15,8 @@ jobs:
     steps:
       - name: 📥 Checkout Repository
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0   # Important for proper commits
 
       - name: 🐍 Setup Python
         uses: actions/setup-python@v5
@@ -26,15 +28,14 @@ jobs:
           python -m pip install --upgrade pip
           pip install -r requirements.txt
 
-      - name: 🚀 Run Data Collector
-        run: |
-          python Datacopier.py
+      - name: 🚀 Run Data Copier
+        run: python Datacopier.py
 
-      - name: 📤 Commit & Push Updated Data
+      - name: 📤 Commit & Push Changes
         run: |
           git config --global user.name "github-actions"
           git config --global user.email "github-actions@github.com"
 
-          git add .
-          git commit -m "📊 Auto updated market data" || echo "No changes to commit"
+          git add market_data/
+          git commit -m "📊 Auto update market data" || echo "No changes"
           git push
