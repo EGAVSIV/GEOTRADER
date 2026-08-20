@@ -1,23 +1,5 @@
 [
     {
-        "datetime":"2025-12-24T07:30:00.000",
-        "symbol":"NSE:JSWSTEEL",
-        "open":1092.8,
-        "high":1094.9,
-        "low":1092.1,
-        "close":1093.1,
-        "volume":28178.0
-    },
-    {
-        "datetime":"2025-12-24T07:45:00.000",
-        "symbol":"NSE:JSWSTEEL",
-        "open":1093.0,
-        "high":1093.9,
-        "low":1092.9,
-        "close":1093.1,
-        "volume":17710.0
-    },
-    {
         "datetime":"2025-12-24T08:00:00.000",
         "symbol":"NSE:JSWSTEEL",
         "open":1093.4,
@@ -35907,7 +35889,7 @@
         "high":1281.6,
         "low":1280.1,
         "close":1280.3,
-        "volume":23054.0
+        "volume":27934.0
     },
     {
         "datetime":"2026-08-19T08:00:00.000",
@@ -35995,8 +35977,26 @@
         "symbol":"NSE:JSWSTEEL",
         "open":1288.9,
         "high":1289.0,
-        "low":1287.1,
-        "close":1287.4,
-        "volume":10655.0
+        "low":1281.5,
+        "close":1285.1,
+        "volume":258714.0
+    },
+    {
+        "datetime":"2026-08-20T04:30:00.000",
+        "symbol":"NSE:JSWSTEEL",
+        "open":1285.5,
+        "high":1292.5,
+        "low":1281.5,
+        "close":1291.5,
+        "volume":154373.0
+    },
+    {
+        "datetime":"2026-08-20T04:45:00.000",
+        "symbol":"NSE:JSWSTEEL",
+        "open":1291.8,
+        "high":1296.7,
+        "low":1291.5,
+        "close":1295.6,
+        "volume":122544.0
     }
 ]

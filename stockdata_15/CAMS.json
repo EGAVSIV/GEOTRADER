@@ -1,23 +1,5 @@
 [
     {
-        "datetime":"2025-12-24T07:30:00.000",
-        "symbol":"NSE:CAMS",
-        "open":763.4,
-        "high":763.4,
-        "low":762.4,
-        "close":763.0,
-        "volume":10147.0
-    },
-    {
-        "datetime":"2025-12-24T07:45:00.000",
-        "symbol":"NSE:CAMS",
-        "open":762.8,
-        "high":763.0,
-        "low":761.1,
-        "close":761.6,
-        "volume":14536.0
-    },
-    {
         "datetime":"2025-12-24T08:00:00.000",
         "symbol":"NSE:CAMS",
         "open":761.7,
@@ -35995,8 +35977,26 @@
         "symbol":"NSE:CAMS",
         "open":756.9,
         "high":757.1,
-        "low":756.7,
+        "low":754.5,
+        "close":754.6,
+        "volume":43336.0
+    },
+    {
+        "datetime":"2026-08-20T04:30:00.000",
+        "symbol":"NSE:CAMS",
+        "open":754.6,
+        "high":757.0,
+        "low":754.45,
         "close":756.7,
-        "volume":2270.0
+        "volume":43252.0
+    },
+    {
+        "datetime":"2026-08-20T04:45:00.000",
+        "symbol":"NSE:CAMS",
+        "open":756.5,
+        "high":757.0,
+        "low":755.15,
+        "close":755.5,
+        "volume":41623.0
     }
 ]

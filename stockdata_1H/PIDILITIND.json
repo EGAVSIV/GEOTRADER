@@ -1,14 +1,5 @@
 [
     {
-        "datetime":"2024-04-25T07:45:00.000",
-        "symbol":"NSE:PIDILITIND",
-        "open":1463.95,
-        "high":1465.25,
-        "low":1460.55,
-        "close":1463.475,
-        "volume":23594.0
-    },
-    {
         "datetime":"2024-04-25T08:45:00.000",
         "symbol":"NSE:PIDILITIND",
         "open":1463.575,
@@ -35995,8 +35986,17 @@
         "symbol":"NSE:PIDILITIND",
         "open":1658.5,
         "high":1666.9,
-        "low":1648.6,
-        "close":1649.2,
-        "volume":35725.0
+        "low":1648.2,
+        "close":1650.1,
+        "volume":50411.0
+    },
+    {
+        "datetime":"2026-08-20T04:45:00.000",
+        "symbol":"NSE:PIDILITIND",
+        "open":1650.7,
+        "high":1651.3,
+        "low":1650.0,
+        "close":1650.5,
+        "volume":2205.0
     }
 ]

@@ -1,14 +1,5 @@
 [
     {
-        "datetime":"2024-04-25T07:45:00.000",
-        "symbol":"NSE:SUPREMEIND",
-        "open":4285.1,
-        "high":4311.15,
-        "low":4285.1,
-        "close":4295.15,
-        "volume":13633.0
-    },
-    {
         "datetime":"2024-04-25T08:45:00.000",
         "symbol":"NSE:SUPREMEIND",
         "open":4297.0,
@@ -35979,7 +35970,7 @@
         "high":3624.5,
         "low":3600.0,
         "close":3616.9,
-        "volume":26494.0
+        "volume":25884.0
     },
     {
         "datetime":"2026-08-19T08:45:00.000",
@@ -35995,8 +35986,17 @@
         "symbol":"NSE:SUPREMEIND",
         "open":3629.0,
         "high":3629.9,
-        "low":3605.0,
-        "close":3605.8,
-        "volume":12196.0
+        "low":3602.0,
+        "close":3615.2,
+        "volume":23899.0
+    },
+    {
+        "datetime":"2026-08-20T04:45:00.000",
+        "symbol":"NSE:SUPREMEIND",
+        "open":3615.2,
+        "high":3630.7,
+        "low":3613.1,
+        "close":3628.7,
+        "volume":8570.0
     }
 ]

@@ -1,23 +1,5 @@
 [
     {
-        "datetime":"2025-12-24T07:30:00.000",
-        "symbol":"NSE:ICICIGI",
-        "open":1956.4,
-        "high":1956.4,
-        "low":1955.7,
-        "close":1956.1,
-        "volume":3481.0
-    },
-    {
-        "datetime":"2025-12-24T07:45:00.000",
-        "symbol":"NSE:ICICIGI",
-        "open":1956.1,
-        "high":1956.5,
-        "low":1955.0,
-        "close":1956.5,
-        "volume":16632.0
-    },
-    {
         "datetime":"2025-12-24T08:00:00.000",
         "symbol":"NSE:ICICIGI",
         "open":1956.4,
@@ -35994,9 +35976,27 @@
         "datetime":"2026-08-20T04:15:00.000",
         "symbol":"NSE:ICICIGI",
         "open":1619.6,
-        "high":1619.6,
-        "low":1619.6,
-        "close":1619.6,
-        "volume":34.0
+        "high":1625.7,
+        "low":1618.3,
+        "close":1622.5,
+        "volume":26632.0
+    },
+    {
+        "datetime":"2026-08-20T04:30:00.000",
+        "symbol":"NSE:ICICIGI",
+        "open":1622.8,
+        "high":1628.8,
+        "low":1622.5,
+        "close":1628.1,
+        "volume":25074.0
+    },
+    {
+        "datetime":"2026-08-20T04:45:00.000",
+        "symbol":"NSE:ICICIGI",
+        "open":1628.1,
+        "high":1631.5,
+        "low":1626.6,
+        "close":1630.1,
+        "volume":23278.0
     }
 ]
