@@ -1,14 +1,5 @@
 [
     {
-        "datetime":"2024-04-25T08:45:00.000",
-        "symbol":"NSE:BAJAJ_AUTO",
-        "open":8727.05,
-        "high":8749.7,
-        "low":8720.0,
-        "close":8742.45,
-        "volume":132401.0
-    },
-    {
         "datetime":"2024-04-25T09:45:00.000",
         "symbol":"NSE:BAJAJ_AUTO",
         "open":8742.45,
@@ -35996,7 +35987,16 @@
         "open":11677.0,
         "high":11720.0,
         "low":11670.0,
-        "close":11694.0,
-        "volume":21372.0
+        "close":11695.0,
+        "volume":23091.0
+    },
+    {
+        "datetime":"2026-08-20T05:45:00.000",
+        "symbol":"NSE:BAJAJ_AUTO",
+        "open":11692.0,
+        "high":11712.0,
+        "low":11673.0,
+        "close":11682.0,
+        "volume":24262.0
     }
 ]

@@ -1,32 +1,5 @@
 [
     {
-        "datetime":"2025-12-24T08:45:00.000",
-        "symbol":"NSE:JIOFIN",
-        "open":298.6,
-        "high":298.8,
-        "low":298.05,
-        "close":298.15,
-        "volume":209163.0
-    },
-    {
-        "datetime":"2025-12-24T09:00:00.000",
-        "symbol":"NSE:JIOFIN",
-        "open":298.15,
-        "high":298.7,
-        "low":298.1,
-        "close":298.55,
-        "volume":172226.0
-    },
-    {
-        "datetime":"2025-12-24T09:15:00.000",
-        "symbol":"NSE:JIOFIN",
-        "open":298.6,
-        "high":298.95,
-        "low":298.25,
-        "close":298.95,
-        "volume":160979.0
-    },
-    {
         "datetime":"2025-12-24T09:30:00.000",
         "symbol":"NSE:JIOFIN",
         "open":299.25,
@@ -35994,9 +35967,36 @@
         "datetime":"2026-08-20T05:30:00.000",
         "symbol":"NSE:JIOFIN",
         "open":246.25,
-        "high":246.5,
+        "high":246.6,
         "low":246.05,
+        "close":246.5,
+        "volume":348935.0
+    },
+    {
+        "datetime":"2026-08-20T05:45:00.000",
+        "symbol":"NSE:JIOFIN",
+        "open":246.5,
+        "high":246.5,
+        "low":246.15,
+        "close":246.3,
+        "volume":169953.0
+    },
+    {
+        "datetime":"2026-08-20T06:00:00.000",
+        "symbol":"NSE:JIOFIN",
+        "open":246.35,
+        "high":246.7,
+        "low":246.05,
+        "close":246.15,
+        "volume":249666.0
+    },
+    {
+        "datetime":"2026-08-20T06:15:00.000",
+        "symbol":"NSE:JIOFIN",
+        "open":246.15,
+        "high":246.25,
+        "low":246.0,
         "close":246.2,
-        "volume":158557.0
+        "volume":141752.0
     }
 ]

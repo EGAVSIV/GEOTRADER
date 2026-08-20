@@ -1,14 +1,5 @@
 [
     {
-        "datetime":"2024-04-25T08:45:00.000",
-        "symbol":"NSE:INDIGO",
-        "open":3797.0,
-        "high":3819.0,
-        "low":3793.05,
-        "close":3805.55,
-        "volume":201869.0
-    },
-    {
         "datetime":"2024-04-25T09:45:00.000",
         "symbol":"NSE:INDIGO",
         "open":3806.5,
@@ -35996,7 +35987,16 @@
         "open":5183.0,
         "high":5190.5,
         "low":5163.0,
-        "close":5166.0,
-        "volume":50392.0
+        "close":5167.0,
+        "volume":53661.0
+    },
+    {
+        "datetime":"2026-08-20T05:45:00.000",
+        "symbol":"NSE:INDIGO",
+        "open":5167.0,
+        "high":5185.0,
+        "low":5160.5,
+        "close":5184.0,
+        "volume":32498.0
     }
 ]

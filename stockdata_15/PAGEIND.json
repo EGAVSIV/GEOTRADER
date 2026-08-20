@@ -1,32 +1,5 @@
 [
     {
-        "datetime":"2025-12-24T08:45:00.000",
-        "symbol":"NSE:PAGEIND",
-        "open":36630.0,
-        "high":36630.0,
-        "low":36600.0,
-        "close":36600.0,
-        "volume":408.0
-    },
-    {
-        "datetime":"2025-12-24T09:00:00.000",
-        "symbol":"NSE:PAGEIND",
-        "open":36600.0,
-        "high":36610.0,
-        "low":36550.0,
-        "close":36560.0,
-        "volume":391.0
-    },
-    {
-        "datetime":"2025-12-24T09:15:00.000",
-        "symbol":"NSE:PAGEIND",
-        "open":36575.0,
-        "high":36600.0,
-        "low":36545.0,
-        "close":36600.0,
-        "volume":711.0
-    },
-    {
         "datetime":"2025-12-24T09:30:00.000",
         "symbol":"NSE:PAGEIND",
         "open":36620.0,
@@ -35994,9 +35967,36 @@
         "datetime":"2026-08-20T05:30:00.000",
         "symbol":"NSE:PAGEIND",
         "open":35295.0,
-        "high":35345.0,
+        "high":35410.0,
         "low":35235.0,
-        "close":35260.0,
-        "volume":443.0
+        "close":35345.0,
+        "volume":1598.0
+    },
+    {
+        "datetime":"2026-08-20T05:45:00.000",
+        "symbol":"NSE:PAGEIND",
+        "open":35345.0,
+        "high":35415.0,
+        "low":35260.0,
+        "close":35270.0,
+        "volume":1833.0
+    },
+    {
+        "datetime":"2026-08-20T06:00:00.000",
+        "symbol":"NSE:PAGEIND",
+        "open":35265.0,
+        "high":35475.0,
+        "low":35255.0,
+        "close":35425.0,
+        "volume":1954.0
+    },
+    {
+        "datetime":"2026-08-20T06:15:00.000",
+        "symbol":"NSE:PAGEIND",
+        "open":35420.0,
+        "high":35435.0,
+        "low":35365.0,
+        "close":35375.0,
+        "volume":836.0
     }
 ]

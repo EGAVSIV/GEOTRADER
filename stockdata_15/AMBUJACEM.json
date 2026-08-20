@@ -1,32 +1,5 @@
 [
     {
-        "datetime":"2025-12-24T08:45:00.000",
-        "symbol":"NSE:AMBUJACEM",
-        "open":549.5,
-        "high":549.9,
-        "low":548.4,
-        "close":549.0,
-        "volume":43215.0
-    },
-    {
-        "datetime":"2025-12-24T09:00:00.000",
-        "symbol":"NSE:AMBUJACEM",
-        "open":549.1,
-        "high":549.45,
-        "low":548.25,
-        "close":548.5,
-        "volume":31540.0
-    },
-    {
-        "datetime":"2025-12-24T09:15:00.000",
-        "symbol":"NSE:AMBUJACEM",
-        "open":548.7,
-        "high":548.95,
-        "low":548.05,
-        "close":548.7,
-        "volume":37120.0
-    },
-    {
         "datetime":"2025-12-24T09:30:00.000",
         "symbol":"NSE:AMBUJACEM",
         "open":548.7,
@@ -35860,9 +35833,9 @@
         "symbol":"NSE:AMBUJACEM",
         "open":406.35,
         "high":406.4,
-        "low":405.65,
+        "low":405.55,
         "close":405.9,
-        "volume":34728.0
+        "volume":51081.0
     },
     {
         "datetime":"2026-08-19T08:00:00.000",
@@ -35994,9 +35967,36 @@
         "datetime":"2026-08-20T05:30:00.000",
         "symbol":"NSE:AMBUJACEM",
         "open":410.45,
-        "high":410.85,
-        "low":410.05,
-        "close":410.5,
-        "volume":117002.0
+        "high":411.55,
+        "low":409.7,
+        "close":411.5,
+        "volume":274313.0
+    },
+    {
+        "datetime":"2026-08-20T05:45:00.000",
+        "symbol":"NSE:AMBUJACEM",
+        "open":411.4,
+        "high":411.4,
+        "low":410.55,
+        "close":410.75,
+        "volume":107066.0
+    },
+    {
+        "datetime":"2026-08-20T06:00:00.000",
+        "symbol":"NSE:AMBUJACEM",
+        "open":410.75,
+        "high":413.0,
+        "low":410.75,
+        "close":412.6,
+        "volume":198805.0
+    },
+    {
+        "datetime":"2026-08-20T06:15:00.000",
+        "symbol":"NSE:AMBUJACEM",
+        "open":412.8,
+        "high":414.1,
+        "low":412.65,
+        "close":413.3,
+        "volume":136981.0
     }
 ]

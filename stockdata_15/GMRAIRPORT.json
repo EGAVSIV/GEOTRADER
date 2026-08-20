@@ -1,32 +1,5 @@
 [
     {
-        "datetime":"2025-12-24T08:45:00.000",
-        "symbol":"NSE:GMRAIRPORT",
-        "open":103.6,
-        "high":103.68,
-        "low":103.45,
-        "close":103.49,
-        "volume":179308.0
-    },
-    {
-        "datetime":"2025-12-24T09:00:00.000",
-        "symbol":"NSE:GMRAIRPORT",
-        "open":103.5,
-        "high":103.54,
-        "low":103.2,
-        "close":103.25,
-        "volume":259824.0
-    },
-    {
-        "datetime":"2025-12-24T09:15:00.000",
-        "symbol":"NSE:GMRAIRPORT",
-        "open":103.25,
-        "high":103.4,
-        "low":103.05,
-        "close":103.37,
-        "volume":550383.0
-    },
-    {
         "datetime":"2025-12-24T09:30:00.000",
         "symbol":"NSE:GMRAIRPORT",
         "open":103.49,
@@ -35859,10 +35832,10 @@
         "datetime":"2026-08-19T07:45:00.000",
         "symbol":"NSE:GMRAIRPORT",
         "open":101.81,
-        "high":101.89,
+        "high":101.93,
         "low":101.71,
         "close":101.77,
-        "volume":204949.0
+        "volume":433521.0
     },
     {
         "datetime":"2026-08-19T08:00:00.000",
@@ -35994,9 +35967,36 @@
         "datetime":"2026-08-20T05:30:00.000",
         "symbol":"NSE:GMRAIRPORT",
         "open":101.4,
-        "high":101.54,
+        "high":101.61,
         "low":101.35,
-        "close":101.51,
-        "volume":70893.0
+        "close":101.4,
+        "volume":147915.0
+    },
+    {
+        "datetime":"2026-08-20T05:45:00.000",
+        "symbol":"NSE:GMRAIRPORT",
+        "open":101.43,
+        "high":101.51,
+        "low":101.25,
+        "close":101.28,
+        "volume":131719.0
+    },
+    {
+        "datetime":"2026-08-20T06:00:00.000",
+        "symbol":"NSE:GMRAIRPORT",
+        "open":101.25,
+        "high":101.49,
+        "low":101.25,
+        "close":101.44,
+        "volume":161393.0
+    },
+    {
+        "datetime":"2026-08-20T06:15:00.000",
+        "symbol":"NSE:GMRAIRPORT",
+        "open":101.44,
+        "high":101.52,
+        "low":101.4,
+        "close":101.45,
+        "volume":96343.0
     }
 ]

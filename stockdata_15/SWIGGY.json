@@ -1,32 +1,5 @@
 [
     {
-        "datetime":"2025-12-24T08:45:00.000",
-        "symbol":"NSE:SWIGGY",
-        "open":400.0,
-        "high":400.1,
-        "low":399.8,
-        "close":399.95,
-        "volume":161363.0
-    },
-    {
-        "datetime":"2025-12-24T09:00:00.000",
-        "symbol":"NSE:SWIGGY",
-        "open":400.0,
-        "high":400.25,
-        "low":399.8,
-        "close":400.0,
-        "volume":137197.0
-    },
-    {
-        "datetime":"2025-12-24T09:15:00.000",
-        "symbol":"NSE:SWIGGY",
-        "open":400.0,
-        "high":400.2,
-        "low":399.85,
-        "close":399.95,
-        "volume":157266.0
-    },
-    {
         "datetime":"2025-12-24T09:30:00.000",
         "symbol":"NSE:SWIGGY",
         "open":399.95,
@@ -35862,7 +35835,7 @@
         "high":277.45,
         "low":275.25,
         "close":276.75,
-        "volume":678673.0
+        "volume":723281.0
     },
     {
         "datetime":"2026-08-19T08:00:00.000",
@@ -35994,9 +35967,36 @@
         "datetime":"2026-08-20T05:30:00.000",
         "symbol":"NSE:SWIGGY",
         "open":280.3,
-        "high":280.35,
+        "high":280.6,
         "low":279.9,
-        "close":280.35,
-        "volume":252667.0
+        "close":280.3,
+        "volume":345998.0
+    },
+    {
+        "datetime":"2026-08-20T05:45:00.000",
+        "symbol":"NSE:SWIGGY",
+        "open":280.2,
+        "high":280.95,
+        "low":280.1,
+        "close":280.75,
+        "volume":273413.0
+    },
+    {
+        "datetime":"2026-08-20T06:00:00.000",
+        "symbol":"NSE:SWIGGY",
+        "open":280.75,
+        "high":280.9,
+        "low":279.3,
+        "close":279.3,
+        "volume":431166.0
+    },
+    {
+        "datetime":"2026-08-20T06:15:00.000",
+        "symbol":"NSE:SWIGGY",
+        "open":279.35,
+        "high":279.95,
+        "low":279.0,
+        "close":279.4,
+        "volume":243873.0
     }
 ]
