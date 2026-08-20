@@ -1,32 +1,5 @@
 [
     {
-        "datetime":"2024-04-25T09:45:00.000",
-        "symbol":"NSE:GODFRYPHLP",
-        "open":1157.4988425,
-        "high":1161.665505,
-        "low":1149.99885,
-        "close":1149.99885,
-        "volume":145218.14521815
-    },
-    {
-        "datetime":"2024-04-26T03:45:00.000",
-        "symbol":"NSE:GODFRYPHLP",
-        "open":1149.8988501,
-        "high":1149.8988501,
-        "low":1120.0322133,
-        "close":1123.1655435,
-        "volume":135165.13516514
-    },
-    {
-        "datetime":"2024-04-26T04:45:00.000",
-        "symbol":"NSE:GODFRYPHLP",
-        "open":1124.34887565,
-        "high":1125.3988746,
-        "low":1112.998887,
-        "close":1114.81555185,
-        "volume":34386.03438603
-    },
-    {
         "datetime":"2024-04-26T05:45:00.000",
         "symbol":"NSE:GODFRYPHLP",
         "open":1114.665552,
@@ -35996,7 +35969,34 @@
         "open":2124.9,
         "high":2125.4,
         "low":2119.0,
-        "close":2119.4,
-        "volume":13518.0
+        "close":2121.0,
+        "volume":16833.0
+    },
+    {
+        "datetime":"2026-08-20T06:45:00.000",
+        "symbol":"NSE:GODFRYPHLP",
+        "open":2121.9,
+        "high":2127.2,
+        "low":2117.9,
+        "close":2122.2,
+        "volume":13243.0
+    },
+    {
+        "datetime":"2026-08-20T07:45:00.000",
+        "symbol":"NSE:GODFRYPHLP",
+        "open":2122.5,
+        "high":2129.9,
+        "low":2118.8,
+        "close":2123.5,
+        "volume":11224.0
+    },
+    {
+        "datetime":"2026-08-20T08:45:00.000",
+        "symbol":"NSE:GODFRYPHLP",
+        "open":2124.5,
+        "high":2163.8,
+        "low":2106.0,
+        "close":2119.0,
+        "volume":159323.0
     }
 ]

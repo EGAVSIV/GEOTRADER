@@ -1,32 +1,5 @@
 [
     {
-        "datetime":"2024-04-25T09:45:00.000",
-        "symbol":"NSE:COCHINSHIP",
-        "open":1327.5,
-        "high":1327.9,
-        "low":1319.25,
-        "close":1322.65,
-        "volume":523659.0
-    },
-    {
-        "datetime":"2024-04-26T03:45:00.000",
-        "symbol":"NSE:COCHINSHIP",
-        "open":1331.7,
-        "high":1364.7,
-        "low":1331.7,
-        "close":1346.25,
-        "volume":2343552.0
-    },
-    {
-        "datetime":"2024-04-26T04:45:00.000",
-        "symbol":"NSE:COCHINSHIP",
-        "open":1346.05,
-        "high":1347.45,
-        "low":1339.35,
-        "close":1341.5,
-        "volume":366393.0
-    },
-    {
         "datetime":"2024-04-26T05:45:00.000",
         "symbol":"NSE:COCHINSHIP",
         "open":1341.5,
@@ -35961,7 +35934,7 @@
         "high":1486.6,
         "low":1480.7,
         "close":1484.0,
-        "volume":122223.0
+        "volume":117826.0
     },
     {
         "datetime":"2026-08-19T08:45:00.000",
@@ -35994,9 +35967,36 @@
         "datetime":"2026-08-20T05:45:00.000",
         "symbol":"NSE:COCHINSHIP",
         "open":1481.2,
-        "high":1483.4,
+        "high":1483.7,
         "low":1480.0,
-        "close":1482.8,
-        "volume":16532.0
+        "close":1481.6,
+        "volume":22296.0
+    },
+    {
+        "datetime":"2026-08-20T06:45:00.000",
+        "symbol":"NSE:COCHINSHIP",
+        "open":1481.5,
+        "high":1490.0,
+        "low":1480.0,
+        "close":1486.7,
+        "volume":49976.0
+    },
+    {
+        "datetime":"2026-08-20T07:45:00.000",
+        "symbol":"NSE:COCHINSHIP",
+        "open":1487.0,
+        "high":1488.0,
+        "low":1483.0,
+        "close":1487.0,
+        "volume":79994.0
+    },
+    {
+        "datetime":"2026-08-20T08:45:00.000",
+        "symbol":"NSE:COCHINSHIP",
+        "open":1487.0,
+        "high":1493.3,
+        "low":1487.0,
+        "close":1492.6,
+        "volume":52153.0
     }
 ]
