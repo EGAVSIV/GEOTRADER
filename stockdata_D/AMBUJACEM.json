@@ -1,14 +1,5 @@
 [
     {
-        "datetime":"2010-06-23T03:45:00.000",
-        "symbol":"NSE:AMBUJACEM",
-        "open":117.7,
-        "high":121.0,
-        "low":117.1,
-        "close":120.55,
-        "volume":2016711.0
-    },
-    {
         "datetime":"2010-06-24T03:45:00.000",
         "symbol":"NSE:AMBUJACEM",
         "open":120.9,
@@ -35998,5 +35989,14 @@
         "low":405.5,
         "close":407.5,
         "volume":2103066.0
+    },
+    {
+        "datetime":"2026-08-20T03:45:00.000",
+        "symbol":"NSE:AMBUJACEM",
+        "open":410.4,
+        "high":412.7,
+        "low":407.75,
+        "close":411.55,
+        "volume":246664.0
     }
 ]

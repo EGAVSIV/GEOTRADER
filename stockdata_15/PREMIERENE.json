@@ -1,32 +1,5 @@
 [
     {
-        "datetime":"2025-12-24T06:45:00.000",
-        "symbol":"NSE:PREMIERENE",
-        "open":894.1,
-        "high":895.35,
-        "low":893.85,
-        "close":894.65,
-        "volume":10065.0
-    },
-    {
-        "datetime":"2025-12-24T07:00:00.000",
-        "symbol":"NSE:PREMIERENE",
-        "open":894.2,
-        "high":894.5,
-        "low":893.1,
-        "close":894.4,
-        "volume":10371.0
-    },
-    {
-        "datetime":"2025-12-24T07:15:00.000",
-        "symbol":"NSE:PREMIERENE",
-        "open":893.9,
-        "high":894.75,
-        "low":892.25,
-        "close":893.25,
-        "volume":12687.0
-    },
-    {
         "datetime":"2025-12-24T07:30:00.000",
         "symbol":"NSE:PREMIERENE",
         "open":894.05,
@@ -35998,5 +35971,32 @@
         "low":1002.5,
         "close":1006.0,
         "volume":45106.0
+    },
+    {
+        "datetime":"2026-08-20T03:45:00.000",
+        "symbol":"NSE:PREMIERENE",
+        "open":1012.9,
+        "high":1015.5,
+        "low":1007.5,
+        "close":1014.5,
+        "volume":44463.0
+    },
+    {
+        "datetime":"2026-08-20T04:00:00.000",
+        "symbol":"NSE:PREMIERENE",
+        "open":1014.5,
+        "high":1026.0,
+        "low":1011.1,
+        "close":1022.8,
+        "volume":96932.0
+    },
+    {
+        "datetime":"2026-08-20T04:15:00.000",
+        "symbol":"NSE:PREMIERENE",
+        "open":1022.8,
+        "high":1024.4,
+        "low":1021.1,
+        "close":1023.4,
+        "volume":12625.0
     }
 ]

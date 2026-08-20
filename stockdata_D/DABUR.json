@@ -1,14 +1,5 @@
 [
     {
-        "datetime":"2010-06-23T03:45:00.000",
-        "symbol":"NSE:DABUR",
-        "open":99.75,
-        "high":101.5,
-        "low":98.225,
-        "close":99.15,
-        "volume":2179210.0
-    },
-    {
         "datetime":"2010-06-24T03:45:00.000",
         "symbol":"NSE:DABUR",
         "open":99.15,
@@ -35998,5 +35989,14 @@
         "low":398.0,
         "close":399.75,
         "volume":927611.0
+    },
+    {
+        "datetime":"2026-08-20T03:45:00.000",
+        "symbol":"NSE:DABUR",
+        "open":402.1,
+        "high":402.1,
+        "low":399.75,
+        "close":400.2,
+        "volume":121719.0
     }
 ]

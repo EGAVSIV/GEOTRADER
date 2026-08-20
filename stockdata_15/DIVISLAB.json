@@ -1,32 +1,5 @@
 [
     {
-        "datetime":"2025-12-24T06:45:00.000",
-        "symbol":"NSE:DIVISLAB",
-        "open":6555.0,
-        "high":6573.0,
-        "low":6554.0,
-        "close":6567.5,
-        "volume":16458.0
-    },
-    {
-        "datetime":"2025-12-24T07:00:00.000",
-        "symbol":"NSE:DIVISLAB",
-        "open":6567.5,
-        "high":6568.5,
-        "low":6552.5,
-        "close":6552.5,
-        "volume":5399.0
-    },
-    {
-        "datetime":"2025-12-24T07:15:00.000",
-        "symbol":"NSE:DIVISLAB",
-        "open":6553.0,
-        "high":6553.5,
-        "low":6545.0,
-        "close":6549.0,
-        "volume":4471.0
-    },
-    {
         "datetime":"2025-12-24T07:30:00.000",
         "symbol":"NSE:DIVISLAB",
         "open":6550.0,
@@ -35998,5 +35971,32 @@
         "low":8520.5,
         "close":8527.0,
         "volume":15346.0
+    },
+    {
+        "datetime":"2026-08-20T03:45:00.000",
+        "symbol":"NSE:DIVISLAB",
+        "open":8560.0,
+        "high":8588.0,
+        "low":8548.0,
+        "close":8588.0,
+        "volume":11122.0
+    },
+    {
+        "datetime":"2026-08-20T04:00:00.000",
+        "symbol":"NSE:DIVISLAB",
+        "open":8585.0,
+        "high":8595.0,
+        "low":8552.0,
+        "close":8557.0,
+        "volume":8816.0
+    },
+    {
+        "datetime":"2026-08-20T04:15:00.000",
+        "symbol":"NSE:DIVISLAB",
+        "open":8557.0,
+        "high":8558.0,
+        "low":8556.0,
+        "close":8558.0,
+        "volume":80.0
     }
 ]

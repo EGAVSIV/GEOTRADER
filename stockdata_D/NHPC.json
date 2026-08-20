@@ -1,14 +1,5 @@
 [
     {
-        "datetime":"2010-06-23T03:45:00.000",
-        "symbol":"NSE:NHPC",
-        "open":28.4,
-        "high":29.0,
-        "low":28.4,
-        "close":28.65,
-        "volume":3159967.0
-    },
-    {
         "datetime":"2010-06-24T03:45:00.000",
         "symbol":"NSE:NHPC",
         "open":28.6,
@@ -35998,5 +35989,14 @@
         "low":75.85,
         "close":76.17,
         "volume":5333949.0
+    },
+    {
+        "datetime":"2026-08-20T03:45:00.000",
+        "symbol":"NSE:NHPC",
+        "open":76.35,
+        "high":76.57,
+        "low":76.01,
+        "close":76.09,
+        "volume":633336.0
     }
 ]

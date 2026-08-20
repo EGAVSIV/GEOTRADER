@@ -1,14 +1,5 @@
 [
     {
-        "datetime":"2024-04-25T06:45:00.000",
-        "symbol":"NSE:RBLBANK",
-        "open":260.95,
-        "high":262.5,
-        "low":260.45,
-        "close":262.1,
-        "volume":953009.0
-    },
-    {
         "datetime":"2024-04-25T07:45:00.000",
         "symbol":"NSE:RBLBANK",
         "open":262.0,
@@ -35998,5 +35989,14 @@
         "low":381.0,
         "close":382.2,
         "volume":255501.0
+    },
+    {
+        "datetime":"2026-08-20T03:45:00.000",
+        "symbol":"NSE:RBLBANK",
+        "open":383.75,
+        "high":387.25,
+        "low":382.05,
+        "close":386.6,
+        "volume":200296.0
     }
 ]

@@ -1,14 +1,5 @@
 [
     {
-        "datetime":"2024-04-25T06:45:00.000",
-        "symbol":"NSE:LAURUSLABS",
-        "open":432.0,
-        "high":432.95,
-        "low":426.75,
-        "close":429.05,
-        "volume":294418.0
-    },
-    {
         "datetime":"2024-04-25T07:45:00.000",
         "symbol":"NSE:LAURUSLABS",
         "open":429.15,
@@ -35998,5 +35989,14 @@
         "low":1797.4,
         "close":1805.5,
         "volume":277880.0
+    },
+    {
+        "datetime":"2026-08-20T03:45:00.000",
+        "symbol":"NSE:LAURUSLABS",
+        "open":1819.0,
+        "high":1832.0,
+        "low":1813.8,
+        "close":1818.4,
+        "volume":330723.0
     }
 ]

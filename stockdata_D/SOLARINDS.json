@@ -1,14 +1,5 @@
 [
     {
-        "datetime":"2010-06-17T03:45:00.000",
-        "symbol":"NSE:SOLARINDS",
-        "open":80.620002,
-        "high":85.0,
-        "low":79.2,
-        "close":83.540002,
-        "volume":302375.0
-    },
-    {
         "datetime":"2010-06-18T03:45:00.000",
         "symbol":"NSE:SOLARINDS",
         "open":81.85,
@@ -35998,5 +35989,14 @@
         "low":19550.0,
         "close":19721.0,
         "volume":197246.0
+    },
+    {
+        "datetime":"2026-08-20T03:45:00.000",
+        "symbol":"NSE:SOLARINDS",
+        "open":19190.0,
+        "high":19821.0,
+        "low":19190.0,
+        "close":19729.0,
+        "volume":22461.0
     }
 ]

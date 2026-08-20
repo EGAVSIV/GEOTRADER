@@ -1,14 +1,5 @@
 [
     {
-        "datetime":"2024-04-25T06:45:00.000",
-        "symbol":"NSE:GODREJPROP",
-        "open":2540.0,
-        "high":2541.75,
-        "low":2535.75,
-        "close":2537.4,
-        "volume":13597.0
-    },
-    {
         "datetime":"2024-04-25T07:45:00.000",
         "symbol":"NSE:GODREJPROP",
         "open":2537.05,
@@ -35998,5 +35989,14 @@
         "low":1994.1,
         "close":1996.0,
         "volume":49018.0
+    },
+    {
+        "datetime":"2026-08-20T03:45:00.000",
+        "symbol":"NSE:GODREJPROP",
+        "open":2010.9,
+        "high":2020.1,
+        "low":2001.3,
+        "close":2018.6,
+        "volume":60135.0
     }
 ]

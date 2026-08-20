@@ -1,14 +1,5 @@
 [
     {
-        "datetime":"2024-04-25T06:45:00.000",
-        "symbol":"NSE:ETERNAL",
-        "open":185.95,
-        "high":187.1,
-        "low":185.95,
-        "close":186.15,
-        "volume":2457347.0
-    },
-    {
         "datetime":"2024-04-25T07:45:00.000",
         "symbol":"NSE:ETERNAL",
         "open":186.15,
@@ -35998,5 +35989,14 @@
         "low":320.4,
         "close":320.95,
         "volume":4618856.0
+    },
+    {
+        "datetime":"2026-08-20T03:45:00.000",
+        "symbol":"NSE:ETERNAL",
+        "open":323.6,
+        "high":328.5,
+        "low":321.35,
+        "close":327.2,
+        "volume":8750498.0
     }
 ]

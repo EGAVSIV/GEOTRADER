@@ -1,14 +1,5 @@
 [
     {
-        "datetime":"2024-04-25T06:45:00.000",
-        "symbol":"NSE:RECLTD",
-        "open":445.45,
-        "high":446.15,
-        "low":444.8,
-        "close":445.2,
-        "volume":1049257.0
-    },
-    {
         "datetime":"2024-04-25T07:45:00.000",
         "symbol":"NSE:RECLTD",
         "open":445.1,
@@ -35998,5 +35989,14 @@
         "low":337.1,
         "close":337.45,
         "volume":1585190.0
+    },
+    {
+        "datetime":"2026-08-20T03:45:00.000",
+        "symbol":"NSE:RECLTD",
+        "open":337.65,
+        "high":338.6,
+        "low":331.3,
+        "close":332.05,
+        "volume":771316.0
     }
 ]

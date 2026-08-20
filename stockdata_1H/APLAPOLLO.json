@@ -1,14 +1,5 @@
 [
     {
-        "datetime":"2024-04-25T06:45:00.000",
-        "symbol":"NSE:APLAPOLLO",
-        "open":1557.85,
-        "high":1559.2,
-        "low":1555.0,
-        "close":1556.85,
-        "volume":12701.0
-    },
-    {
         "datetime":"2024-04-25T07:45:00.000",
         "symbol":"NSE:APLAPOLLO",
         "open":1556.85,
@@ -35998,5 +35989,14 @@
         "low":2109.0,
         "close":2117.0,
         "volume":62913.0
+    },
+    {
+        "datetime":"2026-08-20T03:45:00.000",
+        "symbol":"NSE:APLAPOLLO",
+        "open":2125.0,
+        "high":2153.7,
+        "low":2125.0,
+        "close":2153.0,
+        "volume":134144.0
     }
 ]

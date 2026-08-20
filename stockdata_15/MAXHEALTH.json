@@ -1,32 +1,5 @@
 [
     {
-        "datetime":"2025-12-24T06:45:00.000",
-        "symbol":"NSE:MAXHEALTH",
-        "open":1082.5,
-        "high":1085.9,
-        "low":1082.0,
-        "close":1085.3,
-        "volume":49493.0
-    },
-    {
-        "datetime":"2025-12-24T07:00:00.000",
-        "symbol":"NSE:MAXHEALTH",
-        "open":1085.3,
-        "high":1089.3,
-        "low":1084.4,
-        "close":1088.5,
-        "volume":69556.0
-    },
-    {
-        "datetime":"2025-12-24T07:15:00.000",
-        "symbol":"NSE:MAXHEALTH",
-        "open":1088.7,
-        "high":1089.0,
-        "low":1088.0,
-        "close":1088.4,
-        "volume":46011.0
-    },
-    {
         "datetime":"2025-12-24T07:30:00.000",
         "symbol":"NSE:MAXHEALTH",
         "open":1088.4,
@@ -35998,5 +35971,32 @@
         "low":994.9,
         "close":994.9,
         "volume":182263.0
+    },
+    {
+        "datetime":"2026-08-20T03:45:00.000",
+        "symbol":"NSE:MAXHEALTH",
+        "open":999.1,
+        "high":1000.7,
+        "low":987.7,
+        "close":990.3,
+        "volume":206060.0
+    },
+    {
+        "datetime":"2026-08-20T04:00:00.000",
+        "symbol":"NSE:MAXHEALTH",
+        "open":990.7,
+        "high":992.2,
+        "low":989.0,
+        "close":990.1,
+        "volume":140270.0
+    },
+    {
+        "datetime":"2026-08-20T04:15:00.000",
+        "symbol":"NSE:MAXHEALTH",
+        "open":990.1,
+        "high":991.0,
+        "low":990.0,
+        "close":990.7,
+        "volume":7232.0
     }
 ]

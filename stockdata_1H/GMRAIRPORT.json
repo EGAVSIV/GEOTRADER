@@ -1,14 +1,5 @@
 [
     {
-        "datetime":"2024-04-25T06:45:00.000",
-        "symbol":"NSE:GMRAIRPORT",
-        "open":84.1,
-        "high":84.85,
-        "low":83.95,
-        "close":84.8,
-        "volume":3316612.0
-    },
-    {
         "datetime":"2024-04-25T07:45:00.000",
         "symbol":"NSE:GMRAIRPORT",
         "open":84.8,
@@ -35998,5 +35989,14 @@
         "low":102.0,
         "close":102.16,
         "volume":5870533.0
+    },
+    {
+        "datetime":"2026-08-20T03:45:00.000",
+        "symbol":"NSE:GMRAIRPORT",
+        "open":102.9,
+        "high":103.38,
+        "low":102.08,
+        "close":102.12,
+        "volume":1454207.0
     }
 ]

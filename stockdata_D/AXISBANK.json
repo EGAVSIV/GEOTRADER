@@ -1,14 +1,5 @@
 [
     {
-        "datetime":"2010-06-23T03:45:00.000",
-        "symbol":"NSE:AXISBANK",
-        "open":245.06,
-        "high":251.3,
-        "low":245.06,
-        "close":249.88,
-        "volume":5381525.0
-    },
-    {
         "datetime":"2010-06-24T03:45:00.000",
         "symbol":"NSE:AXISBANK",
         "open":248.06,
@@ -35998,5 +35989,14 @@
         "low":1224.0,
         "close":1235.0,
         "volume":3061937.0
+    },
+    {
+        "datetime":"2026-08-20T03:45:00.000",
+        "symbol":"NSE:AXISBANK",
+        "open":1237.5,
+        "high":1249.0,
+        "low":1236.2,
+        "close":1249.0,
+        "volume":420727.0
     }
 ]
