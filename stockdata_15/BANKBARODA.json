@@ -1,32 +1,5 @@
 [
     {
-        "datetime":"2025-12-24T08:00:00.000",
-        "symbol":"NSE:BANKBARODA",
-        "open":290.9,
-        "high":290.95,
-        "low":290.5,
-        "close":290.9,
-        "volume":44147.0
-    },
-    {
-        "datetime":"2025-12-24T08:15:00.000",
-        "symbol":"NSE:BANKBARODA",
-        "open":290.9,
-        "high":291.0,
-        "low":290.8,
-        "close":290.8,
-        "volume":60015.0
-    },
-    {
-        "datetime":"2025-12-24T08:30:00.000",
-        "symbol":"NSE:BANKBARODA",
-        "open":290.8,
-        "high":290.95,
-        "low":290.55,
-        "close":290.75,
-        "volume":46646.0
-    },
-    {
         "datetime":"2025-12-24T08:45:00.000",
         "symbol":"NSE:BANKBARODA",
         "open":290.75,
@@ -35995,8 +35968,35 @@
         "symbol":"NSE:BANKBARODA",
         "open":246.4,
         "high":246.5,
-        "low":246.35,
-        "close":246.4,
-        "volume":105529.0
+        "low":246.15,
+        "close":246.15,
+        "volume":162751.0
+    },
+    {
+        "datetime":"2026-08-20T05:00:00.000",
+        "symbol":"NSE:BANKBARODA",
+        "open":246.18,
+        "high":246.37,
+        "low":245.96,
+        "close":246.28,
+        "volume":148336.0
+    },
+    {
+        "datetime":"2026-08-20T05:15:00.000",
+        "symbol":"NSE:BANKBARODA",
+        "open":246.29,
+        "high":246.58,
+        "low":246.2,
+        "close":246.58,
+        "volume":125417.0
+    },
+    {
+        "datetime":"2026-08-20T05:30:00.000",
+        "symbol":"NSE:BANKBARODA",
+        "open":246.56,
+        "high":246.66,
+        "low":246.38,
+        "close":246.59,
+        "volume":84744.0
     }
 ]

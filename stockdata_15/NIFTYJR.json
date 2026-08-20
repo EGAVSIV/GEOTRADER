@@ -1,32 +1,5 @@
 [
     {
-        "datetime":"2025-12-26T05:00:00.000",
-        "symbol":"NSE:NIFTYJR",
-        "open":69171.4,
-        "high":69215.75,
-        "low":69160.1,
-        "close":69202.95,
-        "volume":21395965.0
-    },
-    {
-        "datetime":"2025-12-26T05:15:00.000",
-        "symbol":"NSE:NIFTYJR",
-        "open":69201.1,
-        "high":69211.15,
-        "low":69179.15,
-        "close":69187.55,
-        "volume":13737102.0
-    },
-    {
-        "datetime":"2025-12-26T05:30:00.000",
-        "symbol":"NSE:NIFTYJR",
-        "open":69188.1,
-        "high":69197.75,
-        "low":69102.25,
-        "close":69116.5,
-        "volume":9265764.0
-    },
-    {
         "datetime":"2025-12-26T05:45:00.000",
         "symbol":"NSE:NIFTYJR",
         "open":69116.75,
@@ -35885,11 +35858,11 @@
     {
         "datetime":"2026-08-19T08:00:00.000",
         "symbol":"NSE:NIFTYJR",
-        "open":73871.7,
+        "open":73868.6,
         "high":73954.15,
         "low":73845.15,
         "close":73936.2,
-        "volume":5154918.0
+        "volume":4737464.0
     },
     {
         "datetime":"2026-08-19T08:15:00.000",
@@ -35995,8 +35968,35 @@
         "symbol":"NSE:NIFTYJR",
         "open":74200.95,
         "high":74217.55,
-        "low":74139.6,
-        "close":74143.7,
-        "volume":4125860.0
+        "low":74090.9,
+        "close":74116.0,
+        "volume":5540193.0
+    },
+    {
+        "datetime":"2026-08-20T05:00:00.000",
+        "symbol":"NSE:NIFTYJR",
+        "open":74114.85,
+        "high":74235.25,
+        "low":74114.85,
+        "close":74221.15,
+        "volume":4735680.0
+    },
+    {
+        "datetime":"2026-08-20T05:15:00.000",
+        "symbol":"NSE:NIFTYJR",
+        "open":74222.6,
+        "high":74271.2,
+        "low":74216.2,
+        "close":74257.45,
+        "volume":5001823.0
+    },
+    {
+        "datetime":"2026-08-20T05:30:00.000",
+        "symbol":"NSE:NIFTYJR",
+        "open":74258.0,
+        "high":74307.75,
+        "low":74250.1,
+        "close":74301.4,
+        "volume":3326041.0
     }
 ]

@@ -1,32 +1,5 @@
 [
     {
-        "datetime":"2025-12-24T08:00:00.000",
-        "symbol":"NSE:IEX",
-        "open":140.33,
-        "high":140.5,
-        "low":140.01,
-        "close":140.35,
-        "volume":135037.0
-    },
-    {
-        "datetime":"2025-12-24T08:15:00.000",
-        "symbol":"NSE:IEX",
-        "open":140.4,
-        "high":140.57,
-        "low":140.18,
-        "close":140.19,
-        "volume":123719.0
-    },
-    {
-        "datetime":"2025-12-24T08:30:00.000",
-        "symbol":"NSE:IEX",
-        "open":140.24,
-        "high":140.26,
-        "low":139.93,
-        "close":140.1,
-        "volume":179916.0
-    },
-    {
         "datetime":"2025-12-24T08:45:00.000",
         "symbol":"NSE:IEX",
         "open":140.18,
@@ -35996,7 +35969,34 @@
         "open":122.9,
         "high":123.0,
         "low":122.65,
-        "close":122.89,
-        "volume":107810.0
+        "close":122.8,
+        "volume":118208.0
+    },
+    {
+        "datetime":"2026-08-20T05:00:00.000",
+        "symbol":"NSE:IEX",
+        "open":122.83,
+        "high":123.1,
+        "low":122.8,
+        "close":123.1,
+        "volume":168750.0
+    },
+    {
+        "datetime":"2026-08-20T05:15:00.000",
+        "symbol":"NSE:IEX",
+        "open":123.1,
+        "high":123.12,
+        "low":122.84,
+        "close":123.0,
+        "volume":48726.0
+    },
+    {
+        "datetime":"2026-08-20T05:30:00.000",
+        "symbol":"NSE:IEX",
+        "open":123.0,
+        "high":123.0,
+        "low":122.68,
+        "close":122.76,
+        "volume":454620.0
     }
 ]

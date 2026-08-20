@@ -1,32 +1,5 @@
 [
     {
-        "datetime":"2025-12-24T08:00:00.000",
-        "symbol":"NSE:NTPC",
-        "open":323.9,
-        "high":324.2,
-        "low":323.55,
-        "close":323.75,
-        "volume":226486.0
-    },
-    {
-        "datetime":"2025-12-24T08:15:00.000",
-        "symbol":"NSE:NTPC",
-        "open":323.75,
-        "high":324.25,
-        "low":323.6,
-        "close":324.0,
-        "volume":212286.0
-    },
-    {
-        "datetime":"2025-12-24T08:30:00.000",
-        "symbol":"NSE:NTPC",
-        "open":323.85,
-        "high":324.05,
-        "low":323.3,
-        "close":323.4,
-        "volume":302094.0
-    },
-    {
         "datetime":"2025-12-24T08:45:00.000",
         "symbol":"NSE:NTPC",
         "open":323.4,
@@ -35995,8 +35968,35 @@
         "symbol":"NSE:NTPC",
         "open":335.85,
         "high":336.0,
-        "low":335.7,
-        "close":335.7,
-        "volume":35868.0
+        "low":335.6,
+        "close":335.6,
+        "volume":59656.0
+    },
+    {
+        "datetime":"2026-08-20T05:00:00.000",
+        "symbol":"NSE:NTPC",
+        "open":335.75,
+        "high":336.2,
+        "low":335.1,
+        "close":336.1,
+        "volume":105814.0
+    },
+    {
+        "datetime":"2026-08-20T05:15:00.000",
+        "symbol":"NSE:NTPC",
+        "open":336.25,
+        "high":336.9,
+        "low":336.05,
+        "close":336.5,
+        "volume":93980.0
+    },
+    {
+        "datetime":"2026-08-20T05:30:00.000",
+        "symbol":"NSE:NTPC",
+        "open":336.5,
+        "high":336.65,
+        "low":336.25,
+        "close":336.45,
+        "volume":46923.0
     }
 ]

@@ -1,32 +1,5 @@
 [
     {
-        "datetime":"2025-12-24T08:00:00.000",
-        "symbol":"NSE:FORCEMOT",
-        "open":18450.0,
-        "high":18450.0,
-        "low":18392.0,
-        "close":18400.0,
-        "volume":1411.0
-    },
-    {
-        "datetime":"2025-12-24T08:15:00.000",
-        "symbol":"NSE:FORCEMOT",
-        "open":18400.0,
-        "high":18400.0,
-        "low":18361.0,
-        "close":18370.0,
-        "volume":492.0
-    },
-    {
-        "datetime":"2025-12-24T08:30:00.000",
-        "symbol":"NSE:FORCEMOT",
-        "open":18370.0,
-        "high":18386.0,
-        "low":18345.0,
-        "close":18376.0,
-        "volume":529.0
-    },
-    {
         "datetime":"2025-12-24T08:45:00.000",
         "symbol":"NSE:FORCEMOT",
         "open":18375.0,
@@ -35894,11 +35867,11 @@
     {
         "datetime":"2026-08-19T08:00:00.000",
         "symbol":"NSE:FORCEMOT",
-        "open":17800.0,
-        "high":17812.0,
+        "open":17799.0,
+        "high":17800.0,
         "low":17792.0,
         "close":17792.0,
-        "volume":458.0
+        "volume":146.0
     },
     {
         "datetime":"2026-08-19T08:15:00.000",
@@ -35995,8 +35968,35 @@
         "symbol":"NSE:FORCEMOT",
         "open":17929.0,
         "high":17929.0,
-        "low":17880.0,
-        "close":17887.0,
-        "volume":916.0
+        "low":17853.0,
+        "close":17854.0,
+        "volume":1604.0
+    },
+    {
+        "datetime":"2026-08-20T05:00:00.000",
+        "symbol":"NSE:FORCEMOT",
+        "open":17860.0,
+        "high":17975.0,
+        "low":17860.0,
+        "close":17934.0,
+        "volume":1635.0
+    },
+    {
+        "datetime":"2026-08-20T05:15:00.000",
+        "symbol":"NSE:FORCEMOT",
+        "open":17935.0,
+        "high":17953.0,
+        "low":17920.0,
+        "close":17930.0,
+        "volume":577.0
+    },
+    {
+        "datetime":"2026-08-20T05:30:00.000",
+        "symbol":"NSE:FORCEMOT",
+        "open":17938.0,
+        "high":17940.0,
+        "low":17925.0,
+        "close":17933.0,
+        "volume":124.0
     }
 ]

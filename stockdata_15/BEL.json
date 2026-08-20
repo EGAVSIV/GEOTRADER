@@ -1,32 +1,5 @@
 [
     {
-        "datetime":"2025-12-24T08:00:00.000",
-        "symbol":"NSE:BEL",
-        "open":401.55,
-        "high":401.7,
-        "low":399.9,
-        "close":400.25,
-        "volume":660321.0
-    },
-    {
-        "datetime":"2025-12-24T08:15:00.000",
-        "symbol":"NSE:BEL",
-        "open":400.25,
-        "high":401.05,
-        "low":399.95,
-        "close":400.5,
-        "volume":405496.0
-    },
-    {
-        "datetime":"2025-12-24T08:30:00.000",
-        "symbol":"NSE:BEL",
-        "open":400.5,
-        "high":400.85,
-        "low":400.0,
-        "close":400.55,
-        "volume":311057.0
-    },
-    {
         "datetime":"2025-12-24T08:45:00.000",
         "symbol":"NSE:BEL",
         "open":400.55,
@@ -35996,7 +35969,34 @@
         "open":410.5,
         "high":410.5,
         "low":409.1,
-        "close":409.8,
-        "volume":226219.0
+        "close":409.5,
+        "volume":252682.0
+    },
+    {
+        "datetime":"2026-08-20T05:00:00.000",
+        "symbol":"NSE:BEL",
+        "open":409.65,
+        "high":410.25,
+        "low":409.45,
+        "close":410.15,
+        "volume":125732.0
+    },
+    {
+        "datetime":"2026-08-20T05:15:00.000",
+        "symbol":"NSE:BEL",
+        "open":410.0,
+        "high":410.2,
+        "low":409.75,
+        "close":410.15,
+        "volume":89345.0
+    },
+    {
+        "datetime":"2026-08-20T05:30:00.000",
+        "symbol":"NSE:BEL",
+        "open":410.2,
+        "high":410.45,
+        "low":410.0,
+        "close":410.45,
+        "volume":69472.0
     }
 ]

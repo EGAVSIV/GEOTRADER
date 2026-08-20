@@ -1,32 +1,5 @@
 [
     {
-        "datetime":"2025-12-26T05:00:00.000",
-        "symbol":"NSE:CNXFINANCE",
-        "open":27505.45,
-        "high":27522.1,
-        "low":27500.1,
-        "close":27516.5,
-        "volume":1884351.0
-    },
-    {
-        "datetime":"2025-12-26T05:15:00.000",
-        "symbol":"NSE:CNXFINANCE",
-        "open":27516.6,
-        "high":27518.75,
-        "low":27494.1,
-        "close":27500.5,
-        "volume":1395257.0
-    },
-    {
-        "datetime":"2025-12-26T05:30:00.000",
-        "symbol":"NSE:CNXFINANCE",
-        "open":27504.45,
-        "high":27509.4,
-        "low":27487.45,
-        "close":27490.15,
-        "volume":1042701.0
-    },
-    {
         "datetime":"2025-12-26T05:45:00.000",
         "symbol":"NSE:CNXFINANCE",
         "open":27490.05,
@@ -35879,8 +35852,8 @@
         "open":25961.5,
         "high":25974.25,
         "low":25955.3,
-        "close":25965.2,
-        "volume":1935844.0
+        "close":25964.05,
+        "volume":1886305.0
     },
     {
         "datetime":"2026-08-19T08:00:00.000",
@@ -35995,8 +35968,35 @@
         "symbol":"NSE:CNXFINANCE",
         "open":26260.95,
         "high":26278.95,
-        "low":26241.5,
-        "close":26253.55,
-        "volume":3112504.0
+        "low":26238.25,
+        "close":26239.3,
+        "volume":4339724.0
+    },
+    {
+        "datetime":"2026-08-20T05:00:00.000",
+        "symbol":"NSE:CNXFINANCE",
+        "open":26239.05,
+        "high":26259.15,
+        "low":26230.65,
+        "close":26257.75,
+        "volume":4400014.0
+    },
+    {
+        "datetime":"2026-08-20T05:15:00.000",
+        "symbol":"NSE:CNXFINANCE",
+        "open":26258.3,
+        "high":26272.7,
+        "low":26248.7,
+        "close":26266.05,
+        "volume":3232353.0
+    },
+    {
+        "datetime":"2026-08-20T05:30:00.000",
+        "symbol":"NSE:CNXFINANCE",
+        "open":26267.25,
+        "high":26279.05,
+        "low":26264.4,
+        "close":26272.55,
+        "volume":1921767.0
     }
 ]

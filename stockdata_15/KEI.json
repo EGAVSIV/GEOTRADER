@@ -1,32 +1,5 @@
 [
     {
-        "datetime":"2025-12-24T08:00:00.000",
-        "symbol":"NSE:KEI",
-        "open":4418.6,
-        "high":4420.4,
-        "low":4412.0,
-        "close":4414.4,
-        "volume":1909.0
-    },
-    {
-        "datetime":"2025-12-24T08:15:00.000",
-        "symbol":"NSE:KEI",
-        "open":4416.8,
-        "high":4418.9,
-        "low":4412.0,
-        "close":4417.4,
-        "volume":1953.0
-    },
-    {
-        "datetime":"2025-12-24T08:30:00.000",
-        "symbol":"NSE:KEI",
-        "open":4416.8,
-        "high":4420.2,
-        "low":4414.5,
-        "close":4416.2,
-        "volume":1713.0
-    },
-    {
         "datetime":"2025-12-24T08:45:00.000",
         "symbol":"NSE:KEI",
         "open":4418.3,
@@ -35995,8 +35968,35 @@
         "symbol":"NSE:KEI",
         "open":5720.0,
         "high":5723.2,
-        "low":5705.0,
-        "close":5713.6,
-        "volume":11585.0
+        "low":5699.0,
+        "close":5699.0,
+        "volume":16246.0
+    },
+    {
+        "datetime":"2026-08-20T05:00:00.000",
+        "symbol":"NSE:KEI",
+        "open":5700.0,
+        "high":5741.6,
+        "low":5700.0,
+        "close":5741.0,
+        "volume":23379.0
+    },
+    {
+        "datetime":"2026-08-20T05:15:00.000",
+        "symbol":"NSE:KEI",
+        "open":5741.0,
+        "high":5743.0,
+        "low":5686.9,
+        "close":5695.2,
+        "volume":14328.0
+    },
+    {
+        "datetime":"2026-08-20T05:30:00.000",
+        "symbol":"NSE:KEI",
+        "open":5700.0,
+        "high":5707.0,
+        "low":5680.9,
+        "close":5686.0,
+        "volume":6282.0
     }
 ]

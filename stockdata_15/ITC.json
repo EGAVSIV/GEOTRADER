@@ -1,32 +1,5 @@
 [
     {
-        "datetime":"2025-12-24T08:00:00.000",
-        "symbol":"NSE:ITC",
-        "open":407.15,
-        "high":407.2,
-        "low":406.55,
-        "close":406.85,
-        "volume":72455.0
-    },
-    {
-        "datetime":"2025-12-24T08:15:00.000",
-        "symbol":"NSE:ITC",
-        "open":406.65,
-        "high":406.85,
-        "low":406.45,
-        "close":406.55,
-        "volume":95312.0
-    },
-    {
-        "datetime":"2025-12-24T08:30:00.000",
-        "symbol":"NSE:ITC",
-        "open":406.55,
-        "high":407.0,
-        "low":406.35,
-        "close":406.65,
-        "volume":331744.0
-    },
-    {
         "datetime":"2025-12-24T08:45:00.000",
         "symbol":"NSE:ITC",
         "open":406.5,
@@ -35996,7 +35969,34 @@
         "open":267.9,
         "high":267.9,
         "low":267.5,
-        "close":267.65,
-        "volume":171903.0
+        "close":267.6,
+        "volume":313181.0
+    },
+    {
+        "datetime":"2026-08-20T05:00:00.000",
+        "symbol":"NSE:ITC",
+        "open":267.65,
+        "high":267.8,
+        "low":265.95,
+        "close":266.5,
+        "volume":2082753.0
+    },
+    {
+        "datetime":"2026-08-20T05:15:00.000",
+        "symbol":"NSE:ITC",
+        "open":266.65,
+        "high":266.65,
+        "low":265.0,
+        "close":265.8,
+        "volume":2290048.0
+    },
+    {
+        "datetime":"2026-08-20T05:30:00.000",
+        "symbol":"NSE:ITC",
+        "open":265.85,
+        "high":266.6,
+        "low":265.8,
+        "close":266.6,
+        "volume":264557.0
     }
 ]
