@@ -1,32 +1,5 @@
 [
     {
-        "datetime":"2025-12-26T07:45:00.000",
-        "symbol":"NSE:CROMPTON",
-        "open":258.1,
-        "high":258.5,
-        "low":258.1,
-        "close":258.45,
-        "volume":31100.0
-    },
-    {
-        "datetime":"2025-12-26T08:00:00.000",
-        "symbol":"NSE:CROMPTON",
-        "open":258.35,
-        "high":258.45,
-        "low":257.8,
-        "close":257.9,
-        "volume":30173.0
-    },
-    {
-        "datetime":"2025-12-26T08:15:00.000",
-        "symbol":"NSE:CROMPTON",
-        "open":257.9,
-        "high":258.1,
-        "low":257.8,
-        "close":257.8,
-        "volume":18765.0
-    },
-    {
         "datetime":"2025-12-26T08:30:00.000",
         "symbol":"NSE:CROMPTON",
         "open":257.95,
@@ -35673,7 +35646,7 @@
         "high":245.5,
         "low":245.1,
         "close":245.3,
-        "volume":24153.0
+        "volume":29632.0
     },
     {
         "datetime":"2026-08-19T08:00:00.000",
@@ -35931,10 +35904,10 @@
         "datetime":"2026-08-20T09:00:00.000",
         "symbol":"NSE:CROMPTON",
         "open":253.45,
-        "high":253.85,
+        "high":253.8,
         "low":252.35,
         "close":252.45,
-        "volume":156528.0
+        "volume":155429.0
     },
     {
         "datetime":"2026-08-20T09:15:00.000",
@@ -35996,7 +35969,34 @@
         "open":257.4,
         "high":258.9,
         "low":257.0,
-        "close":258.0,
-        "volume":361797.0
+        "close":257.9,
+        "volume":421433.0
+    },
+    {
+        "datetime":"2026-08-21T05:00:00.000",
+        "symbol":"NSE:CROMPTON",
+        "open":257.9,
+        "high":258.75,
+        "low":257.45,
+        "close":257.7,
+        "volume":275289.0
+    },
+    {
+        "datetime":"2026-08-21T05:15:00.000",
+        "symbol":"NSE:CROMPTON",
+        "open":257.7,
+        "high":258.1,
+        "low":255.4,
+        "close":256.2,
+        "volume":612370.0
+    },
+    {
+        "datetime":"2026-08-21T05:30:00.000",
+        "symbol":"NSE:CROMPTON",
+        "open":256.05,
+        "high":256.25,
+        "low":255.65,
+        "close":255.8,
+        "volume":160303.0
     }
 ]

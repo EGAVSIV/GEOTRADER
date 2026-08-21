@@ -1,32 +1,5 @@
 [
     {
-        "datetime":"2025-12-26T07:45:00.000",
-        "symbol":"NSE:POLYCAB",
-        "open":7584.5,
-        "high":7600.0,
-        "low":7584.5,
-        "close":7592.0,
-        "volume":2916.0
-    },
-    {
-        "datetime":"2025-12-26T08:00:00.000",
-        "symbol":"NSE:POLYCAB",
-        "open":7592.0,
-        "high":7598.5,
-        "low":7591.0,
-        "close":7594.5,
-        "volume":1188.0
-    },
-    {
-        "datetime":"2025-12-26T08:15:00.000",
-        "symbol":"NSE:POLYCAB",
-        "open":7595.0,
-        "high":7609.0,
-        "low":7592.0,
-        "close":7609.0,
-        "volume":2698.0
-    },
-    {
         "datetime":"2025-12-26T08:30:00.000",
         "symbol":"NSE:POLYCAB",
         "open":7609.0,
@@ -35673,7 +35646,7 @@
         "high":9112.0,
         "low":9090.5,
         "close":9105.0,
-        "volume":9961.0
+        "volume":8415.0
     },
     {
         "datetime":"2026-08-19T08:00:00.000",
@@ -35934,7 +35907,7 @@
         "high":9155.5,
         "low":9131.0,
         "close":9135.0,
-        "volume":8535.0
+        "volume":8386.0
     },
     {
         "datetime":"2026-08-20T09:15:00.000",
@@ -35994,9 +35967,36 @@
         "datetime":"2026-08-21T04:45:00.000",
         "symbol":"NSE:POLYCAB",
         "open":9035.0,
-        "high":9040.5,
+        "high":9041.0,
         "low":9020.0,
-        "close":9040.0,
-        "volume":8902.0
+        "close":9034.5,
+        "volume":16537.0
+    },
+    {
+        "datetime":"2026-08-21T05:00:00.000",
+        "symbol":"NSE:POLYCAB",
+        "open":9034.0,
+        "high":9040.0,
+        "low":9027.0,
+        "close":9035.0,
+        "volume":6293.0
+    },
+    {
+        "datetime":"2026-08-21T05:15:00.000",
+        "symbol":"NSE:POLYCAB",
+        "open":9034.5,
+        "high":9040.0,
+        "low":9032.0,
+        "close":9039.0,
+        "volume":3447.0
+    },
+    {
+        "datetime":"2026-08-21T05:30:00.000",
+        "symbol":"NSE:POLYCAB",
+        "open":9039.0,
+        "high":9049.5,
+        "low":9029.0,
+        "close":9032.5,
+        "volume":8847.0
     }
 ]

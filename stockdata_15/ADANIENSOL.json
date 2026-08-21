@@ -1,32 +1,5 @@
 [
     {
-        "datetime":"2025-12-26T07:45:00.000",
-        "symbol":"NSE:ADANIENSOL",
-        "open":1016.9,
-        "high":1017.35,
-        "low":1016.0,
-        "close":1016.35,
-        "volume":7152.0
-    },
-    {
-        "datetime":"2025-12-26T08:00:00.000",
-        "symbol":"NSE:ADANIENSOL",
-        "open":1016.35,
-        "high":1017.9,
-        "low":1016.0,
-        "close":1016.75,
-        "volume":22224.0
-    },
-    {
-        "datetime":"2025-12-26T08:15:00.000",
-        "symbol":"NSE:ADANIENSOL",
-        "open":1017.15,
-        "high":1017.2,
-        "low":1016.0,
-        "close":1016.25,
-        "volume":22061.0
-    },
-    {
         "datetime":"2025-12-26T08:30:00.000",
         "symbol":"NSE:ADANIENSOL",
         "open":1016.7,
@@ -35670,10 +35643,10 @@
         "datetime":"2026-08-19T07:45:00.000",
         "symbol":"NSE:ADANIENSOL",
         "open":1546.1,
-        "high":1547.0,
+        "high":1547.3,
         "low":1545.0,
         "close":1546.8,
-        "volume":62089.0
+        "volume":72892.0
     },
     {
         "datetime":"2026-08-19T08:00:00.000",
@@ -35995,8 +35968,35 @@
         "symbol":"NSE:ADANIENSOL",
         "open":1556.6,
         "high":1558.8,
-        "low":1552.5,
-        "close":1552.9,
-        "volume":72443.0
+        "low":1552.0,
+        "close":1553.7,
+        "volume":83390.0
+    },
+    {
+        "datetime":"2026-08-21T05:00:00.000",
+        "symbol":"NSE:ADANIENSOL",
+        "open":1553.7,
+        "high":1553.7,
+        "low":1545.0,
+        "close":1546.2,
+        "volume":116849.0
+    },
+    {
+        "datetime":"2026-08-21T05:15:00.000",
+        "symbol":"NSE:ADANIENSOL",
+        "open":1546.1,
+        "high":1553.6,
+        "low":1538.9,
+        "close":1542.4,
+        "volume":149914.0
+    },
+    {
+        "datetime":"2026-08-21T05:30:00.000",
+        "symbol":"NSE:ADANIENSOL",
+        "open":1542.1,
+        "high":1546.8,
+        "low":1541.1,
+        "close":1543.8,
+        "volume":58945.0
     }
 ]

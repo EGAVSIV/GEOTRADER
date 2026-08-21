@@ -1,32 +1,5 @@
 [
     {
-        "datetime":"2025-12-26T07:45:00.000",
-        "symbol":"NSE:COFORGE",
-        "open":1678.2,
-        "high":1680.0,
-        "low":1675.2,
-        "close":1676.0,
-        "volume":90107.0
-    },
-    {
-        "datetime":"2025-12-26T08:00:00.000",
-        "symbol":"NSE:COFORGE",
-        "open":1675.2,
-        "high":1675.8,
-        "low":1668.7,
-        "close":1672.5,
-        "volume":238607.0
-    },
-    {
-        "datetime":"2025-12-26T08:15:00.000",
-        "symbol":"NSE:COFORGE",
-        "open":1672.5,
-        "high":1678.0,
-        "low":1670.8,
-        "close":1677.3,
-        "volume":165857.0
-    },
-    {
         "datetime":"2025-12-26T08:30:00.000",
         "symbol":"NSE:COFORGE",
         "open":1677.4,
@@ -35673,7 +35646,7 @@
         "high":1814.9,
         "low":1812.3,
         "close":1813.6,
-        "volume":20068.0
+        "volume":26770.0
     },
     {
         "datetime":"2026-08-19T08:00:00.000",
@@ -35934,7 +35907,7 @@
         "high":1881.8,
         "low":1877.6,
         "close":1880.5,
-        "volume":122938.0
+        "volume":122958.0
     },
     {
         "datetime":"2026-08-20T09:15:00.000",
@@ -35996,7 +35969,34 @@
         "open":1863.3,
         "high":1864.6,
         "low":1861.1,
-        "close":1862.9,
-        "volume":17986.0
+        "close":1862.3,
+        "volume":23790.0
+    },
+    {
+        "datetime":"2026-08-21T05:00:00.000",
+        "symbol":"NSE:COFORGE",
+        "open":1862.1,
+        "high":1863.5,
+        "low":1856.7,
+        "close":1859.3,
+        "volume":40763.0
+    },
+    {
+        "datetime":"2026-08-21T05:15:00.000",
+        "symbol":"NSE:COFORGE",
+        "open":1858.7,
+        "high":1867.5,
+        "low":1858.1,
+        "close":1867.5,
+        "volume":42114.0
+    },
+    {
+        "datetime":"2026-08-21T05:30:00.000",
+        "symbol":"NSE:COFORGE",
+        "open":1867.8,
+        "high":1875.0,
+        "low":1867.8,
+        "close":1874.4,
+        "volume":68148.0
     }
 ]

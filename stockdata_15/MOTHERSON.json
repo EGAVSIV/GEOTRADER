@@ -1,32 +1,5 @@
 [
     {
-        "datetime":"2025-12-26T07:45:00.000",
-        "symbol":"NSE:MOTHERSON",
-        "open":119.11,
-        "high":119.47,
-        "low":118.71,
-        "close":118.87,
-        "volume":783662.0
-    },
-    {
-        "datetime":"2025-12-26T08:00:00.000",
-        "symbol":"NSE:MOTHERSON",
-        "open":118.92,
-        "high":119.32,
-        "low":118.8,
-        "close":119.27,
-        "volume":439918.0
-    },
-    {
-        "datetime":"2025-12-26T08:15:00.000",
-        "symbol":"NSE:MOTHERSON",
-        "open":119.33,
-        "high":119.37,
-        "low":119.07,
-        "close":119.19,
-        "volume":979232.0
-    },
-    {
         "datetime":"2025-12-26T08:30:00.000",
         "symbol":"NSE:MOTHERSON",
         "open":119.2,
@@ -35673,7 +35646,7 @@
         "high":170.3,
         "low":169.95,
         "close":170.1,
-        "volume":156823.0
+        "volume":177771.0
     },
     {
         "datetime":"2026-08-19T08:00:00.000",
@@ -35934,7 +35907,7 @@
         "high":169.75,
         "low":169.5,
         "close":169.7,
-        "volume":217429.0
+        "volume":217784.0
     },
     {
         "datetime":"2026-08-20T09:15:00.000",
@@ -35995,8 +35968,35 @@
         "symbol":"NSE:MOTHERSON",
         "open":168.87,
         "high":168.87,
-        "low":168.21,
-        "close":168.22,
-        "volume":136117.0
+        "low":168.1,
+        "close":168.23,
+        "volume":170705.0
+    },
+    {
+        "datetime":"2026-08-21T05:00:00.000",
+        "symbol":"NSE:MOTHERSON",
+        "open":168.26,
+        "high":168.32,
+        "low":168.02,
+        "close":168.31,
+        "volume":265503.0
+    },
+    {
+        "datetime":"2026-08-21T05:15:00.000",
+        "symbol":"NSE:MOTHERSON",
+        "open":168.25,
+        "high":168.77,
+        "low":168.25,
+        "close":168.62,
+        "volume":125318.0
+    },
+    {
+        "datetime":"2026-08-21T05:30:00.000",
+        "symbol":"NSE:MOTHERSON",
+        "open":168.62,
+        "high":168.7,
+        "low":168.4,
+        "close":168.66,
+        "volume":79792.0
     }
 ]

@@ -1,32 +1,5 @@
 [
     {
-        "datetime":"2025-12-26T07:45:00.000",
-        "symbol":"NSE:CONCOR",
-        "open":522.7,
-        "high":522.7,
-        "low":521.25,
-        "close":521.85,
-        "volume":65531.0
-    },
-    {
-        "datetime":"2025-12-26T08:00:00.000",
-        "symbol":"NSE:CONCOR",
-        "open":521.85,
-        "high":521.85,
-        "low":520.3,
-        "close":520.8,
-        "volume":61718.0
-    },
-    {
-        "datetime":"2025-12-26T08:15:00.000",
-        "symbol":"NSE:CONCOR",
-        "open":520.85,
-        "high":521.45,
-        "low":520.05,
-        "close":521.4,
-        "volume":48975.0
-    },
-    {
         "datetime":"2025-12-26T08:30:00.000",
         "symbol":"NSE:CONCOR",
         "open":521.15,
@@ -35670,10 +35643,10 @@
         "datetime":"2026-08-19T07:45:00.000",
         "symbol":"NSE:CONCOR",
         "open":513.15,
-        "high":513.5,
+        "high":513.55,
         "low":512.65,
         "close":513.4,
-        "volume":11470.0
+        "volume":15741.0
     },
     {
         "datetime":"2026-08-19T08:00:00.000",
@@ -35994,9 +35967,36 @@
         "datetime":"2026-08-21T04:45:00.000",
         "symbol":"NSE:CONCOR",
         "open":514.95,
-        "high":515.3,
+        "high":516.15,
         "low":514.75,
-        "close":515.15,
-        "volume":5566.0
+        "close":515.95,
+        "volume":10700.0
+    },
+    {
+        "datetime":"2026-08-21T05:00:00.000",
+        "symbol":"NSE:CONCOR",
+        "open":515.9,
+        "high":516.05,
+        "low":515.1,
+        "close":515.5,
+        "volume":6587.0
+    },
+    {
+        "datetime":"2026-08-21T05:15:00.000",
+        "symbol":"NSE:CONCOR",
+        "open":515.2,
+        "high":515.6,
+        "low":515.1,
+        "close":515.5,
+        "volume":4465.0
+    },
+    {
+        "datetime":"2026-08-21T05:30:00.000",
+        "symbol":"NSE:CONCOR",
+        "open":515.5,
+        "high":516.0,
+        "low":515.3,
+        "close":515.5,
+        "volume":7846.0
     }
 ]

@@ -1,32 +1,5 @@
 [
     {
-        "datetime":"2025-12-26T07:45:00.000",
-        "symbol":"NSE:DALBHARAT",
-        "open":2150.7,
-        "high":2158.3,
-        "low":2150.7,
-        "close":2152.4,
-        "volume":13080.0
-    },
-    {
-        "datetime":"2025-12-26T08:00:00.000",
-        "symbol":"NSE:DALBHARAT",
-        "open":2152.4,
-        "high":2153.4,
-        "low":2148.1,
-        "close":2149.9,
-        "volume":15636.0
-    },
-    {
-        "datetime":"2025-12-26T08:15:00.000",
-        "symbol":"NSE:DALBHARAT",
-        "open":2149.5,
-        "high":2152.6,
-        "low":2148.2,
-        "close":2151.2,
-        "volume":6173.0
-    },
-    {
         "datetime":"2025-12-26T08:30:00.000",
         "symbol":"NSE:DALBHARAT",
         "open":2150.3,
@@ -35673,7 +35646,7 @@
         "high":1862.0,
         "low":1856.3,
         "close":1861.2,
-        "volume":5793.0
+        "volume":8648.0
     },
     {
         "datetime":"2026-08-19T08:00:00.000",
@@ -35934,7 +35907,7 @@
         "high":1916.6,
         "low":1907.7,
         "close":1908.8,
-        "volume":9408.0
+        "volume":9459.0
     },
     {
         "datetime":"2026-08-20T09:15:00.000",
@@ -35996,7 +35969,34 @@
         "open":1894.0,
         "high":1897.5,
         "low":1892.7,
-        "close":1896.7,
-        "volume":11761.0
+        "close":1897.5,
+        "volume":12158.0
+    },
+    {
+        "datetime":"2026-08-21T05:00:00.000",
+        "symbol":"NSE:DALBHARAT",
+        "open":1897.0,
+        "high":1897.9,
+        "low":1891.1,
+        "close":1891.9,
+        "volume":7952.0
+    },
+    {
+        "datetime":"2026-08-21T05:15:00.000",
+        "symbol":"NSE:DALBHARAT",
+        "open":1890.3,
+        "high":1894.9,
+        "low":1890.3,
+        "close":1894.9,
+        "volume":3785.0
+    },
+    {
+        "datetime":"2026-08-21T05:30:00.000",
+        "symbol":"NSE:DALBHARAT",
+        "open":1895.7,
+        "high":1897.8,
+        "low":1895.2,
+        "close":1896.0,
+        "volume":10549.0
     }
 ]
