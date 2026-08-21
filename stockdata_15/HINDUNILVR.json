@@ -1,23 +1,5 @@
 [
     {
-        "datetime":"2025-12-26T07:15:00.000",
-        "symbol":"NSE:HINDUNILVR",
-        "open":2284.6,
-        "high":2286.0,
-        "low":2284.6,
-        "close":2285.0,
-        "volume":9205.0
-    },
-    {
-        "datetime":"2025-12-26T07:30:00.000",
-        "symbol":"NSE:HINDUNILVR",
-        "open":2285.4,
-        "high":2286.4,
-        "low":2285.0,
-        "close":2285.4,
-        "volume":6958.0
-    },
-    {
         "datetime":"2025-12-26T07:45:00.000",
         "symbol":"NSE:HINDUNILVR",
         "open":2286.1,
@@ -35994,9 +35976,27 @@
         "datetime":"2026-08-21T04:15:00.000",
         "symbol":"NSE:HINDUNILVR",
         "open":2022.4,
-        "high":2022.8,
-        "low":2022.0,
-        "close":2022.6,
-        "volume":2839.0
+        "high":2022.9,
+        "low":2020.2,
+        "close":2021.7,
+        "volume":13461.0
+    },
+    {
+        "datetime":"2026-08-21T04:30:00.000",
+        "symbol":"NSE:HINDUNILVR",
+        "open":2021.7,
+        "high":2021.7,
+        "low":2014.0,
+        "close":2014.8,
+        "volume":44225.0
+    },
+    {
+        "datetime":"2026-08-21T04:45:00.000",
+        "symbol":"NSE:HINDUNILVR",
+        "open":2015.0,
+        "high":2016.6,
+        "low":2013.0,
+        "close":2016.4,
+        "volume":22642.0
     }
 ]

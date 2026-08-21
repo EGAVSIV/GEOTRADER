@@ -1,23 +1,5 @@
 [
     {
-        "datetime":"2025-12-26T07:15:00.000",
-        "symbol":"NSE:YESBANK",
-        "open":21.62,
-        "high":21.62,
-        "low":21.6,
-        "close":21.61,
-        "volume":424695.0
-    },
-    {
-        "datetime":"2025-12-26T07:30:00.000",
-        "symbol":"NSE:YESBANK",
-        "open":21.62,
-        "high":21.62,
-        "low":21.55,
-        "close":21.56,
-        "volume":1368805.0
-    },
-    {
         "datetime":"2025-12-26T07:45:00.000",
         "symbol":"NSE:YESBANK",
         "open":21.56,
@@ -35691,7 +35673,7 @@
         "high":22.71,
         "low":22.68,
         "close":22.7,
-        "volume":766347.0
+        "volume":553379.0
     },
     {
         "datetime":"2026-08-19T08:00:00.000",
@@ -35994,9 +35976,27 @@
         "datetime":"2026-08-21T04:15:00.000",
         "symbol":"NSE:YESBANK",
         "open":22.75,
-        "high":22.75,
+        "high":22.87,
         "low":22.73,
-        "close":22.75,
-        "volume":316120.0
+        "close":22.81,
+        "volume":2995748.0
+    },
+    {
+        "datetime":"2026-08-21T04:30:00.000",
+        "symbol":"NSE:YESBANK",
+        "open":22.82,
+        "high":22.83,
+        "low":22.79,
+        "close":22.81,
+        "volume":1184619.0
+    },
+    {
+        "datetime":"2026-08-21T04:45:00.000",
+        "symbol":"NSE:YESBANK",
+        "open":22.8,
+        "high":22.81,
+        "low":22.79,
+        "close":22.79,
+        "volume":826653.0
     }
 ]

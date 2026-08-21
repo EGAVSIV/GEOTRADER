@@ -1,14 +1,5 @@
 [
     {
-        "datetime":"2024-04-26T06:45:00.000",
-        "symbol":"NSE:FORCEMOT",
-        "open":9778.45,
-        "high":9778.45,
-        "low":9525.75,
-        "close":9590.0,
-        "volume":10153.0
-    },
-    {
         "datetime":"2024-04-26T07:45:00.000",
         "symbol":"NSE:FORCEMOT",
         "open":9590.0,
@@ -35995,8 +35986,17 @@
         "symbol":"NSE:FORCEMOT",
         "open":17899.0,
         "high":18011.0,
-        "low":17803.0,
-        "close":17828.0,
-        "volume":9459.0
+        "low":17761.0,
+        "close":17780.0,
+        "volume":12608.0
+    },
+    {
+        "datetime":"2026-08-21T04:45:00.000",
+        "symbol":"NSE:FORCEMOT",
+        "open":17771.0,
+        "high":17796.0,
+        "low":17765.0,
+        "close":17784.0,
+        "volume":1144.0
     }
 ]

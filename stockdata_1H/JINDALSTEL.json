@@ -1,14 +1,5 @@
 [
     {
-        "datetime":"2024-04-26T06:45:00.000",
-        "symbol":"NSE:JINDALSTEL",
-        "open":932.3,
-        "high":937.0,
-        "low":929.4,
-        "close":936.35,
-        "volume":321654.0
-    },
-    {
         "datetime":"2024-04-26T07:45:00.000",
         "symbol":"NSE:JINDALSTEL",
         "open":936.15,
@@ -35996,7 +35987,16 @@
         "open":1122.3,
         "high":1135.0,
         "low":1118.9,
-        "close":1127.6,
-        "volume":133011.0
+        "close":1123.6,
+        "volume":224103.0
+    },
+    {
+        "datetime":"2026-08-21T04:45:00.000",
+        "symbol":"NSE:JINDALSTEL",
+        "open":1123.2,
+        "high":1126.1,
+        "low":1122.6,
+        "close":1124.8,
+        "volume":59577.0
     }
 ]

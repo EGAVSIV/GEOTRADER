@@ -1,14 +1,5 @@
 [
     {
-        "datetime":"2024-04-26T06:45:00.000",
-        "symbol":"NSE:ADANIENSOL",
-        "open":1059.0,
-        "high":1067.0,
-        "low":1058.7,
-        "close":1063.5,
-        "volume":468721.0
-    },
-    {
         "datetime":"2024-04-26T07:45:00.000",
         "symbol":"NSE:ADANIENSOL",
         "open":1063.65,
@@ -35996,7 +35987,16 @@
         "open":1548.5,
         "high":1559.5,
         "low":1545.0,
-        "close":1552.3,
-        "volume":372279.0
+        "close":1556.4,
+        "volume":501241.0
+    },
+    {
+        "datetime":"2026-08-21T04:45:00.000",
+        "symbol":"NSE:ADANIENSOL",
+        "open":1556.6,
+        "high":1558.8,
+        "low":1552.5,
+        "close":1553.6,
+        "volume":73639.0
     }
 ]
