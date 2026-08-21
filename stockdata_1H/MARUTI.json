@@ -1,14 +1,5 @@
 [
     {
-        "datetime":"2024-04-26T08:45:00.000",
-        "symbol":"NSE:MARUTI",
-        "open":12740.0,
-        "high":12758.75,
-        "low":12660.0,
-        "close":12693.25,
-        "volume":130892.0
-    },
-    {
         "datetime":"2024-04-26T09:45:00.000",
         "symbol":"NSE:MARUTI",
         "open":12696.3,
@@ -35995,8 +35986,17 @@
         "symbol":"NSE:MARUTI",
         "open":13711.0,
         "high":13715.0,
-        "low":13666.0,
-        "close":13670.0,
-        "volume":42589.0
+        "low":13652.0,
+        "close":13657.0,
+        "volume":62179.0
+    },
+    {
+        "datetime":"2026-08-21T06:45:00.000",
+        "symbol":"NSE:MARUTI",
+        "open":13659.0,
+        "high":13670.0,
+        "low":13609.0,
+        "close":13615.0,
+        "volume":27341.0
     }
 ]

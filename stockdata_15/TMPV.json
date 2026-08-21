@@ -1,59 +1,5 @@
 [
     {
-        "datetime":"2025-12-26T09:15:00.000",
-        "symbol":"NSE:TMPV",
-        "open":355.0,
-        "high":357.1,
-        "low":354.9,
-        "close":356.95,
-        "volume":952886.0
-    },
-    {
-        "datetime":"2025-12-26T09:30:00.000",
-        "symbol":"NSE:TMPV",
-        "open":356.85,
-        "high":359.25,
-        "low":356.45,
-        "close":358.7,
-        "volume":1734996.0
-    },
-    {
-        "datetime":"2025-12-26T09:45:00.000",
-        "symbol":"NSE:TMPV",
-        "open":358.8,
-        "high":360.15,
-        "low":358.55,
-        "close":360.05,
-        "volume":1360757.0
-    },
-    {
-        "datetime":"2025-12-29T03:45:00.000",
-        "symbol":"NSE:TMPV",
-        "open":358.3,
-        "high":362.8,
-        "low":358.25,
-        "close":361.5,
-        "volume":969974.0
-    },
-    {
-        "datetime":"2025-12-29T04:00:00.000",
-        "symbol":"NSE:TMPV",
-        "open":361.4,
-        "high":362.65,
-        "low":360.3,
-        "close":361.55,
-        "volume":1306605.0
-    },
-    {
-        "datetime":"2025-12-29T04:15:00.000",
-        "symbol":"NSE:TMPV",
-        "open":361.55,
-        "high":361.6,
-        "low":360.3,
-        "close":360.35,
-        "volume":475768.0
-    },
-    {
         "datetime":"2025-12-29T04:30:00.000",
         "symbol":"NSE:TMPV",
         "open":360.45,
@@ -35619,16 +35565,16 @@
         "high":323.25,
         "low":322.65,
         "close":323.2,
-        "volume":82152.0
+        "volume":89802.0
     },
     {
         "datetime":"2026-08-19T08:00:00.000",
         "symbol":"NSE:TMPV",
         "open":323.2,
         "high":323.25,
-        "low":322.8,
+        "low":323.0,
         "close":323.05,
-        "volume":160957.0
+        "volume":83224.0
     },
     {
         "datetime":"2026-08-19T08:15:00.000",
@@ -35995,8 +35941,62 @@
         "symbol":"NSE:TMPV",
         "open":319.55,
         "high":319.75,
-        "low":319.15,
-        "close":319.35,
-        "volume":401703.0
+        "low":319.05,
+        "close":319.05,
+        "volume":454161.0
+    },
+    {
+        "datetime":"2026-08-21T06:30:00.000",
+        "symbol":"NSE:TMPV",
+        "open":319.05,
+        "high":319.2,
+        "low":318.35,
+        "close":318.5,
+        "volume":327058.0
+    },
+    {
+        "datetime":"2026-08-21T06:45:00.000",
+        "symbol":"NSE:TMPV",
+        "open":318.5,
+        "high":318.65,
+        "low":318.25,
+        "close":318.45,
+        "volume":264943.0
+    },
+    {
+        "datetime":"2026-08-21T07:00:00.000",
+        "symbol":"NSE:TMPV",
+        "open":318.5,
+        "high":318.5,
+        "low":317.2,
+        "close":317.25,
+        "volume":522676.0
+    },
+    {
+        "datetime":"2026-08-21T07:15:00.000",
+        "symbol":"NSE:TMPV",
+        "open":317.3,
+        "high":317.5,
+        "low":317.05,
+        "close":317.35,
+        "volume":372934.0
+    },
+    {
+        "datetime":"2026-08-21T07:30:00.000",
+        "symbol":"NSE:TMPV",
+        "open":317.45,
+        "high":317.5,
+        "low":317.2,
+        "close":317.4,
+        "volume":326385.0
+    },
+    {
+        "datetime":"2026-08-21T07:45:00.000",
+        "symbol":"NSE:TMPV",
+        "open":317.45,
+        "high":317.45,
+        "low":317.35,
+        "close":317.35,
+        "volume":12075.0
     }
 ]

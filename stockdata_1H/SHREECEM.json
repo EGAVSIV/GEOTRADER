@@ -1,23 +1,5 @@
 [
     {
-        "datetime":"2024-04-26T08:45:00.000",
-        "symbol":"NSE:SHREECEM",
-        "open":24169.3,
-        "high":24199.0,
-        "low":24111.0,
-        "close":24139.75,
-        "volume":2510.0
-    },
-    {
-        "datetime":"2024-04-26T09:45:00.000",
-        "symbol":"NSE:SHREECEM",
-        "open":24125.6,
-        "high":24160.7,
-        "low":24040.1,
-        "close":24040.1,
-        "volume":1453.0
-    },
-    {
         "datetime":"2024-04-29T03:45:00.000",
         "symbol":"NSE:SHREECEM",
         "open":24287.25,
@@ -35970,7 +35952,7 @@
         "high":24380.0,
         "low":24245.0,
         "close":24285.0,
-        "volume":5397.0
+        "volume":5391.0
     },
     {
         "datetime":"2026-08-21T03:45:00.000",
@@ -35995,8 +35977,26 @@
         "symbol":"NSE:SHREECEM",
         "open":24225.0,
         "high":24255.0,
-        "low":24205.0,
-        "close":24220.0,
-        "volume":883.0
+        "low":24200.0,
+        "close":24210.0,
+        "volume":1387.0
+    },
+    {
+        "datetime":"2026-08-21T06:45:00.000",
+        "symbol":"NSE:SHREECEM",
+        "open":24210.0,
+        "high":24295.0,
+        "low":24120.0,
+        "close":24145.0,
+        "volume":1749.0
+    },
+    {
+        "datetime":"2026-08-21T07:45:00.000",
+        "symbol":"NSE:SHREECEM",
+        "open":24145.0,
+        "high":24150.0,
+        "low":24120.0,
+        "close":24120.0,
+        "volume":49.0
     }
 ]

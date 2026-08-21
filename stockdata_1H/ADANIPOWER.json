@@ -1,23 +1,5 @@
 [
     {
-        "datetime":"2024-04-26T08:45:00.000",
-        "symbol":"NSE:ADANIPOWER",
-        "open":118.37,
-        "high":118.87,
-        "low":117.95,
-        "close":118.31,
-        "volume":1774010.0
-    },
-    {
-        "datetime":"2024-04-26T09:45:00.000",
-        "symbol":"NSE:ADANIPOWER",
-        "open":118.34,
-        "high":118.6,
-        "low":118.2,
-        "close":118.6,
-        "volume":918720.0
-    },
-    {
         "datetime":"2024-04-29T03:45:00.000",
         "symbol":"NSE:ADANIPOWER",
         "open":119.94,
@@ -35995,8 +35977,26 @@
         "symbol":"NSE:ADANIPOWER",
         "open":203.8,
         "high":204.18,
-        "low":203.76,
-        "close":203.76,
-        "volume":772728.0
+        "low":203.62,
+        "close":203.79,
+        "volume":957916.0
+    },
+    {
+        "datetime":"2026-08-21T06:45:00.000",
+        "symbol":"NSE:ADANIPOWER",
+        "open":203.8,
+        "high":203.94,
+        "low":203.42,
+        "close":203.65,
+        "volume":896323.0
+    },
+    {
+        "datetime":"2026-08-21T07:45:00.000",
+        "symbol":"NSE:ADANIPOWER",
+        "open":203.62,
+        "high":203.66,
+        "low":203.55,
+        "close":203.59,
+        "volume":14659.0
     }
 ]

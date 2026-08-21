@@ -1,59 +1,5 @@
 [
     {
-        "datetime":"2025-12-26T09:15:00.000",
-        "symbol":"NSE:BHEL",
-        "open":281.6,
-        "high":282.5,
-        "low":281.1,
-        "close":282.5,
-        "volume":140104.0
-    },
-    {
-        "datetime":"2025-12-26T09:30:00.000",
-        "symbol":"NSE:BHEL",
-        "open":282.6,
-        "high":283.15,
-        "low":282.35,
-        "close":282.55,
-        "volume":223828.0
-    },
-    {
-        "datetime":"2025-12-26T09:45:00.000",
-        "symbol":"NSE:BHEL",
-        "open":282.4,
-        "high":282.45,
-        "low":280.2,
-        "close":280.55,
-        "volume":913756.0
-    },
-    {
-        "datetime":"2025-12-29T03:45:00.000",
-        "symbol":"NSE:BHEL",
-        "open":282.6,
-        "high":283.85,
-        "low":280.35,
-        "close":282.45,
-        "volume":500417.0
-    },
-    {
-        "datetime":"2025-12-29T04:00:00.000",
-        "symbol":"NSE:BHEL",
-        "open":282.45,
-        "high":283.9,
-        "low":282.45,
-        "close":283.4,
-        "volume":217902.0
-    },
-    {
-        "datetime":"2025-12-29T04:15:00.000",
-        "symbol":"NSE:BHEL",
-        "open":283.35,
-        "high":284.35,
-        "low":282.7,
-        "close":282.7,
-        "volume":314565.0
-    },
-    {
         "datetime":"2025-12-29T04:30:00.000",
         "symbol":"NSE:BHEL",
         "open":282.8,
@@ -35619,7 +35565,7 @@
         "high":416.95,
         "low":416.1,
         "close":416.6,
-        "volume":53951.0
+        "volume":40169.0
     },
     {
         "datetime":"2026-08-19T08:00:00.000",
@@ -35995,8 +35941,62 @@
         "symbol":"NSE:BHEL",
         "open":413.85,
         "high":413.95,
-        "low":412.35,
-        "close":412.55,
-        "volume":77324.0
+        "low":410.55,
+        "close":411.7,
+        "volume":187459.0
+    },
+    {
+        "datetime":"2026-08-21T06:30:00.000",
+        "symbol":"NSE:BHEL",
+        "open":411.7,
+        "high":412.0,
+        "low":411.1,
+        "close":411.55,
+        "volume":87915.0
+    },
+    {
+        "datetime":"2026-08-21T06:45:00.000",
+        "symbol":"NSE:BHEL",
+        "open":411.5,
+        "high":411.8,
+        "low":411.4,
+        "close":411.7,
+        "volume":46649.0
+    },
+    {
+        "datetime":"2026-08-21T07:00:00.000",
+        "symbol":"NSE:BHEL",
+        "open":411.7,
+        "high":411.7,
+        "low":409.7,
+        "close":409.75,
+        "volume":161347.0
+    },
+    {
+        "datetime":"2026-08-21T07:15:00.000",
+        "symbol":"NSE:BHEL",
+        "open":409.8,
+        "high":410.85,
+        "low":409.6,
+        "close":410.75,
+        "volume":127457.0
+    },
+    {
+        "datetime":"2026-08-21T07:30:00.000",
+        "symbol":"NSE:BHEL",
+        "open":410.75,
+        "high":411.05,
+        "low":410.3,
+        "close":411.0,
+        "volume":125919.0
+    },
+    {
+        "datetime":"2026-08-21T07:45:00.000",
+        "symbol":"NSE:BHEL",
+        "open":411.0,
+        "high":411.0,
+        "low":410.7,
+        "close":410.75,
+        "volume":3796.0
     }
 ]

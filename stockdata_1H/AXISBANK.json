@@ -1,23 +1,5 @@
 [
     {
-        "datetime":"2024-04-26T08:45:00.000",
-        "symbol":"NSE:AXISBANK",
-        "open":1132.65,
-        "high":1134.85,
-        "low":1126.65,
-        "close":1129.65,
-        "volume":2242314.0
-    },
-    {
-        "datetime":"2024-04-26T09:45:00.000",
-        "symbol":"NSE:AXISBANK",
-        "open":1129.45,
-        "high":1134.4,
-        "low":1128.9,
-        "close":1131.0,
-        "volume":618674.0
-    },
-    {
         "datetime":"2024-04-29T03:45:00.000",
         "symbol":"NSE:AXISBANK",
         "open":1132.0,
@@ -35995,8 +35977,26 @@
         "symbol":"NSE:AXISBANK",
         "open":1248.9,
         "high":1249.4,
-        "low":1243.2,
-        "close":1244.0,
-        "volume":289781.0
+        "low":1241.8,
+        "close":1242.1,
+        "volume":436852.0
+    },
+    {
+        "datetime":"2026-08-21T06:45:00.000",
+        "symbol":"NSE:AXISBANK",
+        "open":1242.5,
+        "high":1244.3,
+        "low":1240.4,
+        "close":1243.0,
+        "volume":572718.0
+    },
+    {
+        "datetime":"2026-08-21T07:45:00.000",
+        "symbol":"NSE:AXISBANK",
+        "open":1243.1,
+        "high":1243.2,
+        "low":1242.4,
+        "close":1243.2,
+        "volume":10455.0
     }
 ]

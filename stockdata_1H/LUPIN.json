@@ -1,23 +1,5 @@
 [
     {
-        "datetime":"2024-04-26T08:45:00.000",
-        "symbol":"NSE:LUPIN",
-        "open":1615.8,
-        "high":1620.2,
-        "low":1613.05,
-        "close":1615.0,
-        "volume":95907.0
-    },
-    {
-        "datetime":"2024-04-26T09:45:00.000",
-        "symbol":"NSE:LUPIN",
-        "open":1615.15,
-        "high":1617.05,
-        "low":1614.4,
-        "close":1616.0,
-        "volume":100532.0
-    },
-    {
         "datetime":"2024-04-29T03:45:00.000",
         "symbol":"NSE:LUPIN",
         "open":1615.95,
@@ -35996,7 +35978,25 @@
         "open":2199.4,
         "high":2200.5,
         "low":2196.2,
-        "close":2197.2,
-        "volume":25831.0
+        "close":2198.6,
+        "volume":37893.0
+    },
+    {
+        "datetime":"2026-08-21T06:45:00.000",
+        "symbol":"NSE:LUPIN",
+        "open":2196.6,
+        "high":2197.0,
+        "low":2187.7,
+        "close":2192.8,
+        "volume":86909.0
+    },
+    {
+        "datetime":"2026-08-21T07:45:00.000",
+        "symbol":"NSE:LUPIN",
+        "open":2192.8,
+        "high":2192.8,
+        "low":2191.4,
+        "close":2192.0,
+        "volume":1199.0
     }
 ]
