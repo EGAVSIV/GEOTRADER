@@ -1,32 +1,5 @@
 [
     {
-        "datetime":"2025-12-26T08:30:00.000",
-        "symbol":"NSE:IRFC",
-        "open":132.04,
-        "high":132.45,
-        "low":131.9,
-        "close":132.03,
-        "volume":1767992.0
-    },
-    {
-        "datetime":"2025-12-26T08:45:00.000",
-        "symbol":"NSE:IRFC",
-        "open":132.05,
-        "high":132.15,
-        "low":131.6,
-        "close":131.86,
-        "volume":2710925.0
-    },
-    {
-        "datetime":"2025-12-26T09:00:00.000",
-        "symbol":"NSE:IRFC",
-        "open":131.8,
-        "high":132.1,
-        "low":131.62,
-        "close":131.97,
-        "volume":1738173.0
-    },
-    {
         "datetime":"2025-12-26T09:15:00.000",
         "symbol":"NSE:IRFC",
         "open":131.98,
@@ -35994,9 +35967,36 @@
         "datetime":"2026-08-21T05:30:00.000",
         "symbol":"NSE:IRFC",
         "open":86.58,
-        "high":86.59,
-        "low":86.48,
+        "high":86.63,
+        "low":86.45,
+        "close":86.62,
+        "volume":248638.0
+    },
+    {
+        "datetime":"2026-08-21T05:45:00.000",
+        "symbol":"NSE:IRFC",
+        "open":86.62,
+        "high":86.62,
+        "low":86.5,
         "close":86.51,
-        "volume":133870.0
+        "volume":167049.0
+    },
+    {
+        "datetime":"2026-08-21T06:00:00.000",
+        "symbol":"NSE:IRFC",
+        "open":86.5,
+        "high":86.74,
+        "low":86.48,
+        "close":86.54,
+        "volume":123994.0
+    },
+    {
+        "datetime":"2026-08-21T06:15:00.000",
+        "symbol":"NSE:IRFC",
+        "open":86.52,
+        "high":86.58,
+        "low":86.5,
+        "close":86.55,
+        "volume":47541.0
     }
 ]

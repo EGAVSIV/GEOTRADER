@@ -1,32 +1,5 @@
 [
     {
-        "datetime":"2025-12-26T08:30:00.000",
-        "symbol":"NSE:BRITANNIA",
-        "open":6067.5,
-        "high":6067.5,
-        "low":6059.0,
-        "close":6061.0,
-        "volume":2086.0
-    },
-    {
-        "datetime":"2025-12-26T08:45:00.000",
-        "symbol":"NSE:BRITANNIA",
-        "open":6061.0,
-        "high":6066.0,
-        "low":6055.0,
-        "close":6056.0,
-        "volume":2442.0
-    },
-    {
-        "datetime":"2025-12-26T09:00:00.000",
-        "symbol":"NSE:BRITANNIA",
-        "open":6058.5,
-        "high":6058.5,
-        "low":6043.0,
-        "close":6044.0,
-        "volume":2624.0
-    },
-    {
         "datetime":"2025-12-26T09:15:00.000",
         "symbol":"NSE:BRITANNIA",
         "open":6044.0,
@@ -35643,10 +35616,10 @@
         "datetime":"2026-08-19T07:45:00.000",
         "symbol":"NSE:BRITANNIA",
         "open":5486.5,
-        "high":5492.0,
+        "high":5488.0,
         "low":5481.5,
         "close":5487.0,
-        "volume":3844.0
+        "volume":1666.0
     },
     {
         "datetime":"2026-08-19T08:00:00.000",
@@ -35994,9 +35967,36 @@
         "datetime":"2026-08-21T05:30:00.000",
         "symbol":"NSE:BRITANNIA",
         "open":5362.0,
-        "high":5365.0,
-        "low":5357.0,
-        "close":5359.0,
-        "volume":6154.0
+        "high":5365.5,
+        "low":5356.0,
+        "close":5363.0,
+        "volume":10704.0
+    },
+    {
+        "datetime":"2026-08-21T05:45:00.000",
+        "symbol":"NSE:BRITANNIA",
+        "open":5365.0,
+        "high":5371.5,
+        "low":5358.0,
+        "close":5369.5,
+        "volume":12861.0
+    },
+    {
+        "datetime":"2026-08-21T06:00:00.000",
+        "symbol":"NSE:BRITANNIA",
+        "open":5369.5,
+        "high":5376.5,
+        "low":5361.5,
+        "close":5375.0,
+        "volume":33212.0
+    },
+    {
+        "datetime":"2026-08-21T06:15:00.000",
+        "symbol":"NSE:BRITANNIA",
+        "open":5375.0,
+        "high":5380.0,
+        "low":5370.5,
+        "close":5374.0,
+        "volume":7399.0
     }
 ]

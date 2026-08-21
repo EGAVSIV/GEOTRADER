@@ -1,32 +1,5 @@
 [
     {
-        "datetime":"2025-12-26T08:30:00.000",
-        "symbol":"NSE:PHOENIXLTD",
-        "open":1852.6,
-        "high":1853.4,
-        "low":1848.0,
-        "close":1848.9,
-        "volume":11074.0
-    },
-    {
-        "datetime":"2025-12-26T08:45:00.000",
-        "symbol":"NSE:PHOENIXLTD",
-        "open":1848.0,
-        "high":1849.9,
-        "low":1845.9,
-        "close":1849.4,
-        "volume":925.0
-    },
-    {
-        "datetime":"2025-12-26T09:00:00.000",
-        "symbol":"NSE:PHOENIXLTD",
-        "open":1849.4,
-        "high":1850.8,
-        "low":1846.5,
-        "close":1847.2,
-        "volume":895.0
-    },
-    {
         "datetime":"2025-12-26T09:15:00.000",
         "symbol":"NSE:PHOENIXLTD",
         "open":1847.0,
@@ -35643,10 +35616,10 @@
         "datetime":"2026-08-19T07:45:00.000",
         "symbol":"NSE:PHOENIXLTD",
         "open":1915.0,
-        "high":1918.4,
+        "high":1919.0,
         "low":1911.4,
         "close":1918.0,
-        "volume":4364.0
+        "volume":7124.0
     },
     {
         "datetime":"2026-08-19T08:00:00.000",
@@ -35994,9 +35967,36 @@
         "datetime":"2026-08-21T05:30:00.000",
         "symbol":"NSE:PHOENIXLTD",
         "open":1918.1,
-        "high":1921.4,
+        "high":1924.1,
         "low":1917.8,
-        "close":1920.2,
-        "volume":2672.0
+        "close":1923.0,
+        "volume":6575.0
+    },
+    {
+        "datetime":"2026-08-21T05:45:00.000",
+        "symbol":"NSE:PHOENIXLTD",
+        "open":1922.8,
+        "high":1922.8,
+        "low":1917.1,
+        "close":1922.3,
+        "volume":3713.0
+    },
+    {
+        "datetime":"2026-08-21T06:00:00.000",
+        "symbol":"NSE:PHOENIXLTD",
+        "open":1922.3,
+        "high":1925.1,
+        "low":1918.9,
+        "close":1921.1,
+        "volume":5101.0
+    },
+    {
+        "datetime":"2026-08-21T06:15:00.000",
+        "symbol":"NSE:PHOENIXLTD",
+        "open":1920.8,
+        "high":1922.8,
+        "low":1919.7,
+        "close":1922.7,
+        "volume":1023.0
     }
 ]

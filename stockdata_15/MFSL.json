@@ -1,32 +1,5 @@
 [
     {
-        "datetime":"2025-12-26T08:30:00.000",
-        "symbol":"NSE:MFSL",
-        "open":1674.7,
-        "high":1677.6,
-        "low":1671.6,
-        "close":1672.0,
-        "volume":17976.0
-    },
-    {
-        "datetime":"2025-12-26T08:45:00.000",
-        "symbol":"NSE:MFSL",
-        "open":1672.0,
-        "high":1675.5,
-        "low":1671.0,
-        "close":1671.4,
-        "volume":5824.0
-    },
-    {
-        "datetime":"2025-12-26T09:00:00.000",
-        "symbol":"NSE:MFSL",
-        "open":1671.4,
-        "high":1671.4,
-        "low":1669.3,
-        "close":1670.2,
-        "volume":5379.0
-    },
-    {
         "datetime":"2025-12-26T09:15:00.000",
         "symbol":"NSE:MFSL",
         "open":1670.2,
@@ -35643,10 +35616,10 @@
         "datetime":"2026-08-19T07:45:00.000",
         "symbol":"NSE:MFSL",
         "open":1564.5,
-        "high":1567.1,
+        "high":1566.9,
         "low":1564.5,
         "close":1566.9,
-        "volume":5516.0
+        "volume":4670.0
     },
     {
         "datetime":"2026-08-19T08:00:00.000",
@@ -35994,9 +35967,36 @@
         "datetime":"2026-08-21T05:30:00.000",
         "symbol":"NSE:MFSL",
         "open":1578.1,
-        "high":1585.9,
+        "high":1589.4,
         "low":1576.2,
-        "close":1585.8,
-        "volume":68627.0
+        "close":1587.5,
+        "volume":89194.0
+    },
+    {
+        "datetime":"2026-08-21T05:45:00.000",
+        "symbol":"NSE:MFSL",
+        "open":1587.4,
+        "high":1590.0,
+        "low":1585.1,
+        "close":1585.2,
+        "volume":36575.0
+    },
+    {
+        "datetime":"2026-08-21T06:00:00.000",
+        "symbol":"NSE:MFSL",
+        "open":1585.0,
+        "high":1585.0,
+        "low":1580.8,
+        "close":1582.0,
+        "volume":46681.0
+    },
+    {
+        "datetime":"2026-08-21T06:15:00.000",
+        "symbol":"NSE:MFSL",
+        "open":1582.0,
+        "high":1582.0,
+        "low":1576.5,
+        "close":1576.5,
+        "volume":14613.0
     }
 ]

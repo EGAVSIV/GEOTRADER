@@ -1,14 +1,5 @@
 [
     {
-        "datetime":"2024-04-26T07:45:00.000",
-        "symbol":"NSE:TATAPOWER",
-        "open":437.2,
-        "high":438.25,
-        "low":435.7,
-        "close":437.15,
-        "volume":1140774.0
-    },
-    {
         "datetime":"2024-04-26T08:45:00.000",
         "symbol":"NSE:TATAPOWER",
         "open":437.15,
@@ -35996,7 +35987,16 @@
         "open":375.4,
         "high":377.75,
         "low":375.05,
-        "close":377.0,
-        "volume":612764.0
+        "close":376.8,
+        "volume":624998.0
+    },
+    {
+        "datetime":"2026-08-21T05:45:00.000",
+        "symbol":"NSE:TATAPOWER",
+        "open":376.85,
+        "high":377.1,
+        "low":375.05,
+        "close":375.2,
+        "volume":484689.0
     }
 ]

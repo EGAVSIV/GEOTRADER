@@ -1,32 +1,5 @@
 [
     {
-        "datetime":"2025-12-26T08:30:00.000",
-        "symbol":"NSE:SAIL",
-        "open":132.41,
-        "high":132.48,
-        "low":132.23,
-        "close":132.42,
-        "volume":166366.0
-    },
-    {
-        "datetime":"2025-12-26T08:45:00.000",
-        "symbol":"NSE:SAIL",
-        "open":132.42,
-        "high":132.46,
-        "low":132.06,
-        "close":132.3,
-        "volume":279775.0
-    },
-    {
-        "datetime":"2025-12-26T09:00:00.000",
-        "symbol":"NSE:SAIL",
-        "open":132.32,
-        "high":132.49,
-        "low":132.22,
-        "close":132.25,
-        "volume":129857.0
-    },
-    {
         "datetime":"2025-12-26T09:15:00.000",
         "symbol":"NSE:SAIL",
         "open":132.25,
@@ -35996,7 +35969,34 @@
         "open":175.24,
         "high":175.25,
         "low":174.43,
-        "close":174.6,
-        "volume":473183.0
+        "close":174.7,
+        "volume":509489.0
+    },
+    {
+        "datetime":"2026-08-21T05:45:00.000",
+        "symbol":"NSE:SAIL",
+        "open":174.7,
+        "high":175.07,
+        "low":174.61,
+        "close":175.07,
+        "volume":139846.0
+    },
+    {
+        "datetime":"2026-08-21T06:00:00.000",
+        "symbol":"NSE:SAIL",
+        "open":175.1,
+        "high":175.14,
+        "low":174.6,
+        "close":174.76,
+        "volume":156394.0
+    },
+    {
+        "datetime":"2026-08-21T06:15:00.000",
+        "symbol":"NSE:SAIL",
+        "open":174.75,
+        "high":174.83,
+        "low":174.13,
+        "close":174.24,
+        "volume":153266.0
     }
 ]

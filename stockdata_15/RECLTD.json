@@ -1,32 +1,5 @@
 [
     {
-        "datetime":"2025-12-26T08:30:00.000",
-        "symbol":"NSE:RECLTD",
-        "open":358.1,
-        "high":358.55,
-        "low":357.55,
-        "close":358.0,
-        "volume":91039.0
-    },
-    {
-        "datetime":"2025-12-26T08:45:00.000",
-        "symbol":"NSE:RECLTD",
-        "open":358.0,
-        "high":358.0,
-        "low":356.65,
-        "close":357.0,
-        "volume":274464.0
-    },
-    {
-        "datetime":"2025-12-26T09:00:00.000",
-        "symbol":"NSE:RECLTD",
-        "open":356.95,
-        "high":357.0,
-        "low":356.05,
-        "close":356.5,
-        "volume":78037.0
-    },
-    {
         "datetime":"2025-12-26T09:15:00.000",
         "symbol":"NSE:RECLTD",
         "open":356.45,
@@ -35994,9 +35967,36 @@
         "datetime":"2026-08-21T05:30:00.000",
         "symbol":"NSE:RECLTD",
         "open":327.95,
-        "high":328.0,
+        "high":328.3,
         "low":327.6,
-        "close":327.6,
-        "volume":28417.0
+        "close":328.25,
+        "volume":46467.0
+    },
+    {
+        "datetime":"2026-08-21T05:45:00.000",
+        "symbol":"NSE:RECLTD",
+        "open":328.15,
+        "high":328.25,
+        "low":327.15,
+        "close":327.35,
+        "volume":168570.0
+    },
+    {
+        "datetime":"2026-08-21T06:00:00.000",
+        "symbol":"NSE:RECLTD",
+        "open":327.15,
+        "high":327.9,
+        "low":327.15,
+        "close":327.45,
+        "volume":59389.0
+    },
+    {
+        "datetime":"2026-08-21T06:15:00.000",
+        "symbol":"NSE:RECLTD",
+        "open":327.35,
+        "high":327.5,
+        "low":327.05,
+        "close":327.15,
+        "volume":209269.0
     }
 ]

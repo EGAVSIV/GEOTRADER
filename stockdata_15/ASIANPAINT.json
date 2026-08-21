@@ -1,32 +1,5 @@
 [
     {
-        "datetime":"2025-12-26T08:30:00.000",
-        "symbol":"NSE:ASIANPAINT",
-        "open":2753.3,
-        "high":2753.3,
-        "low":2749.3,
-        "close":2749.7,
-        "volume":13402.0
-    },
-    {
-        "datetime":"2025-12-26T08:45:00.000",
-        "symbol":"NSE:ASIANPAINT",
-        "open":2750.0,
-        "high":2750.8,
-        "low":2744.7,
-        "close":2745.4,
-        "volume":50508.0
-    },
-    {
-        "datetime":"2025-12-26T09:00:00.000",
-        "symbol":"NSE:ASIANPAINT",
-        "open":2745.4,
-        "high":2750.8,
-        "low":2745.2,
-        "close":2749.3,
-        "volume":24609.0
-    },
-    {
         "datetime":"2025-12-26T09:15:00.000",
         "symbol":"NSE:ASIANPAINT",
         "open":2748.9,
@@ -35644,9 +35617,9 @@
         "symbol":"NSE:ASIANPAINT",
         "open":2603.1,
         "high":2606.5,
-        "low":2601.0,
+        "low":2601.3,
         "close":2601.4,
-        "volume":33254.0
+        "volume":27322.0
     },
     {
         "datetime":"2026-08-19T08:00:00.000",
@@ -35994,9 +35967,36 @@
         "datetime":"2026-08-21T05:30:00.000",
         "symbol":"NSE:ASIANPAINT",
         "open":2624.5,
-        "high":2625.4,
+        "high":2626.0,
         "low":2622.1,
-        "close":2625.2,
-        "volume":3190.0
+        "close":2625.3,
+        "volume":4333.0
+    },
+    {
+        "datetime":"2026-08-21T05:45:00.000",
+        "symbol":"NSE:ASIANPAINT",
+        "open":2625.3,
+        "high":2625.9,
+        "low":2620.5,
+        "close":2621.9,
+        "volume":5398.0
+    },
+    {
+        "datetime":"2026-08-21T06:00:00.000",
+        "symbol":"NSE:ASIANPAINT",
+        "open":2623.0,
+        "high":2624.2,
+        "low":2620.4,
+        "close":2620.4,
+        "volume":4727.0
+    },
+    {
+        "datetime":"2026-08-21T06:15:00.000",
+        "symbol":"NSE:ASIANPAINT",
+        "open":2621.0,
+        "high":2623.3,
+        "low":2619.8,
+        "close":2621.2,
+        "volume":6279.0
     }
 ]

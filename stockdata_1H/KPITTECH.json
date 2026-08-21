@@ -1,14 +1,5 @@
 [
     {
-        "datetime":"2024-04-26T07:45:00.000",
-        "symbol":"NSE:KPITTECH",
-        "open":1430.15,
-        "high":1431.0,
-        "low":1417.25,
-        "close":1417.65,
-        "volume":85374.0
-    },
-    {
         "datetime":"2024-04-26T08:45:00.000",
         "symbol":"NSE:KPITTECH",
         "open":1417.5,
@@ -35996,7 +35987,16 @@
         "open":589.8,
         "high":589.8,
         "low":586.15,
-        "close":588.9,
-        "volume":120389.0
+        "close":589.0,
+        "volume":122423.0
+    },
+    {
+        "datetime":"2026-08-21T05:45:00.000",
+        "symbol":"NSE:KPITTECH",
+        "open":589.0,
+        "high":594.5,
+        "low":588.25,
+        "close":593.65,
+        "volume":155496.0
     }
 ]

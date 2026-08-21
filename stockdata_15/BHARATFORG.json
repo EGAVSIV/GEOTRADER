@@ -1,32 +1,5 @@
 [
     {
-        "datetime":"2025-12-26T08:30:00.000",
-        "symbol":"NSE:BHARATFORG",
-        "open":1449.2,
-        "high":1450.0,
-        "low":1448.0,
-        "close":1449.2,
-        "volume":8543.0
-    },
-    {
-        "datetime":"2025-12-26T08:45:00.000",
-        "symbol":"NSE:BHARATFORG",
-        "open":1449.3,
-        "high":1449.3,
-        "low":1445.2,
-        "close":1447.0,
-        "volume":10533.0
-    },
-    {
-        "datetime":"2025-12-26T09:00:00.000",
-        "symbol":"NSE:BHARATFORG",
-        "open":1446.8,
-        "high":1448.4,
-        "low":1445.7,
-        "close":1447.7,
-        "volume":6732.0
-    },
-    {
         "datetime":"2025-12-26T09:15:00.000",
         "symbol":"NSE:BHARATFORG",
         "open":1447.6,
@@ -35646,7 +35619,7 @@
         "high":2061.5,
         "low":2057.4,
         "close":2058.6,
-        "volume":22511.0
+        "volume":20238.0
     },
     {
         "datetime":"2026-08-19T08:00:00.000",
@@ -35907,7 +35880,7 @@
         "high":2058.7,
         "low":2056.1,
         "close":2057.2,
-        "volume":6564.0
+        "volume":6653.0
     },
     {
         "datetime":"2026-08-20T09:15:00.000",
@@ -35994,9 +35967,36 @@
         "datetime":"2026-08-21T05:30:00.000",
         "symbol":"NSE:BHARATFORG",
         "open":2028.0,
-        "high":2029.9,
+        "high":2031.6,
         "low":2021.3,
-        "close":2029.9,
-        "volume":38880.0
+        "close":2031.6,
+        "volume":66996.0
+    },
+    {
+        "datetime":"2026-08-21T05:45:00.000",
+        "symbol":"NSE:BHARATFORG",
+        "open":2031.5,
+        "high":2032.0,
+        "low":2029.8,
+        "close":2031.5,
+        "volume":22520.0
+    },
+    {
+        "datetime":"2026-08-21T06:00:00.000",
+        "symbol":"NSE:BHARATFORG",
+        "open":2031.6,
+        "high":2042.2,
+        "low":2030.7,
+        "close":2040.3,
+        "volume":51855.0
+    },
+    {
+        "datetime":"2026-08-21T06:15:00.000",
+        "symbol":"NSE:BHARATFORG",
+        "open":2039.3,
+        "high":2042.0,
+        "low":2036.9,
+        "close":2038.0,
+        "volume":14312.0
     }
 ]
