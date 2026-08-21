@@ -1,23 +1,5 @@
 [
     {
-        "datetime":"2024-04-26T09:45:00.000",
-        "symbol":"NSE:NATIONALUM",
-        "open":188.95,
-        "high":189.45,
-        "low":188.75,
-        "close":189.0,
-        "volume":983876.0
-    },
-    {
-        "datetime":"2024-04-29T03:45:00.000",
-        "symbol":"NSE:NATIONALUM",
-        "open":190.65,
-        "high":193.1,
-        "low":189.15,
-        "close":189.2,
-        "volume":6241220.0
-    },
-    {
         "datetime":"2024-04-29T04:45:00.000",
         "symbol":"NSE:NATIONALUM",
         "open":189.3,
@@ -35898,7 +35880,7 @@
         "high":384.7,
         "low":383.75,
         "close":384.15,
-        "volume":240246.0
+        "volume":230742.0
     },
     {
         "datetime":"2026-08-19T08:45:00.000",
@@ -35998,5 +35980,23 @@
         "low":392.05,
         "close":395.35,
         "volume":607783.0
+    },
+    {
+        "datetime":"2026-08-21T07:45:00.000",
+        "symbol":"NSE:NATIONALUM",
+        "open":395.55,
+        "high":397.05,
+        "low":394.8,
+        "close":396.6,
+        "volume":1200279.0
+    },
+    {
+        "datetime":"2026-08-21T08:45:00.000",
+        "symbol":"NSE:NATIONALUM",
+        "open":397.3,
+        "high":397.5,
+        "low":395.65,
+        "close":396.5,
+        "volume":1062729.0
     }
 ]

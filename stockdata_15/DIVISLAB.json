@@ -1,77 +1,5 @@
 [
     {
-        "datetime":"2025-12-29T04:15:00.000",
-        "symbol":"NSE:DIVISLAB",
-        "open":6418.5,
-        "high":6422.0,
-        "low":6403.0,
-        "close":6404.0,
-        "volume":4297.0
-    },
-    {
-        "datetime":"2025-12-29T04:30:00.000",
-        "symbol":"NSE:DIVISLAB",
-        "open":6404.0,
-        "high":6404.0,
-        "low":6383.5,
-        "close":6390.5,
-        "volume":6686.0
-    },
-    {
-        "datetime":"2025-12-29T04:45:00.000",
-        "symbol":"NSE:DIVISLAB",
-        "open":6390.5,
-        "high":6391.5,
-        "low":6379.0,
-        "close":6380.5,
-        "volume":8232.0
-    },
-    {
-        "datetime":"2025-12-29T05:00:00.000",
-        "symbol":"NSE:DIVISLAB",
-        "open":6380.0,
-        "high":6385.0,
-        "low":6371.0,
-        "close":6375.5,
-        "volume":5076.0
-    },
-    {
-        "datetime":"2025-12-29T05:15:00.000",
-        "symbol":"NSE:DIVISLAB",
-        "open":6372.0,
-        "high":6390.0,
-        "low":6372.0,
-        "close":6390.0,
-        "volume":5263.0
-    },
-    {
-        "datetime":"2025-12-29T05:30:00.000",
-        "symbol":"NSE:DIVISLAB",
-        "open":6390.0,
-        "high":6396.0,
-        "low":6382.5,
-        "close":6396.0,
-        "volume":4819.0
-    },
-    {
-        "datetime":"2025-12-29T05:45:00.000",
-        "symbol":"NSE:DIVISLAB",
-        "open":6396.5,
-        "high":6400.0,
-        "low":6389.5,
-        "close":6397.0,
-        "volume":12149.0
-    },
-    {
-        "datetime":"2025-12-29T06:00:00.000",
-        "symbol":"NSE:DIVISLAB",
-        "open":6396.5,
-        "high":6396.5,
-        "low":6388.0,
-        "close":6391.0,
-        "volume":6700.0
-    },
-    {
         "datetime":"2025-12-29T06:15:00.000",
         "symbol":"NSE:DIVISLAB",
         "open":6390.0,
@@ -35571,10 +35499,10 @@
         "datetime":"2026-08-19T07:45:00.000",
         "symbol":"NSE:DIVISLAB",
         "open":8522.0,
-        "high":8524.5,
+        "high":8522.0,
         "low":8508.0,
         "close":8515.5,
-        "volume":6868.0
+        "volume":5680.0
     },
     {
         "datetime":"2026-08-19T08:00:00.000",
@@ -35996,7 +35924,79 @@
         "open":8510.0,
         "high":8541.5,
         "low":8509.5,
-        "close":8518.0,
-        "volume":11816.0
+        "close":8520.0,
+        "volume":11853.0
+    },
+    {
+        "datetime":"2026-08-21T07:45:00.000",
+        "symbol":"NSE:DIVISLAB",
+        "open":8518.0,
+        "high":8535.5,
+        "low":8517.5,
+        "close":8533.5,
+        "volume":10867.0
+    },
+    {
+        "datetime":"2026-08-21T08:00:00.000",
+        "symbol":"NSE:DIVISLAB",
+        "open":8533.5,
+        "high":8541.0,
+        "low":8524.5,
+        "close":8524.5,
+        "volume":3628.0
+    },
+    {
+        "datetime":"2026-08-21T08:15:00.000",
+        "symbol":"NSE:DIVISLAB",
+        "open":8525.0,
+        "high":8527.0,
+        "low":8520.0,
+        "close":8522.0,
+        "volume":3489.0
+    },
+    {
+        "datetime":"2026-08-21T08:30:00.000",
+        "symbol":"NSE:DIVISLAB",
+        "open":8520.0,
+        "high":8527.0,
+        "low":8518.0,
+        "close":8520.0,
+        "volume":15713.0
+    },
+    {
+        "datetime":"2026-08-21T08:45:00.000",
+        "symbol":"NSE:DIVISLAB",
+        "open":8520.0,
+        "high":8523.0,
+        "low":8518.5,
+        "close":8522.5,
+        "volume":5803.0
+    },
+    {
+        "datetime":"2026-08-21T09:00:00.000",
+        "symbol":"NSE:DIVISLAB",
+        "open":8522.0,
+        "high":8528.5,
+        "low":8521.0,
+        "close":8525.0,
+        "volume":11342.0
+    },
+    {
+        "datetime":"2026-08-21T09:15:00.000",
+        "symbol":"NSE:DIVISLAB",
+        "open":8526.0,
+        "high":8528.5,
+        "low":8524.5,
+        "close":8527.5,
+        "volume":3080.0
+    },
+    {
+        "datetime":"2026-08-21T09:30:00.000",
+        "symbol":"NSE:DIVISLAB",
+        "open":8527.5,
+        "high":8527.5,
+        "low":8517.0,
+        "close":8521.5,
+        "volume":4419.0
     }
 ]

@@ -1,77 +1,5 @@
 [
     {
-        "datetime":"2025-12-29T04:15:00.000",
-        "symbol":"NSE:ALKEM",
-        "open":5531.5,
-        "high":5538.0,
-        "low":5515.0,
-        "close":5520.0,
-        "volume":2875.0
-    },
-    {
-        "datetime":"2025-12-29T04:30:00.000",
-        "symbol":"NSE:ALKEM",
-        "open":5520.0,
-        "high":5524.5,
-        "low":5511.5,
-        "close":5518.5,
-        "volume":1940.0
-    },
-    {
-        "datetime":"2025-12-29T04:45:00.000",
-        "symbol":"NSE:ALKEM",
-        "open":5518.0,
-        "high":5528.0,
-        "low":5511.0,
-        "close":5521.0,
-        "volume":1728.0
-    },
-    {
-        "datetime":"2025-12-29T05:00:00.000",
-        "symbol":"NSE:ALKEM",
-        "open":5520.5,
-        "high":5527.5,
-        "low":5515.5,
-        "close":5522.0,
-        "volume":1647.0
-    },
-    {
-        "datetime":"2025-12-29T05:15:00.000",
-        "symbol":"NSE:ALKEM",
-        "open":5521.0,
-        "high":5532.0,
-        "low":5520.5,
-        "close":5526.5,
-        "volume":961.0
-    },
-    {
-        "datetime":"2025-12-29T05:30:00.000",
-        "symbol":"NSE:ALKEM",
-        "open":5523.0,
-        "high":5526.0,
-        "low":5511.0,
-        "close":5511.0,
-        "volume":694.0
-    },
-    {
-        "datetime":"2025-12-29T05:45:00.000",
-        "symbol":"NSE:ALKEM",
-        "open":5511.0,
-        "high":5529.5,
-        "low":5505.5,
-        "close":5527.0,
-        "volume":2427.0
-    },
-    {
-        "datetime":"2025-12-29T06:00:00.000",
-        "symbol":"NSE:ALKEM",
-        "open":5524.5,
-        "high":5532.5,
-        "low":5519.0,
-        "close":5532.5,
-        "volume":1414.0
-    },
-    {
         "datetime":"2025-12-29T06:15:00.000",
         "symbol":"NSE:ALKEM",
         "open":5530.0,
@@ -35572,9 +35500,9 @@
         "symbol":"NSE:ALKEM",
         "open":5400.0,
         "high":5400.5,
-        "low":5385.5,
+        "low":5385.0,
         "close":5388.0,
-        "volume":5911.0
+        "volume":9717.0
     },
     {
         "datetime":"2026-08-19T08:00:00.000",
@@ -35835,7 +35763,7 @@
         "high":5404.0,
         "low":5397.0,
         "close":5401.0,
-        "volume":3845.0
+        "volume":3848.0
     },
     {
         "datetime":"2026-08-20T09:15:00.000",
@@ -35998,5 +35926,77 @@
         "low":5363.0,
         "close":5370.0,
         "volume":4035.0
+    },
+    {
+        "datetime":"2026-08-21T07:45:00.000",
+        "symbol":"NSE:ALKEM",
+        "open":5365.5,
+        "high":5382.0,
+        "low":5365.0,
+        "close":5379.0,
+        "volume":1297.0
+    },
+    {
+        "datetime":"2026-08-21T08:00:00.000",
+        "symbol":"NSE:ALKEM",
+        "open":5384.0,
+        "high":5384.0,
+        "low":5372.0,
+        "close":5377.0,
+        "volume":6815.0
+    },
+    {
+        "datetime":"2026-08-21T08:15:00.000",
+        "symbol":"NSE:ALKEM",
+        "open":5379.0,
+        "high":5381.0,
+        "low":5373.5,
+        "close":5379.0,
+        "volume":4096.0
+    },
+    {
+        "datetime":"2026-08-21T08:30:00.000",
+        "symbol":"NSE:ALKEM",
+        "open":5376.5,
+        "high":5386.0,
+        "low":5375.5,
+        "close":5383.5,
+        "volume":3533.0
+    },
+    {
+        "datetime":"2026-08-21T08:45:00.000",
+        "symbol":"NSE:ALKEM",
+        "open":5381.0,
+        "high":5386.5,
+        "low":5378.5,
+        "close":5380.0,
+        "volume":1010.0
+    },
+    {
+        "datetime":"2026-08-21T09:00:00.000",
+        "symbol":"NSE:ALKEM",
+        "open":5381.5,
+        "high":5381.5,
+        "low":5376.0,
+        "close":5377.0,
+        "volume":978.0
+    },
+    {
+        "datetime":"2026-08-21T09:15:00.000",
+        "symbol":"NSE:ALKEM",
+        "open":5378.0,
+        "high":5394.5,
+        "low":5378.0,
+        "close":5390.5,
+        "volume":5426.0
+    },
+    {
+        "datetime":"2026-08-21T09:30:00.000",
+        "symbol":"NSE:ALKEM",
+        "open":5394.0,
+        "high":5401.5,
+        "low":5390.5,
+        "close":5395.0,
+        "volume":8861.0
     }
 ]

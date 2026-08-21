@@ -1,14 +1,5 @@
 [
     {
-        "datetime":"2024-04-29T03:45:00.000",
-        "symbol":"NSE:PGEL",
-        "open":199.4,
-        "high":202.935,
-        "low":198.405,
-        "close":199.245,
-        "volume":313240.0
-    },
-    {
         "datetime":"2024-04-29T04:45:00.000",
         "symbol":"NSE:PGEL",
         "open":199.515,
@@ -35994,9 +35985,18 @@
         "datetime":"2026-08-21T07:45:00.000",
         "symbol":"NSE:PGEL",
         "open":604.0,
-        "high":604.0,
-        "low":604.0,
-        "close":604.0,
-        "volume":678.0
+        "high":606.5,
+        "low":602.7,
+        "close":604.45,
+        "volume":235102.0
+    },
+    {
+        "datetime":"2026-08-21T08:45:00.000",
+        "symbol":"NSE:PGEL",
+        "open":604.45,
+        "high":605.65,
+        "low":600.8,
+        "close":601.75,
+        "volume":194208.0
     }
 ]

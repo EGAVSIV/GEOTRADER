@@ -1,77 +1,5 @@
 [
     {
-        "datetime":"2025-12-29T04:15:00.000",
-        "symbol":"NSE:UNITDSPR",
-        "open":1426.0,
-        "high":1429.3,
-        "low":1423.0,
-        "close":1423.0,
-        "volume":22380.0
-    },
-    {
-        "datetime":"2025-12-29T04:30:00.000",
-        "symbol":"NSE:UNITDSPR",
-        "open":1423.0,
-        "high":1427.2,
-        "low":1422.2,
-        "close":1425.2,
-        "volume":22568.0
-    },
-    {
-        "datetime":"2025-12-29T04:45:00.000",
-        "symbol":"NSE:UNITDSPR",
-        "open":1425.0,
-        "high":1425.9,
-        "low":1420.5,
-        "close":1421.0,
-        "volume":24300.0
-    },
-    {
-        "datetime":"2025-12-29T05:00:00.000",
-        "symbol":"NSE:UNITDSPR",
-        "open":1421.4,
-        "high":1421.4,
-        "low":1415.0,
-        "close":1415.0,
-        "volume":19566.0
-    },
-    {
-        "datetime":"2025-12-29T05:15:00.000",
-        "symbol":"NSE:UNITDSPR",
-        "open":1415.0,
-        "high":1418.8,
-        "low":1414.5,
-        "close":1418.8,
-        "volume":26980.0
-    },
-    {
-        "datetime":"2025-12-29T05:30:00.000",
-        "symbol":"NSE:UNITDSPR",
-        "open":1418.5,
-        "high":1419.7,
-        "low":1416.8,
-        "close":1418.9,
-        "volume":21907.0
-    },
-    {
-        "datetime":"2025-12-29T05:45:00.000",
-        "symbol":"NSE:UNITDSPR",
-        "open":1418.1,
-        "high":1420.1,
-        "low":1416.8,
-        "close":1419.4,
-        "volume":19242.0
-    },
-    {
-        "datetime":"2025-12-29T06:00:00.000",
-        "symbol":"NSE:UNITDSPR",
-        "open":1419.3,
-        "high":1421.1,
-        "low":1418.7,
-        "close":1420.4,
-        "volume":13289.0
-    },
-    {
         "datetime":"2025-12-29T06:15:00.000",
         "symbol":"NSE:UNITDSPR",
         "open":1420.4,
@@ -35574,7 +35502,7 @@
         "high":1521.1,
         "low":1518.7,
         "close":1519.4,
-        "volume":12152.0
+        "volume":9544.0
     },
     {
         "datetime":"2026-08-19T08:00:00.000",
@@ -35996,7 +35924,79 @@
         "open":1546.0,
         "high":1563.4,
         "low":1545.5,
-        "close":1562.1,
-        "volume":104064.0
+        "close":1561.2,
+        "volume":105736.0
+    },
+    {
+        "datetime":"2026-08-21T07:45:00.000",
+        "symbol":"NSE:UNITDSPR",
+        "open":1561.7,
+        "high":1561.7,
+        "low":1557.1,
+        "close":1558.0,
+        "volume":61891.0
+    },
+    {
+        "datetime":"2026-08-21T08:00:00.000",
+        "symbol":"NSE:UNITDSPR",
+        "open":1558.0,
+        "high":1558.0,
+        "low":1554.0,
+        "close":1556.6,
+        "volume":46415.0
+    },
+    {
+        "datetime":"2026-08-21T08:15:00.000",
+        "symbol":"NSE:UNITDSPR",
+        "open":1556.7,
+        "high":1557.0,
+        "low":1554.4,
+        "close":1555.8,
+        "volume":36719.0
+    },
+    {
+        "datetime":"2026-08-21T08:30:00.000",
+        "symbol":"NSE:UNITDSPR",
+        "open":1555.2,
+        "high":1556.3,
+        "low":1553.0,
+        "close":1555.0,
+        "volume":39118.0
+    },
+    {
+        "datetime":"2026-08-21T08:45:00.000",
+        "symbol":"NSE:UNITDSPR",
+        "open":1555.0,
+        "high":1556.6,
+        "low":1553.3,
+        "close":1555.7,
+        "volume":40306.0
+    },
+    {
+        "datetime":"2026-08-21T09:00:00.000",
+        "symbol":"NSE:UNITDSPR",
+        "open":1555.9,
+        "high":1558.0,
+        "low":1554.1,
+        "close":1556.0,
+        "volume":50214.0
+    },
+    {
+        "datetime":"2026-08-21T09:15:00.000",
+        "symbol":"NSE:UNITDSPR",
+        "open":1556.0,
+        "high":1556.5,
+        "low":1554.5,
+        "close":1555.4,
+        "volume":45224.0
+    },
+    {
+        "datetime":"2026-08-21T09:30:00.000",
+        "symbol":"NSE:UNITDSPR",
+        "open":1554.9,
+        "high":1555.1,
+        "low":1549.6,
+        "close":1551.3,
+        "volume":48572.0
     }
 ]

@@ -1,14 +1,5 @@
 [
     {
-        "datetime":"2024-04-29T03:45:00.000",
-        "symbol":"NSE:CONCOR",
-        "open":867.08,
-        "high":867.08,
-        "low":829.6,
-        "close":834.64,
-        "volume":1148360.0
-    },
-    {
         "datetime":"2024-04-29T04:45:00.000",
         "symbol":"NSE:CONCOR",
         "open":834.8,
@@ -35995,8 +35986,17 @@
         "symbol":"NSE:CONCOR",
         "open":514.85,
         "high":514.95,
-        "low":514.75,
-        "close":514.95,
-        "volume":443.0
+        "low":512.85,
+        "close":513.2,
+        "volume":32416.0
+    },
+    {
+        "datetime":"2026-08-21T08:45:00.000",
+        "symbol":"NSE:CONCOR",
+        "open":513.15,
+        "high":515.4,
+        "low":512.95,
+        "close":513.9,
+        "volume":95926.0
     }
 ]

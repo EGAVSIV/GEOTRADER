@@ -1,14 +1,5 @@
 [
     {
-        "datetime":"2024-04-29T03:45:00.000",
-        "symbol":"NSE:SBILIFE",
-        "open":1449.0,
-        "high":1460.9,
-        "low":1429.1,
-        "close":1437.4,
-        "volume":1278160.0
-    },
-    {
         "datetime":"2024-04-29T04:45:00.000",
         "symbol":"NSE:SBILIFE",
         "open":1437.4,
@@ -35994,9 +35985,18 @@
         "datetime":"2026-08-21T07:45:00.000",
         "symbol":"NSE:SBILIFE",
         "open":1780.5,
-        "high":1780.7,
-        "low":1778.9,
-        "close":1779.5,
-        "volume":513.0
+        "high":1788.0,
+        "low":1777.5,
+        "close":1780.2,
+        "volume":78451.0
+    },
+    {
+        "datetime":"2026-08-21T08:45:00.000",
+        "symbol":"NSE:SBILIFE",
+        "open":1780.0,
+        "high":1795.3,
+        "low":1780.0,
+        "close":1792.2,
+        "volume":227147.0
     }
 ]

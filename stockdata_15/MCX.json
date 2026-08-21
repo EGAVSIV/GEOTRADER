@@ -1,77 +1,5 @@
 [
     {
-        "datetime":"2025-12-29T04:15:00.000",
-        "symbol":"NSE:MCX",
-        "open":2238.4,
-        "high":2239.4,
-        "low":2231.6,
-        "close":2233.6,
-        "volume":84630.0
-    },
-    {
-        "datetime":"2025-12-29T04:30:00.000",
-        "symbol":"NSE:MCX",
-        "open":2233.6,
-        "high":2243.8,
-        "low":2232.6,
-        "close":2239.8,
-        "volume":123165.0
-    },
-    {
-        "datetime":"2025-12-29T04:45:00.000",
-        "symbol":"NSE:MCX",
-        "open":2239.8,
-        "high":2240.0,
-        "low":2231.6,
-        "close":2233.6,
-        "volume":71845.0
-    },
-    {
-        "datetime":"2025-12-29T05:00:00.000",
-        "symbol":"NSE:MCX",
-        "open":2233.2,
-        "high":2234.2,
-        "low":2220.8,
-        "close":2223.0,
-        "volume":114955.0
-    },
-    {
-        "datetime":"2025-12-29T05:15:00.000",
-        "symbol":"NSE:MCX",
-        "open":2225.0,
-        "high":2234.2,
-        "low":2220.0,
-        "close":2234.0,
-        "volume":84670.0
-    },
-    {
-        "datetime":"2025-12-29T05:30:00.000",
-        "symbol":"NSE:MCX",
-        "open":2233.4,
-        "high":2233.4,
-        "low":2226.2,
-        "close":2230.0,
-        "volume":36335.0
-    },
-    {
-        "datetime":"2025-12-29T05:45:00.000",
-        "symbol":"NSE:MCX",
-        "open":2230.0,
-        "high":2232.8,
-        "low":2225.4,
-        "close":2229.0,
-        "volume":44800.0
-    },
-    {
-        "datetime":"2025-12-29T06:00:00.000",
-        "symbol":"NSE:MCX",
-        "open":2229.4,
-        "high":2229.4,
-        "low":2222.2,
-        "close":2227.0,
-        "volume":30295.0
-    },
-    {
         "datetime":"2025-12-29T06:15:00.000",
         "symbol":"NSE:MCX",
         "open":2226.4,
@@ -35571,10 +35499,10 @@
         "datetime":"2026-08-19T07:45:00.000",
         "symbol":"NSE:MCX",
         "open":2967.2,
-        "high":2977.3,
+        "high":2977.7,
         "low":2960.1,
         "close":2977.3,
-        "volume":85035.0
+        "volume":106820.0
     },
     {
         "datetime":"2026-08-19T08:00:00.000",
@@ -35995,8 +35923,80 @@
         "symbol":"NSE:MCX",
         "open":3193.0,
         "high":3195.0,
-        "low":3183.3,
-        "close":3185.3,
-        "volume":66355.0
+        "low":3181.8,
+        "close":3182.4,
+        "volume":72023.0
+    },
+    {
+        "datetime":"2026-08-21T07:45:00.000",
+        "symbol":"NSE:MCX",
+        "open":3181.7,
+        "high":3186.9,
+        "low":3178.8,
+        "close":3181.2,
+        "volume":87165.0
+    },
+    {
+        "datetime":"2026-08-21T08:00:00.000",
+        "symbol":"NSE:MCX",
+        "open":3181.2,
+        "high":3181.2,
+        "low":3168.0,
+        "close":3177.1,
+        "volume":107284.0
+    },
+    {
+        "datetime":"2026-08-21T08:15:00.000",
+        "symbol":"NSE:MCX",
+        "open":3177.1,
+        "high":3179.6,
+        "low":3173.7,
+        "close":3179.2,
+        "volume":72250.0
+    },
+    {
+        "datetime":"2026-08-21T08:30:00.000",
+        "symbol":"NSE:MCX",
+        "open":3178.6,
+        "high":3180.0,
+        "low":3173.0,
+        "close":3175.4,
+        "volume":69223.0
+    },
+    {
+        "datetime":"2026-08-21T08:45:00.000",
+        "symbol":"NSE:MCX",
+        "open":3175.0,
+        "high":3180.0,
+        "low":3170.0,
+        "close":3173.6,
+        "volume":70062.0
+    },
+    {
+        "datetime":"2026-08-21T09:00:00.000",
+        "symbol":"NSE:MCX",
+        "open":3173.6,
+        "high":3177.4,
+        "low":3168.3,
+        "close":3175.1,
+        "volume":94082.0
+    },
+    {
+        "datetime":"2026-08-21T09:15:00.000",
+        "symbol":"NSE:MCX",
+        "open":3175.0,
+        "high":3188.0,
+        "low":3175.0,
+        "close":3179.5,
+        "volume":132502.0
+    },
+    {
+        "datetime":"2026-08-21T09:30:00.000",
+        "symbol":"NSE:MCX",
+        "open":3177.6,
+        "high":3183.0,
+        "low":3176.2,
+        "close":3182.7,
+        "volume":102804.0
     }
 ]

@@ -1,14 +1,5 @@
 [
     {
-        "datetime":"2024-04-29T03:45:00.000",
-        "symbol":"NSE:INDIANB",
-        "open":529.0,
-        "high":543.5,
-        "low":528.3,
-        "close":534.65,
-        "volume":659603.0
-    },
-    {
         "datetime":"2024-04-29T04:45:00.000",
         "symbol":"NSE:INDIANB",
         "open":534.2,
@@ -35994,9 +35985,18 @@
         "datetime":"2026-08-21T07:45:00.000",
         "symbol":"NSE:INDIANB",
         "open":871.4,
-        "high":871.95,
-        "low":871.35,
-        "close":871.95,
-        "volume":691.0
+        "high":873.9,
+        "low":871.2,
+        "close":871.2,
+        "volume":56631.0
+    },
+    {
+        "datetime":"2026-08-21T08:45:00.000",
+        "symbol":"NSE:INDIANB",
+        "open":871.2,
+        "high":874.45,
+        "low":870.8,
+        "close":873.1,
+        "volume":108241.0
     }
 ]

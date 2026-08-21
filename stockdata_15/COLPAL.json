@@ -1,77 +1,5 @@
 [
     {
-        "datetime":"2025-12-29T04:15:00.000",
-        "symbol":"NSE:COLPAL",
-        "open":2080.8,
-        "high":2082.6,
-        "low":2076.6,
-        "close":2076.6,
-        "volume":3789.0
-    },
-    {
-        "datetime":"2025-12-29T04:30:00.000",
-        "symbol":"NSE:COLPAL",
-        "open":2076.5,
-        "high":2077.7,
-        "low":2074.0,
-        "close":2074.1,
-        "volume":5524.0
-    },
-    {
-        "datetime":"2025-12-29T04:45:00.000",
-        "symbol":"NSE:COLPAL",
-        "open":2074.6,
-        "high":2076.1,
-        "low":2072.5,
-        "close":2073.5,
-        "volume":6795.0
-    },
-    {
-        "datetime":"2025-12-29T05:00:00.000",
-        "symbol":"NSE:COLPAL",
-        "open":2073.5,
-        "high":2074.4,
-        "low":2071.0,
-        "close":2071.5,
-        "volume":7440.0
-    },
-    {
-        "datetime":"2025-12-29T05:15:00.000",
-        "symbol":"NSE:COLPAL",
-        "open":2072.4,
-        "high":2074.0,
-        "low":2068.0,
-        "close":2069.7,
-        "volume":13197.0
-    },
-    {
-        "datetime":"2025-12-29T05:30:00.000",
-        "symbol":"NSE:COLPAL",
-        "open":2069.7,
-        "high":2070.0,
-        "low":2066.1,
-        "close":2068.0,
-        "volume":7363.0
-    },
-    {
-        "datetime":"2025-12-29T05:45:00.000",
-        "symbol":"NSE:COLPAL",
-        "open":2067.9,
-        "high":2069.7,
-        "low":2067.0,
-        "close":2068.8,
-        "volume":3416.0
-    },
-    {
-        "datetime":"2025-12-29T06:00:00.000",
-        "symbol":"NSE:COLPAL",
-        "open":2069.3,
-        "high":2072.2,
-        "low":2068.7,
-        "close":2071.6,
-        "volume":4437.0
-    },
-    {
         "datetime":"2025-12-29T06:15:00.000",
         "symbol":"NSE:COLPAL",
         "open":2070.4,
@@ -35574,7 +35502,7 @@
         "high":1869.4,
         "low":1867.0,
         "close":1867.0,
-        "volume":14915.0
+        "volume":17595.0
     },
     {
         "datetime":"2026-08-19T08:00:00.000",
@@ -35994,9 +35922,81 @@
         "datetime":"2026-08-21T07:30:00.000",
         "symbol":"NSE:COLPAL",
         "open":1886.6,
-        "high":1888.9,
+        "high":1889.0,
         "low":1886.5,
-        "close":1888.0,
-        "volume":10139.0
+        "close":1889.0,
+        "volume":10462.0
+    },
+    {
+        "datetime":"2026-08-21T07:45:00.000",
+        "symbol":"NSE:COLPAL",
+        "open":1888.9,
+        "high":1888.9,
+        "low":1885.6,
+        "close":1887.0,
+        "volume":9261.0
+    },
+    {
+        "datetime":"2026-08-21T08:00:00.000",
+        "symbol":"NSE:COLPAL",
+        "open":1887.1,
+        "high":1888.2,
+        "low":1884.0,
+        "close":1884.3,
+        "volume":11084.0
+    },
+    {
+        "datetime":"2026-08-21T08:15:00.000",
+        "symbol":"NSE:COLPAL",
+        "open":1884.3,
+        "high":1893.5,
+        "low":1883.1,
+        "close":1892.6,
+        "volume":17586.0
+    },
+    {
+        "datetime":"2026-08-21T08:30:00.000",
+        "symbol":"NSE:COLPAL",
+        "open":1892.6,
+        "high":1893.0,
+        "low":1888.4,
+        "close":1889.4,
+        "volume":10287.0
+    },
+    {
+        "datetime":"2026-08-21T08:45:00.000",
+        "symbol":"NSE:COLPAL",
+        "open":1890.1,
+        "high":1890.1,
+        "low":1888.1,
+        "close":1888.3,
+        "volume":13148.0
+    },
+    {
+        "datetime":"2026-08-21T09:00:00.000",
+        "symbol":"NSE:COLPAL",
+        "open":1888.7,
+        "high":1891.7,
+        "low":1888.1,
+        "close":1889.5,
+        "volume":22014.0
+    },
+    {
+        "datetime":"2026-08-21T09:15:00.000",
+        "symbol":"NSE:COLPAL",
+        "open":1890.2,
+        "high":1891.3,
+        "low":1888.4,
+        "close":1889.7,
+        "volume":26555.0
+    },
+    {
+        "datetime":"2026-08-21T09:30:00.000",
+        "symbol":"NSE:COLPAL",
+        "open":1889.7,
+        "high":1891.3,
+        "low":1888.4,
+        "close":1889.6,
+        "volume":23344.0
     }
 ]

@@ -1,68 +1,5 @@
 [
     {
-        "datetime":"2025-12-29T04:30:00.000",
-        "symbol":"NSE:BAJAJ_AUTO",
-        "open":9107.5,
-        "high":9110.0,
-        "low":9075.5,
-        "close":9087.5,
-        "volume":8003.0
-    },
-    {
-        "datetime":"2025-12-29T04:45:00.000",
-        "symbol":"NSE:BAJAJ_AUTO",
-        "open":9093.5,
-        "high":9100.0,
-        "low":9083.5,
-        "close":9096.0,
-        "volume":7959.0
-    },
-    {
-        "datetime":"2025-12-29T05:00:00.000",
-        "symbol":"NSE:BAJAJ_AUTO",
-        "open":9096.0,
-        "high":9118.5,
-        "low":9088.5,
-        "close":9094.5,
-        "volume":10039.0
-    },
-    {
-        "datetime":"2025-12-29T05:15:00.000",
-        "symbol":"NSE:BAJAJ_AUTO",
-        "open":9094.0,
-        "high":9106.5,
-        "low":9093.0,
-        "close":9100.5,
-        "volume":4504.0
-    },
-    {
-        "datetime":"2025-12-29T05:30:00.000",
-        "symbol":"NSE:BAJAJ_AUTO",
-        "open":9100.5,
-        "high":9104.5,
-        "low":9085.0,
-        "close":9097.5,
-        "volume":17571.0
-    },
-    {
-        "datetime":"2025-12-29T05:45:00.000",
-        "symbol":"NSE:BAJAJ_AUTO",
-        "open":9092.0,
-        "high":9110.0,
-        "low":9088.0,
-        "close":9107.5,
-        "volume":20588.0
-    },
-    {
-        "datetime":"2025-12-29T06:00:00.000",
-        "symbol":"NSE:BAJAJ_AUTO",
-        "open":9104.0,
-        "high":9112.0,
-        "low":9100.0,
-        "close":9102.5,
-        "volume":4490.0
-    },
-    {
         "datetime":"2025-12-29T06:15:00.000",
         "symbol":"NSE:BAJAJ_AUTO",
         "open":9102.5,
@@ -35563,9 +35500,9 @@
         "symbol":"NSE:BAJAJ_AUTO",
         "open":11685.0,
         "high":11685.0,
-        "low":11671.0,
+        "low":11667.0,
         "close":11682.0,
-        "volume":5561.0
+        "volume":10155.0
     },
     {
         "datetime":"2026-08-19T08:00:00.000",
@@ -35994,9 +35931,72 @@
         "datetime":"2026-08-21T07:45:00.000",
         "symbol":"NSE:BAJAJ_AUTO",
         "open":11715.0,
-        "high":11716.0,
-        "low":11715.0,
-        "close":11716.0,
-        "volume":60.0
+        "high":11725.0,
+        "low":11709.0,
+        "close":11721.0,
+        "volume":3201.0
+    },
+    {
+        "datetime":"2026-08-21T08:00:00.000",
+        "symbol":"NSE:BAJAJ_AUTO",
+        "open":11722.0,
+        "high":11727.0,
+        "low":11708.0,
+        "close":11711.0,
+        "volume":6324.0
+    },
+    {
+        "datetime":"2026-08-21T08:15:00.000",
+        "symbol":"NSE:BAJAJ_AUTO",
+        "open":11711.0,
+        "high":11722.0,
+        "low":11709.0,
+        "close":11720.0,
+        "volume":5421.0
+    },
+    {
+        "datetime":"2026-08-21T08:30:00.000",
+        "symbol":"NSE:BAJAJ_AUTO",
+        "open":11721.0,
+        "high":11724.0,
+        "low":11711.0,
+        "close":11720.0,
+        "volume":3260.0
+    },
+    {
+        "datetime":"2026-08-21T08:45:00.000",
+        "symbol":"NSE:BAJAJ_AUTO",
+        "open":11719.0,
+        "high":11730.0,
+        "low":11716.0,
+        "close":11724.0,
+        "volume":17913.0
+    },
+    {
+        "datetime":"2026-08-21T09:00:00.000",
+        "symbol":"NSE:BAJAJ_AUTO",
+        "open":11720.0,
+        "high":11727.0,
+        "low":11704.0,
+        "close":11704.0,
+        "volume":9691.0
+    },
+    {
+        "datetime":"2026-08-21T09:15:00.000",
+        "symbol":"NSE:BAJAJ_AUTO",
+        "open":11704.0,
+        "high":11709.0,
+        "low":11680.0,
+        "close":11702.0,
+        "volume":19145.0
+    },
+    {
+        "datetime":"2026-08-21T09:30:00.000",
+        "symbol":"NSE:BAJAJ_AUTO",
+        "open":11704.0,
+        "high":11715.0,
+        "low":11688.0,
+        "close":11697.0,
+        "volume":11086.0
     }
 ]

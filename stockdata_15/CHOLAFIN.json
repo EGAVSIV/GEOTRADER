@@ -1,77 +1,5 @@
 [
     {
-        "datetime":"2025-12-29T04:15:00.000",
-        "symbol":"NSE:CHOLAFIN",
-        "open":1691.1,
-        "high":1692.7,
-        "low":1687.4,
-        "close":1688.2,
-        "volume":43503.0
-    },
-    {
-        "datetime":"2025-12-29T04:30:00.000",
-        "symbol":"NSE:CHOLAFIN",
-        "open":1688.2,
-        "high":1697.5,
-        "low":1687.4,
-        "close":1690.3,
-        "volume":36629.0
-    },
-    {
-        "datetime":"2025-12-29T04:45:00.000",
-        "symbol":"NSE:CHOLAFIN",
-        "open":1690.6,
-        "high":1692.2,
-        "low":1688.5,
-        "close":1688.9,
-        "volume":39874.0
-    },
-    {
-        "datetime":"2025-12-29T05:00:00.000",
-        "symbol":"NSE:CHOLAFIN",
-        "open":1689.2,
-        "high":1691.8,
-        "low":1687.9,
-        "close":1690.5,
-        "volume":35824.0
-    },
-    {
-        "datetime":"2025-12-29T05:15:00.000",
-        "symbol":"NSE:CHOLAFIN",
-        "open":1690.7,
-        "high":1695.8,
-        "low":1690.1,
-        "close":1694.6,
-        "volume":26800.0
-    },
-    {
-        "datetime":"2025-12-29T05:30:00.000",
-        "symbol":"NSE:CHOLAFIN",
-        "open":1694.6,
-        "high":1696.9,
-        "low":1693.9,
-        "close":1695.3,
-        "volume":31884.0
-    },
-    {
-        "datetime":"2025-12-29T05:45:00.000",
-        "symbol":"NSE:CHOLAFIN",
-        "open":1695.2,
-        "high":1697.2,
-        "low":1692.9,
-        "close":1693.0,
-        "volume":26948.0
-    },
-    {
-        "datetime":"2025-12-29T06:00:00.000",
-        "symbol":"NSE:CHOLAFIN",
-        "open":1693.4,
-        "high":1695.6,
-        "low":1690.0,
-        "close":1694.3,
-        "volume":20445.0
-    },
-    {
         "datetime":"2025-12-29T06:15:00.000",
         "symbol":"NSE:CHOLAFIN",
         "open":1693.7,
@@ -35574,7 +35502,7 @@
         "high":1867.0,
         "low":1862.3,
         "close":1866.6,
-        "volume":32907.0
+        "volume":17029.0
     },
     {
         "datetime":"2026-08-19T08:00:00.000",
@@ -35996,7 +35924,79 @@
         "open":1857.0,
         "high":1860.5,
         "low":1855.0,
-        "close":1860.0,
-        "volume":85423.0
+        "close":1859.9,
+        "volume":86037.0
+    },
+    {
+        "datetime":"2026-08-21T07:45:00.000",
+        "symbol":"NSE:CHOLAFIN",
+        "open":1859.3,
+        "high":1860.0,
+        "low":1855.5,
+        "close":1855.6,
+        "volume":18946.0
+    },
+    {
+        "datetime":"2026-08-21T08:00:00.000",
+        "symbol":"NSE:CHOLAFIN",
+        "open":1855.9,
+        "high":1857.6,
+        "low":1855.5,
+        "close":1855.6,
+        "volume":22405.0
+    },
+    {
+        "datetime":"2026-08-21T08:15:00.000",
+        "symbol":"NSE:CHOLAFIN",
+        "open":1856.3,
+        "high":1859.4,
+        "low":1855.0,
+        "close":1858.4,
+        "volume":37642.0
+    },
+    {
+        "datetime":"2026-08-21T08:30:00.000",
+        "symbol":"NSE:CHOLAFIN",
+        "open":1858.4,
+        "high":1858.7,
+        "low":1855.8,
+        "close":1857.4,
+        "volume":19151.0
+    },
+    {
+        "datetime":"2026-08-21T08:45:00.000",
+        "symbol":"NSE:CHOLAFIN",
+        "open":1857.4,
+        "high":1861.7,
+        "low":1857.4,
+        "close":1860.1,
+        "volume":29428.0
+    },
+    {
+        "datetime":"2026-08-21T09:00:00.000",
+        "symbol":"NSE:CHOLAFIN",
+        "open":1860.3,
+        "high":1862.6,
+        "low":1860.1,
+        "close":1862.4,
+        "volume":15721.0
+    },
+    {
+        "datetime":"2026-08-21T09:15:00.000",
+        "symbol":"NSE:CHOLAFIN",
+        "open":1862.4,
+        "high":1864.9,
+        "low":1861.7,
+        "close":1863.1,
+        "volume":40369.0
+    },
+    {
+        "datetime":"2026-08-21T09:30:00.000",
+        "symbol":"NSE:CHOLAFIN",
+        "open":1863.1,
+        "high":1864.6,
+        "low":1862.5,
+        "close":1862.8,
+        "volume":22168.0
     }
 ]

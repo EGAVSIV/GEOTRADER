@@ -1,14 +1,5 @@
 [
     {
-        "datetime":"2024-04-29T03:45:00.000",
-        "symbol":"NSE:GLENMARK",
-        "open":1089.0,
-        "high":1090.95,
-        "low":1078.25,
-        "close":1079.35,
-        "volume":84029.0
-    },
-    {
         "datetime":"2024-04-29T04:45:00.000",
         "symbol":"NSE:GLENMARK",
         "open":1079.3,
@@ -35994,9 +35985,18 @@
         "datetime":"2026-08-21T07:45:00.000",
         "symbol":"NSE:GLENMARK",
         "open":2309.3,
-        "high":2309.3,
-        "low":2309.3,
-        "close":2309.3,
-        "volume":20.0
+        "high":2313.8,
+        "low":2305.5,
+        "close":2307.1,
+        "volume":18504.0
+    },
+    {
+        "datetime":"2026-08-21T08:45:00.000",
+        "symbol":"NSE:GLENMARK",
+        "open":2307.2,
+        "high":2315.8,
+        "low":2305.3,
+        "close":2309.9,
+        "volume":41021.0
     }
 ]
