@@ -1,41 +1,5 @@
 [
     {
-        "datetime":"2025-12-26T06:15:00.000",
-        "symbol":"NSE:VBL",
-        "open":480.2,
-        "high":480.8,
-        "low":479.95,
-        "close":480.65,
-        "volume":97019.0
-    },
-    {
-        "datetime":"2025-12-26T06:30:00.000",
-        "symbol":"NSE:VBL",
-        "open":480.65,
-        "high":480.9,
-        "low":480.05,
-        "close":480.1,
-        "volume":51662.0
-    },
-    {
-        "datetime":"2025-12-26T06:45:00.000",
-        "symbol":"NSE:VBL",
-        "open":480.1,
-        "high":481.35,
-        "low":480.0,
-        "close":481.05,
-        "volume":77261.0
-    },
-    {
-        "datetime":"2025-12-26T07:00:00.000",
-        "symbol":"NSE:VBL",
-        "open":481.05,
-        "high":482.0,
-        "low":480.45,
-        "close":481.9,
-        "volume":63259.0
-    },
-    {
         "datetime":"2025-12-26T07:15:00.000",
         "symbol":"NSE:VBL",
         "open":481.8,
@@ -35994,9 +35958,45 @@
         "datetime":"2026-08-20T09:15:00.000",
         "symbol":"NSE:VBL",
         "open":438.65,
-        "high":438.65,
-        "low":438.35,
-        "close":438.35,
-        "volume":3955.0
+        "high":438.75,
+        "low":437.25,
+        "close":437.6,
+        "volume":88562.0
+    },
+    {
+        "datetime":"2026-08-20T09:30:00.000",
+        "symbol":"NSE:VBL",
+        "open":437.6,
+        "high":437.6,
+        "low":436.6,
+        "close":437.4,
+        "volume":231429.0
+    },
+    {
+        "datetime":"2026-08-21T03:45:00.000",
+        "symbol":"NSE:VBL",
+        "open":438.55,
+        "high":441.6,
+        "low":435.1,
+        "close":435.25,
+        "volume":385202.0
+    },
+    {
+        "datetime":"2026-08-21T04:00:00.000",
+        "symbol":"NSE:VBL",
+        "open":435.15,
+        "high":435.35,
+        "low":434.1,
+        "close":434.5,
+        "volume":141737.0
+    },
+    {
+        "datetime":"2026-08-21T04:15:00.000",
+        "symbol":"NSE:VBL",
+        "open":434.45,
+        "high":435.05,
+        "low":434.1,
+        "close":434.15,
+        "volume":26629.0
     }
 ]

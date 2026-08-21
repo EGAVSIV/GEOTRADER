@@ -1,41 +1,5 @@
 [
     {
-        "datetime":"2025-12-26T06:15:00.000",
-        "symbol":"NSE:INDIGO",
-        "open":5042.0,
-        "high":5042.5,
-        "low":5032.5,
-        "close":5040.0,
-        "volume":8802.0
-    },
-    {
-        "datetime":"2025-12-26T06:30:00.000",
-        "symbol":"NSE:INDIGO",
-        "open":5040.0,
-        "high":5045.5,
-        "low":5037.0,
-        "close":5041.5,
-        "volume":9980.0
-    },
-    {
-        "datetime":"2025-12-26T06:45:00.000",
-        "symbol":"NSE:INDIGO",
-        "open":5041.0,
-        "high":5052.5,
-        "low":5041.0,
-        "close":5049.5,
-        "volume":22564.0
-    },
-    {
-        "datetime":"2025-12-26T07:00:00.000",
-        "symbol":"NSE:INDIGO",
-        "open":5049.0,
-        "high":5051.5,
-        "low":5041.0,
-        "close":5043.0,
-        "volume":7766.0
-    },
-    {
         "datetime":"2025-12-26T07:15:00.000",
         "symbol":"NSE:INDIGO",
         "open":5043.0,
@@ -35994,9 +35958,45 @@
         "datetime":"2026-08-20T09:15:00.000",
         "symbol":"NSE:INDIGO",
         "open":5166.5,
-        "high":5167.0,
-        "low":5166.5,
-        "close":5167.0,
-        "volume":39.0
+        "high":5173.5,
+        "low":5165.5,
+        "close":5171.5,
+        "volume":16767.0
+    },
+    {
+        "datetime":"2026-08-20T09:30:00.000",
+        "symbol":"NSE:INDIGO",
+        "open":5171.5,
+        "high":5179.0,
+        "low":5157.5,
+        "close":5160.0,
+        "volume":92456.0
+    },
+    {
+        "datetime":"2026-08-21T03:45:00.000",
+        "symbol":"NSE:INDIGO",
+        "open":5159.0,
+        "high":5172.5,
+        "low":5118.5,
+        "close":5127.0,
+        "volume":54235.0
+    },
+    {
+        "datetime":"2026-08-21T04:00:00.000",
+        "symbol":"NSE:INDIGO",
+        "open":5127.0,
+        "high":5129.5,
+        "low":5115.0,
+        "close":5126.0,
+        "volume":22524.0
+    },
+    {
+        "datetime":"2026-08-21T04:15:00.000",
+        "symbol":"NSE:INDIGO",
+        "open":5126.0,
+        "high":5129.0,
+        "low":5120.5,
+        "close":5121.0,
+        "volume":3673.0
     }
 ]

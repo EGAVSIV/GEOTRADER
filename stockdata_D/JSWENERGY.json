@@ -1,14 +1,5 @@
 [
     {
-        "datetime":"2010-06-24T03:45:00.000",
-        "symbol":"NSE:JSWENERGY",
-        "open":128.10001,
-        "high":129.7,
-        "low":126.3,
-        "close":126.75,
-        "volume":1143934.0
-    },
-    {
         "datetime":"2010-06-25T03:45:00.000",
         "symbol":"NSE:JSWENERGY",
         "open":126.3,
@@ -35995,8 +35986,17 @@
         "symbol":"NSE:JSWENERGY",
         "open":545.95,
         "high":547.0,
-        "low":540.75,
-        "close":542.2,
-        "volume":1147634.0
+        "low":540.1,
+        "close":542.0,
+        "volume":1459729.0
+    },
+    {
+        "datetime":"2026-08-21T03:45:00.000",
+        "symbol":"NSE:JSWENERGY",
+        "open":542.4,
+        "high":545.3,
+        "low":540.2,
+        "close":541.55,
+        "volume":103964.0
     }
 ]

@@ -1,41 +1,5 @@
 [
     {
-        "datetime":"2025-12-26T06:15:00.000",
-        "symbol":"NSE:TATAPOWER",
-        "open":380.8,
-        "high":381.55,
-        "low":380.7,
-        "close":381.4,
-        "volume":82576.0
-    },
-    {
-        "datetime":"2025-12-26T06:30:00.000",
-        "symbol":"NSE:TATAPOWER",
-        "open":381.45,
-        "high":381.45,
-        "low":380.8,
-        "close":381.1,
-        "volume":60969.0
-    },
-    {
-        "datetime":"2025-12-26T06:45:00.000",
-        "symbol":"NSE:TATAPOWER",
-        "open":381.1,
-        "high":381.35,
-        "low":380.8,
-        "close":381.15,
-        "volume":70573.0
-    },
-    {
-        "datetime":"2025-12-26T07:00:00.000",
-        "symbol":"NSE:TATAPOWER",
-        "open":381.25,
-        "high":381.4,
-        "low":380.25,
-        "close":380.3,
-        "volume":75468.0
-    },
-    {
         "datetime":"2025-12-26T07:15:00.000",
         "symbol":"NSE:TATAPOWER",
         "open":380.5,
@@ -35995,8 +35959,44 @@
         "symbol":"NSE:TATAPOWER",
         "open":377.05,
         "high":377.35,
-        "low":377.05,
-        "close":377.15,
-        "volume":19191.0
+        "low":375.75,
+        "close":375.8,
+        "volume":649080.0
+    },
+    {
+        "datetime":"2026-08-20T09:30:00.000",
+        "symbol":"NSE:TATAPOWER",
+        "open":376.0,
+        "high":376.0,
+        "low":375.0,
+        "close":375.25,
+        "volume":527703.0
+    },
+    {
+        "datetime":"2026-08-21T03:45:00.000",
+        "symbol":"NSE:TATAPOWER",
+        "open":375.75,
+        "high":377.1,
+        "low":373.3,
+        "close":373.6,
+        "volume":293078.0
+    },
+    {
+        "datetime":"2026-08-21T04:00:00.000",
+        "symbol":"NSE:TATAPOWER",
+        "open":373.65,
+        "high":374.55,
+        "low":373.05,
+        "close":374.45,
+        "volume":158736.0
+    },
+    {
+        "datetime":"2026-08-21T04:15:00.000",
+        "symbol":"NSE:TATAPOWER",
+        "open":374.45,
+        "high":374.65,
+        "low":373.9,
+        "close":374.05,
+        "volume":48573.0
     }
 ]

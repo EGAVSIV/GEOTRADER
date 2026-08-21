@@ -1,41 +1,5 @@
 [
     {
-        "datetime":"2025-12-26T06:15:00.000",
-        "symbol":"NSE:SAIL",
-        "open":130.9,
-        "high":132.37,
-        "low":130.9,
-        "close":132.1,
-        "volume":406536.0
-    },
-    {
-        "datetime":"2025-12-26T06:30:00.000",
-        "symbol":"NSE:SAIL",
-        "open":132.1,
-        "high":132.48,
-        "low":131.95,
-        "close":132.38,
-        "volume":635259.0
-    },
-    {
-        "datetime":"2025-12-26T06:45:00.000",
-        "symbol":"NSE:SAIL",
-        "open":132.46,
-        "high":132.78,
-        "low":132.01,
-        "close":132.02,
-        "volume":474697.0
-    },
-    {
-        "datetime":"2025-12-26T07:00:00.000",
-        "symbol":"NSE:SAIL",
-        "open":132.03,
-        "high":132.04,
-        "low":131.72,
-        "close":131.94,
-        "volume":216455.0
-    },
-    {
         "datetime":"2025-12-26T07:15:00.000",
         "symbol":"NSE:SAIL",
         "open":131.95,
@@ -35994,9 +35958,45 @@
         "datetime":"2026-08-20T09:15:00.000",
         "symbol":"NSE:SAIL",
         "open":174.21,
-        "high":174.21,
-        "low":174.12,
-        "close":174.12,
-        "volume":13214.0
+        "high":174.98,
+        "low":174.09,
+        "close":174.81,
+        "volume":808332.0
+    },
+    {
+        "datetime":"2026-08-20T09:30:00.000",
+        "symbol":"NSE:SAIL",
+        "open":174.88,
+        "high":174.94,
+        "low":174.01,
+        "close":174.35,
+        "volume":1395904.0
+    },
+    {
+        "datetime":"2026-08-21T03:45:00.000",
+        "symbol":"NSE:SAIL",
+        "open":174.89,
+        "high":176.5,
+        "low":174.25,
+        "close":176.0,
+        "volume":1136807.0
+    },
+    {
+        "datetime":"2026-08-21T04:00:00.000",
+        "symbol":"NSE:SAIL",
+        "open":175.94,
+        "high":177.0,
+        "low":175.73,
+        "close":176.83,
+        "volume":2121631.0
+    },
+    {
+        "datetime":"2026-08-21T04:15:00.000",
+        "symbol":"NSE:SAIL",
+        "open":176.91,
+        "high":176.91,
+        "low":176.27,
+        "close":176.29,
+        "volume":219051.0
     }
 ]

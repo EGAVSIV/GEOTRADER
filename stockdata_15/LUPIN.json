@@ -1,41 +1,5 @@
 [
     {
-        "datetime":"2025-12-26T06:15:00.000",
-        "symbol":"NSE:LUPIN",
-        "open":2103.7,
-        "high":2106.5,
-        "low":2102.4,
-        "close":2104.9,
-        "volume":4821.0
-    },
-    {
-        "datetime":"2025-12-26T06:30:00.000",
-        "symbol":"NSE:LUPIN",
-        "open":2104.9,
-        "high":2106.4,
-        "low":2104.0,
-        "close":2105.1,
-        "volume":17428.0
-    },
-    {
-        "datetime":"2025-12-26T06:45:00.000",
-        "symbol":"NSE:LUPIN",
-        "open":2105.1,
-        "high":2105.9,
-        "low":2100.0,
-        "close":2103.0,
-        "volume":38561.0
-    },
-    {
-        "datetime":"2025-12-26T07:00:00.000",
-        "symbol":"NSE:LUPIN",
-        "open":2103.8,
-        "high":2105.0,
-        "low":2097.8,
-        "close":2101.0,
-        "volume":62405.0
-    },
-    {
         "datetime":"2025-12-26T07:15:00.000",
         "symbol":"NSE:LUPIN",
         "open":2101.0,
@@ -35994,9 +35958,45 @@
         "datetime":"2026-08-20T09:15:00.000",
         "symbol":"NSE:LUPIN",
         "open":2218.0,
-        "high":2218.8,
-        "low":2218.0,
-        "close":2218.3,
-        "volume":1145.0
+        "high":2219.7,
+        "low":2215.3,
+        "close":2216.1,
+        "volume":25507.0
+    },
+    {
+        "datetime":"2026-08-20T09:30:00.000",
+        "symbol":"NSE:LUPIN",
+        "open":2216.1,
+        "high":2217.3,
+        "low":2205.2,
+        "close":2207.8,
+        "volume":53063.0
+    },
+    {
+        "datetime":"2026-08-21T03:45:00.000",
+        "symbol":"NSE:LUPIN",
+        "open":2211.0,
+        "high":2217.0,
+        "low":2202.4,
+        "close":2205.0,
+        "volume":55274.0
+    },
+    {
+        "datetime":"2026-08-21T04:00:00.000",
+        "symbol":"NSE:LUPIN",
+        "open":2204.5,
+        "high":2210.0,
+        "low":2204.0,
+        "close":2204.8,
+        "volume":25792.0
+    },
+    {
+        "datetime":"2026-08-21T04:15:00.000",
+        "symbol":"NSE:LUPIN",
+        "open":2204.8,
+        "high":2207.0,
+        "low":2204.8,
+        "close":2206.8,
+        "volume":5069.0
     }
 ]

@@ -1,41 +1,5 @@
 [
     {
-        "datetime":"2025-12-26T06:15:00.000",
-        "symbol":"NSE:RVNL",
-        "open":390.2,
-        "high":390.35,
-        "low":387.8,
-        "close":388.55,
-        "volume":2101048.0
-    },
-    {
-        "datetime":"2025-12-26T06:30:00.000",
-        "symbol":"NSE:RVNL",
-        "open":388.7,
-        "high":391.0,
-        "low":388.6,
-        "close":389.55,
-        "volume":2154556.0
-    },
-    {
-        "datetime":"2025-12-26T06:45:00.000",
-        "symbol":"NSE:RVNL",
-        "open":389.6,
-        "high":390.4,
-        "low":389.15,
-        "close":389.85,
-        "volume":994099.0
-    },
-    {
-        "datetime":"2025-12-26T07:00:00.000",
-        "symbol":"NSE:RVNL",
-        "open":390.0,
-        "high":390.25,
-        "low":387.65,
-        "close":387.85,
-        "volume":1955395.0
-    },
-    {
         "datetime":"2025-12-26T07:15:00.000",
         "symbol":"NSE:RVNL",
         "open":388.0,
@@ -35994,9 +35958,45 @@
         "datetime":"2026-08-20T09:15:00.000",
         "symbol":"NSE:RVNL",
         "open":228.47,
-        "high":228.47,
-        "low":228.41,
-        "close":228.46,
-        "volume":1944.0
+        "high":228.89,
+        "low":228.26,
+        "close":228.36,
+        "volume":146779.0
+    },
+    {
+        "datetime":"2026-08-20T09:30:00.000",
+        "symbol":"NSE:RVNL",
+        "open":228.36,
+        "high":228.44,
+        "low":227.82,
+        "close":228.44,
+        "volume":344931.0
+    },
+    {
+        "datetime":"2026-08-21T03:45:00.000",
+        "symbol":"NSE:RVNL",
+        "open":228.88,
+        "high":231.38,
+        "low":228.47,
+        "close":229.84,
+        "volume":605766.0
+    },
+    {
+        "datetime":"2026-08-21T04:00:00.000",
+        "symbol":"NSE:RVNL",
+        "open":229.84,
+        "high":229.97,
+        "low":229.0,
+        "close":229.95,
+        "volume":230852.0
+    },
+    {
+        "datetime":"2026-08-21T04:15:00.000",
+        "symbol":"NSE:RVNL",
+        "open":229.94,
+        "high":230.0,
+        "low":229.75,
+        "close":229.82,
+        "volume":23030.0
     }
 ]

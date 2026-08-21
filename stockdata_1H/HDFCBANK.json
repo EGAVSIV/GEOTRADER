@@ -1,14 +1,5 @@
 [
     {
-        "datetime":"2024-04-26T05:45:00.000",
-        "symbol":"NSE:HDFCBANK",
-        "open":757.0,
-        "high":758.5,
-        "low":756.25,
-        "close":757.35,
-        "volume":1512334.0
-    },
-    {
         "datetime":"2024-04-26T06:45:00.000",
         "symbol":"NSE:HDFCBANK",
         "open":757.275,
@@ -35934,7 +35925,7 @@
         "high":721.15,
         "low":718.7,
         "close":719.95,
-        "volume":1783022.0
+        "volume":1860393.0
     },
     {
         "datetime":"2026-08-19T08:45:00.000",
@@ -35995,8 +35986,17 @@
         "symbol":"NSE:HDFCBANK",
         "open":725.5,
         "high":726.0,
-        "low":725.05,
-        "close":725.6,
-        "volume":1181300.0
+        "low":724.3,
+        "close":724.95,
+        "volume":3261298.0
+    },
+    {
+        "datetime":"2026-08-21T03:45:00.000",
+        "symbol":"NSE:HDFCBANK",
+        "open":728.4,
+        "high":732.6,
+        "low":726.6,
+        "close":732.2,
+        "volume":7165491.0
     }
 ]

@@ -1,41 +1,5 @@
 [
     {
-        "datetime":"2025-12-26T06:15:00.000",
-        "symbol":"NSE:CGPOWER",
-        "open":662.55,
-        "high":662.7,
-        "low":662.0,
-        "close":662.65,
-        "volume":6756.0
-    },
-    {
-        "datetime":"2025-12-26T06:30:00.000",
-        "symbol":"NSE:CGPOWER",
-        "open":662.15,
-        "high":662.55,
-        "low":661.55,
-        "close":661.65,
-        "volume":15749.0
-    },
-    {
-        "datetime":"2025-12-26T06:45:00.000",
-        "symbol":"NSE:CGPOWER",
-        "open":661.65,
-        "high":662.05,
-        "low":660.4,
-        "close":661.45,
-        "volume":7301.0
-    },
-    {
-        "datetime":"2025-12-26T07:00:00.000",
-        "symbol":"NSE:CGPOWER",
-        "open":661.6,
-        "high":661.7,
-        "low":660.2,
-        "close":660.65,
-        "volume":9908.0
-    },
-    {
         "datetime":"2025-12-26T07:15:00.000",
         "symbol":"NSE:CGPOWER",
         "open":660.6,
@@ -35994,9 +35958,45 @@
         "datetime":"2026-08-20T09:15:00.000",
         "symbol":"NSE:CGPOWER",
         "open":875.05,
-        "high":875.05,
+        "high":875.6,
         "low":874.2,
-        "close":874.5,
-        "volume":6503.0
+        "close":875.2,
+        "volume":105832.0
+    },
+    {
+        "datetime":"2026-08-20T09:30:00.000",
+        "symbol":"NSE:CGPOWER",
+        "open":875.2,
+        "high":875.2,
+        "low":873.0,
+        "close":874.0,
+        "volume":226243.0
+    },
+    {
+        "datetime":"2026-08-21T03:45:00.000",
+        "symbol":"NSE:CGPOWER",
+        "open":875.7,
+        "high":878.35,
+        "low":870.5,
+        "close":872.7,
+        "volume":99539.0
+    },
+    {
+        "datetime":"2026-08-21T04:00:00.000",
+        "symbol":"NSE:CGPOWER",
+        "open":872.35,
+        "high":874.5,
+        "low":870.3,
+        "close":873.85,
+        "volume":68613.0
+    },
+    {
+        "datetime":"2026-08-21T04:15:00.000",
+        "symbol":"NSE:CGPOWER",
+        "open":874.1,
+        "high":874.5,
+        "low":871.7,
+        "close":871.9,
+        "volume":12457.0
     }
 ]

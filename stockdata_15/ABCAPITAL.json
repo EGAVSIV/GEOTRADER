@@ -1,41 +1,5 @@
 [
     {
-        "datetime":"2025-12-26T06:15:00.000",
-        "symbol":"NSE:ABCAPITAL",
-        "open":345.0,
-        "high":346.9,
-        "low":344.6,
-        "close":346.6,
-        "volume":62110.0
-    },
-    {
-        "datetime":"2025-12-26T06:30:00.000",
-        "symbol":"NSE:ABCAPITAL",
-        "open":346.5,
-        "high":347.95,
-        "low":346.1,
-        "close":347.8,
-        "volume":63900.0
-    },
-    {
-        "datetime":"2025-12-26T06:45:00.000",
-        "symbol":"NSE:ABCAPITAL",
-        "open":347.7,
-        "high":349.0,
-        "low":347.45,
-        "close":348.7,
-        "volume":123348.0
-    },
-    {
-        "datetime":"2025-12-26T07:00:00.000",
-        "symbol":"NSE:ABCAPITAL",
-        "open":348.6,
-        "high":348.75,
-        "low":347.5,
-        "close":347.85,
-        "volume":160564.0
-    },
-    {
         "datetime":"2025-12-26T07:15:00.000",
         "symbol":"NSE:ABCAPITAL",
         "open":347.85,
@@ -35994,9 +35958,45 @@
         "datetime":"2026-08-20T09:15:00.000",
         "symbol":"NSE:ABCAPITAL",
         "open":407.9,
-        "high":408.0,
-        "low":407.85,
-        "close":407.9,
-        "volume":7060.0
+        "high":408.15,
+        "low":407.3,
+        "close":407.35,
+        "volume":141689.0
+    },
+    {
+        "datetime":"2026-08-20T09:30:00.000",
+        "symbol":"NSE:ABCAPITAL",
+        "open":407.4,
+        "high":409.35,
+        "low":406.9,
+        "close":408.3,
+        "volume":569478.0
+    },
+    {
+        "datetime":"2026-08-21T03:45:00.000",
+        "symbol":"NSE:ABCAPITAL",
+        "open":409.75,
+        "high":410.95,
+        "low":407.7,
+        "close":409.85,
+        "volume":396663.0
+    },
+    {
+        "datetime":"2026-08-21T04:00:00.000",
+        "symbol":"NSE:ABCAPITAL",
+        "open":409.75,
+        "high":411.7,
+        "low":408.8,
+        "close":411.2,
+        "volume":170036.0
+    },
+    {
+        "datetime":"2026-08-21T04:15:00.000",
+        "symbol":"NSE:ABCAPITAL",
+        "open":411.25,
+        "high":411.9,
+        "low":410.85,
+        "close":411.1,
+        "volume":51596.0
     }
 ]

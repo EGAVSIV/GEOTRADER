@@ -1,14 +1,5 @@
 [
     {
-        "datetime":"2024-04-26T05:45:00.000",
-        "symbol":"NSE:SOLARINDS",
-        "open":8805.0,
-        "high":8820.0,
-        "low":8800.0,
-        "close":8806.45,
-        "volume":5122.0
-    },
-    {
         "datetime":"2024-04-26T06:45:00.000",
         "symbol":"NSE:SOLARINDS",
         "open":8806.45,
@@ -35995,8 +35986,17 @@
         "symbol":"NSE:SOLARINDS",
         "open":19776.0,
         "high":19793.0,
-        "low":19712.0,
-        "close":19714.0,
-        "volume":4235.0
+        "low":19583.0,
+        "close":19660.0,
+        "volume":19142.0
+    },
+    {
+        "datetime":"2026-08-21T03:45:00.000",
+        "symbol":"NSE:SOLARINDS",
+        "open":19753.0,
+        "high":19807.0,
+        "low":19651.0,
+        "close":19712.0,
+        "volume":14626.0
     }
 ]

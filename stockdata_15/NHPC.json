@@ -1,41 +1,5 @@
 [
     {
-        "datetime":"2025-12-26T06:15:00.000",
-        "symbol":"NSE:NHPC",
-        "open":78.92,
-        "high":78.93,
-        "low":78.8,
-        "close":78.88,
-        "volume":135037.0
-    },
-    {
-        "datetime":"2025-12-26T06:30:00.000",
-        "symbol":"NSE:NHPC",
-        "open":78.88,
-        "high":79.04,
-        "low":78.83,
-        "close":79.0,
-        "volume":176019.0
-    },
-    {
-        "datetime":"2025-12-26T06:45:00.000",
-        "symbol":"NSE:NHPC",
-        "open":79.0,
-        "high":79.15,
-        "low":78.99,
-        "close":79.02,
-        "volume":266026.0
-    },
-    {
-        "datetime":"2025-12-26T07:00:00.000",
-        "symbol":"NSE:NHPC",
-        "open":79.02,
-        "high":79.07,
-        "low":78.9,
-        "close":79.03,
-        "volume":182221.0
-    },
-    {
         "datetime":"2025-12-26T07:15:00.000",
         "symbol":"NSE:NHPC",
         "open":79.03,
@@ -35995,8 +35959,44 @@
         "symbol":"NSE:NHPC",
         "open":76.2,
         "high":76.2,
-        "low":76.2,
-        "close":76.2,
-        "volume":37.0
+        "low":76.04,
+        "close":76.13,
+        "volume":201712.0
+    },
+    {
+        "datetime":"2026-08-20T09:30:00.000",
+        "symbol":"NSE:NHPC",
+        "open":76.1,
+        "high":76.39,
+        "low":76.09,
+        "close":76.37,
+        "volume":1342152.0
+    },
+    {
+        "datetime":"2026-08-21T03:45:00.000",
+        "symbol":"NSE:NHPC",
+        "open":76.3,
+        "high":76.87,
+        "low":76.11,
+        "close":76.65,
+        "volume":750191.0
+    },
+    {
+        "datetime":"2026-08-21T04:00:00.000",
+        "symbol":"NSE:NHPC",
+        "open":76.65,
+        "high":76.68,
+        "low":76.53,
+        "close":76.66,
+        "volume":233382.0
+    },
+    {
+        "datetime":"2026-08-21T04:15:00.000",
+        "symbol":"NSE:NHPC",
+        "open":76.68,
+        "high":76.7,
+        "low":76.61,
+        "close":76.61,
+        "volume":22024.0
     }
 ]

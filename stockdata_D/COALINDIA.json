@@ -35148,9 +35148,18 @@
         "datetime":"2026-08-20T03:45:00.000",
         "symbol":"NSE:COALINDIA",
         "open":400.05,
-        "high":403.0,
+        "high":403.45,
         "low":395.8,
-        "close":402.3,
-        "volume":4076889.0
+        "close":402.5,
+        "volume":5070984.0
+    },
+    {
+        "datetime":"2026-08-21T03:45:00.000",
+        "symbol":"NSE:COALINDIA",
+        "open":402.55,
+        "high":403.95,
+        "low":401.7,
+        "close":403.45,
+        "volume":347940.0
     }
 ]

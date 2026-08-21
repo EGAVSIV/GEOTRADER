@@ -1,41 +1,5 @@
 [
     {
-        "datetime":"2025-12-26T06:15:00.000",
-        "symbol":"NSE:CAMS",
-        "open":754.4,
-        "high":754.8,
-        "low":752.6,
-        "close":753.5,
-        "volume":7892.0
-    },
-    {
-        "datetime":"2025-12-26T06:30:00.000",
-        "symbol":"NSE:CAMS",
-        "open":753.1,
-        "high":754.9,
-        "low":753.1,
-        "close":754.6,
-        "volume":3067.0
-    },
-    {
-        "datetime":"2025-12-26T06:45:00.000",
-        "symbol":"NSE:CAMS",
-        "open":754.7,
-        "high":756.5,
-        "low":754.5,
-        "close":756.0,
-        "volume":17044.0
-    },
-    {
-        "datetime":"2025-12-26T07:00:00.000",
-        "symbol":"NSE:CAMS",
-        "open":756.0,
-        "high":756.9,
-        "low":755.0,
-        "close":756.6,
-        "volume":17169.0
-    },
-    {
         "datetime":"2025-12-26T07:15:00.000",
         "symbol":"NSE:CAMS",
         "open":756.6,
@@ -35994,9 +35958,45 @@
         "datetime":"2026-08-20T09:15:00.000",
         "symbol":"NSE:CAMS",
         "open":752.15,
-        "high":752.35,
-        "low":752.15,
-        "close":752.35,
-        "volume":1165.0
+        "high":753.1,
+        "low":749.3,
+        "close":749.5,
+        "volume":151624.0
+    },
+    {
+        "datetime":"2026-08-20T09:30:00.000",
+        "symbol":"NSE:CAMS",
+        "open":749.5,
+        "high":752.0,
+        "low":747.75,
+        "close":749.8,
+        "volume":130243.0
+    },
+    {
+        "datetime":"2026-08-21T03:45:00.000",
+        "symbol":"NSE:CAMS",
+        "open":751.9,
+        "high":754.55,
+        "low":747.0,
+        "close":748.55,
+        "volume":118852.0
+    },
+    {
+        "datetime":"2026-08-21T04:00:00.000",
+        "symbol":"NSE:CAMS",
+        "open":748.35,
+        "high":759.0,
+        "low":747.3,
+        "close":757.05,
+        "volume":108380.0
+    },
+    {
+        "datetime":"2026-08-21T04:15:00.000",
+        "symbol":"NSE:CAMS",
+        "open":757.0,
+        "high":757.25,
+        "low":756.05,
+        "close":757.25,
+        "volume":13424.0
     }
 ]

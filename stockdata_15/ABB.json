@@ -1,41 +1,5 @@
 [
     {
-        "datetime":"2025-12-26T06:15:00.000",
-        "symbol":"NSE:ABB",
-        "open":5228.0,
-        "high":5228.0,
-        "low":5219.5,
-        "close":5223.5,
-        "volume":563.0
-    },
-    {
-        "datetime":"2025-12-26T06:30:00.000",
-        "symbol":"NSE:ABB",
-        "open":5223.0,
-        "high":5228.0,
-        "low":5215.5,
-        "close":5215.5,
-        "volume":1376.0
-    },
-    {
-        "datetime":"2025-12-26T06:45:00.000",
-        "symbol":"NSE:ABB",
-        "open":5215.0,
-        "high":5224.5,
-        "low":5212.0,
-        "close":5221.5,
-        "volume":1475.0
-    },
-    {
-        "datetime":"2025-12-26T07:00:00.000",
-        "symbol":"NSE:ABB",
-        "open":5221.0,
-        "high":5221.5,
-        "low":5212.5,
-        "close":5216.0,
-        "volume":804.0
-    },
-    {
         "datetime":"2025-12-26T07:15:00.000",
         "symbol":"NSE:ABB",
         "open":5216.0,
@@ -35995,8 +35959,44 @@
         "symbol":"NSE:ABB",
         "open":7457.0,
         "high":7460.5,
-        "low":7453.5,
-        "close":7460.0,
-        "volume":959.0
+        "low":7445.0,
+        "close":7447.5,
+        "volume":10346.0
+    },
+    {
+        "datetime":"2026-08-20T09:30:00.000",
+        "symbol":"NSE:ABB",
+        "open":7451.0,
+        "high":7468.5,
+        "low":7433.5,
+        "close":7457.0,
+        "volume":18577.0
+    },
+    {
+        "datetime":"2026-08-21T03:45:00.000",
+        "symbol":"NSE:ABB",
+        "open":7485.5,
+        "high":7545.0,
+        "low":7440.0,
+        "close":7467.5,
+        "volume":12303.0
+    },
+    {
+        "datetime":"2026-08-21T04:00:00.000",
+        "symbol":"NSE:ABB",
+        "open":7465.5,
+        "high":7474.0,
+        "low":7440.0,
+        "close":7474.0,
+        "volume":6229.0
+    },
+    {
+        "datetime":"2026-08-21T04:15:00.000",
+        "symbol":"NSE:ABB",
+        "open":7474.0,
+        "high":7474.0,
+        "low":7442.0,
+        "close":7446.0,
+        "volume":1441.0
     }
 ]

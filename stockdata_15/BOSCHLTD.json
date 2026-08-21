@@ -1,41 +1,5 @@
 [
     {
-        "datetime":"2025-12-26T06:15:00.000",
-        "symbol":"NSE:BOSCHLTD",
-        "open":35995.0,
-        "high":36060.0,
-        "low":35985.0,
-        "close":36025.0,
-        "volume":147.0
-    },
-    {
-        "datetime":"2025-12-26T06:30:00.000",
-        "symbol":"NSE:BOSCHLTD",
-        "open":36025.0,
-        "high":36115.0,
-        "low":36000.0,
-        "close":36110.0,
-        "volume":89.0
-    },
-    {
-        "datetime":"2025-12-26T06:45:00.000",
-        "symbol":"NSE:BOSCHLTD",
-        "open":36110.0,
-        "high":36315.0,
-        "low":36030.0,
-        "close":36300.0,
-        "volume":1797.0
-    },
-    {
-        "datetime":"2025-12-26T07:00:00.000",
-        "symbol":"NSE:BOSCHLTD",
-        "open":36305.0,
-        "high":36305.0,
-        "low":36190.0,
-        "close":36195.0,
-        "volume":509.0
-    },
-    {
         "datetime":"2025-12-26T07:15:00.000",
         "symbol":"NSE:BOSCHLTD",
         "open":36185.0,
@@ -35994,9 +35958,45 @@
         "datetime":"2026-08-20T09:15:00.000",
         "symbol":"NSE:BOSCHLTD",
         "open":48345.0,
-        "high":48395.0,
+        "high":48490.0,
         "low":48335.0,
-        "close":48370.0,
-        "volume":236.0
+        "close":48440.0,
+        "volume":2085.0
+    },
+    {
+        "datetime":"2026-08-20T09:30:00.000",
+        "symbol":"NSE:BOSCHLTD",
+        "open":48435.0,
+        "high":48615.0,
+        "low":48395.0,
+        "close":48600.0,
+        "volume":5255.0
+    },
+    {
+        "datetime":"2026-08-21T03:45:00.000",
+        "symbol":"NSE:BOSCHLTD",
+        "open":48555.0,
+        "high":48555.0,
+        "low":48125.0,
+        "close":48170.0,
+        "volume":2424.0
+    },
+    {
+        "datetime":"2026-08-21T04:00:00.000",
+        "symbol":"NSE:BOSCHLTD",
+        "open":48170.0,
+        "high":48320.0,
+        "low":48160.0,
+        "close":48205.0,
+        "volume":1531.0
+    },
+    {
+        "datetime":"2026-08-21T04:15:00.000",
+        "symbol":"NSE:BOSCHLTD",
+        "open":48205.0,
+        "high":48260.0,
+        "low":48200.0,
+        "close":48240.0,
+        "volume":352.0
     }
 ]

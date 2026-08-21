@@ -1,41 +1,5 @@
 [
     {
-        "datetime":"2025-12-26T06:15:00.000",
-        "symbol":"NSE:JUBLFOOD",
-        "open":561.5,
-        "high":561.7,
-        "low":561.0,
-        "close":561.05,
-        "volume":54003.0
-    },
-    {
-        "datetime":"2025-12-26T06:30:00.000",
-        "symbol":"NSE:JUBLFOOD",
-        "open":561.05,
-        "high":561.75,
-        "low":561.0,
-        "close":561.45,
-        "volume":20279.0
-    },
-    {
-        "datetime":"2025-12-26T06:45:00.000",
-        "symbol":"NSE:JUBLFOOD",
-        "open":561.45,
-        "high":561.85,
-        "low":561.1,
-        "close":561.7,
-        "volume":7514.0
-    },
-    {
-        "datetime":"2025-12-26T07:00:00.000",
-        "symbol":"NSE:JUBLFOOD",
-        "open":561.7,
-        "high":561.8,
-        "low":559.65,
-        "close":560.5,
-        "volume":97449.0
-    },
-    {
         "datetime":"2025-12-26T07:15:00.000",
         "symbol":"NSE:JUBLFOOD",
         "open":560.6,
@@ -35994,9 +35958,45 @@
         "datetime":"2026-08-20T09:15:00.000",
         "symbol":"NSE:JUBLFOOD",
         "open":508.75,
-        "high":508.75,
-        "low":508.4,
-        "close":508.55,
-        "volume":3275.0
+        "high":508.95,
+        "low":507.5,
+        "close":507.85,
+        "volume":87485.0
+    },
+    {
+        "datetime":"2026-08-20T09:30:00.000",
+        "symbol":"NSE:JUBLFOOD",
+        "open":507.65,
+        "high":508.9,
+        "low":507.05,
+        "close":508.5,
+        "volume":118629.0
+    },
+    {
+        "datetime":"2026-08-21T03:45:00.000",
+        "symbol":"NSE:JUBLFOOD",
+        "open":510.0,
+        "high":510.0,
+        "low":507.1,
+        "close":507.25,
+        "volume":108094.0
+    },
+    {
+        "datetime":"2026-08-21T04:00:00.000",
+        "symbol":"NSE:JUBLFOOD",
+        "open":507.3,
+        "high":507.35,
+        "low":504.65,
+        "close":505.85,
+        "volume":40759.0
+    },
+    {
+        "datetime":"2026-08-21T04:15:00.000",
+        "symbol":"NSE:JUBLFOOD",
+        "open":505.8,
+        "high":506.2,
+        "low":505.65,
+        "close":506.1,
+        "volume":3024.0
     }
 ]

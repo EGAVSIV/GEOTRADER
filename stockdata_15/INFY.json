@@ -1,41 +1,5 @@
 [
     {
-        "datetime":"2025-12-26T06:15:00.000",
-        "symbol":"NSE:INFY",
-        "open":1655.5,
-        "high":1656.7,
-        "low":1654.8,
-        "close":1656.1,
-        "volume":62464.0
-    },
-    {
-        "datetime":"2025-12-26T06:30:00.000",
-        "symbol":"NSE:INFY",
-        "open":1655.6,
-        "high":1658.8,
-        "low":1655.4,
-        "close":1657.6,
-        "volume":59166.0
-    },
-    {
-        "datetime":"2025-12-26T06:45:00.000",
-        "symbol":"NSE:INFY",
-        "open":1657.2,
-        "high":1658.6,
-        "low":1656.1,
-        "close":1658.2,
-        "volume":48908.0
-    },
-    {
-        "datetime":"2025-12-26T07:00:00.000",
-        "symbol":"NSE:INFY",
-        "open":1658.1,
-        "high":1658.5,
-        "low":1657.2,
-        "close":1657.3,
-        "volume":20855.0
-    },
-    {
         "datetime":"2025-12-26T07:15:00.000",
         "symbol":"NSE:INFY",
         "open":1657.3,
@@ -35727,7 +35691,7 @@
         "high":1120.6,
         "low":1119.2,
         "close":1119.9,
-        "volume":92752.0
+        "volume":117569.0
     },
     {
         "datetime":"2026-08-19T08:00:00.000",
@@ -35994,9 +35958,45 @@
         "datetime":"2026-08-20T09:15:00.000",
         "symbol":"NSE:INFY",
         "open":1129.3,
-        "high":1129.6,
-        "low":1128.7,
-        "close":1129.3,
-        "volume":10750.0
+        "high":1131.0,
+        "low":1128.5,
+        "close":1129.0,
+        "volume":321400.0
+    },
+    {
+        "datetime":"2026-08-20T09:30:00.000",
+        "symbol":"NSE:INFY",
+        "open":1129.0,
+        "high":1130.2,
+        "low":1128.0,
+        "close":1129.4,
+        "volume":414396.0
+    },
+    {
+        "datetime":"2026-08-21T03:45:00.000",
+        "symbol":"NSE:INFY",
+        "open":1133.1,
+        "high":1133.2,
+        "low":1119.6,
+        "close":1122.0,
+        "volume":416167.0
+    },
+    {
+        "datetime":"2026-08-21T04:00:00.000",
+        "symbol":"NSE:INFY",
+        "open":1122.5,
+        "high":1123.0,
+        "low":1118.1,
+        "close":1122.6,
+        "volume":301749.0
+    },
+    {
+        "datetime":"2026-08-21T04:15:00.000",
+        "symbol":"NSE:INFY",
+        "open":1122.7,
+        "high":1123.7,
+        "low":1122.3,
+        "close":1123.3,
+        "volume":42589.0
     }
 ]

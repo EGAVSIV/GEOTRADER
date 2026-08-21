@@ -1,41 +1,5 @@
 [
     {
-        "datetime":"2025-12-26T06:15:00.000",
-        "symbol":"NSE:UPL",
-        "open":772.8,
-        "high":775.0,
-        "low":771.65,
-        "close":774.55,
-        "volume":127539.0
-    },
-    {
-        "datetime":"2025-12-26T06:30:00.000",
-        "symbol":"NSE:UPL",
-        "open":774.55,
-        "high":776.25,
-        "low":772.95,
-        "close":775.35,
-        "volume":282794.0
-    },
-    {
-        "datetime":"2025-12-26T06:45:00.000",
-        "symbol":"NSE:UPL",
-        "open":775.15,
-        "high":775.75,
-        "low":774.25,
-        "close":774.55,
-        "volume":15548.0
-    },
-    {
-        "datetime":"2025-12-26T07:00:00.000",
-        "symbol":"NSE:UPL",
-        "open":774.05,
-        "high":774.75,
-        "low":773.05,
-        "close":773.95,
-        "volume":7595.0
-    },
-    {
         "datetime":"2025-12-26T07:15:00.000",
         "symbol":"NSE:UPL",
         "open":773.8,
@@ -35994,9 +35958,45 @@
         "datetime":"2026-08-20T09:15:00.000",
         "symbol":"NSE:UPL",
         "open":572.3,
-        "high":572.45,
-        "low":572.2,
-        "close":572.2,
-        "volume":3460.0
+        "high":573.2,
+        "low":571.8,
+        "close":572.0,
+        "volume":259703.0
+    },
+    {
+        "datetime":"2026-08-20T09:30:00.000",
+        "symbol":"NSE:UPL",
+        "open":571.85,
+        "high":572.4,
+        "low":568.5,
+        "close":568.5,
+        "volume":233593.0
+    },
+    {
+        "datetime":"2026-08-21T03:45:00.000",
+        "symbol":"NSE:UPL",
+        "open":570.55,
+        "high":573.7,
+        "low":568.6,
+        "close":568.8,
+        "volume":60752.0
+    },
+    {
+        "datetime":"2026-08-21T04:00:00.000",
+        "symbol":"NSE:UPL",
+        "open":569.0,
+        "high":569.3,
+        "low":567.1,
+        "close":569.2,
+        "volume":57672.0
+    },
+    {
+        "datetime":"2026-08-21T04:15:00.000",
+        "symbol":"NSE:UPL",
+        "open":569.1,
+        "high":569.1,
+        "low":567.6,
+        "close":567.6,
+        "volume":10355.0
     }
 ]

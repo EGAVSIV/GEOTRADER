@@ -1,14 +1,5 @@
 [
     {
-        "datetime":"2010-06-24T03:45:00.000",
-        "symbol":"NSE:HCLTECH",
-        "open":92.1999975,
-        "high":92.5,
-        "low":88.25,
-        "close":91.0374975,
-        "volume":29461428.0
-    },
-    {
         "datetime":"2010-06-25T03:45:00.000",
         "symbol":"NSE:HCLTECH",
         "open":90.5749975,
@@ -35995,8 +35986,17 @@
         "symbol":"NSE:HCLTECH",
         "open":1339.7,
         "high":1345.3,
-        "low":1320.5,
-        "close":1323.0,
-        "volume":1116847.0
+        "low":1318.4,
+        "close":1318.4,
+        "volume":1510868.0
+    },
+    {
+        "datetime":"2026-08-21T03:45:00.000",
+        "symbol":"NSE:HCLTECH",
+        "open":1319.9,
+        "high":1321.7,
+        "low":1305.2,
+        "close":1307.6,
+        "volume":121774.0
     }
 ]

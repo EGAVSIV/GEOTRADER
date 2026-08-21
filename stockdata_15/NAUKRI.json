@@ -1,41 +1,5 @@
 [
     {
-        "datetime":"2025-12-26T06:15:00.000",
-        "symbol":"NSE:NAUKRI",
-        "open":1373.6,
-        "high":1373.7,
-        "low":1369.1,
-        "close":1371.5,
-        "volume":8207.0
-    },
-    {
-        "datetime":"2025-12-26T06:30:00.000",
-        "symbol":"NSE:NAUKRI",
-        "open":1371.2,
-        "high":1372.2,
-        "low":1366.4,
-        "close":1368.4,
-        "volume":10169.0
-    },
-    {
-        "datetime":"2025-12-26T06:45:00.000",
-        "symbol":"NSE:NAUKRI",
-        "open":1368.5,
-        "high":1368.9,
-        "low":1366.1,
-        "close":1368.3,
-        "volume":8913.0
-    },
-    {
-        "datetime":"2025-12-26T07:00:00.000",
-        "symbol":"NSE:NAUKRI",
-        "open":1368.3,
-        "high":1369.0,
-        "low":1365.3,
-        "close":1365.9,
-        "volume":12902.0
-    },
-    {
         "datetime":"2025-12-26T07:15:00.000",
         "symbol":"NSE:NAUKRI",
         "open":1365.7,
@@ -35994,9 +35958,45 @@
         "datetime":"2026-08-20T09:15:00.000",
         "symbol":"NSE:NAUKRI",
         "open":1358.6,
-        "high":1359.4,
-        "low":1358.6,
-        "close":1358.8,
-        "volume":1893.0
+        "high":1360.5,
+        "low":1358.1,
+        "close":1358.5,
+        "volume":22175.0
+    },
+    {
+        "datetime":"2026-08-20T09:30:00.000",
+        "symbol":"NSE:NAUKRI",
+        "open":1358.3,
+        "high":1360.5,
+        "low":1355.3,
+        "close":1357.5,
+        "volume":92310.0
+    },
+    {
+        "datetime":"2026-08-21T03:45:00.000",
+        "symbol":"NSE:NAUKRI",
+        "open":1361.2,
+        "high":1361.2,
+        "low":1346.0,
+        "close":1352.3,
+        "volume":39301.0
+    },
+    {
+        "datetime":"2026-08-21T04:00:00.000",
+        "symbol":"NSE:NAUKRI",
+        "open":1352.3,
+        "high":1355.0,
+        "low":1345.2,
+        "close":1347.1,
+        "volume":37357.0
+    },
+    {
+        "datetime":"2026-08-21T04:15:00.000",
+        "symbol":"NSE:NAUKRI",
+        "open":1347.2,
+        "high":1352.0,
+        "low":1347.2,
+        "close":1352.0,
+        "volume":4888.0
     }
 ]

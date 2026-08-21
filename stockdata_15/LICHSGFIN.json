@@ -1,41 +1,5 @@
 [
     {
-        "datetime":"2025-12-26T06:15:00.000",
-        "symbol":"NSE:LICHSGFIN",
-        "open":540.0,
-        "high":540.7,
-        "low":540.0,
-        "close":540.15,
-        "volume":10842.0
-    },
-    {
-        "datetime":"2025-12-26T06:30:00.000",
-        "symbol":"NSE:LICHSGFIN",
-        "open":540.5,
-        "high":540.95,
-        "low":540.15,
-        "close":540.7,
-        "volume":21312.0
-    },
-    {
-        "datetime":"2025-12-26T06:45:00.000",
-        "symbol":"NSE:LICHSGFIN",
-        "open":540.75,
-        "high":540.85,
-        "low":539.55,
-        "close":540.15,
-        "volume":301824.0
-    },
-    {
-        "datetime":"2025-12-26T07:00:00.000",
-        "symbol":"NSE:LICHSGFIN",
-        "open":540.3,
-        "high":540.4,
-        "low":539.45,
-        "close":540.0,
-        "volume":12526.0
-    },
-    {
         "datetime":"2025-12-26T07:15:00.000",
         "symbol":"NSE:LICHSGFIN",
         "open":540.0,
@@ -35995,8 +35959,44 @@
         "symbol":"NSE:LICHSGFIN",
         "open":510.4,
         "high":510.4,
-        "low":510.0,
-        "close":510.0,
-        "volume":3414.0
+        "low":509.05,
+        "close":509.1,
+        "volume":71862.0
+    },
+    {
+        "datetime":"2026-08-20T09:30:00.000",
+        "symbol":"NSE:LICHSGFIN",
+        "open":508.9,
+        "high":508.9,
+        "low":506.95,
+        "close":508.0,
+        "volume":218015.0
+    },
+    {
+        "datetime":"2026-08-21T03:45:00.000",
+        "symbol":"NSE:LICHSGFIN",
+        "open":499.2,
+        "high":500.8,
+        "low":492.0,
+        "close":492.95,
+        "volume":638334.0
+    },
+    {
+        "datetime":"2026-08-21T04:00:00.000",
+        "symbol":"NSE:LICHSGFIN",
+        "open":492.8,
+        "high":493.55,
+        "low":491.0,
+        "close":493.35,
+        "volume":316293.0
+    },
+    {
+        "datetime":"2026-08-21T04:15:00.000",
+        "symbol":"NSE:LICHSGFIN",
+        "open":493.4,
+        "high":495.25,
+        "low":493.25,
+        "close":493.5,
+        "volume":112863.0
     }
 ]

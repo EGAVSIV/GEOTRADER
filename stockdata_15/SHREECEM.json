@@ -1,41 +1,5 @@
 [
     {
-        "datetime":"2025-12-26T06:15:00.000",
-        "symbol":"NSE:SHREECEM",
-        "open":26320.0,
-        "high":26350.0,
-        "low":26310.0,
-        "close":26310.0,
-        "volume":155.0
-    },
-    {
-        "datetime":"2025-12-26T06:30:00.000",
-        "symbol":"NSE:SHREECEM",
-        "open":26310.0,
-        "high":26335.0,
-        "low":26270.0,
-        "close":26315.0,
-        "volume":287.0
-    },
-    {
-        "datetime":"2025-12-26T06:45:00.000",
-        "symbol":"NSE:SHREECEM",
-        "open":26335.0,
-        "high":26410.0,
-        "low":26310.0,
-        "close":26385.0,
-        "volume":1187.0
-    },
-    {
-        "datetime":"2025-12-26T07:00:00.000",
-        "symbol":"NSE:SHREECEM",
-        "open":26385.0,
-        "high":26425.0,
-        "low":26350.0,
-        "close":26410.0,
-        "volume":3147.0
-    },
-    {
         "datetime":"2025-12-26T07:15:00.000",
         "symbol":"NSE:SHREECEM",
         "open":26410.0,
@@ -35994,9 +35958,45 @@
         "datetime":"2026-08-20T09:15:00.000",
         "symbol":"NSE:SHREECEM",
         "open":24305.0,
-        "high":24305.0,
+        "high":24375.0,
         "low":24280.0,
+        "close":24325.0,
+        "volume":1899.0
+    },
+    {
+        "datetime":"2026-08-20T09:30:00.000",
+        "symbol":"NSE:SHREECEM",
+        "open":24340.0,
+        "high":24340.0,
+        "low":24245.0,
+        "close":24285.0,
+        "volume":2163.0
+    },
+    {
+        "datetime":"2026-08-21T03:45:00.000",
+        "symbol":"NSE:SHREECEM",
+        "open":24250.0,
+        "high":24355.0,
+        "low":24185.0,
         "close":24280.0,
-        "volume":47.0
+        "volume":1850.0
+    },
+    {
+        "datetime":"2026-08-21T04:00:00.000",
+        "symbol":"NSE:SHREECEM",
+        "open":24265.0,
+        "high":24350.0,
+        "low":24250.0,
+        "close":24270.0,
+        "volume":1216.0
+    },
+    {
+        "datetime":"2026-08-21T04:15:00.000",
+        "symbol":"NSE:SHREECEM",
+        "open":24270.0,
+        "high":24290.0,
+        "low":24220.0,
+        "close":24220.0,
+        "volume":78.0
     }
 ]

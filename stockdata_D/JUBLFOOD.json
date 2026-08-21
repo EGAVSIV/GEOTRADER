@@ -1,14 +1,5 @@
 [
     {
-        "datetime":"2010-06-24T03:45:00.000",
-        "symbol":"NSE:JUBLFOOD",
-        "open":30.789999,
-        "high":31.6,
-        "low":30.6,
-        "close":31.075,
-        "volume":6938900.0
-    },
-    {
         "datetime":"2010-06-25T03:45:00.000",
         "symbol":"NSE:JUBLFOOD",
         "open":30.9,
@@ -35996,7 +35987,16 @@
         "open":504.85,
         "high":510.9,
         "low":499.1,
-        "close":509.45,
-        "volume":1345030.0
+        "close":507.3,
+        "volume":1576256.0
+    },
+    {
+        "datetime":"2026-08-21T03:45:00.000",
+        "symbol":"NSE:JUBLFOOD",
+        "open":512.15,
+        "high":512.15,
+        "low":504.65,
+        "close":506.3,
+        "volume":148480.0
     }
 ]

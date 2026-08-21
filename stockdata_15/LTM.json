@@ -1,41 +1,5 @@
 [
     {
-        "datetime":"2025-12-26T06:15:00.000",
-        "symbol":"NSE:LTM",
-        "open":6091.0,
-        "high":6096.0,
-        "low":6086.0,
-        "close":6095.0,
-        "volume":3103.0
-    },
-    {
-        "datetime":"2025-12-26T06:30:00.000",
-        "symbol":"NSE:LTM",
-        "open":6093.0,
-        "high":6099.5,
-        "low":6086.0,
-        "close":6090.0,
-        "volume":4680.0
-    },
-    {
-        "datetime":"2025-12-26T06:45:00.000",
-        "symbol":"NSE:LTM",
-        "open":6090.0,
-        "high":6099.5,
-        "low":6086.0,
-        "close":6092.0,
-        "volume":4398.0
-    },
-    {
-        "datetime":"2025-12-26T07:00:00.000",
-        "symbol":"NSE:LTM",
-        "open":6096.5,
-        "high":6100.5,
-        "low":6085.5,
-        "close":6092.0,
-        "volume":4205.0
-    },
-    {
         "datetime":"2025-12-26T07:15:00.000",
         "symbol":"NSE:LTM",
         "open":6088.5,
@@ -35995,8 +35959,44 @@
         "symbol":"NSE:LTM",
         "open":4552.9,
         "high":4555.5,
-        "low":4552.9,
-        "close":4554.9,
-        "volume":205.0
+        "low":4548.0,
+        "close":4551.0,
+        "volume":24404.0
+    },
+    {
+        "datetime":"2026-08-20T09:30:00.000",
+        "symbol":"NSE:LTM",
+        "open":4550.2,
+        "high":4555.0,
+        "low":4517.0,
+        "close":4553.0,
+        "volume":81378.0
+    },
+    {
+        "datetime":"2026-08-21T03:45:00.000",
+        "symbol":"NSE:LTM",
+        "open":4490.3,
+        "high":4490.3,
+        "low":4414.8,
+        "close":4445.7,
+        "volume":99445.0
+    },
+    {
+        "datetime":"2026-08-21T04:00:00.000",
+        "symbol":"NSE:LTM",
+        "open":4445.0,
+        "high":4449.7,
+        "low":4428.0,
+        "close":4434.4,
+        "volume":58464.0
+    },
+    {
+        "datetime":"2026-08-21T04:15:00.000",
+        "symbol":"NSE:LTM",
+        "open":4434.2,
+        "high":4435.1,
+        "low":4427.0,
+        "close":4429.0,
+        "volume":10583.0
     }
 ]

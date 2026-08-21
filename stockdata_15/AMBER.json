@@ -1,41 +1,5 @@
 [
     {
-        "datetime":"2025-12-26T06:15:00.000",
-        "symbol":"NSE:AMBER",
-        "open":6682.0,
-        "high":6684.5,
-        "low":6670.0,
-        "close":6676.0,
-        "volume":2430.0
-    },
-    {
-        "datetime":"2025-12-26T06:30:00.000",
-        "symbol":"NSE:AMBER",
-        "open":6674.5,
-        "high":6675.5,
-        "low":6664.5,
-        "close":6672.0,
-        "volume":1044.0
-    },
-    {
-        "datetime":"2025-12-26T06:45:00.000",
-        "symbol":"NSE:AMBER",
-        "open":6672.5,
-        "high":6689.5,
-        "low":6672.5,
-        "close":6682.5,
-        "volume":1488.0
-    },
-    {
-        "datetime":"2025-12-26T07:00:00.000",
-        "symbol":"NSE:AMBER",
-        "open":6681.0,
-        "high":6681.0,
-        "low":6665.0,
-        "close":6670.0,
-        "volume":1399.0
-    },
-    {
         "datetime":"2025-12-26T07:15:00.000",
         "symbol":"NSE:AMBER",
         "open":6667.0,
@@ -35994,9 +35958,45 @@
         "datetime":"2026-08-20T09:15:00.000",
         "symbol":"NSE:AMBER",
         "open":7256.0,
-        "high":7256.0,
+        "high":7287.0,
         "low":7243.5,
-        "close":7253.5,
-        "volume":2185.0
+        "close":7286.0,
+        "volume":11834.0
+    },
+    {
+        "datetime":"2026-08-20T09:30:00.000",
+        "symbol":"NSE:AMBER",
+        "open":7287.0,
+        "high":7289.5,
+        "low":7270.5,
+        "close":7272.0,
+        "volume":26539.0
+    },
+    {
+        "datetime":"2026-08-21T03:45:00.000",
+        "symbol":"NSE:AMBER",
+        "open":7295.0,
+        "high":7295.0,
+        "low":7270.0,
+        "close":7292.5,
+        "volume":9594.0
+    },
+    {
+        "datetime":"2026-08-21T04:00:00.000",
+        "symbol":"NSE:AMBER",
+        "open":7289.0,
+        "high":7292.0,
+        "low":7261.0,
+        "close":7288.0,
+        "volume":5775.0
+    },
+    {
+        "datetime":"2026-08-21T04:15:00.000",
+        "symbol":"NSE:AMBER",
+        "open":7284.0,
+        "high":7287.0,
+        "low":7279.5,
+        "close":7280.0,
+        "volume":1013.0
     }
 ]

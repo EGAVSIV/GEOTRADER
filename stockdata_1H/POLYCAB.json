@@ -1,14 +1,5 @@
 [
     {
-        "datetime":"2024-04-26T05:45:00.000",
-        "symbol":"NSE:POLYCAB",
-        "open":5557.05,
-        "high":5589.6,
-        "low":5555.0,
-        "close":5587.05,
-        "volume":27554.0
-    },
-    {
         "datetime":"2024-04-26T06:45:00.000",
         "symbol":"NSE:POLYCAB",
         "open":5589.0,
@@ -35995,8 +35986,17 @@
         "symbol":"NSE:POLYCAB",
         "open":9152.0,
         "high":9156.5,
-        "low":9130.0,
-        "close":9130.0,
-        "volume":18997.0
+        "low":9090.0,
+        "close":9119.0,
+        "volume":62957.0
+    },
+    {
+        "datetime":"2026-08-21T03:45:00.000",
+        "symbol":"NSE:POLYCAB",
+        "open":9125.0,
+        "high":9175.0,
+        "low":9026.0,
+        "close":9046.0,
+        "volume":52649.0
     }
 ]

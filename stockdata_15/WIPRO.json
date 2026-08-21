@@ -1,41 +1,5 @@
 [
     {
-        "datetime":"2025-12-26T06:15:00.000",
-        "symbol":"NSE:WIPRO",
-        "open":267.34,
-        "high":267.99,
-        "low":267.23,
-        "close":267.97,
-        "volume":68751.0
-    },
-    {
-        "datetime":"2025-12-26T06:30:00.000",
-        "symbol":"NSE:WIPRO",
-        "open":267.97,
-        "high":268.0,
-        "low":267.13,
-        "close":267.27,
-        "volume":62883.0
-    },
-    {
-        "datetime":"2025-12-26T06:45:00.000",
-        "symbol":"NSE:WIPRO",
-        "open":267.3,
-        "high":267.3,
-        "low":266.8,
-        "close":267.07,
-        "volume":60776.0
-    },
-    {
-        "datetime":"2025-12-26T07:00:00.000",
-        "symbol":"NSE:WIPRO",
-        "open":267.08,
-        "high":267.22,
-        "low":266.88,
-        "close":267.11,
-        "volume":40284.0
-    },
-    {
         "datetime":"2025-12-26T07:15:00.000",
         "symbol":"NSE:WIPRO",
         "open":267.11,
@@ -35994,9 +35958,45 @@
         "datetime":"2026-08-20T09:15:00.000",
         "symbol":"NSE:WIPRO",
         "open":180.76,
-        "high":180.76,
+        "high":180.92,
         "low":180.66,
-        "close":180.7,
-        "volume":15051.0
+        "close":180.85,
+        "volume":159412.0
+    },
+    {
+        "datetime":"2026-08-20T09:30:00.000",
+        "symbol":"NSE:WIPRO",
+        "open":180.81,
+        "high":181.1,
+        "low":180.67,
+        "close":180.99,
+        "volume":637666.0
+    },
+    {
+        "datetime":"2026-08-21T03:45:00.000",
+        "symbol":"NSE:WIPRO",
+        "open":180.59,
+        "high":181.37,
+        "low":180.32,
+        "close":180.46,
+        "volume":463539.0
+    },
+    {
+        "datetime":"2026-08-21T04:00:00.000",
+        "symbol":"NSE:WIPRO",
+        "open":180.5,
+        "high":180.69,
+        "low":180.1,
+        "close":180.66,
+        "volume":321479.0
+    },
+    {
+        "datetime":"2026-08-21T04:15:00.000",
+        "symbol":"NSE:WIPRO",
+        "open":180.67,
+        "high":180.89,
+        "low":180.67,
+        "close":180.85,
+        "volume":50123.0
     }
 ]

@@ -1,41 +1,5 @@
 [
     {
-        "datetime":"2025-12-26T06:15:00.000",
-        "symbol":"NSE:IRFC",
-        "open":132.88,
-        "high":132.88,
-        "low":132.1,
-        "close":132.18,
-        "volume":3581785.0
-    },
-    {
-        "datetime":"2025-12-26T06:30:00.000",
-        "symbol":"NSE:IRFC",
-        "open":132.2,
-        "high":132.68,
-        "low":131.88,
-        "close":132.47,
-        "volume":3151637.0
-    },
-    {
-        "datetime":"2025-12-26T06:45:00.000",
-        "symbol":"NSE:IRFC",
-        "open":132.53,
-        "high":132.66,
-        "low":132.24,
-        "close":132.55,
-        "volume":2169218.0
-    },
-    {
-        "datetime":"2025-12-26T07:00:00.000",
-        "symbol":"NSE:IRFC",
-        "open":132.52,
-        "high":132.74,
-        "low":132.35,
-        "close":132.44,
-        "volume":2739476.0
-    },
-    {
         "datetime":"2025-12-26T07:15:00.000",
         "symbol":"NSE:IRFC",
         "open":132.42,
@@ -35994,9 +35958,45 @@
         "datetime":"2026-08-20T09:15:00.000",
         "symbol":"NSE:IRFC",
         "open":86.46,
-        "high":86.46,
-        "low":86.45,
-        "close":86.45,
-        "volume":4601.0
+        "high":86.59,
+        "low":86.4,
+        "close":86.41,
+        "volume":202545.0
+    },
+    {
+        "datetime":"2026-08-20T09:30:00.000",
+        "symbol":"NSE:IRFC",
+        "open":86.41,
+        "high":86.44,
+        "low":86.2,
+        "close":86.36,
+        "volume":888417.0
+    },
+    {
+        "datetime":"2026-08-21T03:45:00.000",
+        "symbol":"NSE:IRFC",
+        "open":86.55,
+        "high":86.86,
+        "low":86.34,
+        "close":86.57,
+        "volume":632997.0
+    },
+    {
+        "datetime":"2026-08-21T04:00:00.000",
+        "symbol":"NSE:IRFC",
+        "open":86.61,
+        "high":86.98,
+        "low":86.3,
+        "close":86.9,
+        "volume":537962.0
+    },
+    {
+        "datetime":"2026-08-21T04:15:00.000",
+        "symbol":"NSE:IRFC",
+        "open":86.87,
+        "high":86.87,
+        "low":86.78,
+        "close":86.81,
+        "volume":51786.0
     }
 ]

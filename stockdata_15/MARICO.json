@@ -1,41 +1,5 @@
 [
     {
-        "datetime":"2025-12-26T06:15:00.000",
-        "symbol":"NSE:MARICO",
-        "open":735.0,
-        "high":738.3,
-        "low":734.65,
-        "close":738.0,
-        "volume":46716.0
-    },
-    {
-        "datetime":"2025-12-26T06:30:00.000",
-        "symbol":"NSE:MARICO",
-        "open":738.0,
-        "high":738.55,
-        "low":737.0,
-        "close":738.15,
-        "volume":23739.0
-    },
-    {
-        "datetime":"2025-12-26T06:45:00.000",
-        "symbol":"NSE:MARICO",
-        "open":738.0,
-        "high":739.65,
-        "low":737.75,
-        "close":739.05,
-        "volume":17960.0
-    },
-    {
-        "datetime":"2025-12-26T07:00:00.000",
-        "symbol":"NSE:MARICO",
-        "open":739.1,
-        "high":740.6,
-        "low":739.0,
-        "close":739.7,
-        "volume":47512.0
-    },
-    {
         "datetime":"2025-12-26T07:15:00.000",
         "symbol":"NSE:MARICO",
         "open":740.0,
@@ -35994,9 +35958,45 @@
         "datetime":"2026-08-20T09:15:00.000",
         "symbol":"NSE:MARICO",
         "open":855.05,
-        "high":855.1,
+        "high":856.1,
         "low":854.7,
+        "close":855.3,
+        "volume":45861.0
+    },
+    {
+        "datetime":"2026-08-20T09:30:00.000",
+        "symbol":"NSE:MARICO",
+        "open":855.1,
+        "high":857.0,
+        "low":853.3,
         "close":855.0,
-        "volume":3061.0
+        "volume":140040.0
+    },
+    {
+        "datetime":"2026-08-21T03:45:00.000",
+        "symbol":"NSE:MARICO",
+        "open":857.1,
+        "high":857.1,
+        "low":848.45,
+        "close":848.45,
+        "volume":62284.0
+    },
+    {
+        "datetime":"2026-08-21T04:00:00.000",
+        "symbol":"NSE:MARICO",
+        "open":848.7,
+        "high":850.0,
+        "low":847.1,
+        "close":848.55,
+        "volume":32682.0
+    },
+    {
+        "datetime":"2026-08-21T04:15:00.000",
+        "symbol":"NSE:MARICO",
+        "open":849.2,
+        "high":849.2,
+        "low":846.55,
+        "close":847.0,
+        "volume":8484.0
     }
 ]
