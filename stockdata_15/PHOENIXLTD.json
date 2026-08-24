@@ -1,59 +1,5 @@
 [
     {
-        "datetime":"2025-12-29T06:15:00.000",
-        "symbol":"NSE:PHOENIXLTD",
-        "open":1837.4,
-        "high":1839.9,
-        "low":1834.3,
-        "close":1839.3,
-        "volume":6843.0
-    },
-    {
-        "datetime":"2025-12-29T06:30:00.000",
-        "symbol":"NSE:PHOENIXLTD",
-        "open":1838.2,
-        "high":1840.0,
-        "low":1837.6,
-        "close":1838.2,
-        "volume":6971.0
-    },
-    {
-        "datetime":"2025-12-29T06:45:00.000",
-        "symbol":"NSE:PHOENIXLTD",
-        "open":1838.2,
-        "high":1840.0,
-        "low":1837.6,
-        "close":1839.1,
-        "volume":6650.0
-    },
-    {
-        "datetime":"2025-12-29T07:00:00.000",
-        "symbol":"NSE:PHOENIXLTD",
-        "open":1838.0,
-        "high":1839.5,
-        "low":1831.6,
-        "close":1835.4,
-        "volume":7758.0
-    },
-    {
-        "datetime":"2025-12-29T07:15:00.000",
-        "symbol":"NSE:PHOENIXLTD",
-        "open":1834.9,
-        "high":1839.0,
-        "low":1834.4,
-        "close":1837.1,
-        "volume":7019.0
-    },
-    {
-        "datetime":"2025-12-29T07:30:00.000",
-        "symbol":"NSE:PHOENIXLTD",
-        "open":1835.7,
-        "high":1840.0,
-        "low":1835.1,
-        "close":1836.6,
-        "volume":8515.0
-    },
-    {
         "datetime":"2025-12-29T07:45:00.000",
         "symbol":"NSE:PHOENIXLTD",
         "open":1836.2,
@@ -35994,9 +35940,63 @@
         "datetime":"2026-08-21T09:30:00.000",
         "symbol":"NSE:PHOENIXLTD",
         "open":1919.8,
-        "high":1922.9,
+        "high":1925.0,
         "low":1919.4,
-        "close":1921.7,
-        "volume":9262.0
+        "close":1924.2,
+        "volume":24374.0
+    },
+    {
+        "datetime":"2026-08-24T03:45:00.000",
+        "symbol":"NSE:PHOENIXLTD",
+        "open":1916.9,
+        "high":1937.0,
+        "low":1915.1,
+        "close":1935.0,
+        "volume":9725.0
+    },
+    {
+        "datetime":"2026-08-24T04:00:00.000",
+        "symbol":"NSE:PHOENIXLTD",
+        "open":1938.5,
+        "high":1938.9,
+        "low":1932.6,
+        "close":1933.5,
+        "volume":3040.0
+    },
+    {
+        "datetime":"2026-08-24T04:15:00.000",
+        "symbol":"NSE:PHOENIXLTD",
+        "open":1934.9,
+        "high":1936.2,
+        "low":1923.3,
+        "close":1924.9,
+        "volume":7226.0
+    },
+    {
+        "datetime":"2026-08-24T04:30:00.000",
+        "symbol":"NSE:PHOENIXLTD",
+        "open":1924.0,
+        "high":1925.1,
+        "low":1920.6,
+        "close":1922.0,
+        "volume":12608.0
+    },
+    {
+        "datetime":"2026-08-24T04:45:00.000",
+        "symbol":"NSE:PHOENIXLTD",
+        "open":1922.0,
+        "high":1926.7,
+        "low":1921.0,
+        "close":1926.7,
+        "volume":8984.0
+    },
+    {
+        "datetime":"2026-08-24T05:00:00.000",
+        "symbol":"NSE:PHOENIXLTD",
+        "open":1928.4,
+        "high":1929.3,
+        "low":1923.3,
+        "close":1923.5,
+        "volume":3167.0
     }
 ]

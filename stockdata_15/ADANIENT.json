@@ -1,68 +1,5 @@
 [
     {
-        "datetime":"2025-12-29T06:15:00.000",
-        "symbol":"NSE:ADANIENT",
-        "open":2221.5,
-        "high":2223.2,
-        "low":2220.3,
-        "close":2221.0,
-        "volume":18405.0
-    },
-    {
-        "datetime":"2025-12-29T06:30:00.000",
-        "symbol":"NSE:ADANIENT",
-        "open":2221.0,
-        "high":2221.5,
-        "low":2215.0,
-        "close":2217.5,
-        "volume":18645.0
-    },
-    {
-        "datetime":"2025-12-29T06:45:00.000",
-        "symbol":"NSE:ADANIENT",
-        "open":2217.5,
-        "high":2218.0,
-        "low":2213.0,
-        "close":2214.0,
-        "volume":22769.0
-    },
-    {
-        "datetime":"2025-12-29T07:00:00.000",
-        "symbol":"NSE:ADANIENT",
-        "open":2214.0,
-        "high":2217.1,
-        "low":2213.9,
-        "close":2216.5,
-        "volume":11457.0
-    },
-    {
-        "datetime":"2025-12-29T07:15:00.000",
-        "symbol":"NSE:ADANIENT",
-        "open":2216.5,
-        "high":2216.9,
-        "low":2213.7,
-        "close":2213.7,
-        "volume":13927.0
-    },
-    {
-        "datetime":"2025-12-29T07:30:00.000",
-        "symbol":"NSE:ADANIENT",
-        "open":2214.4,
-        "high":2216.0,
-        "low":2213.0,
-        "close":2213.0,
-        "volume":7368.0
-    },
-    {
-        "datetime":"2025-12-29T07:45:00.000",
-        "symbol":"NSE:ADANIENT",
-        "open":2213.8,
-        "high":2214.2,
-        "low":2211.3,
-        "close":2212.6,
-        "volume":12953.0
-    },
-    {
         "datetime":"2025-12-29T08:00:00.000",
         "symbol":"NSE:ADANIENT",
         "open":2212.2,
@@ -35502,7 +35439,7 @@
         "high":2980.9,
         "low":2977.0,
         "close":2977.8,
-        "volume":9958.0
+        "volume":12596.0
     },
     {
         "datetime":"2026-08-19T08:00:00.000",
@@ -35994,9 +35931,72 @@
         "datetime":"2026-08-21T09:30:00.000",
         "symbol":"NSE:ADANIENT",
         "open":2995.2,
-        "high":2997.0,
-        "low":2990.6,
-        "close":2990.6,
-        "volume":36699.0
+        "high":2998.0,
+        "low":2987.4,
+        "close":2997.0,
+        "volume":81051.0
+    },
+    {
+        "datetime":"2026-08-24T03:45:00.000",
+        "symbol":"NSE:ADANIENT",
+        "open":3009.6,
+        "high":3015.9,
+        "low":2997.6,
+        "close":3012.3,
+        "volume":84125.0
+    },
+    {
+        "datetime":"2026-08-24T04:00:00.000",
+        "symbol":"NSE:ADANIENT",
+        "open":3011.7,
+        "high":3018.7,
+        "low":3007.3,
+        "close":3009.3,
+        "volume":36754.0
+    },
+    {
+        "datetime":"2026-08-24T04:15:00.000",
+        "symbol":"NSE:ADANIENT",
+        "open":3009.6,
+        "high":3019.8,
+        "low":3006.1,
+        "close":3015.6,
+        "volume":40597.0
+    },
+    {
+        "datetime":"2026-08-24T04:30:00.000",
+        "symbol":"NSE:ADANIENT",
+        "open":3015.6,
+        "high":3016.0,
+        "low":3012.4,
+        "close":3014.0,
+        "volume":22311.0
+    },
+    {
+        "datetime":"2026-08-24T04:45:00.000",
+        "symbol":"NSE:ADANIENT",
+        "open":3014.3,
+        "high":3017.8,
+        "low":3013.0,
+        "close":3013.1,
+        "volume":25350.0
+    },
+    {
+        "datetime":"2026-08-24T05:00:00.000",
+        "symbol":"NSE:ADANIENT",
+        "open":3013.1,
+        "high":3016.3,
+        "low":3013.1,
+        "close":3014.8,
+        "volume":15948.0
+    },
+    {
+        "datetime":"2026-08-24T05:15:00.000",
+        "symbol":"NSE:ADANIENT",
+        "open":3014.4,
+        "high":3015.6,
+        "low":3014.4,
+        "close":3015.0,
+        "volume":433.0
     }
 ]

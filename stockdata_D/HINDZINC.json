@@ -1,14 +1,5 @@
 [
     {
-        "datetime":"2010-06-25T03:45:00.000",
-        "symbol":"NSE:HINDZINC",
-        "open":97.3,
-        "high":98.740002,
-        "low":95.840002,
-        "close":96.290002,
-        "volume":1791030.0
-    },
-    {
         "datetime":"2010-06-28T03:45:00.000",
         "symbol":"NSE:HINDZINC",
         "open":97.0,
@@ -35996,7 +35987,16 @@
         "open":582.0,
         "high":598.5,
         "low":579.6,
-        "close":595.5,
-        "volume":13471682.0
+        "close":594.9,
+        "volume":14189716.0
+    },
+    {
+        "datetime":"2026-08-24T03:45:00.000",
+        "symbol":"NSE:HINDZINC",
+        "open":595.95,
+        "high":599.9,
+        "low":592.85,
+        "close":594.95,
+        "volume":1558274.0
     }
 ]

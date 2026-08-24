@@ -1,14 +1,5 @@
 [
     {
-        "datetime":"2010-06-25T03:45:00.000",
-        "symbol":"NSE:EICHERMOT",
-        "open":91.2,
-        "high":91.495001,
-        "low":89.0,
-        "close":89.675,
-        "volume":206120.0
-    },
-    {
         "datetime":"2010-06-28T03:45:00.000",
         "symbol":"NSE:EICHERMOT",
         "open":90.0,
@@ -35996,7 +35987,16 @@
         "open":8095.0,
         "high":8112.5,
         "low":7980.0,
-        "close":8007.5,
-        "volume":272718.0
+        "close":8010.0,
+        "volume":316029.0
+    },
+    {
+        "datetime":"2026-08-24T03:45:00.000",
+        "symbol":"NSE:EICHERMOT",
+        "open":8010.0,
+        "high":8065.0,
+        "low":7970.0,
+        "close":8063.0,
+        "volume":43755.0
     }
 ]

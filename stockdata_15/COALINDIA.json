@@ -1,59 +1,5 @@
 [
     {
-        "datetime":"2025-12-29T06:15:00.000",
-        "symbol":"NSE:COALINDIA",
-        "open":400.7,
-        "high":401.7,
-        "low":400.4,
-        "close":401.65,
-        "volume":141839.0
-    },
-    {
-        "datetime":"2025-12-29T06:30:00.000",
-        "symbol":"NSE:COALINDIA",
-        "open":401.5,
-        "high":401.75,
-        "low":400.8,
-        "close":401.45,
-        "volume":103699.0
-    },
-    {
-        "datetime":"2025-12-29T06:45:00.000",
-        "symbol":"NSE:COALINDIA",
-        "open":401.45,
-        "high":401.45,
-        "low":400.15,
-        "close":400.65,
-        "volume":123286.0
-    },
-    {
-        "datetime":"2025-12-29T07:00:00.000",
-        "symbol":"NSE:COALINDIA",
-        "open":400.65,
-        "high":400.7,
-        "low":399.0,
-        "close":399.3,
-        "volume":187210.0
-    },
-    {
-        "datetime":"2025-12-29T07:15:00.000",
-        "symbol":"NSE:COALINDIA",
-        "open":399.35,
-        "high":400.7,
-        "low":399.05,
-        "close":400.15,
-        "volume":194330.0
-    },
-    {
-        "datetime":"2025-12-29T07:30:00.000",
-        "symbol":"NSE:COALINDIA",
-        "open":400.1,
-        "high":400.1,
-        "low":399.2,
-        "close":399.4,
-        "volume":140820.0
-    },
-    {
         "datetime":"2025-12-29T07:45:00.000",
         "symbol":"NSE:COALINDIA",
         "open":399.4,
@@ -35996,7 +35942,61 @@
         "open":404.45,
         "high":404.45,
         "low":404.0,
-        "close":404.15,
-        "volume":289697.0
+        "close":404.35,
+        "volume":684415.0
+    },
+    {
+        "datetime":"2026-08-24T03:45:00.000",
+        "symbol":"NSE:COALINDIA",
+        "open":406.25,
+        "high":410.95,
+        "low":405.6,
+        "close":407.4,
+        "volume":678018.0
+    },
+    {
+        "datetime":"2026-08-24T04:00:00.000",
+        "symbol":"NSE:COALINDIA",
+        "open":407.35,
+        "high":407.7,
+        "low":406.5,
+        "close":407.65,
+        "volume":153324.0
+    },
+    {
+        "datetime":"2026-08-24T04:15:00.000",
+        "symbol":"NSE:COALINDIA",
+        "open":407.55,
+        "high":407.7,
+        "low":406.8,
+        "close":407.15,
+        "volume":98980.0
+    },
+    {
+        "datetime":"2026-08-24T04:30:00.000",
+        "symbol":"NSE:COALINDIA",
+        "open":407.15,
+        "high":407.4,
+        "low":407.0,
+        "close":407.2,
+        "volume":55976.0
+    },
+    {
+        "datetime":"2026-08-24T04:45:00.000",
+        "symbol":"NSE:COALINDIA",
+        "open":407.2,
+        "high":407.4,
+        "low":406.55,
+        "close":406.8,
+        "volume":103828.0
+    },
+    {
+        "datetime":"2026-08-24T05:00:00.000",
+        "symbol":"NSE:COALINDIA",
+        "open":406.65,
+        "high":407.15,
+        "low":406.55,
+        "close":407.1,
+        "volume":92341.0
     }
 ]

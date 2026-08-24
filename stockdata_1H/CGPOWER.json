@@ -1,23 +1,5 @@
 [
     {
-        "datetime":"2024-04-29T04:45:00.000",
-        "symbol":"NSE:CGPOWER",
-        "open":559.0,
-        "high":565.0,
-        "low":558.65,
-        "close":560.75,
-        "volume":443003.0
-    },
-    {
-        "datetime":"2024-04-29T05:45:00.000",
-        "symbol":"NSE:CGPOWER",
-        "open":560.85,
-        "high":564.0,
-        "low":559.0,
-        "close":563.35,
-        "volume":208239.0
-    },
-    {
         "datetime":"2024-04-29T06:45:00.000",
         "symbol":"NSE:CGPOWER",
         "open":563.5,
@@ -35995,8 +35977,26 @@
         "symbol":"NSE:CGPOWER",
         "open":870.3,
         "high":870.6,
-        "low":866.0,
-        "close":866.65,
-        "volume":225112.0
+        "low":865.0,
+        "close":866.0,
+        "volume":279080.0
+    },
+    {
+        "datetime":"2026-08-24T03:45:00.000",
+        "symbol":"NSE:CGPOWER",
+        "open":867.0,
+        "high":876.35,
+        "low":865.35,
+        "close":871.95,
+        "volume":231964.0
+    },
+    {
+        "datetime":"2026-08-24T04:45:00.000",
+        "symbol":"NSE:CGPOWER",
+        "open":871.5,
+        "high":875.1,
+        "low":870.6,
+        "close":871.1,
+        "volume":53496.0
     }
 ]

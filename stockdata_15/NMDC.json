@@ -1,59 +1,5 @@
 [
     {
-        "datetime":"2025-12-29T06:15:00.000",
-        "symbol":"NSE:NMDC",
-        "open":82.7,
-        "high":82.88,
-        "low":82.5,
-        "close":82.52,
-        "volume":725400.0
-    },
-    {
-        "datetime":"2025-12-29T06:30:00.000",
-        "symbol":"NSE:NMDC",
-        "open":82.58,
-        "high":82.58,
-        "low":81.77,
-        "close":81.84,
-        "volume":1779387.0
-    },
-    {
-        "datetime":"2025-12-29T06:45:00.000",
-        "symbol":"NSE:NMDC",
-        "open":81.79,
-        "high":81.84,
-        "low":81.47,
-        "close":81.59,
-        "volume":1165555.0
-    },
-    {
-        "datetime":"2025-12-29T07:00:00.000",
-        "symbol":"NSE:NMDC",
-        "open":81.59,
-        "high":81.65,
-        "low":81.4,
-        "close":81.6,
-        "volume":695777.0
-    },
-    {
-        "datetime":"2025-12-29T07:15:00.000",
-        "symbol":"NSE:NMDC",
-        "open":81.63,
-        "high":81.9,
-        "low":81.48,
-        "close":81.49,
-        "volume":564844.0
-    },
-    {
-        "datetime":"2025-12-29T07:30:00.000",
-        "symbol":"NSE:NMDC",
-        "open":81.47,
-        "high":81.52,
-        "low":81.03,
-        "close":81.12,
-        "volume":1193383.0
-    },
-    {
         "datetime":"2025-12-29T07:45:00.000",
         "symbol":"NSE:NMDC",
         "open":81.12,
@@ -35995,8 +35941,62 @@
         "symbol":"NSE:NMDC",
         "open":84.27,
         "high":84.37,
-        "low":84.2,
-        "close":84.35,
-        "volume":441944.0
+        "low":84.19,
+        "close":84.28,
+        "volume":1520478.0
+    },
+    {
+        "datetime":"2026-08-24T03:45:00.000",
+        "symbol":"NSE:NMDC",
+        "open":84.63,
+        "high":85.43,
+        "low":84.51,
+        "close":84.9,
+        "volume":1727467.0
+    },
+    {
+        "datetime":"2026-08-24T04:00:00.000",
+        "symbol":"NSE:NMDC",
+        "open":84.9,
+        "high":85.06,
+        "low":84.84,
+        "close":84.96,
+        "volume":561396.0
+    },
+    {
+        "datetime":"2026-08-24T04:15:00.000",
+        "symbol":"NSE:NMDC",
+        "open":85.0,
+        "high":85.24,
+        "low":84.88,
+        "close":85.15,
+        "volume":1745066.0
+    },
+    {
+        "datetime":"2026-08-24T04:30:00.000",
+        "symbol":"NSE:NMDC",
+        "open":85.15,
+        "high":85.29,
+        "low":85.04,
+        "close":85.07,
+        "volume":997324.0
+    },
+    {
+        "datetime":"2026-08-24T04:45:00.000",
+        "symbol":"NSE:NMDC",
+        "open":85.07,
+        "high":85.44,
+        "low":85.03,
+        "close":85.17,
+        "volume":742929.0
+    },
+    {
+        "datetime":"2026-08-24T05:00:00.000",
+        "symbol":"NSE:NMDC",
+        "open":85.2,
+        "high":85.41,
+        "low":85.16,
+        "close":85.37,
+        "volume":529012.0
     }
 ]

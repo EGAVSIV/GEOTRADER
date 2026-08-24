@@ -1,59 +1,5 @@
 [
     {
-        "datetime":"2025-12-29T06:15:00.000",
-        "symbol":"NSE:OIL",
-        "open":406.8,
-        "high":407.55,
-        "low":406.35,
-        "close":406.6,
-        "volume":31706.0
-    },
-    {
-        "datetime":"2025-12-29T06:30:00.000",
-        "symbol":"NSE:OIL",
-        "open":406.5,
-        "high":407.25,
-        "low":406.5,
-        "close":406.5,
-        "volume":24926.0
-    },
-    {
-        "datetime":"2025-12-29T06:45:00.000",
-        "symbol":"NSE:OIL",
-        "open":406.5,
-        "high":406.65,
-        "low":404.85,
-        "close":405.3,
-        "volume":39960.0
-    },
-    {
-        "datetime":"2025-12-29T07:00:00.000",
-        "symbol":"NSE:OIL",
-        "open":405.1,
-        "high":405.35,
-        "low":404.85,
-        "close":405.15,
-        "volume":35345.0
-    },
-    {
-        "datetime":"2025-12-29T07:15:00.000",
-        "symbol":"NSE:OIL",
-        "open":405.15,
-        "high":405.5,
-        "low":404.8,
-        "close":405.0,
-        "volume":38052.0
-    },
-    {
-        "datetime":"2025-12-29T07:30:00.000",
-        "symbol":"NSE:OIL",
-        "open":405.0,
-        "high":405.6,
-        "low":404.85,
-        "close":404.9,
-        "volume":14449.0
-    },
-    {
         "datetime":"2025-12-29T07:45:00.000",
         "symbol":"NSE:OIL",
         "open":404.9,
@@ -35994,9 +35940,63 @@
         "datetime":"2026-08-21T09:30:00.000",
         "symbol":"NSE:OIL",
         "open":475.95,
-        "high":476.0,
-        "low":475.75,
-        "close":476.0,
-        "volume":8652.0
+        "high":476.3,
+        "low":475.0,
+        "close":475.45,
+        "volume":82204.0
+    },
+    {
+        "datetime":"2026-08-24T03:45:00.000",
+        "symbol":"NSE:OIL",
+        "open":473.5,
+        "high":476.9,
+        "low":472.0,
+        "close":475.8,
+        "volume":64154.0
+    },
+    {
+        "datetime":"2026-08-24T04:00:00.000",
+        "symbol":"NSE:OIL",
+        "open":475.7,
+        "high":476.85,
+        "low":475.2,
+        "close":476.85,
+        "volume":20586.0
+    },
+    {
+        "datetime":"2026-08-24T04:15:00.000",
+        "symbol":"NSE:OIL",
+        "open":476.85,
+        "high":476.85,
+        "low":474.25,
+        "close":475.65,
+        "volume":53511.0
+    },
+    {
+        "datetime":"2026-08-24T04:30:00.000",
+        "symbol":"NSE:OIL",
+        "open":475.65,
+        "high":476.65,
+        "low":475.25,
+        "close":476.5,
+        "volume":15872.0
+    },
+    {
+        "datetime":"2026-08-24T04:45:00.000",
+        "symbol":"NSE:OIL",
+        "open":476.5,
+        "high":477.35,
+        "low":476.45,
+        "close":476.65,
+        "volume":18503.0
+    },
+    {
+        "datetime":"2026-08-24T05:00:00.000",
+        "symbol":"NSE:OIL",
+        "open":476.7,
+        "high":477.5,
+        "low":476.2,
+        "close":477.0,
+        "volume":25037.0
     }
 ]

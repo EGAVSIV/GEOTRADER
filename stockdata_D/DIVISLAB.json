@@ -1,14 +1,5 @@
 [
     {
-        "datetime":"2010-06-25T03:45:00.000",
-        "symbol":"NSE:DIVISLAB",
-        "open":381.0,
-        "high":388.225005,
-        "low":380.0,
-        "close":383.875,
-        "volume":267388.0
-    },
-    {
         "datetime":"2010-06-28T03:45:00.000",
         "symbol":"NSE:DIVISLAB",
         "open":385.0,
@@ -35996,7 +35987,16 @@
         "open":8600.0,
         "high":8610.0,
         "low":8505.5,
-        "close":8518.0,
-        "volume":165905.0
+        "close":8597.0,
+        "volume":180697.0
+    },
+    {
+        "datetime":"2026-08-24T03:45:00.000",
+        "symbol":"NSE:DIVISLAB",
+        "open":8558.5,
+        "high":8563.5,
+        "low":8457.5,
+        "close":8482.0,
+        "volume":72826.0
     }
 ]

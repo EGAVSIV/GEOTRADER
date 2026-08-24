@@ -1,14 +1,5 @@
 [
     {
-        "datetime":"2010-06-25T03:45:00.000",
-        "symbol":"NSE:CHOLAFIN",
-        "open":27.69,
-        "high":27.75,
-        "low":26.5,
-        "close":26.79,
-        "volume":548875.0
-    },
-    {
         "datetime":"2010-06-28T03:45:00.000",
         "symbol":"NSE:CHOLAFIN",
         "open":26.820002,
@@ -35996,7 +35987,16 @@
         "open":1888.9,
         "high":1890.1,
         "low":1855.0,
-        "close":1864.6,
-        "volume":833595.0
+        "close":1862.9,
+        "volume":902331.0
+    },
+    {
+        "datetime":"2026-08-24T03:45:00.000",
+        "symbol":"NSE:CHOLAFIN",
+        "open":1856.3,
+        "high":1868.7,
+        "low":1845.8,
+        "close":1847.0,
+        "volume":157148.0
     }
 ]

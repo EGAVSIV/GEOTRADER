@@ -1,14 +1,5 @@
 [
     {
-        "datetime":"2010-06-25T03:45:00.000",
-        "symbol":"NSE:LICHSGFIN",
-        "open":206.0,
-        "high":206.98,
-        "low":202.4,
-        "close":203.2,
-        "volume":1636695.0
-    },
-    {
         "datetime":"2010-06-28T03:45:00.000",
         "symbol":"NSE:LICHSGFIN",
         "open":203.4,
@@ -35996,7 +35987,16 @@
         "open":500.0,
         "high":500.8,
         "low":491.0,
-        "close":494.75,
-        "volume":2602917.0
+        "close":497.0,
+        "volume":3123216.0
+    },
+    {
+        "datetime":"2026-08-24T03:45:00.000",
+        "symbol":"NSE:LICHSGFIN",
+        "open":496.8,
+        "high":499.95,
+        "low":493.65,
+        "close":498.65,
+        "volume":541088.0
     }
 ]
