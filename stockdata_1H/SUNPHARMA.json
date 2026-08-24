@@ -1,14 +1,5 @@
 [
     {
-        "datetime":"2024-04-29T06:45:00.000",
-        "symbol":"NSE:SUNPHARMA",
-        "open":1522.1,
-        "high":1525.05,
-        "low":1518.55,
-        "close":1524.65,
-        "volume":147232.0
-    },
-    {
         "datetime":"2024-04-29T07:45:00.000",
         "symbol":"NSE:SUNPHARMA",
         "open":1524.8,
@@ -35994,9 +35985,18 @@
         "datetime":"2026-08-24T04:45:00.000",
         "symbol":"NSE:SUNPHARMA",
         "open":1906.8,
-        "high":1911.9,
+        "high":1922.0,
         "low":1906.3,
-        "close":1908.4,
-        "volume":92890.0
+        "close":1920.7,
+        "volume":451804.0
+    },
+    {
+        "datetime":"2026-08-24T05:45:00.000",
+        "symbol":"NSE:SUNPHARMA",
+        "open":1920.1,
+        "high":1923.0,
+        "low":1918.8,
+        "close":1922.3,
+        "volume":54917.0
     }
 ]

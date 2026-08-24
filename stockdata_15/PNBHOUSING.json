@@ -1,32 +1,5 @@
 [
     {
-        "datetime":"2025-12-29T07:45:00.000",
-        "symbol":"NSE:PNBHOUSING",
-        "open":931.7,
-        "high":932.4,
-        "low":930.6,
-        "close":931.05,
-        "volume":13145.0
-    },
-    {
-        "datetime":"2025-12-29T08:00:00.000",
-        "symbol":"NSE:PNBHOUSING",
-        "open":931.05,
-        "high":931.35,
-        "low":929.0,
-        "close":929.9,
-        "volume":8306.0
-    },
-    {
-        "datetime":"2025-12-29T08:15:00.000",
-        "symbol":"NSE:PNBHOUSING",
-        "open":929.8,
-        "high":933.9,
-        "low":929.25,
-        "close":930.2,
-        "volume":21796.0
-    },
-    {
         "datetime":"2025-12-29T08:30:00.000",
         "symbol":"NSE:PNBHOUSING",
         "open":930.2,
@@ -35445,10 +35418,10 @@
         "datetime":"2026-08-19T07:45:00.000",
         "symbol":"NSE:PNBHOUSING",
         "open":1162.3,
-        "high":1169.5,
+        "high":1170.6,
         "low":1161.0,
         "close":1169.1,
-        "volume":18597.0
+        "volume":41911.0
     },
     {
         "datetime":"2026-08-19T08:00:00.000",
@@ -35994,9 +35967,36 @@
         "datetime":"2026-08-24T05:00:00.000",
         "symbol":"NSE:PNBHOUSING",
         "open":1158.5,
-        "high":1169.4,
+        "high":1170.2,
         "low":1158.1,
-        "close":1169.4,
-        "volume":97547.0
+        "close":1168.7,
+        "volume":105121.0
+    },
+    {
+        "datetime":"2026-08-24T05:15:00.000",
+        "symbol":"NSE:PNBHOUSING",
+        "open":1169.3,
+        "high":1171.6,
+        "low":1165.3,
+        "close":1167.8,
+        "volume":41991.0
+    },
+    {
+        "datetime":"2026-08-24T05:30:00.000",
+        "symbol":"NSE:PNBHOUSING",
+        "open":1167.7,
+        "high":1169.4,
+        "low":1162.7,
+        "close":1163.2,
+        "volume":17121.0
+    },
+    {
+        "datetime":"2026-08-24T05:45:00.000",
+        "symbol":"NSE:PNBHOUSING",
+        "open":1163.2,
+        "high":1163.9,
+        "low":1160.6,
+        "close":1161.0,
+        "volume":4306.0
     }
 ]

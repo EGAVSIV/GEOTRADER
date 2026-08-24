@@ -1,14 +1,5 @@
 [
     {
-        "datetime":"2024-04-29T06:45:00.000",
-        "symbol":"NSE:PNBHOUSING",
-        "open":764.75,
-        "high":770.45,
-        "low":764.6,
-        "close":768.6,
-        "volume":63875.0
-    },
-    {
         "datetime":"2024-04-29T07:45:00.000",
         "symbol":"NSE:PNBHOUSING",
         "open":768.6,
@@ -35925,7 +35916,7 @@
         "high":1182.9,
         "low":1170.1,
         "close":1173.2,
-        "volume":237509.0
+        "volume":237245.0
     },
     {
         "datetime":"2026-08-21T03:45:00.000",
@@ -35994,9 +35985,18 @@
         "datetime":"2026-08-24T04:45:00.000",
         "symbol":"NSE:PNBHOUSING",
         "open":1155.4,
-        "high":1170.2,
+        "high":1171.6,
         "low":1154.7,
-        "close":1169.1,
-        "volume":122860.0
+        "close":1163.2,
+        "volume":181174.0
+    },
+    {
+        "datetime":"2026-08-24T05:45:00.000",
+        "symbol":"NSE:PNBHOUSING",
+        "open":1163.2,
+        "high":1163.9,
+        "low":1160.6,
+        "close":1161.7,
+        "volume":4901.0
     }
 ]

@@ -1,32 +1,5 @@
 [
     {
-        "datetime":"2025-12-29T07:45:00.000",
-        "symbol":"NSE:POLICYBZR",
-        "open":1902.2,
-        "high":1904.3,
-        "low":1901.1,
-        "close":1901.7,
-        "volume":13553.0
-    },
-    {
-        "datetime":"2025-12-29T08:00:00.000",
-        "symbol":"NSE:POLICYBZR",
-        "open":1901.2,
-        "high":1902.9,
-        "low":1899.6,
-        "close":1901.0,
-        "volume":10187.0
-    },
-    {
-        "datetime":"2025-12-29T08:15:00.000",
-        "symbol":"NSE:POLICYBZR",
-        "open":1901.8,
-        "high":1902.0,
-        "low":1896.1,
-        "close":1896.6,
-        "volume":4753.0
-    },
-    {
         "datetime":"2025-12-29T08:30:00.000",
         "symbol":"NSE:POLICYBZR",
         "open":1896.2,
@@ -35996,7 +35969,34 @@
         "open":1797.7,
         "high":1800.0,
         "low":1794.3,
-        "close":1796.6,
-        "volume":17591.0
+        "close":1795.1,
+        "volume":20620.0
+    },
+    {
+        "datetime":"2026-08-24T05:15:00.000",
+        "symbol":"NSE:POLICYBZR",
+        "open":1795.0,
+        "high":1799.2,
+        "low":1791.4,
+        "close":1795.0,
+        "volume":27079.0
+    },
+    {
+        "datetime":"2026-08-24T05:30:00.000",
+        "symbol":"NSE:POLICYBZR",
+        "open":1795.0,
+        "high":1796.4,
+        "low":1784.0,
+        "close":1790.3,
+        "volume":29236.0
+    },
+    {
+        "datetime":"2026-08-24T05:45:00.000",
+        "symbol":"NSE:POLICYBZR",
+        "open":1790.0,
+        "high":1792.5,
+        "low":1786.2,
+        "close":1788.9,
+        "volume":11304.0
     }
 ]

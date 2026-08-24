@@ -1,14 +1,5 @@
 [
     {
-        "datetime":"2024-04-29T06:45:00.000",
-        "symbol":"NSE:HINDALCO",
-        "open":646.5,
-        "high":646.7,
-        "low":644.05,
-        "close":644.5,
-        "volume":293341.0
-    },
-    {
         "datetime":"2024-04-29T07:45:00.000",
         "symbol":"NSE:HINDALCO",
         "open":644.5,
@@ -35996,7 +35987,16 @@
         "open":1049.6,
         "high":1058.5,
         "low":1049.6,
-        "close":1055.0,
-        "volume":543997.0
+        "close":1053.7,
+        "volume":805073.0
+    },
+    {
+        "datetime":"2026-08-24T05:45:00.000",
+        "symbol":"NSE:HINDALCO",
+        "open":1054.1,
+        "high":1055.6,
+        "low":1053.7,
+        "close":1055.25,
+        "volume":75125.0
     }
 ]

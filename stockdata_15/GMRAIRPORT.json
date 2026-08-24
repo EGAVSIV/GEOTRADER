@@ -1,32 +1,5 @@
 [
     {
-        "datetime":"2025-12-29T07:45:00.000",
-        "symbol":"NSE:GMRAIRPORT",
-        "open":101.41,
-        "high":101.59,
-        "low":101.21,
-        "close":101.33,
-        "volume":884504.0
-    },
-    {
-        "datetime":"2025-12-29T08:00:00.000",
-        "symbol":"NSE:GMRAIRPORT",
-        "open":101.32,
-        "high":101.45,
-        "low":101.17,
-        "close":101.4,
-        "volume":703198.0
-    },
-    {
-        "datetime":"2025-12-29T08:15:00.000",
-        "symbol":"NSE:GMRAIRPORT",
-        "open":101.4,
-        "high":101.85,
-        "low":101.33,
-        "close":101.72,
-        "volume":1006957.0
-    },
-    {
         "datetime":"2025-12-29T08:30:00.000",
         "symbol":"NSE:GMRAIRPORT",
         "open":101.7,
@@ -35445,10 +35418,10 @@
         "datetime":"2026-08-19T07:45:00.000",
         "symbol":"NSE:GMRAIRPORT",
         "open":101.81,
-        "high":101.93,
+        "high":101.89,
         "low":101.71,
         "close":101.77,
-        "volume":433521.0
+        "volume":204949.0
     },
     {
         "datetime":"2026-08-19T08:00:00.000",
@@ -35994,9 +35967,36 @@
         "datetime":"2026-08-24T05:00:00.000",
         "symbol":"NSE:GMRAIRPORT",
         "open":99.72,
-        "high":99.93,
+        "high":99.95,
         "low":99.7,
         "close":99.93,
-        "volume":45900.0
+        "volume":56756.0
+    },
+    {
+        "datetime":"2026-08-24T05:15:00.000",
+        "symbol":"NSE:GMRAIRPORT",
+        "open":99.93,
+        "high":99.95,
+        "low":99.58,
+        "close":99.67,
+        "volume":143749.0
+    },
+    {
+        "datetime":"2026-08-24T05:30:00.000",
+        "symbol":"NSE:GMRAIRPORT",
+        "open":99.66,
+        "high":99.71,
+        "low":99.28,
+        "close":99.32,
+        "volume":128745.0
+    },
+    {
+        "datetime":"2026-08-24T05:45:00.000",
+        "symbol":"NSE:GMRAIRPORT",
+        "open":99.31,
+        "high":99.43,
+        "low":99.07,
+        "close":99.17,
+        "volume":155572.0
     }
 ]

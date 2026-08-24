@@ -1,32 +1,5 @@
 [
     {
-        "datetime":"2025-12-29T07:45:00.000",
-        "symbol":"NSE:KALYANKJIL",
-        "open":485.8,
-        "high":485.85,
-        "low":484.65,
-        "close":485.1,
-        "volume":51493.0
-    },
-    {
-        "datetime":"2025-12-29T08:00:00.000",
-        "symbol":"NSE:KALYANKJIL",
-        "open":485.1,
-        "high":485.7,
-        "low":484.1,
-        "close":485.65,
-        "volume":27147.0
-    },
-    {
-        "datetime":"2025-12-29T08:15:00.000",
-        "symbol":"NSE:KALYANKJIL",
-        "open":485.65,
-        "high":486.8,
-        "low":485.65,
-        "close":486.0,
-        "volume":25454.0
-    },
-    {
         "datetime":"2025-12-29T08:30:00.000",
         "symbol":"NSE:KALYANKJIL",
         "open":486.0,
@@ -35994,9 +35967,36 @@
         "datetime":"2026-08-24T05:00:00.000",
         "symbol":"NSE:KALYANKJIL",
         "open":605.7,
-        "high":607.85,
+        "high":608.3,
         "low":605.7,
-        "close":607.75,
-        "volume":206925.0
+        "close":608.3,
+        "volume":228563.0
+    },
+    {
+        "datetime":"2026-08-24T05:15:00.000",
+        "symbol":"NSE:KALYANKJIL",
+        "open":608.15,
+        "high":608.25,
+        "low":605.25,
+        "close":605.25,
+        "volume":111313.0
+    },
+    {
+        "datetime":"2026-08-24T05:30:00.000",
+        "symbol":"NSE:KALYANKJIL",
+        "open":605.2,
+        "high":606.0,
+        "low":604.75,
+        "close":604.75,
+        "volume":104298.0
+    },
+    {
+        "datetime":"2026-08-24T05:45:00.000",
+        "symbol":"NSE:KALYANKJIL",
+        "open":604.8,
+        "high":606.05,
+        "low":604.75,
+        "close":605.1,
+        "volume":74610.0
     }
 ]

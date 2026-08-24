@@ -1,14 +1,5 @@
 [
     {
-        "datetime":"2024-04-29T06:45:00.000",
-        "symbol":"NSE:ZYDUSLIFE",
-        "open":961.6,
-        "high":965.65,
-        "low":960.0,
-        "close":965.0,
-        "volume":53329.0
-    },
-    {
         "datetime":"2024-04-29T07:45:00.000",
         "symbol":"NSE:ZYDUSLIFE",
         "open":965.0,
@@ -35995,8 +35986,17 @@
         "symbol":"NSE:ZYDUSLIFE",
         "open":1114.5,
         "high":1117.5,
-        "low":1113.6,
-        "close":1113.7,
-        "volume":32843.0
+        "low":1110.5,
+        "close":1111.7,
+        "volume":60116.0
+    },
+    {
+        "datetime":"2026-08-24T05:45:00.000",
+        "symbol":"NSE:ZYDUSLIFE",
+        "open":1112.2,
+        "high":1112.4,
+        "low":1110.9,
+        "close":1111.5,
+        "volume":10914.0
     }
 ]

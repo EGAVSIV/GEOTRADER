@@ -1,14 +1,5 @@
 [
     {
-        "datetime":"2024-04-29T06:45:00.000",
-        "symbol":"NSE:BANKINDIA",
-        "open":154.35,
-        "high":155.25,
-        "low":153.9,
-        "close":154.9,
-        "volume":4511958.0
-    },
-    {
         "datetime":"2024-04-29T07:45:00.000",
         "symbol":"NSE:BANKINDIA",
         "open":154.9,
@@ -35995,8 +35986,17 @@
         "symbol":"NSE:BANKINDIA",
         "open":143.03,
         "high":143.26,
-        "low":142.8,
-        "close":142.85,
-        "volume":247213.0
+        "low":141.6,
+        "close":141.75,
+        "volume":837226.0
+    },
+    {
+        "datetime":"2026-08-24T05:45:00.000",
+        "symbol":"NSE:BANKINDIA",
+        "open":141.75,
+        "high":141.8,
+        "low":141.4,
+        "close":141.57,
+        "volume":226302.0
     }
 ]
