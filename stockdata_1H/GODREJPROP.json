@@ -1,32 +1,5 @@
 [
     {
-        "datetime":"2024-04-29T07:45:00.000",
-        "symbol":"NSE:GODREJPROP",
-        "open":2621.95,
-        "high":2627.05,
-        "low":2615.0,
-        "close":2626.75,
-        "volume":25907.0
-    },
-    {
-        "datetime":"2024-04-29T08:45:00.000",
-        "symbol":"NSE:GODREJPROP",
-        "open":2627.5,
-        "high":2664.5,
-        "low":2621.05,
-        "close":2625.45,
-        "volume":189929.0
-    },
-    {
-        "datetime":"2024-04-29T09:45:00.000",
-        "symbol":"NSE:GODREJPROP",
-        "open":2625.95,
-        "high":2632.0,
-        "low":2620.8,
-        "close":2630.0,
-        "volume":35235.0
-    },
-    {
         "datetime":"2024-04-30T03:45:00.000",
         "symbol":"NSE:GODREJPROP",
         "open":2643.0,
@@ -35916,7 +35889,7 @@
         "high":2041.9,
         "low":2021.9,
         "close":2030.0,
-        "volume":63445.0
+        "volume":63457.0
     },
     {
         "datetime":"2026-08-21T03:45:00.000",
@@ -35994,9 +35967,36 @@
         "datetime":"2026-08-24T05:45:00.000",
         "symbol":"NSE:GODREJPROP",
         "open":2038.1,
-        "high":2038.1,
-        "low":2032.3,
-        "close":2032.4,
-        "volume":5782.0
+        "high":2038.5,
+        "low":2028.3,
+        "close":2032.8,
+        "volume":27757.0
+    },
+    {
+        "datetime":"2026-08-24T06:45:00.000",
+        "symbol":"NSE:GODREJPROP",
+        "open":2032.9,
+        "high":2040.9,
+        "low":2031.8,
+        "close":2037.3,
+        "volume":40181.0
+    },
+    {
+        "datetime":"2026-08-24T07:45:00.000",
+        "symbol":"NSE:GODREJPROP",
+        "open":2036.8,
+        "high":2042.0,
+        "low":2035.2,
+        "close":2038.0,
+        "volume":29626.0
+    },
+    {
+        "datetime":"2026-08-24T08:45:00.000",
+        "symbol":"NSE:GODREJPROP",
+        "open":2037.7,
+        "high":2043.3,
+        "low":2031.4,
+        "close":2038.8,
+        "volume":67334.0
     }
 ]

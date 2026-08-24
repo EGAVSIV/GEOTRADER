@@ -1,41 +1,5 @@
 [
     {
-        "datetime":"2024-05-02T08:45:00.000",
-        "symbol":"NSE:EXIDEIND",
-        "open":463.5,
-        "high":465.4,
-        "low":462.1,
-        "close":463.05,
-        "volume":723324.0
-    },
-    {
-        "datetime":"2024-05-02T09:45:00.000",
-        "symbol":"NSE:EXIDEIND",
-        "open":463.15,
-        "high":465.2,
-        "low":462.85,
-        "close":465.0,
-        "volume":480599.0
-    },
-    {
-        "datetime":"2024-05-03T03:45:00.000",
-        "symbol":"NSE:EXIDEIND",
-        "open":466.5,
-        "high":466.85,
-        "low":460.15,
-        "close":462.2,
-        "volume":855270.0
-    },
-    {
-        "datetime":"2024-05-03T04:45:00.000",
-        "symbol":"NSE:EXIDEIND",
-        "open":462.15,
-        "high":465.5,
-        "low":461.0,
-        "close":462.95,
-        "volume":415215.0
-    },
-    {
         "datetime":"2024-05-03T05:45:00.000",
         "symbol":"NSE:EXIDEIND",
         "open":462.95,
@@ -35996,7 +35960,43 @@
         "open":453.95,
         "high":458.5,
         "low":453.15,
-        "close":457.6,
-        "volume":337441.0
+        "close":456.15,
+        "volume":481852.0
+    },
+    {
+        "datetime":"2026-08-24T06:45:00.000",
+        "symbol":"NSE:EXIDEIND",
+        "open":456.05,
+        "high":458.9,
+        "low":455.35,
+        "close":457.7,
+        "volume":164360.0
+    },
+    {
+        "datetime":"2026-08-24T07:45:00.000",
+        "symbol":"NSE:EXIDEIND",
+        "open":457.65,
+        "high":458.0,
+        "low":453.7,
+        "close":454.35,
+        "volume":180535.0
+    },
+    {
+        "datetime":"2026-08-24T08:45:00.000",
+        "symbol":"NSE:EXIDEIND",
+        "open":454.2,
+        "high":454.95,
+        "low":452.25,
+        "close":453.95,
+        "volume":299235.0
+    },
+    {
+        "datetime":"2026-08-24T09:45:00.000",
+        "symbol":"NSE:EXIDEIND",
+        "open":454.15,
+        "high":454.25,
+        "low":452.0,
+        "close":454.0,
+        "volume":70149.0
     }
 ]

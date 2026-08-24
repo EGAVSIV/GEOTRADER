@@ -1,32 +1,5 @@
 [
     {
-        "datetime":"2024-04-29T07:45:00.000",
-        "symbol":"NSE:EICHERMOT",
-        "open":4559.9,
-        "high":4569.55,
-        "low":4556.9,
-        "close":4562.05,
-        "volume":92220.0
-    },
-    {
-        "datetime":"2024-04-29T08:45:00.000",
-        "symbol":"NSE:EICHERMOT",
-        "open":4562.0,
-        "high":4580.0,
-        "low":4551.0,
-        "close":4578.85,
-        "volume":129981.0
-    },
-    {
-        "datetime":"2024-04-29T09:45:00.000",
-        "symbol":"NSE:EICHERMOT",
-        "open":4578.15,
-        "high":4589.85,
-        "low":4570.25,
-        "close":4577.0,
-        "volume":32884.0
-    },
-    {
         "datetime":"2024-04-30T03:45:00.000",
         "symbol":"NSE:EICHERMOT",
         "open":4592.65,
@@ -35853,7 +35826,7 @@
         "high":8025.0,
         "low":7990.5,
         "close":7995.0,
-        "volume":34648.0
+        "volume":32685.0
     },
     {
         "datetime":"2026-08-19T08:45:00.000",
@@ -35916,7 +35889,7 @@
         "high":8097.5,
         "low":8051.0,
         "close":8053.0,
-        "volume":70085.0
+        "volume":70153.0
     },
     {
         "datetime":"2026-08-21T03:45:00.000",
@@ -35995,8 +35968,35 @@
         "symbol":"NSE:EICHERMOT",
         "open":8052.5,
         "high":8060.0,
-        "low":8047.0,
-        "close":8053.5,
-        "volume":2414.0
+        "low":8032.5,
+        "close":8052.0,
+        "volume":10407.0
+    },
+    {
+        "datetime":"2026-08-24T06:45:00.000",
+        "symbol":"NSE:EICHERMOT",
+        "open":8053.0,
+        "high":8058.0,
+        "low":8040.5,
+        "close":8044.0,
+        "volume":30301.0
+    },
+    {
+        "datetime":"2026-08-24T07:45:00.000",
+        "symbol":"NSE:EICHERMOT",
+        "open":8044.0,
+        "high":8049.5,
+        "low":8019.0,
+        "close":8023.5,
+        "volume":37042.0
+    },
+    {
+        "datetime":"2026-08-24T08:45:00.000",
+        "symbol":"NSE:EICHERMOT",
+        "open":8023.0,
+        "high":8048.0,
+        "low":8010.5,
+        "close":8012.5,
+        "volume":67458.0
     }
 ]

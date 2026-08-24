@@ -1,32 +1,5 @@
 [
     {
-        "datetime":"2024-04-29T07:45:00.000",
-        "symbol":"NSE:NAM_INDIA",
-        "open":585.5,
-        "high":586.45,
-        "low":584.8,
-        "close":586.45,
-        "volume":68480.0
-    },
-    {
-        "datetime":"2024-04-29T08:45:00.000",
-        "symbol":"NSE:NAM_INDIA",
-        "open":586.45,
-        "high":588.75,
-        "low":584.05,
-        "close":588.25,
-        "volume":135052.0
-    },
-    {
-        "datetime":"2024-04-29T09:45:00.000",
-        "symbol":"NSE:NAM_INDIA",
-        "open":588.15,
-        "high":588.9,
-        "low":584.15,
-        "close":584.65,
-        "volume":67862.0
-    },
-    {
         "datetime":"2024-04-30T03:45:00.000",
         "symbol":"NSE:NAM_INDIA",
         "open":588.25,
@@ -35844,7 +35817,7 @@
         "high":1201.4,
         "low":1196.5,
         "close":1197.1,
-        "volume":203316.0
+        "volume":199926.0
     },
     {
         "datetime":"2026-08-19T07:45:00.000",
@@ -35916,7 +35889,7 @@
         "high":1242.2,
         "low":1231.2,
         "close":1235.0,
-        "volume":387595.0
+        "volume":382686.0
     },
     {
         "datetime":"2026-08-21T03:45:00.000",
@@ -35994,9 +35967,36 @@
         "datetime":"2026-08-24T05:45:00.000",
         "symbol":"NSE:NAM_INDIA",
         "open":1248.9,
-        "high":1259.5,
+        "high":1268.0,
         "low":1248.6,
-        "close":1258.1,
-        "volume":59408.0
+        "close":1257.7,
+        "volume":145730.0
+    },
+    {
+        "datetime":"2026-08-24T06:45:00.000",
+        "symbol":"NSE:NAM_INDIA",
+        "open":1257.7,
+        "high":1266.7,
+        "low":1251.9,
+        "close":1265.2,
+        "volume":258227.0
+    },
+    {
+        "datetime":"2026-08-24T07:45:00.000",
+        "symbol":"NSE:NAM_INDIA",
+        "open":1265.1,
+        "high":1266.7,
+        "low":1254.1,
+        "close":1254.5,
+        "volume":49081.0
+    },
+    {
+        "datetime":"2026-08-24T08:45:00.000",
+        "symbol":"NSE:NAM_INDIA",
+        "open":1254.3,
+        "high":1256.4,
+        "low":1246.0,
+        "close":1249.4,
+        "volume":156332.0
     }
 ]

@@ -1,41 +1,5 @@
 [
     {
-        "datetime":"2024-04-30T08:45:00.000",
-        "symbol":"NSE:NUVAMA",
-        "open":1052.26,
-        "high":1055.99,
-        "low":1044.2,
-        "close":1052.84,
-        "volume":12470.0
-    },
-    {
-        "datetime":"2024-04-30T09:45:00.000",
-        "symbol":"NSE:NUVAMA",
-        "open":1052.53,
-        "high":1053.51,
-        "low":1035.02,
-        "close":1049.66,
-        "volume":11880.0
-    },
-    {
-        "datetime":"2024-05-02T03:45:00.000",
-        "symbol":"NSE:NUVAMA",
-        "open":1045.41,
-        "high":1055.4,
-        "low":1034.4,
-        "close":1041.32,
-        "volume":27795.0
-    },
-    {
-        "datetime":"2024-05-02T04:45:00.000",
-        "symbol":"NSE:NUVAMA",
-        "open":1040.2,
-        "high":1045.94,
-        "low":1040.2,
-        "close":1041.0,
-        "volume":6415.0
-    },
-    {
         "datetime":"2024-05-02T05:45:00.000",
         "symbol":"NSE:NUVAMA",
         "open":1041.0,
@@ -35994,9 +35958,45 @@
         "datetime":"2026-08-24T05:45:00.000",
         "symbol":"NSE:NUVAMA",
         "open":1750.0,
-        "high":1758.9,
+        "high":1762.0,
         "low":1750.0,
-        "close":1758.0,
-        "volume":6744.0
+        "close":1760.5,
+        "volume":21772.0
+    },
+    {
+        "datetime":"2026-08-24T06:45:00.000",
+        "symbol":"NSE:NUVAMA",
+        "open":1760.5,
+        "high":1761.3,
+        "low":1752.6,
+        "close":1759.1,
+        "volume":14452.0
+    },
+    {
+        "datetime":"2026-08-24T07:45:00.000",
+        "symbol":"NSE:NUVAMA",
+        "open":1758.8,
+        "high":1758.8,
+        "low":1733.3,
+        "close":1750.5,
+        "volume":25203.0
+    },
+    {
+        "datetime":"2026-08-24T08:45:00.000",
+        "symbol":"NSE:NUVAMA",
+        "open":1750.5,
+        "high":1756.0,
+        "low":1743.7,
+        "close":1750.1,
+        "volume":46419.0
+    },
+    {
+        "datetime":"2026-08-24T09:45:00.000",
+        "symbol":"NSE:NUVAMA",
+        "open":1750.0,
+        "high":1753.1,
+        "low":1744.7,
+        "close":1750.0,
+        "volume":12145.0
     }
 ]

@@ -1,32 +1,5 @@
 [
     {
-        "datetime":"2024-04-29T07:45:00.000",
-        "symbol":"NSE:TCS",
-        "open":3867.2,
-        "high":3877.8,
-        "low":3865.0,
-        "close":3866.4,
-        "volume":110934.0
-    },
-    {
-        "datetime":"2024-04-29T08:45:00.000",
-        "symbol":"NSE:TCS",
-        "open":3865.0,
-        "high":3874.7,
-        "low":3858.85,
-        "close":3870.7,
-        "volume":275334.0
-    },
-    {
-        "datetime":"2024-04-29T09:45:00.000",
-        "symbol":"NSE:TCS",
-        "open":3870.7,
-        "high":3871.9,
-        "low":3861.05,
-        "close":3865.0,
-        "volume":158042.0
-    },
-    {
         "datetime":"2024-04-30T03:45:00.000",
         "symbol":"NSE:TCS",
         "open":3875.0,
@@ -35995,8 +35968,35 @@
         "symbol":"NSE:TCS",
         "open":2298.1,
         "high":2303.4,
-        "low":2295.4,
-        "close":2295.8,
-        "volume":24949.0
+        "low":2292.0,
+        "close":2299.0,
+        "volume":133694.0
+    },
+    {
+        "datetime":"2026-08-24T06:45:00.000",
+        "symbol":"NSE:TCS",
+        "open":2299.0,
+        "high":2303.7,
+        "low":2292.6,
+        "close":2295.7,
+        "volume":217156.0
+    },
+    {
+        "datetime":"2026-08-24T07:45:00.000",
+        "symbol":"NSE:TCS",
+        "open":2295.7,
+        "high":2297.0,
+        "low":2285.1,
+        "close":2285.7,
+        "volume":199857.0
+    },
+    {
+        "datetime":"2026-08-24T08:45:00.000",
+        "symbol":"NSE:TCS",
+        "open":2285.6,
+        "high":2288.1,
+        "low":2279.5,
+        "close":2281.0,
+        "volume":435135.0
     }
 ]

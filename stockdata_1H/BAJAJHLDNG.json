@@ -1,32 +1,5 @@
 [
     {
-        "datetime":"2024-04-29T07:45:00.000",
-        "symbol":"NSE:BAJAJHLDNG",
-        "open":8194.95,
-        "high":8200.0,
-        "low":8182.45,
-        "close":8189.95,
-        "volume":4201.0
-    },
-    {
-        "datetime":"2024-04-29T08:45:00.000",
-        "symbol":"NSE:BAJAJHLDNG",
-        "open":8189.95,
-        "high":8201.4,
-        "low":8142.15,
-        "close":8190.0,
-        "volume":15517.0
-    },
-    {
-        "datetime":"2024-04-29T09:45:00.000",
-        "symbol":"NSE:BAJAJHLDNG",
-        "open":8190.0,
-        "high":8200.0,
-        "low":8169.95,
-        "close":8190.0,
-        "volume":7811.0
-    },
-    {
         "datetime":"2024-04-30T03:45:00.000",
         "symbol":"NSE:BAJAJHLDNG",
         "open":8250.0,
@@ -35996,7 +35969,34 @@
         "open":11260.0,
         "high":11273.0,
         "low":11240.0,
-        "close":11254.0,
-        "volume":3710.0
+        "close":11261.0,
+        "volume":4982.0
+    },
+    {
+        "datetime":"2026-08-24T06:45:00.000",
+        "symbol":"NSE:BAJAJHLDNG",
+        "open":11259.0,
+        "high":11298.0,
+        "low":11202.0,
+        "close":11214.0,
+        "volume":15299.0
+    },
+    {
+        "datetime":"2026-08-24T07:45:00.000",
+        "symbol":"NSE:BAJAJHLDNG",
+        "open":11208.0,
+        "high":11223.0,
+        "low":11154.0,
+        "close":11174.0,
+        "volume":3848.0
+    },
+    {
+        "datetime":"2026-08-24T08:45:00.000",
+        "symbol":"NSE:BAJAJHLDNG",
+        "open":11175.0,
+        "high":11192.0,
+        "low":11050.0,
+        "close":11050.0,
+        "volume":35365.0
     }
 ]

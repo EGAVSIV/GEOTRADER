@@ -1,41 +1,5 @@
 [
     {
-        "datetime":"2024-05-02T08:45:00.000",
-        "symbol":"NSE:NIFTYJR",
-        "open":66005.35,
-        "high":66055.95,
-        "low":65918.55,
-        "close":65991.35,
-        "volume":0.0
-    },
-    {
-        "datetime":"2024-05-02T09:45:00.000",
-        "symbol":"NSE:NIFTYJR",
-        "open":65986.35,
-        "high":66038.05,
-        "low":65971.25,
-        "close":66004.85,
-        "volume":0.0
-    },
-    {
-        "datetime":"2024-05-03T03:45:00.000",
-        "symbol":"NSE:NIFTYJR",
-        "open":66443.8,
-        "high":66456.25,
-        "low":66253.95,
-        "close":66292.35,
-        "volume":0.0
-    },
-    {
-        "datetime":"2024-05-03T04:45:00.000",
-        "symbol":"NSE:NIFTYJR",
-        "open":66289.1,
-        "high":66336.35,
-        "low":65969.55,
-        "close":66030.65,
-        "volume":0.0
-    },
-    {
         "datetime":"2024-05-03T05:45:00.000",
         "symbol":"NSE:NIFTYJR",
         "open":66031.75,
@@ -35995,8 +35959,44 @@
         "symbol":"NSE:NIFTYJR",
         "open":73846.15,
         "high":73887.85,
-        "low":73836.25,
-        "close":73856.0,
-        "volume":8429141.0
+        "low":73751.35,
+        "close":73794.7,
+        "volume":26827451.0
+    },
+    {
+        "datetime":"2026-08-24T06:45:00.000",
+        "symbol":"NSE:NIFTYJR",
+        "open":73794.1,
+        "high":73850.55,
+        "low":73770.85,
+        "close":73780.0,
+        "volume":25213892.0
+    },
+    {
+        "datetime":"2026-08-24T07:45:00.000",
+        "symbol":"NSE:NIFTYJR",
+        "open":73781.6,
+        "high":73802.3,
+        "low":73740.65,
+        "close":73749.6,
+        "volume":17186062.0
+    },
+    {
+        "datetime":"2026-08-24T08:45:00.000",
+        "symbol":"NSE:NIFTYJR",
+        "open":73748.7,
+        "high":73854.3,
+        "low":73734.75,
+        "close":73843.7,
+        "volume":38635900.0
+    },
+    {
+        "datetime":"2026-08-24T09:45:00.000",
+        "symbol":"NSE:NIFTYJR",
+        "open":73850.35,
+        "high":74023.9,
+        "low":73832.8,
+        "close":74023.4,
+        "volume":656710.0
     }
 ]

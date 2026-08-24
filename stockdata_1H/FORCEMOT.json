@@ -1,32 +1,5 @@
 [
     {
-        "datetime":"2024-04-29T07:45:00.000",
-        "symbol":"NSE:FORCEMOT",
-        "open":9391.3,
-        "high":9500.0,
-        "low":9350.0,
-        "close":9390.8,
-        "volume":12992.0
-    },
-    {
-        "datetime":"2024-04-29T08:45:00.000",
-        "symbol":"NSE:FORCEMOT",
-        "open":9385.6,
-        "high":9590.0,
-        "low":9365.0,
-        "close":9510.85,
-        "volume":17704.0
-    },
-    {
-        "datetime":"2024-04-29T09:45:00.000",
-        "symbol":"NSE:FORCEMOT",
-        "open":9520.0,
-        "high":9623.6,
-        "low":9463.35,
-        "close":9500.05,
-        "volume":10071.0
-    },
-    {
         "datetime":"2024-04-30T03:45:00.000",
         "symbol":"NSE:FORCEMOT",
         "open":9569.4,
@@ -35994,9 +35967,36 @@
         "datetime":"2026-08-24T05:45:00.000",
         "symbol":"NSE:FORCEMOT",
         "open":17639.0,
-        "high":17666.0,
+        "high":17741.0,
         "low":17611.0,
-        "close":17647.0,
-        "volume":2702.0
+        "close":17655.0,
+        "volume":7506.0
+    },
+    {
+        "datetime":"2026-08-24T06:45:00.000",
+        "symbol":"NSE:FORCEMOT",
+        "open":17655.0,
+        "high":17673.0,
+        "low":17608.0,
+        "close":17619.0,
+        "volume":3758.0
+    },
+    {
+        "datetime":"2026-08-24T07:45:00.000",
+        "symbol":"NSE:FORCEMOT",
+        "open":17618.0,
+        "high":17644.0,
+        "low":17615.0,
+        "close":17627.0,
+        "volume":3475.0
+    },
+    {
+        "datetime":"2026-08-24T08:45:00.000",
+        "symbol":"NSE:FORCEMOT",
+        "open":17627.0,
+        "high":17687.0,
+        "low":17611.0,
+        "close":17625.0,
+        "volume":12036.0
     }
 ]

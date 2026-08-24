@@ -1,32 +1,5 @@
 [
     {
-        "datetime":"2024-04-29T07:45:00.000",
-        "symbol":"NSE:ADANIPORTS",
-        "open":1316.1,
-        "high":1318.5,
-        "low":1315.5,
-        "close":1316.25,
-        "volume":160197.0
-    },
-    {
-        "datetime":"2024-04-29T08:45:00.000",
-        "symbol":"NSE:ADANIPORTS",
-        "open":1316.25,
-        "high":1319.9,
-        "low":1314.0,
-        "close":1317.1,
-        "volume":294084.0
-    },
-    {
-        "datetime":"2024-04-29T09:45:00.000",
-        "symbol":"NSE:ADANIPORTS",
-        "open":1317.1,
-        "high":1318.4,
-        "low":1315.35,
-        "close":1317.8,
-        "volume":149211.0
-    },
-    {
         "datetime":"2024-04-30T03:45:00.000",
         "symbol":"NSE:ADANIPORTS",
         "open":1321.65,
@@ -35853,7 +35826,7 @@
         "high":1676.3,
         "low":1672.1,
         "close":1674.5,
-        "volume":136153.0
+        "volume":131011.0
     },
     {
         "datetime":"2026-08-19T08:45:00.000",
@@ -35916,7 +35889,7 @@
         "high":1698.2,
         "low":1689.5,
         "close":1690.5,
-        "volume":487891.0
+        "volume":486905.0
     },
     {
         "datetime":"2026-08-21T03:45:00.000",
@@ -35995,8 +35968,35 @@
         "symbol":"NSE:ADANIPORTS",
         "open":1681.9,
         "high":1683.1,
-        "low":1679.0,
-        "close":1679.7,
-        "volume":50572.0
+        "low":1677.7,
+        "close":1678.4,
+        "volume":128840.0
+    },
+    {
+        "datetime":"2026-08-24T06:45:00.000",
+        "symbol":"NSE:ADANIPORTS",
+        "open":1678.9,
+        "high":1679.1,
+        "low":1672.6,
+        "close":1675.0,
+        "volume":117151.0
+    },
+    {
+        "datetime":"2026-08-24T07:45:00.000",
+        "symbol":"NSE:ADANIPORTS",
+        "open":1675.1,
+        "high":1678.2,
+        "low":1673.6,
+        "close":1674.4,
+        "volume":81941.0
+    },
+    {
+        "datetime":"2026-08-24T08:45:00.000",
+        "symbol":"NSE:ADANIPORTS",
+        "open":1674.1,
+        "high":1680.4,
+        "low":1674.1,
+        "close":1678.6,
+        "volume":335326.0
     }
 ]

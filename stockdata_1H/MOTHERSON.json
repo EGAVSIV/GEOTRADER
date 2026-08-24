@@ -1,32 +1,5 @@
 [
     {
-        "datetime":"2024-04-29T07:45:00.000",
-        "symbol":"NSE:MOTHERSON",
-        "open":87.5332458,
-        "high":87.5665791,
-        "low":86.5332468,
-        "close":86.7332466,
-        "volume":1721820.2218202199
-    },
-    {
-        "datetime":"2024-04-29T08:45:00.000",
-        "symbol":"NSE:MOTHERSON",
-        "open":86.7665799,
-        "high":87.333246,
-        "low":86.66658,
-        "close":87.1999128,
-        "volume":2744318.74431874
-    },
-    {
-        "datetime":"2024-04-29T09:45:00.000",
-        "symbol":"NSE:MOTHERSON",
-        "open":87.2332461,
-        "high":87.2999127,
-        "low":87.0999129,
-        "close":87.1999128,
-        "volume":1548727.5487275501
-    },
-    {
         "datetime":"2024-04-30T03:45:00.000",
         "symbol":"NSE:MOTHERSON",
         "open":87.8999121,
@@ -35916,7 +35889,7 @@
         "high":169.75,
         "low":169.0,
         "close":169.0,
-        "volume":1841255.0
+        "volume":1841779.0
     },
     {
         "datetime":"2026-08-21T03:45:00.000",
@@ -35994,9 +35967,36 @@
         "datetime":"2026-08-24T05:45:00.000",
         "symbol":"NSE:MOTHERSON",
         "open":168.46,
-        "high":168.46,
-        "low":168.05,
-        "close":168.17,
-        "volume":140581.0
+        "high":168.5,
+        "low":168.03,
+        "close":168.1,
+        "volume":573500.0
+    },
+    {
+        "datetime":"2026-08-24T06:45:00.000",
+        "symbol":"NSE:MOTHERSON",
+        "open":168.1,
+        "high":168.2,
+        "low":167.55,
+        "close":167.56,
+        "volume":617503.0
+    },
+    {
+        "datetime":"2026-08-24T07:45:00.000",
+        "symbol":"NSE:MOTHERSON",
+        "open":167.56,
+        "high":167.83,
+        "low":167.51,
+        "close":167.6,
+        "volume":514226.0
+    },
+    {
+        "datetime":"2026-08-24T08:45:00.000",
+        "symbol":"NSE:MOTHERSON",
+        "open":167.64,
+        "high":167.91,
+        "low":166.71,
+        "close":167.5,
+        "volume":1555120.0
     }
 ]
