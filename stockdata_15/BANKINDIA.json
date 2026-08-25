@@ -1,77 +1,5 @@
 [
     {
-        "datetime":"2025-12-30T09:15:00.000",
-        "symbol":"NSE:BANKINDIA",
-        "open":141.9,
-        "high":142.36,
-        "low":141.5,
-        "close":142.29,
-        "volume":697846.0
-    },
-    {
-        "datetime":"2025-12-30T09:30:00.000",
-        "symbol":"NSE:BANKINDIA",
-        "open":142.21,
-        "high":142.36,
-        "low":141.25,
-        "close":142.11,
-        "volume":3257792.0
-    },
-    {
-        "datetime":"2025-12-30T09:45:00.000",
-        "symbol":"NSE:BANKINDIA",
-        "open":142.12,
-        "high":142.5,
-        "low":141.58,
-        "close":142.0,
-        "volume":3374551.0
-    },
-    {
-        "datetime":"2025-12-31T03:45:00.000",
-        "symbol":"NSE:BANKINDIA",
-        "open":142.01,
-        "high":143.21,
-        "low":141.2,
-        "close":143.14,
-        "volume":522353.0
-    },
-    {
-        "datetime":"2025-12-31T04:00:00.000",
-        "symbol":"NSE:BANKINDIA",
-        "open":143.11,
-        "high":143.88,
-        "low":142.69,
-        "close":142.76,
-        "volume":576267.0
-    },
-    {
-        "datetime":"2025-12-31T04:15:00.000",
-        "symbol":"NSE:BANKINDIA",
-        "open":142.78,
-        "high":143.41,
-        "low":142.75,
-        "close":142.96,
-        "volume":383566.0
-    },
-    {
-        "datetime":"2025-12-31T04:30:00.000",
-        "symbol":"NSE:BANKINDIA",
-        "open":143.01,
-        "high":144.14,
-        "low":142.7,
-        "close":144.0,
-        "volume":563226.0
-    },
-    {
-        "datetime":"2025-12-31T04:45:00.000",
-        "symbol":"NSE:BANKINDIA",
-        "open":144.06,
-        "high":144.35,
-        "low":143.99,
-        "close":144.25,
-        "volume":440648.0
-    },
-    {
         "datetime":"2025-12-31T05:00:00.000",
         "symbol":"NSE:BANKINDIA",
         "open":144.22,
@@ -35430,7 +35358,7 @@
         "high":143.02,
         "low":142.9,
         "close":142.97,
-        "volume":72908.0
+        "volume":73509.0
     },
     {
         "datetime":"2026-08-20T09:15:00.000",
@@ -35995,8 +35923,80 @@
         "symbol":"NSE:BANKINDIA",
         "open":143.03,
         "high":143.24,
-        "low":142.93,
-        "close":143.04,
-        "volume":66257.0
+        "low":142.79,
+        "close":142.85,
+        "volume":138431.0
+    },
+    {
+        "datetime":"2026-08-25T07:00:00.000",
+        "symbol":"NSE:BANKINDIA",
+        "open":142.86,
+        "high":142.95,
+        "low":142.6,
+        "close":142.94,
+        "volume":192757.0
+    },
+    {
+        "datetime":"2026-08-25T07:15:00.000",
+        "symbol":"NSE:BANKINDIA",
+        "open":142.92,
+        "high":142.98,
+        "low":142.55,
+        "close":142.9,
+        "volume":267056.0
+    },
+    {
+        "datetime":"2026-08-25T07:30:00.000",
+        "symbol":"NSE:BANKINDIA",
+        "open":142.91,
+        "high":142.91,
+        "low":142.52,
+        "close":142.58,
+        "volume":69975.0
+    },
+    {
+        "datetime":"2026-08-25T07:45:00.000",
+        "symbol":"NSE:BANKINDIA",
+        "open":142.57,
+        "high":142.97,
+        "low":142.51,
+        "close":142.61,
+        "volume":153079.0
+    },
+    {
+        "datetime":"2026-08-25T08:00:00.000",
+        "symbol":"NSE:BANKINDIA",
+        "open":142.57,
+        "high":142.63,
+        "low":142.41,
+        "close":142.54,
+        "volume":216906.0
+    },
+    {
+        "datetime":"2026-08-25T08:15:00.000",
+        "symbol":"NSE:BANKINDIA",
+        "open":142.63,
+        "high":142.89,
+        "low":142.43,
+        "close":142.85,
+        "volume":217181.0
+    },
+    {
+        "datetime":"2026-08-25T08:30:00.000",
+        "symbol":"NSE:BANKINDIA",
+        "open":142.88,
+        "high":142.93,
+        "low":142.64,
+        "close":142.64,
+        "volume":201128.0
+    },
+    {
+        "datetime":"2026-08-25T08:45:00.000",
+        "symbol":"NSE:BANKINDIA",
+        "open":142.68,
+        "high":142.74,
+        "low":142.62,
+        "close":142.68,
+        "volume":17799.0
     }
 ]

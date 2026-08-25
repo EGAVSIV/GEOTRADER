@@ -1,77 +1,5 @@
 [
     {
-        "datetime":"2025-12-30T09:15:00.000",
-        "symbol":"NSE:ADANIENT",
-        "open":2212.5,
-        "high":2214.0,
-        "low":2208.4,
-        "close":2212.7,
-        "volume":35111.0
-    },
-    {
-        "datetime":"2025-12-30T09:30:00.000",
-        "symbol":"NSE:ADANIENT",
-        "open":2212.9,
-        "high":2219.0,
-        "low":2210.9,
-        "close":2217.3,
-        "volume":117933.0
-    },
-    {
-        "datetime":"2025-12-30T09:45:00.000",
-        "symbol":"NSE:ADANIENT",
-        "open":2217.3,
-        "high":2218.0,
-        "low":2211.9,
-        "close":2215.8,
-        "volume":156713.0
-    },
-    {
-        "datetime":"2025-12-31T03:45:00.000",
-        "symbol":"NSE:ADANIENT",
-        "open":2220.9,
-        "high":2233.1,
-        "low":2220.9,
-        "close":2227.6,
-        "volume":60455.0
-    },
-    {
-        "datetime":"2025-12-31T04:00:00.000",
-        "symbol":"NSE:ADANIENT",
-        "open":2227.5,
-        "high":2229.0,
-        "low":2220.0,
-        "close":2220.4,
-        "volume":30289.0
-    },
-    {
-        "datetime":"2025-12-31T04:15:00.000",
-        "symbol":"NSE:ADANIENT",
-        "open":2220.3,
-        "high":2223.2,
-        "low":2218.7,
-        "close":2221.5,
-        "volume":14406.0
-    },
-    {
-        "datetime":"2025-12-31T04:30:00.000",
-        "symbol":"NSE:ADANIENT",
-        "open":2220.6,
-        "high":2228.0,
-        "low":2219.3,
-        "close":2226.2,
-        "volume":18636.0
-    },
-    {
-        "datetime":"2025-12-31T04:45:00.000",
-        "symbol":"NSE:ADANIENT",
-        "open":2226.6,
-        "high":2229.0,
-        "low":2224.3,
-        "close":2227.5,
-        "volume":14173.0
-    },
-    {
         "datetime":"2025-12-31T05:00:00.000",
         "symbol":"NSE:ADANIENT",
         "open":2227.0,
@@ -35169,7 +35097,7 @@
         "high":2980.9,
         "low":2977.0,
         "close":2977.8,
-        "volume":12596.0
+        "volume":9958.0
     },
     {
         "datetime":"2026-08-19T08:00:00.000",
@@ -35994,9 +35922,81 @@
         "datetime":"2026-08-25T06:45:00.000",
         "symbol":"NSE:ADANIENT",
         "open":3025.3,
-        "high":3029.7,
+        "high":3031.6,
         "low":3023.8,
-        "close":3027.4,
-        "volume":18179.0
+        "close":3031.0,
+        "volume":25620.0
+    },
+    {
+        "datetime":"2026-08-25T07:00:00.000",
+        "symbol":"NSE:ADANIENT",
+        "open":3031.2,
+        "high":3032.1,
+        "low":3026.4,
+        "close":3031.5,
+        "volume":22721.0
+    },
+    {
+        "datetime":"2026-08-25T07:15:00.000",
+        "symbol":"NSE:ADANIENT",
+        "open":3031.3,
+        "high":3039.0,
+        "low":3029.6,
+        "close":3035.9,
+        "volume":39953.0
+    },
+    {
+        "datetime":"2026-08-25T07:30:00.000",
+        "symbol":"NSE:ADANIENT",
+        "open":3035.9,
+        "high":3039.0,
+        "low":3030.5,
+        "close":3036.8,
+        "volume":39676.0
+    },
+    {
+        "datetime":"2026-08-25T07:45:00.000",
+        "symbol":"NSE:ADANIENT",
+        "open":3037.4,
+        "high":3043.2,
+        "low":3036.4,
+        "close":3042.0,
+        "volume":36584.0
+    },
+    {
+        "datetime":"2026-08-25T08:00:00.000",
+        "symbol":"NSE:ADANIENT",
+        "open":3041.9,
+        "high":3046.9,
+        "low":3041.9,
+        "close":3044.8,
+        "volume":39820.0
+    },
+    {
+        "datetime":"2026-08-25T08:15:00.000",
+        "symbol":"NSE:ADANIENT",
+        "open":3044.8,
+        "high":3060.0,
+        "low":3042.3,
+        "close":3058.6,
+        "volume":98913.0
+    },
+    {
+        "datetime":"2026-08-25T08:30:00.000",
+        "symbol":"NSE:ADANIENT",
+        "open":3057.9,
+        "high":3064.7,
+        "low":3054.2,
+        "close":3058.4,
+        "volume":67639.0
+    },
+    {
+        "datetime":"2026-08-25T08:45:00.000",
+        "symbol":"NSE:ADANIENT",
+        "open":3057.0,
+        "high":3057.6,
+        "low":3056.5,
+        "close":3057.5,
+        "volume":1823.0
     }
 ]

@@ -1,77 +1,5 @@
 [
     {
-        "datetime":"2025-12-30T09:15:00.000",
-        "symbol":"NSE:ULTRACEMCO",
-        "open":11687.0,
-        "high":11691.0,
-        "low":11669.0,
-        "close":11681.0,
-        "volume":7828.0
-    },
-    {
-        "datetime":"2025-12-30T09:30:00.000",
-        "symbol":"NSE:ULTRACEMCO",
-        "open":11688.0,
-        "high":11722.0,
-        "low":11687.0,
-        "close":11722.0,
-        "volume":28942.0
-    },
-    {
-        "datetime":"2025-12-30T09:45:00.000",
-        "symbol":"NSE:ULTRACEMCO",
-        "open":11722.0,
-        "high":11722.0,
-        "low":11701.0,
-        "close":11701.0,
-        "volume":20753.0
-    },
-    {
-        "datetime":"2025-12-31T03:45:00.000",
-        "symbol":"NSE:ULTRACEMCO",
-        "open":11690.0,
-        "high":11740.0,
-        "low":11680.0,
-        "close":11707.0,
-        "volume":9336.0
-    },
-    {
-        "datetime":"2025-12-31T04:00:00.000",
-        "symbol":"NSE:ULTRACEMCO",
-        "open":11708.0,
-        "high":11710.0,
-        "low":11680.0,
-        "close":11685.0,
-        "volume":4485.0
-    },
-    {
-        "datetime":"2025-12-31T04:15:00.000",
-        "symbol":"NSE:ULTRACEMCO",
-        "open":11684.0,
-        "high":11711.0,
-        "low":11684.0,
-        "close":11691.0,
-        "volume":6311.0
-    },
-    {
-        "datetime":"2025-12-31T04:30:00.000",
-        "symbol":"NSE:ULTRACEMCO",
-        "open":11687.0,
-        "high":11697.0,
-        "low":11685.0,
-        "close":11694.0,
-        "volume":10871.0
-    },
-    {
-        "datetime":"2025-12-31T04:45:00.000",
-        "symbol":"NSE:ULTRACEMCO",
-        "open":11692.0,
-        "high":11729.0,
-        "low":11690.0,
-        "close":11724.0,
-        "volume":18580.0
-    },
-    {
         "datetime":"2025-12-31T05:00:00.000",
         "symbol":"NSE:ULTRACEMCO",
         "open":11724.0,
@@ -35169,7 +35097,7 @@
         "high":11425.0,
         "low":11402.0,
         "close":11420.0,
-        "volume":11089.0
+        "volume":8941.0
     },
     {
         "datetime":"2026-08-19T08:00:00.000",
@@ -35994,9 +35922,81 @@
         "datetime":"2026-08-25T06:45:00.000",
         "symbol":"NSE:ULTRACEMCO",
         "open":11463.0,
+        "high":11488.0,
+        "low":11455.0,
+        "close":11481.0,
+        "volume":5404.0
+    },
+    {
+        "datetime":"2026-08-25T07:00:00.000",
+        "symbol":"NSE:ULTRACEMCO",
+        "open":11483.0,
+        "high":11486.0,
+        "low":11480.0,
+        "close":11480.0,
+        "volume":3536.0
+    },
+    {
+        "datetime":"2026-08-25T07:15:00.000",
+        "symbol":"NSE:ULTRACEMCO",
+        "open":11480.0,
         "high":11482.0,
         "low":11455.0,
-        "close":11482.0,
-        "volume":3076.0
+        "close":11457.0,
+        "volume":11701.0
+    },
+    {
+        "datetime":"2026-08-25T07:30:00.000",
+        "symbol":"NSE:ULTRACEMCO",
+        "open":11457.0,
+        "high":11461.0,
+        "low":11445.0,
+        "close":11454.0,
+        "volume":3078.0
+    },
+    {
+        "datetime":"2026-08-25T07:45:00.000",
+        "symbol":"NSE:ULTRACEMCO",
+        "open":11455.0,
+        "high":11460.0,
+        "low":11446.0,
+        "close":11446.0,
+        "volume":3771.0
+    },
+    {
+        "datetime":"2026-08-25T08:00:00.000",
+        "symbol":"NSE:ULTRACEMCO",
+        "open":11451.0,
+        "high":11459.0,
+        "low":11447.0,
+        "close":11450.0,
+        "volume":3582.0
+    },
+    {
+        "datetime":"2026-08-25T08:15:00.000",
+        "symbol":"NSE:ULTRACEMCO",
+        "open":11454.0,
+        "high":11473.0,
+        "low":11448.0,
+        "close":11459.0,
+        "volume":4741.0
+    },
+    {
+        "datetime":"2026-08-25T08:30:00.000",
+        "symbol":"NSE:ULTRACEMCO",
+        "open":11459.0,
+        "high":11488.0,
+        "low":11452.0,
+        "close":11486.0,
+        "volume":5839.0
+    },
+    {
+        "datetime":"2026-08-25T08:45:00.000",
+        "symbol":"NSE:ULTRACEMCO",
+        "open":11486.0,
+        "high":11494.0,
+        "low":11485.0,
+        "close":11494.0,
+        "volume":453.0
     }
 ]

@@ -1,77 +1,5 @@
 [
     {
-        "datetime":"2025-12-30T09:15:00.000",
-        "symbol":"NSE:DRREDDY",
-        "open":1267.2,
-        "high":1267.8,
-        "low":1265.4,
-        "close":1265.4,
-        "volume":30285.0
-    },
-    {
-        "datetime":"2025-12-30T09:30:00.000",
-        "symbol":"NSE:DRREDDY",
-        "open":1265.2,
-        "high":1267.9,
-        "low":1263.6,
-        "close":1265.5,
-        "volume":287014.0
-    },
-    {
-        "datetime":"2025-12-30T09:45:00.000",
-        "symbol":"NSE:DRREDDY",
-        "open":1266.1,
-        "high":1269.3,
-        "low":1263.0,
-        "close":1263.0,
-        "volume":218272.0
-    },
-    {
-        "datetime":"2025-12-31T03:45:00.000",
-        "symbol":"NSE:DRREDDY",
-        "open":1266.0,
-        "high":1268.8,
-        "low":1263.6,
-        "close":1265.0,
-        "volume":25932.0
-    },
-    {
-        "datetime":"2025-12-31T04:00:00.000",
-        "symbol":"NSE:DRREDDY",
-        "open":1264.7,
-        "high":1264.7,
-        "low":1260.8,
-        "close":1261.1,
-        "volume":10653.0
-    },
-    {
-        "datetime":"2025-12-31T04:15:00.000",
-        "symbol":"NSE:DRREDDY",
-        "open":1261.2,
-        "high":1262.8,
-        "low":1260.0,
-        "close":1261.6,
-        "volume":6744.0
-    },
-    {
-        "datetime":"2025-12-31T04:30:00.000",
-        "symbol":"NSE:DRREDDY",
-        "open":1262.0,
-        "high":1262.9,
-        "low":1260.8,
-        "close":1261.1,
-        "volume":6294.0
-    },
-    {
-        "datetime":"2025-12-31T04:45:00.000",
-        "symbol":"NSE:DRREDDY",
-        "open":1261.4,
-        "high":1264.1,
-        "low":1261.1,
-        "close":1263.8,
-        "volume":6293.0
-    },
-    {
         "datetime":"2025-12-31T05:00:00.000",
         "symbol":"NSE:DRREDDY",
         "open":1264.0,
@@ -35169,7 +35097,7 @@
         "high":1174.9,
         "low":1172.1,
         "close":1173.5,
-        "volume":28312.0
+        "volume":20319.0
     },
     {
         "datetime":"2026-08-19T08:00:00.000",
@@ -35994,9 +35922,81 @@
         "datetime":"2026-08-25T06:45:00.000",
         "symbol":"NSE:DRREDDY",
         "open":1185.3,
-        "high":1185.9,
+        "high":1187.3,
         "low":1184.2,
-        "close":1184.4,
-        "volume":13917.0
+        "close":1186.5,
+        "volume":66538.0
+    },
+    {
+        "datetime":"2026-08-25T07:00:00.000",
+        "symbol":"NSE:DRREDDY",
+        "open":1187.0,
+        "high":1187.6,
+        "low":1180.1,
+        "close":1180.8,
+        "volume":134503.0
+    },
+    {
+        "datetime":"2026-08-25T07:15:00.000",
+        "symbol":"NSE:DRREDDY",
+        "open":1181.0,
+        "high":1184.4,
+        "low":1180.5,
+        "close":1183.2,
+        "volume":48092.0
+    },
+    {
+        "datetime":"2026-08-25T07:30:00.000",
+        "symbol":"NSE:DRREDDY",
+        "open":1183.7,
+        "high":1184.5,
+        "low":1182.4,
+        "close":1182.9,
+        "volume":61681.0
+    },
+    {
+        "datetime":"2026-08-25T07:45:00.000",
+        "symbol":"NSE:DRREDDY",
+        "open":1183.1,
+        "high":1183.5,
+        "low":1181.7,
+        "close":1181.7,
+        "volume":17648.0
+    },
+    {
+        "datetime":"2026-08-25T08:00:00.000",
+        "symbol":"NSE:DRREDDY",
+        "open":1182.1,
+        "high":1182.7,
+        "low":1181.6,
+        "close":1182.5,
+        "volume":19293.0
+    },
+    {
+        "datetime":"2026-08-25T08:15:00.000",
+        "symbol":"NSE:DRREDDY",
+        "open":1182.2,
+        "high":1182.7,
+        "low":1181.3,
+        "close":1181.5,
+        "volume":27109.0
+    },
+    {
+        "datetime":"2026-08-25T08:30:00.000",
+        "symbol":"NSE:DRREDDY",
+        "open":1181.4,
+        "high":1181.9,
+        "low":1178.9,
+        "close":1180.5,
+        "volume":42793.0
+    },
+    {
+        "datetime":"2026-08-25T08:45:00.000",
+        "symbol":"NSE:DRREDDY",
+        "open":1180.0,
+        "high":1180.4,
+        "low":1179.8,
+        "close":1179.8,
+        "volume":1026.0
     }
 ]

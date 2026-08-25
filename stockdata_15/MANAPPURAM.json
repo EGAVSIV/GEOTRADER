@@ -1,77 +1,5 @@
 [
     {
-        "datetime":"2025-12-30T09:15:00.000",
-        "symbol":"NSE:MANAPPURAM",
-        "open":308.25,
-        "high":308.95,
-        "low":307.7,
-        "close":308.35,
-        "volume":327839.0
-    },
-    {
-        "datetime":"2025-12-30T09:30:00.000",
-        "symbol":"NSE:MANAPPURAM",
-        "open":308.35,
-        "high":309.7,
-        "low":308.35,
-        "close":309.2,
-        "volume":718396.0
-    },
-    {
-        "datetime":"2025-12-30T09:45:00.000",
-        "symbol":"NSE:MANAPPURAM",
-        "open":309.25,
-        "high":311.9,
-        "low":308.9,
-        "close":311.0,
-        "volume":759604.0
-    },
-    {
-        "datetime":"2025-12-31T03:45:00.000",
-        "symbol":"NSE:MANAPPURAM",
-        "open":309.8,
-        "high":312.1,
-        "low":309.3,
-        "close":310.85,
-        "volume":201993.0
-    },
-    {
-        "datetime":"2025-12-31T04:00:00.000",
-        "symbol":"NSE:MANAPPURAM",
-        "open":310.45,
-        "high":312.75,
-        "low":310.45,
-        "close":311.8,
-        "volume":138146.0
-    },
-    {
-        "datetime":"2025-12-31T04:15:00.000",
-        "symbol":"NSE:MANAPPURAM",
-        "open":311.8,
-        "high":312.65,
-        "low":311.5,
-        "close":311.5,
-        "volume":81918.0
-    },
-    {
-        "datetime":"2025-12-31T04:30:00.000",
-        "symbol":"NSE:MANAPPURAM",
-        "open":311.45,
-        "high":311.85,
-        "low":310.0,
-        "close":310.65,
-        "volume":62917.0
-    },
-    {
-        "datetime":"2025-12-31T04:45:00.000",
-        "symbol":"NSE:MANAPPURAM",
-        "open":310.55,
-        "high":311.8,
-        "low":310.55,
-        "close":311.7,
-        "volume":29695.0
-    },
-    {
         "datetime":"2025-12-31T05:00:00.000",
         "symbol":"NSE:MANAPPURAM",
         "open":311.7,
@@ -35167,9 +35095,9 @@
         "symbol":"NSE:MANAPPURAM",
         "open":338.5,
         "high":338.75,
-        "low":337.0,
+        "low":337.1,
         "close":337.1,
-        "volume":147142.0
+        "volume":117220.0
     },
     {
         "datetime":"2026-08-19T08:00:00.000",
@@ -35995,8 +35923,80 @@
         "symbol":"NSE:MANAPPURAM",
         "open":366.85,
         "high":367.25,
-        "low":366.5,
-        "close":366.5,
-        "volume":40628.0
+        "low":366.25,
+        "close":366.7,
+        "volume":78262.0
+    },
+    {
+        "datetime":"2026-08-25T07:00:00.000",
+        "symbol":"NSE:MANAPPURAM",
+        "open":366.7,
+        "high":366.9,
+        "low":365.4,
+        "close":365.75,
+        "volume":120427.0
+    },
+    {
+        "datetime":"2026-08-25T07:15:00.000",
+        "symbol":"NSE:MANAPPURAM",
+        "open":365.6,
+        "high":365.75,
+        "low":364.6,
+        "close":364.6,
+        "volume":106705.0
+    },
+    {
+        "datetime":"2026-08-25T07:30:00.000",
+        "symbol":"NSE:MANAPPURAM",
+        "open":364.8,
+        "high":365.2,
+        "low":364.05,
+        "close":365.15,
+        "volume":103677.0
+    },
+    {
+        "datetime":"2026-08-25T07:45:00.000",
+        "symbol":"NSE:MANAPPURAM",
+        "open":365.15,
+        "high":365.5,
+        "low":364.55,
+        "close":364.75,
+        "volume":57828.0
+    },
+    {
+        "datetime":"2026-08-25T08:00:00.000",
+        "symbol":"NSE:MANAPPURAM",
+        "open":364.55,
+        "high":364.9,
+        "low":364.3,
+        "close":364.55,
+        "volume":45412.0
+    },
+    {
+        "datetime":"2026-08-25T08:15:00.000",
+        "symbol":"NSE:MANAPPURAM",
+        "open":364.35,
+        "high":365.05,
+        "low":364.25,
+        "close":364.5,
+        "volume":36847.0
+    },
+    {
+        "datetime":"2026-08-25T08:30:00.000",
+        "symbol":"NSE:MANAPPURAM",
+        "open":364.9,
+        "high":365.5,
+        "low":364.25,
+        "close":364.8,
+        "volume":50375.0
+    },
+    {
+        "datetime":"2026-08-25T08:45:00.000",
+        "symbol":"NSE:MANAPPURAM",
+        "open":365.0,
+        "high":365.0,
+        "low":364.9,
+        "close":364.9,
+        "volume":6752.0
     }
 ]

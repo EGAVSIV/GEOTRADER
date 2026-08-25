@@ -1,23 +1,5 @@
 [
     {
-        "datetime":"2024-04-30T07:45:00.000",
-        "symbol":"NSE:KOTAKBANK",
-        "open":326.63,
-        "high":327.93,
-        "low":325.61,
-        "close":327.23,
-        "volume":9672915.0
-    },
-    {
-        "datetime":"2024-04-30T08:45:00.000",
-        "symbol":"NSE:KOTAKBANK",
-        "open":327.24,
-        "high":327.6,
-        "low":324.2,
-        "close":324.96,
-        "volume":23501400.0
-    },
-    {
         "datetime":"2024-04-30T09:45:00.000",
         "symbol":"NSE:KOTAKBANK",
         "open":324.96,
@@ -35790,7 +35772,7 @@
         "high":391.25,
         "low":390.15,
         "close":390.85,
-        "volume":859503.0
+        "volume":821761.0
     },
     {
         "datetime":"2026-08-19T08:45:00.000",
@@ -35995,8 +35977,26 @@
         "symbol":"NSE:KOTAKBANK",
         "open":400.7,
         "high":401.4,
-        "low":400.7,
-        "close":401.15,
-        "volume":93759.0
+        "low":399.65,
+        "close":399.65,
+        "volume":1153238.0
+    },
+    {
+        "datetime":"2026-08-25T07:45:00.000",
+        "symbol":"NSE:KOTAKBANK",
+        "open":399.7,
+        "high":400.9,
+        "low":399.55,
+        "close":400.05,
+        "volume":892942.0
+    },
+    {
+        "datetime":"2026-08-25T08:45:00.000",
+        "symbol":"NSE:KOTAKBANK",
+        "open":400.0,
+        "high":400.15,
+        "low":399.85,
+        "close":400.05,
+        "volume":18340.0
     }
 ]

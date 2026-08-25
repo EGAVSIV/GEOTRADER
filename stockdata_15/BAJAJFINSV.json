@@ -1,77 +1,5 @@
 [
     {
-        "datetime":"2025-12-30T09:15:00.000",
-        "symbol":"NSE:BAJAJFINSV",
-        "open":2009.0,
-        "high":2011.0,
-        "low":2004.9,
-        "close":2009.3,
-        "volume":377928.0
-    },
-    {
-        "datetime":"2025-12-30T09:30:00.000",
-        "symbol":"NSE:BAJAJFINSV",
-        "open":2009.5,
-        "high":2029.8,
-        "low":2008.7,
-        "close":2026.5,
-        "volume":1810299.0
-    },
-    {
-        "datetime":"2025-12-30T09:45:00.000",
-        "symbol":"NSE:BAJAJFINSV",
-        "open":2025.6,
-        "high":2047.8,
-        "low":2025.2,
-        "close":2040.2,
-        "volume":1299827.0
-    },
-    {
-        "datetime":"2025-12-31T03:45:00.000",
-        "symbol":"NSE:BAJAJFINSV",
-        "open":2035.0,
-        "high":2046.3,
-        "low":2015.0,
-        "close":2019.7,
-        "volume":48070.0
-    },
-    {
-        "datetime":"2025-12-31T04:00:00.000",
-        "symbol":"NSE:BAJAJFINSV",
-        "open":2018.4,
-        "high":2020.5,
-        "low":2010.4,
-        "close":2011.2,
-        "volume":19659.0
-    },
-    {
-        "datetime":"2025-12-31T04:15:00.000",
-        "symbol":"NSE:BAJAJFINSV",
-        "open":2011.9,
-        "high":2020.0,
-        "low":2011.0,
-        "close":2018.0,
-        "volume":60956.0
-    },
-    {
-        "datetime":"2025-12-31T04:30:00.000",
-        "symbol":"NSE:BAJAJFINSV",
-        "open":2016.8,
-        "high":2018.1,
-        "low":2012.7,
-        "close":2015.0,
-        "volume":55910.0
-    },
-    {
-        "datetime":"2025-12-31T04:45:00.000",
-        "symbol":"NSE:BAJAJFINSV",
-        "open":2014.1,
-        "high":2016.0,
-        "low":2012.7,
-        "close":2014.4,
-        "volume":25408.0
-    },
-    {
         "datetime":"2025-12-31T05:00:00.000",
         "symbol":"NSE:BAJAJFINSV",
         "open":2014.5,
@@ -35169,7 +35097,7 @@
         "high":1997.0,
         "low":1995.0,
         "close":1995.7,
-        "volume":14884.0
+        "volume":12125.0
     },
     {
         "datetime":"2026-08-19T08:00:00.000",
@@ -35994,9 +35922,81 @@
         "datetime":"2026-08-25T06:45:00.000",
         "symbol":"NSE:BAJAJFINSV",
         "open":1994.3,
-        "high":1994.8,
+        "high":1994.9,
         "low":1992.4,
-        "close":1992.9,
-        "volume":2879.0
+        "close":1993.8,
+        "volume":5387.0
+    },
+    {
+        "datetime":"2026-08-25T07:00:00.000",
+        "symbol":"NSE:BAJAJFINSV",
+        "open":1994.2,
+        "high":1996.7,
+        "low":1993.3,
+        "close":1995.0,
+        "volume":8761.0
+    },
+    {
+        "datetime":"2026-08-25T07:15:00.000",
+        "symbol":"NSE:BAJAJFINSV",
+        "open":1995.7,
+        "high":1997.0,
+        "low":1993.9,
+        "close":1995.6,
+        "volume":10836.0
+    },
+    {
+        "datetime":"2026-08-25T07:30:00.000",
+        "symbol":"NSE:BAJAJFINSV",
+        "open":1996.4,
+        "high":1996.6,
+        "low":1991.4,
+        "close":1992.0,
+        "volume":6563.0
+    },
+    {
+        "datetime":"2026-08-25T07:45:00.000",
+        "symbol":"NSE:BAJAJFINSV",
+        "open":1992.5,
+        "high":1995.0,
+        "low":1991.3,
+        "close":1993.3,
+        "volume":7408.0
+    },
+    {
+        "datetime":"2026-08-25T08:00:00.000",
+        "symbol":"NSE:BAJAJFINSV",
+        "open":1993.8,
+        "high":1998.5,
+        "low":1993.0,
+        "close":1996.8,
+        "volume":5550.0
+    },
+    {
+        "datetime":"2026-08-25T08:15:00.000",
+        "symbol":"NSE:BAJAJFINSV",
+        "open":1996.8,
+        "high":2002.7,
+        "low":1996.8,
+        "close":2001.7,
+        "volume":15802.0
+    },
+    {
+        "datetime":"2026-08-25T08:30:00.000",
+        "symbol":"NSE:BAJAJFINSV",
+        "open":2001.7,
+        "high":2003.1,
+        "low":1995.7,
+        "close":1996.3,
+        "volume":22612.0
+    },
+    {
+        "datetime":"2026-08-25T08:45:00.000",
+        "symbol":"NSE:BAJAJFINSV",
+        "open":1996.3,
+        "high":1997.2,
+        "low":1994.2,
+        "close":1996.9,
+        "volume":1813.0
     }
 ]

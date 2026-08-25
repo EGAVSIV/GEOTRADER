@@ -1,77 +1,5 @@
 [
     {
-        "datetime":"2025-12-30T09:15:00.000",
-        "symbol":"NSE:NAUKRI",
-        "open":1341.0,
-        "high":1342.0,
-        "low":1339.0,
-        "close":1341.2,
-        "volume":46177.0
-    },
-    {
-        "datetime":"2025-12-30T09:30:00.000",
-        "symbol":"NSE:NAUKRI",
-        "open":1341.0,
-        "high":1341.0,
-        "low":1331.1,
-        "close":1331.3,
-        "volume":51836.0
-    },
-    {
-        "datetime":"2025-12-30T09:45:00.000",
-        "symbol":"NSE:NAUKRI",
-        "open":1331.8,
-        "high":1342.6,
-        "low":1330.0,
-        "close":1342.0,
-        "volume":86745.0
-    },
-    {
-        "datetime":"2025-12-31T03:45:00.000",
-        "symbol":"NSE:NAUKRI",
-        "open":1344.3,
-        "high":1344.3,
-        "low":1338.0,
-        "close":1338.3,
-        "volume":16825.0
-    },
-    {
-        "datetime":"2025-12-31T04:00:00.000",
-        "symbol":"NSE:NAUKRI",
-        "open":1338.2,
-        "high":1346.4,
-        "low":1338.1,
-        "close":1339.2,
-        "volume":40578.0
-    },
-    {
-        "datetime":"2025-12-31T04:15:00.000",
-        "symbol":"NSE:NAUKRI",
-        "open":1339.2,
-        "high":1347.3,
-        "low":1335.5,
-        "close":1335.6,
-        "volume":40708.0
-    },
-    {
-        "datetime":"2025-12-31T04:30:00.000",
-        "symbol":"NSE:NAUKRI",
-        "open":1335.6,
-        "high":1336.6,
-        "low":1332.2,
-        "close":1333.2,
-        "volume":27928.0
-    },
-    {
-        "datetime":"2025-12-31T04:45:00.000",
-        "symbol":"NSE:NAUKRI",
-        "open":1333.2,
-        "high":1336.8,
-        "low":1333.2,
-        "close":1335.1,
-        "volume":5192.0
-    },
-    {
         "datetime":"2025-12-31T05:00:00.000",
         "symbol":"NSE:NAUKRI",
         "open":1335.4,
@@ -35169,7 +35097,7 @@
         "high":1372.7,
         "low":1370.3,
         "close":1371.4,
-        "volume":13815.0
+        "volume":11213.0
     },
     {
         "datetime":"2026-08-19T08:00:00.000",
@@ -35994,9 +35922,81 @@
         "datetime":"2026-08-25T06:45:00.000",
         "symbol":"NSE:NAUKRI",
         "open":1333.4,
-        "high":1334.7,
+        "high":1335.8,
         "low":1333.2,
-        "close":1333.4,
-        "volume":5482.0
+        "close":1335.2,
+        "volume":13989.0
+    },
+    {
+        "datetime":"2026-08-25T07:00:00.000",
+        "symbol":"NSE:NAUKRI",
+        "open":1335.5,
+        "high":1335.7,
+        "low":1334.2,
+        "close":1335.0,
+        "volume":7759.0
+    },
+    {
+        "datetime":"2026-08-25T07:15:00.000",
+        "symbol":"NSE:NAUKRI",
+        "open":1335.7,
+        "high":1338.4,
+        "low":1335.0,
+        "close":1337.9,
+        "volume":12953.0
+    },
+    {
+        "datetime":"2026-08-25T07:30:00.000",
+        "symbol":"NSE:NAUKRI",
+        "open":1337.8,
+        "high":1338.2,
+        "low":1336.0,
+        "close":1336.0,
+        "volume":13952.0
+    },
+    {
+        "datetime":"2026-08-25T07:45:00.000",
+        "symbol":"NSE:NAUKRI",
+        "open":1336.0,
+        "high":1338.2,
+        "low":1336.0,
+        "close":1337.0,
+        "volume":11777.0
+    },
+    {
+        "datetime":"2026-08-25T08:00:00.000",
+        "symbol":"NSE:NAUKRI",
+        "open":1337.0,
+        "high":1339.0,
+        "low":1334.6,
+        "close":1336.2,
+        "volume":20071.0
+    },
+    {
+        "datetime":"2026-08-25T08:15:00.000",
+        "symbol":"NSE:NAUKRI",
+        "open":1336.3,
+        "high":1340.9,
+        "low":1328.1,
+        "close":1330.4,
+        "volume":244928.0
+    },
+    {
+        "datetime":"2026-08-25T08:30:00.000",
+        "symbol":"NSE:NAUKRI",
+        "open":1330.3,
+        "high":1333.5,
+        "low":1330.0,
+        "close":1333.0,
+        "volume":61041.0
+    },
+    {
+        "datetime":"2026-08-25T08:45:00.000",
+        "symbol":"NSE:NAUKRI",
+        "open":1333.0,
+        "high":1334.2,
+        "low":1333.0,
+        "close":1334.2,
+        "volume":2095.0
     }
 ]

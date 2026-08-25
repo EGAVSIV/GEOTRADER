@@ -1,77 +1,5 @@
 [
     {
-        "datetime":"2025-12-30T09:15:00.000",
-        "symbol":"NSE:WAAREEENER",
-        "open":2958.5,
-        "high":3000.0,
-        "low":2955.9,
-        "close":2987.0,
-        "volume":57581.0
-    },
-    {
-        "datetime":"2025-12-30T09:30:00.000",
-        "symbol":"NSE:WAAREEENER",
-        "open":2987.0,
-        "high":2994.8,
-        "low":2977.4,
-        "close":2980.0,
-        "volume":48161.0
-    },
-    {
-        "datetime":"2025-12-30T09:45:00.000",
-        "symbol":"NSE:WAAREEENER",
-        "open":2978.9,
-        "high":2979.7,
-        "low":2968.0,
-        "close":2976.0,
-        "volume":48029.0
-    },
-    {
-        "datetime":"2025-12-31T03:45:00.000",
-        "symbol":"NSE:WAAREEENER",
-        "open":2982.0,
-        "high":2989.0,
-        "low":2953.5,
-        "close":2953.5,
-        "volume":78628.0
-    },
-    {
-        "datetime":"2025-12-31T04:00:00.000",
-        "symbol":"NSE:WAAREEENER",
-        "open":2954.0,
-        "high":2960.0,
-        "low":2947.0,
-        "close":2951.8,
-        "volume":49203.0
-    },
-    {
-        "datetime":"2025-12-31T04:15:00.000",
-        "symbol":"NSE:WAAREEENER",
-        "open":2950.0,
-        "high":2959.8,
-        "low":2942.3,
-        "close":2957.8,
-        "volume":25919.0
-    },
-    {
-        "datetime":"2025-12-31T04:30:00.000",
-        "symbol":"NSE:WAAREEENER",
-        "open":2957.8,
-        "high":2965.1,
-        "low":2954.0,
-        "close":2963.7,
-        "volume":21637.0
-    },
-    {
-        "datetime":"2025-12-31T04:45:00.000",
-        "symbol":"NSE:WAAREEENER",
-        "open":2962.9,
-        "high":2979.4,
-        "low":2958.6,
-        "close":2967.4,
-        "volume":39177.0
-    },
-    {
         "datetime":"2025-12-31T05:00:00.000",
         "symbol":"NSE:WAAREEENER",
         "open":2968.2,
@@ -35169,7 +35097,7 @@
         "high":2678.8,
         "low":2675.2,
         "close":2676.1,
-        "volume":7661.0
+        "volume":6734.0
     },
     {
         "datetime":"2026-08-19T08:00:00.000",
@@ -35994,9 +35922,81 @@
         "datetime":"2026-08-25T06:45:00.000",
         "symbol":"NSE:WAAREEENER",
         "open":2652.0,
-        "high":2653.5,
+        "high":2654.4,
         "low":2650.4,
-        "close":2650.9,
-        "volume":4190.0
+        "close":2653.6,
+        "volume":7052.0
+    },
+    {
+        "datetime":"2026-08-25T07:00:00.000",
+        "symbol":"NSE:WAAREEENER",
+        "open":2653.6,
+        "high":2654.9,
+        "low":2652.2,
+        "close":2653.7,
+        "volume":11616.0
+    },
+    {
+        "datetime":"2026-08-25T07:15:00.000",
+        "symbol":"NSE:WAAREEENER",
+        "open":2653.8,
+        "high":2655.0,
+        "low":2651.0,
+        "close":2653.1,
+        "volume":7970.0
+    },
+    {
+        "datetime":"2026-08-25T07:30:00.000",
+        "symbol":"NSE:WAAREEENER",
+        "open":2652.8,
+        "high":2652.8,
+        "low":2646.7,
+        "close":2651.2,
+        "volume":7109.0
+    },
+    {
+        "datetime":"2026-08-25T07:45:00.000",
+        "symbol":"NSE:WAAREEENER",
+        "open":2651.8,
+        "high":2658.9,
+        "low":2650.1,
+        "close":2652.0,
+        "volume":12514.0
+    },
+    {
+        "datetime":"2026-08-25T08:00:00.000",
+        "symbol":"NSE:WAAREEENER",
+        "open":2653.0,
+        "high":2655.1,
+        "low":2651.3,
+        "close":2654.9,
+        "volume":8797.0
+    },
+    {
+        "datetime":"2026-08-25T08:15:00.000",
+        "symbol":"NSE:WAAREEENER",
+        "open":2654.9,
+        "high":2655.0,
+        "low":2651.3,
+        "close":2651.4,
+        "volume":4044.0
+    },
+    {
+        "datetime":"2026-08-25T08:30:00.000",
+        "symbol":"NSE:WAAREEENER",
+        "open":2651.8,
+        "high":2653.0,
+        "low":2648.0,
+        "close":2649.7,
+        "volume":9525.0
+    },
+    {
+        "datetime":"2026-08-25T08:45:00.000",
+        "symbol":"NSE:WAAREEENER",
+        "open":2649.7,
+        "high":2649.9,
+        "low":2649.7,
+        "close":2649.9,
+        "volume":169.0
     }
 ]

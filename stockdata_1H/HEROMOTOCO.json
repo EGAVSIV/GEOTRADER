@@ -1,23 +1,5 @@
 [
     {
-        "datetime":"2024-04-30T07:45:00.000",
-        "symbol":"NSE:HEROMOTOCO",
-        "open":4556.0,
-        "high":4574.0,
-        "low":4550.5,
-        "close":4552.5,
-        "volume":66274.0
-    },
-    {
-        "datetime":"2024-04-30T08:45:00.000",
-        "symbol":"NSE:HEROMOTOCO",
-        "open":4552.45,
-        "high":4564.55,
-        "low":4531.3,
-        "close":4544.35,
-        "volume":199117.0
-    },
-    {
         "datetime":"2024-04-30T09:45:00.000",
         "symbol":"NSE:HEROMOTOCO",
         "open":4543.95,
@@ -35790,7 +35772,7 @@
         "high":5692.5,
         "low":5677.5,
         "close":5691.0,
-        "volume":33163.0
+        "volume":31617.0
     },
     {
         "datetime":"2026-08-19T08:45:00.000",
@@ -35853,7 +35835,7 @@
         "high":5740.0,
         "low":5706.5,
         "close":5736.0,
-        "volume":70006.0
+        "volume":70106.0
     },
     {
         "datetime":"2026-08-21T03:45:00.000",
@@ -35994,9 +35976,27 @@
         "datetime":"2026-08-25T06:45:00.000",
         "symbol":"NSE:HEROMOTOCO",
         "open":5619.0,
-        "high":5623.5,
-        "low":5610.0,
-        "close":5620.0,
-        "volume":10577.0
+        "high":5628.0,
+        "low":5594.0,
+        "close":5608.0,
+        "volume":107045.0
+    },
+    {
+        "datetime":"2026-08-25T07:45:00.000",
+        "symbol":"NSE:HEROMOTOCO",
+        "open":5605.5,
+        "high":5623.0,
+        "low":5600.5,
+        "close":5608.5,
+        "volume":26481.0
+    },
+    {
+        "datetime":"2026-08-25T08:45:00.000",
+        "symbol":"NSE:HEROMOTOCO",
+        "open":5611.0,
+        "high":5612.5,
+        "low":5611.0,
+        "close":5611.0,
+        "volume":215.0
     }
 ]

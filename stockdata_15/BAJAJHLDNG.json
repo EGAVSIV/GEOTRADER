@@ -1,77 +1,5 @@
 [
     {
-        "datetime":"2025-12-30T09:15:00.000",
-        "symbol":"NSE:BAJAJHLDNG",
-        "open":11120.0,
-        "high":11147.0,
-        "low":11115.0,
-        "close":11130.0,
-        "volume":1495.0
-    },
-    {
-        "datetime":"2025-12-30T09:30:00.000",
-        "symbol":"NSE:BAJAJHLDNG",
-        "open":11119.0,
-        "high":11119.0,
-        "low":10913.0,
-        "close":10940.0,
-        "volume":21989.0
-    },
-    {
-        "datetime":"2025-12-30T09:45:00.000",
-        "symbol":"NSE:BAJAJHLDNG",
-        "open":10944.0,
-        "high":11049.0,
-        "low":10935.0,
-        "close":11024.0,
-        "volume":21433.0
-    },
-    {
-        "datetime":"2025-12-31T03:45:00.000",
-        "symbol":"NSE:BAJAJHLDNG",
-        "open":11024.0,
-        "high":11180.0,
-        "low":11024.0,
-        "close":11128.0,
-        "volume":4693.0
-    },
-    {
-        "datetime":"2025-12-31T04:00:00.000",
-        "symbol":"NSE:BAJAJHLDNG",
-        "open":11121.0,
-        "high":11125.0,
-        "low":11050.0,
-        "close":11052.0,
-        "volume":1204.0
-    },
-    {
-        "datetime":"2025-12-31T04:15:00.000",
-        "symbol":"NSE:BAJAJHLDNG",
-        "open":11058.0,
-        "high":11125.0,
-        "low":11037.0,
-        "close":11101.0,
-        "volume":1834.0
-    },
-    {
-        "datetime":"2025-12-31T04:30:00.000",
-        "symbol":"NSE:BAJAJHLDNG",
-        "open":11102.0,
-        "high":11105.0,
-        "low":11085.0,
-        "close":11092.0,
-        "volume":611.0
-    },
-    {
-        "datetime":"2025-12-31T04:45:00.000",
-        "symbol":"NSE:BAJAJHLDNG",
-        "open":11093.0,
-        "high":11144.0,
-        "low":11080.0,
-        "close":11138.0,
-        "volume":2159.0
-    },
-    {
         "datetime":"2025-12-31T05:00:00.000",
         "symbol":"NSE:BAJAJHLDNG",
         "open":11138.0,
@@ -35169,7 +35097,7 @@
         "high":11333.0,
         "low":11290.0,
         "close":11324.0,
-        "volume":1826.0
+        "volume":1667.0
     },
     {
         "datetime":"2026-08-19T08:00:00.000",
@@ -35994,9 +35922,81 @@
         "datetime":"2026-08-25T06:45:00.000",
         "symbol":"NSE:BAJAJHLDNG",
         "open":11178.0,
-        "high":11190.0,
+        "high":11205.0,
         "low":11172.0,
-        "close":11178.0,
-        "volume":227.0
+        "close":11190.0,
+        "volume":919.0
+    },
+    {
+        "datetime":"2026-08-25T07:00:00.000",
+        "symbol":"NSE:BAJAJHLDNG",
+        "open":11189.0,
+        "high":11197.0,
+        "low":11170.0,
+        "close":11181.0,
+        "volume":588.0
+    },
+    {
+        "datetime":"2026-08-25T07:15:00.000",
+        "symbol":"NSE:BAJAJHLDNG",
+        "open":11170.0,
+        "high":11198.0,
+        "low":11168.0,
+        "close":11183.0,
+        "volume":533.0
+    },
+    {
+        "datetime":"2026-08-25T07:30:00.000",
+        "symbol":"NSE:BAJAJHLDNG",
+        "open":11183.0,
+        "high":11188.0,
+        "low":11160.0,
+        "close":11165.0,
+        "volume":662.0
+    },
+    {
+        "datetime":"2026-08-25T07:45:00.000",
+        "symbol":"NSE:BAJAJHLDNG",
+        "open":11165.0,
+        "high":11180.0,
+        "low":11152.0,
+        "close":11171.0,
+        "volume":1367.0
+    },
+    {
+        "datetime":"2026-08-25T08:00:00.000",
+        "symbol":"NSE:BAJAJHLDNG",
+        "open":11170.0,
+        "high":11193.0,
+        "low":11161.0,
+        "close":11193.0,
+        "volume":1517.0
+    },
+    {
+        "datetime":"2026-08-25T08:15:00.000",
+        "symbol":"NSE:BAJAJHLDNG",
+        "open":11194.0,
+        "high":11207.0,
+        "low":11182.0,
+        "close":11202.0,
+        "volume":1655.0
+    },
+    {
+        "datetime":"2026-08-25T08:30:00.000",
+        "symbol":"NSE:BAJAJHLDNG",
+        "open":11194.0,
+        "high":11208.0,
+        "low":11182.0,
+        "close":11182.0,
+        "volume":543.0
+    },
+    {
+        "datetime":"2026-08-25T08:45:00.000",
+        "symbol":"NSE:BAJAJHLDNG",
+        "open":11175.0,
+        "high":11175.0,
+        "low":11170.0,
+        "close":11170.0,
+        "volume":16.0
     }
 ]

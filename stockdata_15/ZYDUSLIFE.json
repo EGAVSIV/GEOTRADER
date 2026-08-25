@@ -1,77 +1,5 @@
 [
     {
-        "datetime":"2025-12-30T09:15:00.000",
-        "symbol":"NSE:ZYDUSLIFE",
-        "open":900.95,
-        "high":902.75,
-        "low":900.35,
-        "close":902.25,
-        "volume":29845.0
-    },
-    {
-        "datetime":"2025-12-30T09:30:00.000",
-        "symbol":"NSE:ZYDUSLIFE",
-        "open":902.15,
-        "high":902.4,
-        "low":900.05,
-        "close":901.5,
-        "volume":34014.0
-    },
-    {
-        "datetime":"2025-12-30T09:45:00.000",
-        "symbol":"NSE:ZYDUSLIFE",
-        "open":901.5,
-        "high":902.45,
-        "low":900.05,
-        "close":902.0,
-        "volume":67405.0
-    },
-    {
-        "datetime":"2025-12-31T03:45:00.000",
-        "symbol":"NSE:ZYDUSLIFE",
-        "open":905.0,
-        "high":907.45,
-        "low":902.35,
-        "close":907.0,
-        "volume":17271.0
-    },
-    {
-        "datetime":"2025-12-31T04:00:00.000",
-        "symbol":"NSE:ZYDUSLIFE",
-        "open":906.7,
-        "high":907.0,
-        "low":904.85,
-        "close":905.95,
-        "volume":19400.0
-    },
-    {
-        "datetime":"2025-12-31T04:15:00.000",
-        "symbol":"NSE:ZYDUSLIFE",
-        "open":905.65,
-        "high":911.1,
-        "low":905.25,
-        "close":910.45,
-        "volume":55687.0
-    },
-    {
-        "datetime":"2025-12-31T04:30:00.000",
-        "symbol":"NSE:ZYDUSLIFE",
-        "open":910.65,
-        "high":910.8,
-        "low":907.65,
-        "close":908.4,
-        "volume":19815.0
-    },
-    {
-        "datetime":"2025-12-31T04:45:00.000",
-        "symbol":"NSE:ZYDUSLIFE",
-        "open":908.25,
-        "high":910.8,
-        "low":908.25,
-        "close":910.55,
-        "volume":12364.0
-    },
-    {
         "datetime":"2025-12-31T05:00:00.000",
         "symbol":"NSE:ZYDUSLIFE",
         "open":910.3,
@@ -35169,7 +35097,7 @@
         "high":1106.9,
         "low":1105.5,
         "close":1106.5,
-        "volume":19680.0
+        "volume":11310.0
     },
     {
         "datetime":"2026-08-19T08:00:00.000",
@@ -35995,8 +35923,80 @@
         "symbol":"NSE:ZYDUSLIFE",
         "open":1096.5,
         "high":1097.0,
-        "low":1094.7,
-        "close":1095.7,
-        "volume":48298.0
+        "low":1094.6,
+        "close":1095.2,
+        "volume":51366.0
+    },
+    {
+        "datetime":"2026-08-25T07:00:00.000",
+        "symbol":"NSE:ZYDUSLIFE",
+        "open":1095.2,
+        "high":1097.6,
+        "low":1093.5,
+        "close":1096.2,
+        "volume":69757.0
+    },
+    {
+        "datetime":"2026-08-25T07:15:00.000",
+        "symbol":"NSE:ZYDUSLIFE",
+        "open":1096.2,
+        "high":1100.4,
+        "low":1095.6,
+        "close":1099.3,
+        "volume":74127.0
+    },
+    {
+        "datetime":"2026-08-25T07:30:00.000",
+        "symbol":"NSE:ZYDUSLIFE",
+        "open":1099.6,
+        "high":1109.1,
+        "low":1099.5,
+        "close":1107.0,
+        "volume":73817.0
+    },
+    {
+        "datetime":"2026-08-25T07:45:00.000",
+        "symbol":"NSE:ZYDUSLIFE",
+        "open":1106.9,
+        "high":1113.4,
+        "low":1106.2,
+        "close":1110.4,
+        "volume":85688.0
+    },
+    {
+        "datetime":"2026-08-25T08:00:00.000",
+        "symbol":"NSE:ZYDUSLIFE",
+        "open":1110.1,
+        "high":1111.2,
+        "low":1109.0,
+        "close":1109.2,
+        "volume":30182.0
+    },
+    {
+        "datetime":"2026-08-25T08:15:00.000",
+        "symbol":"NSE:ZYDUSLIFE",
+        "open":1110.0,
+        "high":1112.5,
+        "low":1110.0,
+        "close":1111.6,
+        "volume":24708.0
+    },
+    {
+        "datetime":"2026-08-25T08:30:00.000",
+        "symbol":"NSE:ZYDUSLIFE",
+        "open":1111.5,
+        "high":1112.4,
+        "low":1108.7,
+        "close":1109.1,
+        "volume":17888.0
+    },
+    {
+        "datetime":"2026-08-25T08:45:00.000",
+        "symbol":"NSE:ZYDUSLIFE",
+        "open":1109.7,
+        "high":1109.7,
+        "low":1109.3,
+        "close":1109.5,
+        "volume":74.0
     }
 ]

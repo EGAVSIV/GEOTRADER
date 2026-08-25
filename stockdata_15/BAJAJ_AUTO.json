@@ -1,77 +1,5 @@
 [
     {
-        "datetime":"2025-12-30T09:15:00.000",
-        "symbol":"NSE:BAJAJ_AUTO",
-        "open":9278.5,
-        "high":9290.0,
-        "low":9270.0,
-        "close":9277.0,
-        "volume":24552.0
-    },
-    {
-        "datetime":"2025-12-30T09:30:00.000",
-        "symbol":"NSE:BAJAJ_AUTO",
-        "open":9284.5,
-        "high":9299.0,
-        "low":9271.5,
-        "close":9278.5,
-        "volume":52856.0
-    },
-    {
-        "datetime":"2025-12-30T09:45:00.000",
-        "symbol":"NSE:BAJAJ_AUTO",
-        "open":9284.5,
-        "high":9299.0,
-        "low":9265.0,
-        "close":9298.0,
-        "volume":56756.0
-    },
-    {
-        "datetime":"2025-12-31T03:45:00.000",
-        "symbol":"NSE:BAJAJ_AUTO",
-        "open":9348.0,
-        "high":9380.0,
-        "low":9296.5,
-        "close":9327.0,
-        "volume":62065.0
-    },
-    {
-        "datetime":"2025-12-31T04:00:00.000",
-        "symbol":"NSE:BAJAJ_AUTO",
-        "open":9325.0,
-        "high":9348.0,
-        "low":9310.5,
-        "close":9310.5,
-        "volume":12457.0
-    },
-    {
-        "datetime":"2025-12-31T04:15:00.000",
-        "symbol":"NSE:BAJAJ_AUTO",
-        "open":9311.0,
-        "high":9330.0,
-        "low":9298.5,
-        "close":9328.0,
-        "volume":10033.0
-    },
-    {
-        "datetime":"2025-12-31T04:30:00.000",
-        "symbol":"NSE:BAJAJ_AUTO",
-        "open":9328.0,
-        "high":9348.0,
-        "low":9316.5,
-        "close":9344.0,
-        "volume":8546.0
-    },
-    {
-        "datetime":"2025-12-31T04:45:00.000",
-        "symbol":"NSE:BAJAJ_AUTO",
-        "open":9344.5,
-        "high":9365.0,
-        "low":9344.5,
-        "close":9364.0,
-        "volume":9019.0
-    },
-    {
         "datetime":"2025-12-31T05:00:00.000",
         "symbol":"NSE:BAJAJ_AUTO",
         "open":9364.0,
@@ -35167,9 +35095,9 @@
         "symbol":"NSE:BAJAJ_AUTO",
         "open":11685.0,
         "high":11685.0,
-        "low":11667.0,
+        "low":11671.0,
         "close":11682.0,
-        "volume":10155.0
+        "volume":5561.0
     },
     {
         "datetime":"2026-08-19T08:00:00.000",
@@ -35996,7 +35924,79 @@
         "open":11758.0,
         "high":11768.0,
         "low":11756.0,
-        "close":11767.0,
-        "volume":805.0
+        "close":11764.0,
+        "volume":1191.0
+    },
+    {
+        "datetime":"2026-08-25T07:00:00.000",
+        "symbol":"NSE:BAJAJ_AUTO",
+        "open":11765.0,
+        "high":11778.0,
+        "low":11730.0,
+        "close":11742.0,
+        "volume":7666.0
+    },
+    {
+        "datetime":"2026-08-25T07:15:00.000",
+        "symbol":"NSE:BAJAJ_AUTO",
+        "open":11742.0,
+        "high":11744.0,
+        "low":11730.0,
+        "close":11735.0,
+        "volume":1491.0
+    },
+    {
+        "datetime":"2026-08-25T07:30:00.000",
+        "symbol":"NSE:BAJAJ_AUTO",
+        "open":11731.0,
+        "high":11748.0,
+        "low":11731.0,
+        "close":11737.0,
+        "volume":4207.0
+    },
+    {
+        "datetime":"2026-08-25T07:45:00.000",
+        "symbol":"NSE:BAJAJ_AUTO",
+        "open":11738.0,
+        "high":11750.0,
+        "low":11722.0,
+        "close":11750.0,
+        "volume":3927.0
+    },
+    {
+        "datetime":"2026-08-25T08:00:00.000",
+        "symbol":"NSE:BAJAJ_AUTO",
+        "open":11750.0,
+        "high":11768.0,
+        "low":11745.0,
+        "close":11768.0,
+        "volume":3939.0
+    },
+    {
+        "datetime":"2026-08-25T08:15:00.000",
+        "symbol":"NSE:BAJAJ_AUTO",
+        "open":11767.0,
+        "high":11782.0,
+        "low":11760.0,
+        "close":11780.0,
+        "volume":5452.0
+    },
+    {
+        "datetime":"2026-08-25T08:30:00.000",
+        "symbol":"NSE:BAJAJ_AUTO",
+        "open":11778.0,
+        "high":11789.0,
+        "low":11772.0,
+        "close":11789.0,
+        "volume":6149.0
+    },
+    {
+        "datetime":"2026-08-25T08:45:00.000",
+        "symbol":"NSE:BAJAJ_AUTO",
+        "open":11787.0,
+        "high":11788.0,
+        "low":11780.0,
+        "close":11783.0,
+        "volume":1505.0
     }
 ]

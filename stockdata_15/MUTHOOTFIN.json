@@ -1,77 +1,5 @@
 [
     {
-        "datetime":"2025-12-30T09:15:00.000",
-        "symbol":"NSE:MUTHOOTFIN",
-        "open":3787.0,
-        "high":3803.6,
-        "low":3786.6,
-        "close":3799.7,
-        "volume":94801.0
-    },
-    {
-        "datetime":"2025-12-30T09:30:00.000",
-        "symbol":"NSE:MUTHOOTFIN",
-        "open":3800.1,
-        "high":3803.9,
-        "low":3775.6,
-        "close":3801.3,
-        "volume":518410.0
-    },
-    {
-        "datetime":"2025-12-30T09:45:00.000",
-        "symbol":"NSE:MUTHOOTFIN",
-        "open":3802.0,
-        "high":3819.0,
-        "low":3786.9,
-        "close":3802.9,
-        "volume":466260.0
-    },
-    {
-        "datetime":"2025-12-31T03:45:00.000",
-        "symbol":"NSE:MUTHOOTFIN",
-        "open":3797.0,
-        "high":3806.8,
-        "low":3780.7,
-        "close":3800.5,
-        "volume":12102.0
-    },
-    {
-        "datetime":"2025-12-31T04:00:00.000",
-        "symbol":"NSE:MUTHOOTFIN",
-        "open":3799.7,
-        "high":3830.0,
-        "low":3798.4,
-        "close":3818.3,
-        "volume":16031.0
-    },
-    {
-        "datetime":"2025-12-31T04:15:00.000",
-        "symbol":"NSE:MUTHOOTFIN",
-        "open":3819.1,
-        "high":3829.5,
-        "low":3814.4,
-        "close":3827.6,
-        "volume":5812.0
-    },
-    {
-        "datetime":"2025-12-31T04:30:00.000",
-        "symbol":"NSE:MUTHOOTFIN",
-        "open":3827.4,
-        "high":3847.7,
-        "low":3820.0,
-        "close":3847.2,
-        "volume":13162.0
-    },
-    {
-        "datetime":"2025-12-31T04:45:00.000",
-        "symbol":"NSE:MUTHOOTFIN",
-        "open":3845.6,
-        "high":3859.0,
-        "low":3840.1,
-        "close":3845.0,
-        "volume":13519.0
-    },
-    {
         "datetime":"2025-12-31T05:00:00.000",
         "symbol":"NSE:MUTHOOTFIN",
         "open":3846.0,
@@ -35169,7 +35097,7 @@
         "high":2855.8,
         "low":2853.0,
         "close":2855.1,
-        "volume":8594.0
+        "volume":7021.0
     },
     {
         "datetime":"2026-08-19T08:00:00.000",
@@ -35995,8 +35923,80 @@
         "symbol":"NSE:MUTHOOTFIN",
         "open":3222.8,
         "high":3224.0,
-        "low":3213.2,
-        "close":3214.0,
-        "volume":26305.0
+        "low":3212.5,
+        "close":3220.7,
+        "volume":43481.0
+    },
+    {
+        "datetime":"2026-08-25T07:00:00.000",
+        "symbol":"NSE:MUTHOOTFIN",
+        "open":3220.7,
+        "high":3227.7,
+        "low":3215.0,
+        "close":3221.2,
+        "volume":30783.0
+    },
+    {
+        "datetime":"2026-08-25T07:15:00.000",
+        "symbol":"NSE:MUTHOOTFIN",
+        "open":3220.1,
+        "high":3221.2,
+        "low":3211.0,
+        "close":3212.5,
+        "volume":33548.0
+    },
+    {
+        "datetime":"2026-08-25T07:30:00.000",
+        "symbol":"NSE:MUTHOOTFIN",
+        "open":3213.0,
+        "high":3215.1,
+        "low":3210.9,
+        "close":3215.0,
+        "volume":14652.0
+    },
+    {
+        "datetime":"2026-08-25T07:45:00.000",
+        "symbol":"NSE:MUTHOOTFIN",
+        "open":3215.0,
+        "high":3217.3,
+        "low":3211.0,
+        "close":3213.0,
+        "volume":14123.0
+    },
+    {
+        "datetime":"2026-08-25T08:00:00.000",
+        "symbol":"NSE:MUTHOOTFIN",
+        "open":3213.7,
+        "high":3215.1,
+        "low":3212.0,
+        "close":3214.7,
+        "volume":7532.0
+    },
+    {
+        "datetime":"2026-08-25T08:15:00.000",
+        "symbol":"NSE:MUTHOOTFIN",
+        "open":3214.7,
+        "high":3214.7,
+        "low":3210.5,
+        "close":3211.1,
+        "volume":13479.0
+    },
+    {
+        "datetime":"2026-08-25T08:30:00.000",
+        "symbol":"NSE:MUTHOOTFIN",
+        "open":3212.1,
+        "high":3214.0,
+        "low":3210.2,
+        "close":3211.4,
+        "volume":11968.0
+    },
+    {
+        "datetime":"2026-08-25T08:45:00.000",
+        "symbol":"NSE:MUTHOOTFIN",
+        "open":3212.3,
+        "high":3212.3,
+        "low":3211.4,
+        "close":3212.0,
+        "volume":77.0
     }
 ]

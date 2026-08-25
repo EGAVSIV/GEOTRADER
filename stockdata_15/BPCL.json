@@ -1,77 +1,5 @@
 [
     {
-        "datetime":"2025-12-30T09:15:00.000",
-        "symbol":"NSE:BPCL",
-        "open":372.0,
-        "high":372.0,
-        "low":371.7,
-        "close":371.95,
-        "volume":124056.0
-    },
-    {
-        "datetime":"2025-12-30T09:30:00.000",
-        "symbol":"NSE:BPCL",
-        "open":370.95,
-        "high":370.95,
-        "low":368.2,
-        "close":370.25,
-        "volume":1747734.0
-    },
-    {
-        "datetime":"2025-12-30T09:45:00.000",
-        "symbol":"NSE:BPCL",
-        "open":370.3,
-        "high":370.55,
-        "low":369.0,
-        "close":369.0,
-        "volume":1328807.0
-    },
-    {
-        "datetime":"2025-12-31T03:45:00.000",
-        "symbol":"NSE:BPCL",
-        "open":369.15,
-        "high":373.75,
-        "low":369.0,
-        "close":373.65,
-        "volume":179846.0
-    },
-    {
-        "datetime":"2025-12-31T04:00:00.000",
-        "symbol":"NSE:BPCL",
-        "open":373.6,
-        "high":373.65,
-        "low":372.2,
-        "close":372.75,
-        "volume":110158.0
-    },
-    {
-        "datetime":"2025-12-31T04:15:00.000",
-        "symbol":"NSE:BPCL",
-        "open":372.75,
-        "high":374.5,
-        "low":372.75,
-        "close":373.4,
-        "volume":728627.0
-    },
-    {
-        "datetime":"2025-12-31T04:30:00.000",
-        "symbol":"NSE:BPCL",
-        "open":373.35,
-        "high":374.85,
-        "low":373.0,
-        "close":373.3,
-        "volume":769932.0
-    },
-    {
-        "datetime":"2025-12-31T04:45:00.000",
-        "symbol":"NSE:BPCL",
-        "open":373.25,
-        "high":374.6,
-        "low":373.2,
-        "close":374.2,
-        "volume":260003.0
-    },
-    {
         "datetime":"2025-12-31T05:00:00.000",
         "symbol":"NSE:BPCL",
         "open":374.2,
@@ -35166,10 +35094,10 @@
         "datetime":"2026-08-19T07:45:00.000",
         "symbol":"NSE:BPCL",
         "open":307.4,
-        "high":307.8,
+        "high":307.75,
         "low":306.9,
         "close":307.3,
-        "volume":250815.0
+        "volume":126478.0
     },
     {
         "datetime":"2026-08-19T08:00:00.000",
@@ -35994,9 +35922,81 @@
         "datetime":"2026-08-25T06:45:00.000",
         "symbol":"NSE:BPCL",
         "open":314.2,
-        "high":315.1,
+        "high":315.2,
         "low":314.1,
+        "close":315.1,
+        "volume":577921.0
+    },
+    {
+        "datetime":"2026-08-25T07:00:00.000",
+        "symbol":"NSE:BPCL",
+        "open":315.1,
+        "high":315.1,
+        "low":313.7,
+        "close":314.1,
+        "volume":1108624.0
+    },
+    {
+        "datetime":"2026-08-25T07:15:00.000",
+        "symbol":"NSE:BPCL",
+        "open":314.1,
+        "high":315.35,
+        "low":313.5,
         "close":315.05,
-        "volume":510321.0
+        "volume":256961.0
+    },
+    {
+        "datetime":"2026-08-25T07:30:00.000",
+        "symbol":"NSE:BPCL",
+        "open":315.05,
+        "high":315.65,
+        "low":315.0,
+        "close":315.4,
+        "volume":116427.0
+    },
+    {
+        "datetime":"2026-08-25T07:45:00.000",
+        "symbol":"NSE:BPCL",
+        "open":315.4,
+        "high":316.0,
+        "low":315.0,
+        "close":315.15,
+        "volume":112635.0
+    },
+    {
+        "datetime":"2026-08-25T08:00:00.000",
+        "symbol":"NSE:BPCL",
+        "open":315.0,
+        "high":315.2,
+        "low":314.95,
+        "close":315.0,
+        "volume":76579.0
+    },
+    {
+        "datetime":"2026-08-25T08:15:00.000",
+        "symbol":"NSE:BPCL",
+        "open":315.0,
+        "high":315.65,
+        "low":314.65,
+        "close":315.45,
+        "volume":231345.0
+    },
+    {
+        "datetime":"2026-08-25T08:30:00.000",
+        "symbol":"NSE:BPCL",
+        "open":315.3,
+        "high":315.5,
+        "low":315.0,
+        "close":315.2,
+        "volume":50028.0
+    },
+    {
+        "datetime":"2026-08-25T08:45:00.000",
+        "symbol":"NSE:BPCL",
+        "open":315.15,
+        "high":315.2,
+        "low":315.05,
+        "close":315.15,
+        "volume":3899.0
     }
 ]

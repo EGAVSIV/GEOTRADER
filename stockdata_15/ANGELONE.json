@@ -1,77 +1,5 @@
 [
     {
-        "datetime":"2025-12-30T09:15:00.000",
-        "symbol":"NSE:ANGELONE",
-        "open":233.2,
-        "high":234.39,
-        "low":232.94,
-        "close":234.14,
-        "volume":1694690.0
-    },
-    {
-        "datetime":"2025-12-30T09:30:00.000",
-        "symbol":"NSE:ANGELONE",
-        "open":233.67,
-        "high":234.74,
-        "low":233.0,
-        "close":234.6,
-        "volume":2068040.0
-    },
-    {
-        "datetime":"2025-12-30T09:45:00.000",
-        "symbol":"NSE:ANGELONE",
-        "open":234.48,
-        "high":237.11,
-        "low":234.48,
-        "close":236.9,
-        "volume":1639490.0
-    },
-    {
-        "datetime":"2025-12-31T03:45:00.000",
-        "symbol":"NSE:ANGELONE",
-        "open":237.48,
-        "high":239.5,
-        "low":235.32,
-        "close":235.32,
-        "volume":859700.0
-    },
-    {
-        "datetime":"2025-12-31T04:00:00.000",
-        "symbol":"NSE:ANGELONE",
-        "open":235.47,
-        "high":236.0,
-        "low":234.53,
-        "close":234.6,
-        "volume":709200.0
-    },
-    {
-        "datetime":"2025-12-31T04:15:00.000",
-        "symbol":"NSE:ANGELONE",
-        "open":234.6,
-        "high":235.07,
-        "low":233.91,
-        "close":234.35,
-        "volume":310100.0
-    },
-    {
-        "datetime":"2025-12-31T04:30:00.000",
-        "symbol":"NSE:ANGELONE",
-        "open":234.39,
-        "high":234.41,
-        "low":233.1,
-        "close":234.0,
-        "volume":428980.0
-    },
-    {
-        "datetime":"2025-12-31T04:45:00.000",
-        "symbol":"NSE:ANGELONE",
-        "open":234.0,
-        "high":235.19,
-        "low":233.83,
-        "close":234.91,
-        "volume":263840.0
-    },
-    {
         "datetime":"2025-12-31T05:00:00.000",
         "symbol":"NSE:ANGELONE",
         "open":234.87,
@@ -35169,7 +35097,7 @@
         "high":290.7,
         "low":290.1,
         "close":290.35,
-        "volume":46680.0
+        "volume":36462.0
     },
     {
         "datetime":"2026-08-19T08:00:00.000",
@@ -35994,9 +35922,81 @@
         "datetime":"2026-08-25T06:45:00.000",
         "symbol":"NSE:ANGELONE",
         "open":294.6,
-        "high":294.85,
+        "high":295.35,
         "low":294.4,
-        "close":294.55,
-        "volume":117765.0
+        "close":295.3,
+        "volume":369530.0
+    },
+    {
+        "datetime":"2026-08-25T07:00:00.000",
+        "symbol":"NSE:ANGELONE",
+        "open":295.3,
+        "high":295.3,
+        "low":294.1,
+        "close":294.8,
+        "volume":236375.0
+    },
+    {
+        "datetime":"2026-08-25T07:15:00.000",
+        "symbol":"NSE:ANGELONE",
+        "open":294.8,
+        "high":295.6,
+        "low":294.45,
+        "close":295.25,
+        "volume":284583.0
+    },
+    {
+        "datetime":"2026-08-25T07:30:00.000",
+        "symbol":"NSE:ANGELONE",
+        "open":295.35,
+        "high":295.55,
+        "low":294.1,
+        "close":294.1,
+        "volume":199705.0
+    },
+    {
+        "datetime":"2026-08-25T07:45:00.000",
+        "symbol":"NSE:ANGELONE",
+        "open":294.15,
+        "high":295.9,
+        "low":294.1,
+        "close":294.5,
+        "volume":264367.0
+    },
+    {
+        "datetime":"2026-08-25T08:00:00.000",
+        "symbol":"NSE:ANGELONE",
+        "open":294.6,
+        "high":295.5,
+        "low":294.4,
+        "close":295.35,
+        "volume":191049.0
+    },
+    {
+        "datetime":"2026-08-25T08:15:00.000",
+        "symbol":"NSE:ANGELONE",
+        "open":295.4,
+        "high":296.25,
+        "low":295.05,
+        "close":295.65,
+        "volume":289441.0
+    },
+    {
+        "datetime":"2026-08-25T08:30:00.000",
+        "symbol":"NSE:ANGELONE",
+        "open":295.5,
+        "high":299.8,
+        "low":295.4,
+        "close":297.4,
+        "volume":1117259.0
+    },
+    {
+        "datetime":"2026-08-25T08:45:00.000",
+        "symbol":"NSE:ANGELONE",
+        "open":297.3,
+        "high":297.5,
+        "low":297.25,
+        "close":297.25,
+        "volume":22907.0
     }
 ]

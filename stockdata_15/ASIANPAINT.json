@@ -1,77 +1,5 @@
 [
     {
-        "datetime":"2025-12-30T09:15:00.000",
-        "symbol":"NSE:ASIANPAINT",
-        "open":2758.0,
-        "high":2765.3,
-        "low":2757.6,
-        "close":2762.1,
-        "volume":268402.0
-    },
-    {
-        "datetime":"2025-12-30T09:30:00.000",
-        "symbol":"NSE:ASIANPAINT",
-        "open":2767.3,
-        "high":2772.3,
-        "low":2754.3,
-        "close":2757.8,
-        "volume":1426587.0
-    },
-    {
-        "datetime":"2025-12-30T09:45:00.000",
-        "symbol":"NSE:ASIANPAINT",
-        "open":2757.8,
-        "high":2760.0,
-        "low":2741.0,
-        "close":2753.5,
-        "volume":1074025.0
-    },
-    {
-        "datetime":"2025-12-31T03:45:00.000",
-        "symbol":"NSE:ASIANPAINT",
-        "open":2757.0,
-        "high":2768.5,
-        "low":2754.9,
-        "close":2763.8,
-        "volume":23238.0
-    },
-    {
-        "datetime":"2025-12-31T04:00:00.000",
-        "symbol":"NSE:ASIANPAINT",
-        "open":2766.1,
-        "high":2775.0,
-        "low":2763.9,
-        "close":2769.9,
-        "volume":12636.0
-    },
-    {
-        "datetime":"2025-12-31T04:15:00.000",
-        "symbol":"NSE:ASIANPAINT",
-        "open":2768.3,
-        "high":2788.1,
-        "low":2768.3,
-        "close":2781.8,
-        "volume":46208.0
-    },
-    {
-        "datetime":"2025-12-31T04:30:00.000",
-        "symbol":"NSE:ASIANPAINT",
-        "open":2781.8,
-        "high":2784.1,
-        "low":2777.9,
-        "close":2781.9,
-        "volume":23557.0
-    },
-    {
-        "datetime":"2025-12-31T04:45:00.000",
-        "symbol":"NSE:ASIANPAINT",
-        "open":2781.9,
-        "high":2785.0,
-        "low":2779.4,
-        "close":2782.3,
-        "volume":18044.0
-    },
-    {
         "datetime":"2025-12-31T05:00:00.000",
         "symbol":"NSE:ASIANPAINT",
         "open":2782.5,
@@ -35167,9 +35095,9 @@
         "symbol":"NSE:ASIANPAINT",
         "open":2603.1,
         "high":2606.5,
-        "low":2601.0,
+        "low":2601.3,
         "close":2601.4,
-        "volume":33254.0
+        "volume":27322.0
     },
     {
         "datetime":"2026-08-19T08:00:00.000",
@@ -35995,8 +35923,80 @@
         "symbol":"NSE:ASIANPAINT",
         "open":2614.7,
         "high":2617.7,
-        "low":2612.0,
-        "close":2613.3,
-        "volume":4249.0
+        "low":2611.8,
+        "close":2612.8,
+        "volume":7539.0
+    },
+    {
+        "datetime":"2026-08-25T07:00:00.000",
+        "symbol":"NSE:ASIANPAINT",
+        "open":2611.5,
+        "high":2615.5,
+        "low":2610.8,
+        "close":2612.0,
+        "volume":17326.0
+    },
+    {
+        "datetime":"2026-08-25T07:15:00.000",
+        "symbol":"NSE:ASIANPAINT",
+        "open":2611.8,
+        "high":2615.5,
+        "low":2610.2,
+        "close":2615.0,
+        "volume":21950.0
+    },
+    {
+        "datetime":"2026-08-25T07:30:00.000",
+        "symbol":"NSE:ASIANPAINT",
+        "open":2614.5,
+        "high":2619.4,
+        "low":2613.9,
+        "close":2614.4,
+        "volume":18950.0
+    },
+    {
+        "datetime":"2026-08-25T07:45:00.000",
+        "symbol":"NSE:ASIANPAINT",
+        "open":2614.4,
+        "high":2614.7,
+        "low":2605.2,
+        "close":2608.2,
+        "volume":33448.0
+    },
+    {
+        "datetime":"2026-08-25T08:00:00.000",
+        "symbol":"NSE:ASIANPAINT",
+        "open":2609.5,
+        "high":2614.4,
+        "low":2608.1,
+        "close":2614.3,
+        "volume":10116.0
+    },
+    {
+        "datetime":"2026-08-25T08:15:00.000",
+        "symbol":"NSE:ASIANPAINT",
+        "open":2614.2,
+        "high":2619.7,
+        "low":2611.9,
+        "close":2616.4,
+        "volume":11251.0
+    },
+    {
+        "datetime":"2026-08-25T08:30:00.000",
+        "symbol":"NSE:ASIANPAINT",
+        "open":2616.9,
+        "high":2617.0,
+        "low":2614.0,
+        "close":2615.3,
+        "volume":13510.0
+    },
+    {
+        "datetime":"2026-08-25T08:45:00.000",
+        "symbol":"NSE:ASIANPAINT",
+        "open":2616.0,
+        "high":2617.7,
+        "low":2616.0,
+        "close":2617.0,
+        "volume":2078.0
     }
 ]

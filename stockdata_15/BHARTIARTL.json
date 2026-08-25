@@ -1,77 +1,5 @@
 [
     {
-        "datetime":"2025-12-30T09:15:00.000",
-        "symbol":"NSE:BHARTIARTL",
-        "open":2098.8,
-        "high":2101.0,
-        "low":2098.0,
-        "close":2098.8,
-        "volume":206478.0
-    },
-    {
-        "datetime":"2025-12-30T09:30:00.000",
-        "symbol":"NSE:BHARTIARTL",
-        "open":2098.8,
-        "high":2101.0,
-        "low":2096.5,
-        "close":2100.7,
-        "volume":2476206.0
-    },
-    {
-        "datetime":"2025-12-30T09:45:00.000",
-        "symbol":"NSE:BHARTIARTL",
-        "open":2100.4,
-        "high":2101.0,
-        "low":2089.8,
-        "close":2099.4,
-        "volume":1800099.0
-    },
-    {
-        "datetime":"2025-12-31T03:45:00.000",
-        "symbol":"NSE:BHARTIARTL",
-        "open":2099.0,
-        "high":2103.8,
-        "low":2090.1,
-        "close":2095.0,
-        "volume":58072.0
-    },
-    {
-        "datetime":"2025-12-31T04:00:00.000",
-        "symbol":"NSE:BHARTIARTL",
-        "open":2095.2,
-        "high":2098.0,
-        "low":2090.9,
-        "close":2091.3,
-        "volume":35581.0
-    },
-    {
-        "datetime":"2025-12-31T04:15:00.000",
-        "symbol":"NSE:BHARTIARTL",
-        "open":2091.1,
-        "high":2094.6,
-        "low":2090.5,
-        "close":2093.3,
-        "volume":23487.0
-    },
-    {
-        "datetime":"2025-12-31T04:30:00.000",
-        "symbol":"NSE:BHARTIARTL",
-        "open":2093.0,
-        "high":2096.8,
-        "low":2091.6,
-        "close":2096.8,
-        "volume":16610.0
-    },
-    {
-        "datetime":"2025-12-31T04:45:00.000",
-        "symbol":"NSE:BHARTIARTL",
-        "open":2096.4,
-        "high":2102.6,
-        "low":2095.9,
-        "close":2101.4,
-        "volume":40717.0
-    },
-    {
         "datetime":"2025-12-31T05:00:00.000",
         "symbol":"NSE:BHARTIARTL",
         "open":2101.9,
@@ -35167,9 +35095,9 @@
         "symbol":"NSE:BHARTIARTL",
         "open":1927.9,
         "high":1929.4,
-        "low":1927.2,
+        "low":1927.3,
         "close":1927.4,
-        "volume":126649.0
+        "volume":110692.0
     },
     {
         "datetime":"2026-08-19T08:00:00.000",
@@ -35996,7 +35924,79 @@
         "open":1938.3,
         "high":1939.0,
         "low":1934.9,
-        "close":1937.0,
-        "volume":79327.0
+        "close":1938.0,
+        "volume":97051.0
+    },
+    {
+        "datetime":"2026-08-25T07:00:00.000",
+        "symbol":"NSE:BHARTIARTL",
+        "open":1938.0,
+        "high":1940.6,
+        "low":1937.7,
+        "close":1939.2,
+        "volume":210311.0
+    },
+    {
+        "datetime":"2026-08-25T07:15:00.000",
+        "symbol":"NSE:BHARTIARTL",
+        "open":1939.3,
+        "high":1939.3,
+        "low":1936.2,
+        "close":1938.1,
+        "volume":181392.0
+    },
+    {
+        "datetime":"2026-08-25T07:30:00.000",
+        "symbol":"NSE:BHARTIARTL",
+        "open":1938.2,
+        "high":1938.3,
+        "low":1930.2,
+        "close":1930.8,
+        "volume":177910.0
+    },
+    {
+        "datetime":"2026-08-25T07:45:00.000",
+        "symbol":"NSE:BHARTIARTL",
+        "open":1930.6,
+        "high":1933.5,
+        "low":1930.0,
+        "close":1932.2,
+        "volume":75132.0
+    },
+    {
+        "datetime":"2026-08-25T08:00:00.000",
+        "symbol":"NSE:BHARTIARTL",
+        "open":1932.2,
+        "high":1933.3,
+        "low":1931.2,
+        "close":1932.8,
+        "volume":67665.0
+    },
+    {
+        "datetime":"2026-08-25T08:15:00.000",
+        "symbol":"NSE:BHARTIARTL",
+        "open":1932.8,
+        "high":1934.6,
+        "low":1930.9,
+        "close":1931.8,
+        "volume":88874.0
+    },
+    {
+        "datetime":"2026-08-25T08:30:00.000",
+        "symbol":"NSE:BHARTIARTL",
+        "open":1931.7,
+        "high":1934.7,
+        "low":1931.7,
+        "close":1933.6,
+        "volume":76692.0
+    },
+    {
+        "datetime":"2026-08-25T08:45:00.000",
+        "symbol":"NSE:BHARTIARTL",
+        "open":1933.9,
+        "high":1934.6,
+        "low":1933.6,
+        "close":1934.5,
+        "volume":7188.0
     }
 ]
