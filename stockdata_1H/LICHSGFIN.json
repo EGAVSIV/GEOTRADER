@@ -1,14 +1,5 @@
 [
     {
-        "datetime":"2024-04-30T03:45:00.000",
-        "symbol":"NSE:LICHSGFIN",
-        "open":674.7,
-        "high":674.7,
-        "low":665.35,
-        "close":668.55,
-        "volume":508943.0
-    },
-    {
         "datetime":"2024-04-30T04:45:00.000",
         "symbol":"NSE:LICHSGFIN",
         "open":668.85,
@@ -35998,5 +35989,14 @@
         "low":486.55,
         "close":491.0,
         "volume":816201.0
+    },
+    {
+        "datetime":"2026-08-25T03:45:00.000",
+        "symbol":"NSE:LICHSGFIN",
+        "open":491.1,
+        "high":497.85,
+        "low":489.15,
+        "close":494.8,
+        "volume":1049851.0
     }
 ]

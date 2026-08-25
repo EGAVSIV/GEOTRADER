@@ -1,32 +1,5 @@
 [
     {
-        "datetime":"2025-12-30T06:00:00.000",
-        "symbol":"NSE:INDUSTOWER",
-        "open":424.0,
-        "high":424.75,
-        "low":423.9,
-        "close":424.0,
-        "volume":128857.0
-    },
-    {
-        "datetime":"2025-12-30T06:15:00.000",
-        "symbol":"NSE:INDUSTOWER",
-        "open":424.1,
-        "high":424.25,
-        "low":423.85,
-        "close":424.0,
-        "volume":303552.0
-    },
-    {
-        "datetime":"2025-12-30T06:30:00.000",
-        "symbol":"NSE:INDUSTOWER",
-        "open":424.0,
-        "high":424.05,
-        "low":421.55,
-        "close":421.75,
-        "volume":118731.0
-    },
-    {
         "datetime":"2025-12-30T06:45:00.000",
         "symbol":"NSE:INDUSTOWER",
         "open":421.75,
@@ -35998,5 +35971,32 @@
         "low":375.9,
         "close":376.75,
         "volume":179073.0
+    },
+    {
+        "datetime":"2026-08-25T03:45:00.000",
+        "symbol":"NSE:INDUSTOWER",
+        "open":374.25,
+        "high":379.0,
+        "low":374.25,
+        "close":378.6,
+        "volume":319501.0
+    },
+    {
+        "datetime":"2026-08-25T04:00:00.000",
+        "symbol":"NSE:INDUSTOWER",
+        "open":378.6,
+        "high":384.7,
+        "low":378.6,
+        "close":383.2,
+        "volume":666930.0
+    },
+    {
+        "datetime":"2026-08-25T04:15:00.000",
+        "symbol":"NSE:INDUSTOWER",
+        "open":383.2,
+        "high":384.0,
+        "low":383.2,
+        "close":383.85,
+        "volume":81395.0
     }
 ]

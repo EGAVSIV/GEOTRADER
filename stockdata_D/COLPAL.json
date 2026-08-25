@@ -1,14 +1,5 @@
 [
     {
-        "datetime":"2010-06-28T03:45:00.000",
-        "symbol":"NSE:COLPAL",
-        "open":421.0,
-        "high":427.399995,
-        "low":420.0,
-        "close":424.125,
-        "volume":104154.0
-    },
-    {
         "datetime":"2010-06-29T03:45:00.000",
         "symbol":"NSE:COLPAL",
         "open":424.5,
@@ -35998,5 +35989,14 @@
         "low":1873.3,
         "close":1879.0,
         "volume":129484.0
+    },
+    {
+        "datetime":"2026-08-25T03:45:00.000",
+        "symbol":"NSE:COLPAL",
+        "open":1878.0,
+        "high":1878.5,
+        "low":1866.2,
+        "close":1875.9,
+        "volume":27394.0
     }
 ]

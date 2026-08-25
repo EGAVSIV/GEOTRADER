@@ -1,14 +1,5 @@
 [
     {
-        "datetime":"2010-06-28T03:45:00.000",
-        "symbol":"NSE:NAUKRI",
-        "open":45.75,
-        "high":47.0,
-        "low":45.25,
-        "close":46.0899995,
-        "volume":409980.0
-    },
-    {
         "datetime":"2010-06-29T03:45:00.000",
         "symbol":"NSE:NAUKRI",
         "open":46.35,
@@ -35998,5 +35989,14 @@
         "low":1336.7,
         "close":1349.0,
         "volume":1123288.0
+    },
+    {
+        "datetime":"2026-08-25T03:45:00.000",
+        "symbol":"NSE:NAUKRI",
+        "open":1345.7,
+        "high":1347.0,
+        "low":1337.4,
+        "close":1338.8,
+        "volume":39364.0
     }
 ]

@@ -1,32 +1,5 @@
 [
     {
-        "datetime":"2025-12-30T06:00:00.000",
-        "symbol":"NSE:CROMPTON",
-        "open":252.85,
-        "high":252.95,
-        "low":252.5,
-        "close":252.95,
-        "volume":33807.0
-    },
-    {
-        "datetime":"2025-12-30T06:15:00.000",
-        "symbol":"NSE:CROMPTON",
-        "open":252.9,
-        "high":252.95,
-        "low":252.1,
-        "close":252.2,
-        "volume":22577.0
-    },
-    {
-        "datetime":"2025-12-30T06:30:00.000",
-        "symbol":"NSE:CROMPTON",
-        "open":252.35,
-        "high":252.45,
-        "low":252.0,
-        "close":252.15,
-        "volume":20603.0
-    },
-    {
         "datetime":"2025-12-30T06:45:00.000",
         "symbol":"NSE:CROMPTON",
         "open":252.05,
@@ -35286,7 +35259,7 @@
         "high":245.5,
         "low":245.1,
         "close":245.3,
-        "volume":24153.0
+        "volume":29632.0
     },
     {
         "datetime":"2026-08-19T08:00:00.000",
@@ -35544,10 +35517,10 @@
         "datetime":"2026-08-20T09:00:00.000",
         "symbol":"NSE:CROMPTON",
         "open":253.45,
-        "high":253.85,
+        "high":253.8,
         "low":252.35,
         "close":252.45,
-        "volume":156528.0
+        "volume":155429.0
     },
     {
         "datetime":"2026-08-20T09:15:00.000",
@@ -35998,5 +35971,32 @@
         "low":245.0,
         "close":245.25,
         "volume":709249.0
+    },
+    {
+        "datetime":"2026-08-25T03:45:00.000",
+        "symbol":"NSE:CROMPTON",
+        "open":244.6,
+        "high":246.15,
+        "low":244.15,
+        "close":245.6,
+        "volume":142985.0
+    },
+    {
+        "datetime":"2026-08-25T04:00:00.000",
+        "symbol":"NSE:CROMPTON",
+        "open":245.6,
+        "high":245.6,
+        "low":244.75,
+        "close":245.0,
+        "volume":95252.0
+    },
+    {
+        "datetime":"2026-08-25T04:15:00.000",
+        "symbol":"NSE:CROMPTON",
+        "open":245.0,
+        "high":245.2,
+        "low":244.85,
+        "close":245.0,
+        "volume":12330.0
     }
 ]

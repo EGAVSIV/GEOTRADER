@@ -1,32 +1,5 @@
 [
     {
-        "datetime":"2025-12-30T06:00:00.000",
-        "symbol":"NSE:NYKAA",
-        "open":260.05,
-        "high":260.25,
-        "low":259.8,
-        "close":260.0,
-        "volume":232548.0
-    },
-    {
-        "datetime":"2025-12-30T06:15:00.000",
-        "symbol":"NSE:NYKAA",
-        "open":259.95,
-        "high":260.95,
-        "low":259.9,
-        "close":260.95,
-        "volume":316607.0
-    },
-    {
-        "datetime":"2025-12-30T06:30:00.000",
-        "symbol":"NSE:NYKAA",
-        "open":260.95,
-        "high":261.75,
-        "low":260.85,
-        "close":261.0,
-        "volume":401615.0
-    },
-    {
         "datetime":"2025-12-30T06:45:00.000",
         "symbol":"NSE:NYKAA",
         "open":260.95,
@@ -35998,5 +35971,32 @@
         "low":328.05,
         "close":330.1,
         "volume":321090.0
+    },
+    {
+        "datetime":"2026-08-25T03:45:00.000",
+        "symbol":"NSE:NYKAA",
+        "open":328.3,
+        "high":331.8,
+        "low":328.0,
+        "close":331.75,
+        "volume":437317.0
+    },
+    {
+        "datetime":"2026-08-25T04:00:00.000",
+        "symbol":"NSE:NYKAA",
+        "open":331.85,
+        "high":332.3,
+        "low":331.5,
+        "close":331.6,
+        "volume":96794.0
+    },
+    {
+        "datetime":"2026-08-25T04:15:00.000",
+        "symbol":"NSE:NYKAA",
+        "open":331.55,
+        "high":331.85,
+        "low":331.55,
+        "close":331.75,
+        "volume":14561.0
     }
 ]

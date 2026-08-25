@@ -1,32 +1,5 @@
 [
     {
-        "datetime":"2025-12-30T06:00:00.000",
-        "symbol":"NSE:BLUESTARCO",
-        "open":1706.9,
-        "high":1715.5,
-        "low":1704.0,
-        "close":1713.2,
-        "volume":18245.0
-    },
-    {
-        "datetime":"2025-12-30T06:15:00.000",
-        "symbol":"NSE:BLUESTARCO",
-        "open":1713.8,
-        "high":1717.1,
-        "low":1713.8,
-        "close":1716.3,
-        "volume":1506.0
-    },
-    {
-        "datetime":"2025-12-30T06:30:00.000",
-        "symbol":"NSE:BLUESTARCO",
-        "open":1717.2,
-        "high":1718.3,
-        "low":1708.5,
-        "close":1714.0,
-        "volume":15504.0
-    },
-    {
         "datetime":"2025-12-30T06:45:00.000",
         "symbol":"NSE:BLUESTARCO",
         "open":1715.0,
@@ -35998,5 +35971,32 @@
         "low":1503.1,
         "close":1508.0,
         "volume":19190.0
+    },
+    {
+        "datetime":"2026-08-25T03:45:00.000",
+        "symbol":"NSE:BLUESTARCO",
+        "open":1504.5,
+        "high":1506.0,
+        "low":1493.7,
+        "close":1501.5,
+        "volume":14938.0
+    },
+    {
+        "datetime":"2026-08-25T04:00:00.000",
+        "symbol":"NSE:BLUESTARCO",
+        "open":1502.4,
+        "high":1506.4,
+        "low":1501.4,
+        "close":1501.5,
+        "volume":6436.0
+    },
+    {
+        "datetime":"2026-08-25T04:15:00.000",
+        "symbol":"NSE:BLUESTARCO",
+        "open":1501.5,
+        "high":1502.0,
+        "low":1499.1,
+        "close":1502.0,
+        "volume":5642.0
     }
 ]

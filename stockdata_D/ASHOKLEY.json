@@ -1,14 +1,5 @@
 [
     {
-        "datetime":"2010-06-28T03:45:00.000",
-        "symbol":"NSE:ASHOKLEY",
-        "open":15.5,
-        "high":16.04999925,
-        "low":15.375,
-        "close":16.0,
-        "volume":9493040.0
-    },
-    {
         "datetime":"2010-06-29T03:45:00.000",
         "symbol":"NSE:ASHOKLEY",
         "open":16.0,
@@ -35998,5 +35989,14 @@
         "low":171.65,
         "close":173.29,
         "volume":8972453.0
+    },
+    {
+        "datetime":"2026-08-25T03:45:00.000",
+        "symbol":"NSE:ASHOKLEY",
+        "open":172.36,
+        "high":172.84,
+        "low":171.58,
+        "close":172.61,
+        "volume":1609275.0
     }
 ]

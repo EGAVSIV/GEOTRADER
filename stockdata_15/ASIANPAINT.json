@@ -1,32 +1,5 @@
 [
     {
-        "datetime":"2025-12-30T06:00:00.000",
-        "symbol":"NSE:ASIANPAINT",
-        "open":2781.0,
-        "high":2784.2,
-        "low":2779.7,
-        "close":2780.1,
-        "volume":47322.0
-    },
-    {
-        "datetime":"2025-12-30T06:15:00.000",
-        "symbol":"NSE:ASIANPAINT",
-        "open":2780.0,
-        "high":2790.1,
-        "low":2779.2,
-        "close":2790.0,
-        "volume":60928.0
-    },
-    {
-        "datetime":"2025-12-30T06:30:00.000",
-        "symbol":"NSE:ASIANPAINT",
-        "open":2790.0,
-        "high":2792.4,
-        "low":2786.1,
-        "close":2788.3,
-        "volume":51898.0
-    },
-    {
         "datetime":"2025-12-30T06:45:00.000",
         "symbol":"NSE:ASIANPAINT",
         "open":2788.3,
@@ -35284,9 +35257,9 @@
         "symbol":"NSE:ASIANPAINT",
         "open":2603.1,
         "high":2606.5,
-        "low":2601.0,
+        "low":2601.3,
         "close":2601.4,
-        "volume":33254.0
+        "volume":27322.0
     },
     {
         "datetime":"2026-08-19T08:00:00.000",
@@ -35998,5 +35971,32 @@
         "low":2627.0,
         "close":2630.0,
         "volume":39145.0
+    },
+    {
+        "datetime":"2026-08-25T03:45:00.000",
+        "symbol":"NSE:ASIANPAINT",
+        "open":2626.9,
+        "high":2632.9,
+        "low":2621.0,
+        "close":2622.9,
+        "volume":20628.0
+    },
+    {
+        "datetime":"2026-08-25T04:00:00.000",
+        "symbol":"NSE:ASIANPAINT",
+        "open":2622.0,
+        "high":2626.8,
+        "low":2619.3,
+        "close":2622.2,
+        "volume":9529.0
+    },
+    {
+        "datetime":"2026-08-25T04:15:00.000",
+        "symbol":"NSE:ASIANPAINT",
+        "open":2622.2,
+        "high":2622.6,
+        "low":2615.8,
+        "close":2617.1,
+        "volume":5121.0
     }
 ]

@@ -1,14 +1,5 @@
 [
     {
-        "datetime":"2010-06-28T03:45:00.000",
-        "symbol":"NSE:FORTIS",
-        "open":154.0,
-        "high":156.7,
-        "low":152.64999,
-        "close":154.60001,
-        "volume":942935.0
-    },
-    {
         "datetime":"2010-06-29T03:45:00.000",
         "symbol":"NSE:FORTIS",
         "open":154.0,
@@ -35998,5 +35989,14 @@
         "low":904.5,
         "close":918.0,
         "volume":401483.0
+    },
+    {
+        "datetime":"2026-08-25T03:45:00.000",
+        "symbol":"NSE:FORTIS",
+        "open":916.4,
+        "high":916.4,
+        "low":906.7,
+        "close":908.7,
+        "volume":77661.0
     }
 ]

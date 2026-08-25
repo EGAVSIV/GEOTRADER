@@ -1,14 +1,5 @@
 [
     {
-        "datetime":"2010-06-28T03:45:00.000",
-        "symbol":"NSE:MOTILALOFS",
-        "open":43.5,
-        "high":43.724998,
-        "low":42.3,
-        "close":43.0125,
-        "volume":26952.0
-    },
-    {
         "datetime":"2010-06-29T03:45:00.000",
         "symbol":"NSE:MOTILALOFS",
         "open":43.0,
@@ -35998,5 +35989,14 @@
         "low":988.3,
         "close":990.0,
         "volume":1108082.0
+    },
+    {
+        "datetime":"2026-08-25T03:45:00.000",
+        "symbol":"NSE:MOTILALOFS",
+        "open":992.0,
+        "high":1019.9,
+        "low":992.0,
+        "close":1011.25,
+        "volume":682578.0
     }
 ]

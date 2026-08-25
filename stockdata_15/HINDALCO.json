@@ -1,32 +1,5 @@
 [
     {
-        "datetime":"2025-12-30T06:00:00.000",
-        "symbol":"NSE:HINDALCO",
-        "open":877.95,
-        "high":878.9,
-        "low":876.3,
-        "close":877.25,
-        "volume":156790.0
-    },
-    {
-        "datetime":"2025-12-30T06:15:00.000",
-        "symbol":"NSE:HINDALCO",
-        "open":877.05,
-        "high":878.5,
-        "low":876.6,
-        "close":878.45,
-        "volume":133769.0
-    },
-    {
-        "datetime":"2025-12-30T06:30:00.000",
-        "symbol":"NSE:HINDALCO",
-        "open":878.45,
-        "high":880.95,
-        "low":878.45,
-        "close":880.55,
-        "volume":365807.0
-    },
-    {
         "datetime":"2025-12-30T06:45:00.000",
         "symbol":"NSE:HINDALCO",
         "open":880.55,
@@ -35283,10 +35256,10 @@
         "datetime":"2026-08-19T07:45:00.000",
         "symbol":"NSE:HINDALCO",
         "open":1031.7,
-        "high":1032.3,
+        "high":1032.4,
         "low":1030.8,
         "close":1031.5,
-        "volume":22567.0
+        "volume":33293.0
     },
     {
         "datetime":"2026-08-19T08:00:00.000",
@@ -35998,5 +35971,32 @@
         "low":1050.85,
         "close":1053.9,
         "volume":368958.0
+    },
+    {
+        "datetime":"2026-08-25T03:45:00.000",
+        "symbol":"NSE:HINDALCO",
+        "open":1053.45,
+        "high":1057.0,
+        "low":1046.1,
+        "close":1047.45,
+        "volume":508442.0
+    },
+    {
+        "datetime":"2026-08-25T04:00:00.000",
+        "symbol":"NSE:HINDALCO",
+        "open":1047.3,
+        "high":1051.4,
+        "low":1046.6,
+        "close":1047.95,
+        "volume":190785.0
+    },
+    {
+        "datetime":"2026-08-25T04:15:00.000",
+        "symbol":"NSE:HINDALCO",
+        "open":1047.35,
+        "high":1047.95,
+        "low":1044.9,
+        "close":1046.55,
+        "volume":73964.0
     }
 ]

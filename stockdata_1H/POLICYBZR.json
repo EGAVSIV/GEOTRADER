@@ -1,14 +1,5 @@
 [
     {
-        "datetime":"2024-04-30T03:45:00.000",
-        "symbol":"NSE:POLICYBZR",
-        "open":1245.35,
-        "high":1277.95,
-        "low":1240.3,
-        "close":1265.45,
-        "volume":276612.0
-    },
-    {
         "datetime":"2024-04-30T04:45:00.000",
         "symbol":"NSE:POLICYBZR",
         "open":1265.5,
@@ -35998,5 +35989,14 @@
         "low":1778.4,
         "close":1789.0,
         "volume":137289.0
+    },
+    {
+        "datetime":"2026-08-25T03:45:00.000",
+        "symbol":"NSE:POLICYBZR",
+        "open":1784.8,
+        "high":1815.0,
+        "low":1775.0,
+        "close":1796.0,
+        "volume":228137.0
     }
 ]

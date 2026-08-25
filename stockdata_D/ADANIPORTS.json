@@ -1,14 +1,5 @@
 [
     {
-        "datetime":"2010-06-28T03:45:00.000",
-        "symbol":"NSE:ADANIPORTS",
-        "open":139.459998,
-        "high":143.940002,
-        "low":139.459998,
-        "close":143.1,
-        "volume":532285.0
-    },
-    {
         "datetime":"2010-06-29T03:45:00.000",
         "symbol":"NSE:ADANIPORTS",
         "open":144.380004,
@@ -35998,5 +35989,14 @@
         "low":1672.1,
         "close":1672.1,
         "volume":1061245.0
+    },
+    {
+        "datetime":"2026-08-25T03:45:00.000",
+        "symbol":"NSE:ADANIPORTS",
+        "open":1674.0,
+        "high":1686.1,
+        "low":1674.0,
+        "close":1682.9,
+        "volume":206967.0
     }
 ]

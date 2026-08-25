@@ -1,14 +1,5 @@
 [
     {
-        "datetime":"2010-06-28T03:45:00.000",
-        "symbol":"NSE:INDUSINDBK",
-        "open":195.2,
-        "high":203.35001,
-        "low":195.2,
-        "close":200.5,
-        "volume":562615.0
-    },
-    {
         "datetime":"2010-06-29T03:45:00.000",
         "symbol":"NSE:INDUSINDBK",
         "open":200.8,
@@ -35998,5 +35989,14 @@
         "low":1004.5,
         "close":1018.4,
         "volume":948101.0
+    },
+    {
+        "datetime":"2026-08-25T03:45:00.000",
+        "symbol":"NSE:INDUSINDBK",
+        "open":1014.9,
+        "high":1016.8,
+        "low":1010.0,
+        "close":1012.5,
+        "volume":104350.0
     }
 ]

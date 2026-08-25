@@ -1,14 +1,5 @@
 [
     {
-        "datetime":"2010-06-28T03:45:00.000",
-        "symbol":"NSE:TATAELXSI",
-        "open":144.5,
-        "high":146.199995,
-        "low":143.324995,
-        "close":144.0,
-        "volume":106348.0
-    },
-    {
         "datetime":"2010-06-29T03:45:00.000",
         "symbol":"NSE:TATAELXSI",
         "open":144.475005,
@@ -35998,5 +35989,14 @@
         "low":3664.3,
         "close":3673.5,
         "volume":207021.0
+    },
+    {
+        "datetime":"2026-08-25T03:45:00.000",
+        "symbol":"NSE:TATAELXSI",
+        "open":3673.9,
+        "high":3701.3,
+        "low":3642.3,
+        "close":3666.1,
+        "volume":30057.0
     }
 ]
