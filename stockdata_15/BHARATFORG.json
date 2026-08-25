@@ -1,23 +1,5 @@
 [
     {
-        "datetime":"2025-12-30T07:30:00.000",
-        "symbol":"NSE:BHARATFORG",
-        "open":1460.0,
-        "high":1461.6,
-        "low":1459.3,
-        "close":1460.0,
-        "volume":13556.0
-    },
-    {
-        "datetime":"2025-12-30T07:45:00.000",
-        "symbol":"NSE:BHARATFORG",
-        "open":1460.6,
-        "high":1461.5,
-        "low":1459.1,
-        "close":1461.1,
-        "volume":13736.0
-    },
-    {
         "datetime":"2025-12-30T08:00:00.000",
         "symbol":"NSE:BHARATFORG",
         "open":1460.5,
@@ -35232,7 +35214,7 @@
         "high":2061.5,
         "low":2057.4,
         "close":2058.6,
-        "volume":20238.0
+        "volume":22511.0
     },
     {
         "datetime":"2026-08-19T08:00:00.000",
@@ -35493,7 +35475,7 @@
         "high":2058.7,
         "low":2056.1,
         "close":2057.2,
-        "volume":6596.0
+        "volume":6564.0
     },
     {
         "datetime":"2026-08-20T09:15:00.000",
@@ -35994,9 +35976,27 @@
         "datetime":"2026-08-25T05:00:00.000",
         "symbol":"NSE:BHARATFORG",
         "open":2035.8,
-        "high":2035.8,
-        "low":2035.1,
-        "close":2035.1,
-        "volume":36.0
+        "high":2037.1,
+        "low":2033.8,
+        "close":2036.8,
+        "volume":3674.0
+    },
+    {
+        "datetime":"2026-08-25T05:15:00.000",
+        "symbol":"NSE:BHARATFORG",
+        "open":2037.3,
+        "high":2040.4,
+        "low":2033.0,
+        "close":2033.9,
+        "volume":14182.0
+    },
+    {
+        "datetime":"2026-08-25T05:30:00.000",
+        "symbol":"NSE:BHARATFORG",
+        "open":2034.2,
+        "high":2035.7,
+        "low":2032.4,
+        "close":2035.7,
+        "volume":8213.0
     }
 ]

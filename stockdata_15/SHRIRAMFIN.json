@@ -1,32 +1,5 @@
 [
     {
-        "datetime":"2025-12-30T07:15:00.000",
-        "symbol":"NSE:SHRIRAMFIN",
-        "open":974.4,
-        "high":977.5,
-        "low":974.05,
-        "close":976.7,
-        "volume":390935.0
-    },
-    {
-        "datetime":"2025-12-30T07:30:00.000",
-        "symbol":"NSE:SHRIRAMFIN",
-        "open":976.7,
-        "high":977.0,
-        "low":973.75,
-        "close":974.8,
-        "volume":273300.0
-    },
-    {
-        "datetime":"2025-12-30T07:45:00.000",
-        "symbol":"NSE:SHRIRAMFIN",
-        "open":974.75,
-        "high":975.95,
-        "low":974.15,
-        "close":975.5,
-        "volume":240345.0
-    },
-    {
         "datetime":"2025-12-30T08:00:00.000",
         "symbol":"NSE:SHRIRAMFIN",
         "open":975.5,
@@ -35241,7 +35214,7 @@
         "high":1108.9,
         "low":1106.6,
         "close":1108.0,
-        "volume":56889.0
+        "volume":64455.0
     },
     {
         "datetime":"2026-08-19T08:00:00.000",
@@ -35994,9 +35967,36 @@
         "datetime":"2026-08-25T04:45:00.000",
         "symbol":"NSE:SHRIRAMFIN",
         "open":1116.9,
-        "high":1118.7,
+        "high":1119.0,
         "low":1116.4,
-        "close":1118.1,
-        "volume":45969.0
+        "close":1118.5,
+        "volume":52101.0
+    },
+    {
+        "datetime":"2026-08-25T05:00:00.000",
+        "symbol":"NSE:SHRIRAMFIN",
+        "open":1118.4,
+        "high":1119.0,
+        "low":1117.4,
+        "close":1119.0,
+        "volume":55443.0
+    },
+    {
+        "datetime":"2026-08-25T05:15:00.000",
+        "symbol":"NSE:SHRIRAMFIN",
+        "open":1119.1,
+        "high":1121.8,
+        "low":1117.1,
+        "close":1117.6,
+        "volume":129773.0
+    },
+    {
+        "datetime":"2026-08-25T05:30:00.000",
+        "symbol":"NSE:SHRIRAMFIN",
+        "open":1117.8,
+        "high":1118.2,
+        "low":1116.2,
+        "close":1117.5,
+        "volume":55866.0
     }
 ]

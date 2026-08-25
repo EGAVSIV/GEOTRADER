@@ -1,32 +1,5 @@
 [
     {
-        "datetime":"2025-12-30T07:15:00.000",
-        "symbol":"NSE:PAYTM",
-        "open":1297.4,
-        "high":1299.1,
-        "low":1296.4,
-        "close":1298.5,
-        "volume":80284.0
-    },
-    {
-        "datetime":"2025-12-30T07:30:00.000",
-        "symbol":"NSE:PAYTM",
-        "open":1298.4,
-        "high":1299.3,
-        "low":1295.3,
-        "close":1296.1,
-        "volume":86054.0
-    },
-    {
-        "datetime":"2025-12-30T07:45:00.000",
-        "symbol":"NSE:PAYTM",
-        "open":1296.1,
-        "high":1297.4,
-        "low":1294.4,
-        "close":1296.7,
-        "volume":75167.0
-    },
-    {
         "datetime":"2025-12-30T08:00:00.000",
         "symbol":"NSE:PAYTM",
         "open":1296.0,
@@ -35996,7 +35969,34 @@
         "open":1629.8,
         "high":1638.2,
         "low":1629.1,
-        "close":1633.6,
-        "volume":483426.0
+        "close":1633.8,
+        "volume":489544.0
+    },
+    {
+        "datetime":"2026-08-25T05:00:00.000",
+        "symbol":"NSE:PAYTM",
+        "open":1633.6,
+        "high":1635.2,
+        "low":1632.5,
+        "close":1635.0,
+        "volume":130177.0
+    },
+    {
+        "datetime":"2026-08-25T05:15:00.000",
+        "symbol":"NSE:PAYTM",
+        "open":1634.3,
+        "high":1636.5,
+        "low":1631.4,
+        "close":1634.5,
+        "volume":196222.0
+    },
+    {
+        "datetime":"2026-08-25T05:30:00.000",
+        "symbol":"NSE:PAYTM",
+        "open":1634.5,
+        "high":1643.1,
+        "low":1634.1,
+        "close":1642.7,
+        "volume":159509.0
     }
 ]

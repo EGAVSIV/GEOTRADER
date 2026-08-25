@@ -1,32 +1,5 @@
 [
     {
-        "datetime":"2025-12-30T07:15:00.000",
-        "symbol":"NSE:POLYCAB",
-        "open":7548.0,
-        "high":7560.5,
-        "low":7543.0,
-        "close":7555.5,
-        "volume":4037.0
-    },
-    {
-        "datetime":"2025-12-30T07:30:00.000",
-        "symbol":"NSE:POLYCAB",
-        "open":7551.0,
-        "high":7583.0,
-        "low":7547.0,
-        "close":7567.5,
-        "volume":6075.0
-    },
-    {
-        "datetime":"2025-12-30T07:45:00.000",
-        "symbol":"NSE:POLYCAB",
-        "open":7565.5,
-        "high":7572.5,
-        "low":7502.5,
-        "close":7513.5,
-        "volume":27109.0
-    },
-    {
         "datetime":"2025-12-30T08:00:00.000",
         "symbol":"NSE:POLYCAB",
         "open":7515.0,
@@ -35241,7 +35214,7 @@
         "high":9112.0,
         "low":9090.5,
         "close":9105.0,
-        "volume":9961.0
+        "volume":8415.0
     },
     {
         "datetime":"2026-08-19T08:00:00.000",
@@ -35502,7 +35475,7 @@
         "high":9155.5,
         "low":9131.0,
         "close":9135.0,
-        "volume":8386.0
+        "volume":8535.0
     },
     {
         "datetime":"2026-08-20T09:15:00.000",
@@ -35995,8 +35968,35 @@
         "symbol":"NSE:POLYCAB",
         "open":9039.0,
         "high":9049.5,
-        "low":9022.0,
-        "close":9030.0,
-        "volume":26751.0
+        "low":9015.5,
+        "close":9022.5,
+        "volume":31268.0
+    },
+    {
+        "datetime":"2026-08-25T05:00:00.000",
+        "symbol":"NSE:POLYCAB",
+        "open":9021.0,
+        "high":9034.5,
+        "low":9010.0,
+        "close":9027.0,
+        "volume":10569.0
+    },
+    {
+        "datetime":"2026-08-25T05:15:00.000",
+        "symbol":"NSE:POLYCAB",
+        "open":9027.0,
+        "high":9035.0,
+        "low":9024.0,
+        "close":9029.0,
+        "volume":5095.0
+    },
+    {
+        "datetime":"2026-08-25T05:30:00.000",
+        "symbol":"NSE:POLYCAB",
+        "open":9029.0,
+        "high":9036.0,
+        "low":9025.0,
+        "close":9035.0,
+        "volume":4094.0
     }
 ]
