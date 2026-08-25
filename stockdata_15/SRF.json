@@ -1,41 +1,5 @@
 [
     {
-        "datetime":"2025-12-31T04:45:00.000",
-        "symbol":"NSE:SRF",
-        "open":3073.2,
-        "high":3082.5,
-        "low":3072.0,
-        "close":3081.1,
-        "volume":4990.0
-    },
-    {
-        "datetime":"2025-12-31T05:00:00.000",
-        "symbol":"NSE:SRF",
-        "open":3080.8,
-        "high":3084.7,
-        "low":3072.0,
-        "close":3076.3,
-        "volume":4360.0
-    },
-    {
-        "datetime":"2025-12-31T05:15:00.000",
-        "symbol":"NSE:SRF",
-        "open":3076.2,
-        "high":3080.9,
-        "low":3075.0,
-        "close":3078.6,
-        "volume":5164.0
-    },
-    {
-        "datetime":"2025-12-31T05:30:00.000",
-        "symbol":"NSE:SRF",
-        "open":3076.8,
-        "high":3080.0,
-        "low":3073.2,
-        "close":3077.6,
-        "volume":4175.0
-    },
-    {
         "datetime":"2025-12-31T05:45:00.000",
         "symbol":"NSE:SRF",
         "open":3074.3,
@@ -35996,7 +35960,43 @@
         "open":2555.0,
         "high":2561.7,
         "low":2554.8,
-        "close":2559.0,
-        "volume":41275.0
+        "close":2557.5,
+        "volume":41312.0
+    },
+    {
+        "datetime":"2026-08-25T08:45:00.000",
+        "symbol":"NSE:SRF",
+        "open":2557.4,
+        "high":2558.0,
+        "low":2551.3,
+        "close":2552.4,
+        "volume":19481.0
+    },
+    {
+        "datetime":"2026-08-25T09:00:00.000",
+        "symbol":"NSE:SRF",
+        "open":2552.4,
+        "high":2561.2,
+        "low":2552.2,
+        "close":2560.8,
+        "volume":20224.0
+    },
+    {
+        "datetime":"2026-08-25T09:15:00.000",
+        "symbol":"NSE:SRF",
+        "open":2561.5,
+        "high":2563.1,
+        "low":2559.1,
+        "close":2563.1,
+        "volume":19919.0
+    },
+    {
+        "datetime":"2026-08-25T09:30:00.000",
+        "symbol":"NSE:SRF",
+        "open":2563.5,
+        "high":2568.0,
+        "low":2558.0,
+        "close":2558.0,
+        "volume":60028.0
     }
 ]

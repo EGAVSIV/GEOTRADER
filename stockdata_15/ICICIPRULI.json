@@ -1,41 +1,5 @@
 [
     {
-        "datetime":"2025-12-31T04:45:00.000",
-        "symbol":"NSE:ICICIPRULI",
-        "open":663.95,
-        "high":664.95,
-        "low":662.8,
-        "close":663.35,
-        "volume":54422.0
-    },
-    {
-        "datetime":"2025-12-31T05:00:00.000",
-        "symbol":"NSE:ICICIPRULI",
-        "open":663.55,
-        "high":666.8,
-        "low":663.05,
-        "close":666.65,
-        "volume":68910.0
-    },
-    {
-        "datetime":"2025-12-31T05:15:00.000",
-        "symbol":"NSE:ICICIPRULI",
-        "open":666.4,
-        "high":666.65,
-        "low":665.15,
-        "close":665.2,
-        "volume":16359.0
-    },
-    {
-        "datetime":"2025-12-31T05:30:00.000",
-        "symbol":"NSE:ICICIPRULI",
-        "open":665.5,
-        "high":666.65,
-        "low":664.15,
-        "close":666.25,
-        "volume":59839.0
-    },
-    {
         "datetime":"2025-12-31T05:45:00.000",
         "symbol":"NSE:ICICIPRULI",
         "open":666.05,
@@ -35996,7 +35960,43 @@
         "open":507.5,
         "high":507.65,
         "low":506.5,
-        "close":507.0,
-        "volume":9569.0
+        "close":506.7,
+        "volume":9973.0
+    },
+    {
+        "datetime":"2026-08-25T08:45:00.000",
+        "symbol":"NSE:ICICIPRULI",
+        "open":506.9,
+        "high":508.0,
+        "low":506.6,
+        "close":508.0,
+        "volume":12080.0
+    },
+    {
+        "datetime":"2026-08-25T09:00:00.000",
+        "symbol":"NSE:ICICIPRULI",
+        "open":507.95,
+        "high":510.25,
+        "low":507.7,
+        "close":510.2,
+        "volume":527015.0
+    },
+    {
+        "datetime":"2026-08-25T09:15:00.000",
+        "symbol":"NSE:ICICIPRULI",
+        "open":510.1,
+        "high":510.55,
+        "low":509.5,
+        "close":509.65,
+        "volume":24017.0
+    },
+    {
+        "datetime":"2026-08-25T09:30:00.000",
+        "symbol":"NSE:ICICIPRULI",
+        "open":509.8,
+        "high":510.0,
+        "low":508.0,
+        "close":508.0,
+        "volume":52314.0
     }
 ]

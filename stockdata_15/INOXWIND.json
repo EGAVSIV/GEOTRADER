@@ -1,41 +1,5 @@
 [
     {
-        "datetime":"2025-12-31T04:45:00.000",
-        "symbol":"NSE:INOXWIND",
-        "open":122.24,
-        "high":122.68,
-        "low":122.01,
-        "close":122.68,
-        "volume":373514.0
-    },
-    {
-        "datetime":"2025-12-31T05:00:00.000",
-        "symbol":"NSE:INOXWIND",
-        "open":122.71,
-        "high":123.07,
-        "low":122.55,
-        "close":122.96,
-        "volume":436552.0
-    },
-    {
-        "datetime":"2025-12-31T05:15:00.000",
-        "symbol":"NSE:INOXWIND",
-        "open":123.01,
-        "high":123.01,
-        "low":122.4,
-        "close":122.9,
-        "volume":449473.0
-    },
-    {
-        "datetime":"2025-12-31T05:30:00.000",
-        "symbol":"NSE:INOXWIND",
-        "open":122.86,
-        "high":122.98,
-        "low":122.22,
-        "close":122.35,
-        "volume":536111.0
-    },
-    {
         "datetime":"2025-12-31T05:45:00.000",
         "symbol":"NSE:INOXWIND",
         "open":122.34,
@@ -35996,7 +35960,43 @@
         "open":73.09,
         "high":73.11,
         "low":72.91,
-        "close":72.94,
-        "volume":276723.0
+        "close":72.95,
+        "volume":308331.0
+    },
+    {
+        "datetime":"2026-08-25T08:45:00.000",
+        "symbol":"NSE:INOXWIND",
+        "open":72.92,
+        "high":73.02,
+        "low":72.79,
+        "close":73.01,
+        "volume":1006373.0
+    },
+    {
+        "datetime":"2026-08-25T09:00:00.000",
+        "symbol":"NSE:INOXWIND",
+        "open":73.02,
+        "high":73.29,
+        "low":72.97,
+        "close":73.23,
+        "volume":633872.0
+    },
+    {
+        "datetime":"2026-08-25T09:15:00.000",
+        "symbol":"NSE:INOXWIND",
+        "open":73.25,
+        "high":73.44,
+        "low":73.21,
+        "close":73.4,
+        "volume":707632.0
+    },
+    {
+        "datetime":"2026-08-25T09:30:00.000",
+        "symbol":"NSE:INOXWIND",
+        "open":73.41,
+        "high":73.49,
+        "low":73.26,
+        "close":73.38,
+        "volume":929342.0
     }
 ]

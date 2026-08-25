@@ -1,41 +1,5 @@
 [
     {
-        "datetime":"2025-12-31T04:45:00.000",
-        "symbol":"NSE:INDIGO",
-        "open":4988.5,
-        "high":5010.0,
-        "low":4987.5,
-        "close":5010.0,
-        "volume":49677.0
-    },
-    {
-        "datetime":"2025-12-31T05:00:00.000",
-        "symbol":"NSE:INDIGO",
-        "open":5008.0,
-        "high":5025.0,
-        "low":5001.5,
-        "close":5020.5,
-        "volume":38091.0
-    },
-    {
-        "datetime":"2025-12-31T05:15:00.000",
-        "symbol":"NSE:INDIGO",
-        "open":5021.0,
-        "high":5029.0,
-        "low":5015.0,
-        "close":5026.5,
-        "volume":20978.0
-    },
-    {
-        "datetime":"2025-12-31T05:30:00.000",
-        "symbol":"NSE:INDIGO",
-        "open":5027.5,
-        "high":5035.0,
-        "low":5013.5,
-        "close":5015.5,
-        "volume":36766.0
-    },
-    {
         "datetime":"2025-12-31T05:45:00.000",
         "symbol":"NSE:INDIGO",
         "open":5017.5,
@@ -35996,7 +35960,43 @@
         "open":5115.0,
         "high":5129.0,
         "low":5114.5,
-        "close":5129.0,
-        "volume":10504.0
+        "close":5128.0,
+        "volume":12291.0
+    },
+    {
+        "datetime":"2026-08-25T08:45:00.000",
+        "symbol":"NSE:INDIGO",
+        "open":5129.0,
+        "high":5130.0,
+        "low":5120.5,
+        "close":5129.5,
+        "volume":11883.0
+    },
+    {
+        "datetime":"2026-08-25T09:00:00.000",
+        "symbol":"NSE:INDIGO",
+        "open":5128.5,
+        "high":5144.0,
+        "low":5119.0,
+        "close":5132.5,
+        "volume":23436.0
+    },
+    {
+        "datetime":"2026-08-25T09:15:00.000",
+        "symbol":"NSE:INDIGO",
+        "open":5132.5,
+        "high":5177.5,
+        "low":5129.0,
+        "close":5168.5,
+        "volume":40635.0
+    },
+    {
+        "datetime":"2026-08-25T09:30:00.000",
+        "symbol":"NSE:INDIGO",
+        "open":5167.0,
+        "high":5227.5,
+        "low":5163.5,
+        "close":5222.0,
+        "volume":67161.0
     }
 ]

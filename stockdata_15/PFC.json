@@ -1,41 +1,5 @@
 [
     {
-        "datetime":"2025-12-31T04:45:00.000",
-        "symbol":"NSE:PFC",
-        "open":356.3,
-        "high":358.55,
-        "low":356.25,
-        "close":357.2,
-        "volume":427355.0
-    },
-    {
-        "datetime":"2025-12-31T05:00:00.000",
-        "symbol":"NSE:PFC",
-        "open":357.3,
-        "high":357.5,
-        "low":356.6,
-        "close":357.4,
-        "volume":125695.0
-    },
-    {
-        "datetime":"2025-12-31T05:15:00.000",
-        "symbol":"NSE:PFC",
-        "open":357.4,
-        "high":357.45,
-        "low":356.7,
-        "close":357.4,
-        "volume":142839.0
-    },
-    {
-        "datetime":"2025-12-31T05:30:00.000",
-        "symbol":"NSE:PFC",
-        "open":357.3,
-        "high":357.75,
-        "low":356.9,
-        "close":357.35,
-        "volume":223551.0
-    },
-    {
         "datetime":"2025-12-31T05:45:00.000",
         "symbol":"NSE:PFC",
         "open":357.15,
@@ -35995,8 +35959,44 @@
         "symbol":"NSE:PFC",
         "open":362.9,
         "high":363.15,
-        "low":362.65,
-        "close":362.8,
-        "volume":180275.0
+        "low":362.6,
+        "close":362.75,
+        "volume":183558.0
+    },
+    {
+        "datetime":"2026-08-25T08:45:00.000",
+        "symbol":"NSE:PFC",
+        "open":362.7,
+        "high":363.1,
+        "low":362.55,
+        "close":363.1,
+        "volume":127691.0
+    },
+    {
+        "datetime":"2026-08-25T09:00:00.000",
+        "symbol":"NSE:PFC",
+        "open":363.1,
+        "high":364.35,
+        "low":363.0,
+        "close":364.15,
+        "volume":375646.0
+    },
+    {
+        "datetime":"2026-08-25T09:15:00.000",
+        "symbol":"NSE:PFC",
+        "open":364.15,
+        "high":365.45,
+        "low":364.15,
+        "close":365.4,
+        "volume":264255.0
+    },
+    {
+        "datetime":"2026-08-25T09:30:00.000",
+        "symbol":"NSE:PFC",
+        "open":365.35,
+        "high":365.8,
+        "low":364.7,
+        "close":365.7,
+        "volume":507186.0
     }
 ]

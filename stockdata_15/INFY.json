@@ -1,41 +1,5 @@
 [
     {
-        "datetime":"2025-12-31T04:45:00.000",
-        "symbol":"NSE:INFY",
-        "open":1613.1,
-        "high":1615.0,
-        "low":1609.2,
-        "close":1611.3,
-        "volume":140635.0
-    },
-    {
-        "datetime":"2025-12-31T05:00:00.000",
-        "symbol":"NSE:INFY",
-        "open":1611.2,
-        "high":1614.9,
-        "low":1610.3,
-        "close":1613.7,
-        "volume":112454.0
-    },
-    {
-        "datetime":"2025-12-31T05:15:00.000",
-        "symbol":"NSE:INFY",
-        "open":1613.7,
-        "high":1614.9,
-        "low":1612.1,
-        "close":1613.3,
-        "volume":106547.0
-    },
-    {
-        "datetime":"2025-12-31T05:30:00.000",
-        "symbol":"NSE:INFY",
-        "open":1613.1,
-        "high":1615.7,
-        "low":1613.0,
-        "close":1615.3,
-        "volume":116425.0
-    },
-    {
         "datetime":"2025-12-31T05:45:00.000",
         "symbol":"NSE:INFY",
         "open":1615.3,
@@ -35996,7 +35960,43 @@
         "open":1124.4,
         "high":1125.5,
         "low":1123.5,
-        "close":1123.6,
-        "volume":174221.0
+        "close":1123.5,
+        "volume":180424.0
+    },
+    {
+        "datetime":"2026-08-25T08:45:00.000",
+        "symbol":"NSE:INFY",
+        "open":1123.8,
+        "high":1125.7,
+        "low":1122.0,
+        "close":1125.5,
+        "volume":362682.0
+    },
+    {
+        "datetime":"2026-08-25T09:00:00.000",
+        "symbol":"NSE:INFY",
+        "open":1125.5,
+        "high":1128.2,
+        "low":1124.6,
+        "close":1126.6,
+        "volume":317730.0
+    },
+    {
+        "datetime":"2026-08-25T09:15:00.000",
+        "symbol":"NSE:INFY",
+        "open":1126.6,
+        "high":1130.0,
+        "low":1126.6,
+        "close":1129.9,
+        "volume":308537.0
+    },
+    {
+        "datetime":"2026-08-25T09:30:00.000",
+        "symbol":"NSE:INFY",
+        "open":1129.8,
+        "high":1131.6,
+        "low":1129.3,
+        "close":1131.4,
+        "volume":464739.0
     }
 ]

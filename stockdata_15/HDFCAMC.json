@@ -1,41 +1,5 @@
 [
     {
-        "datetime":"2025-12-31T04:45:00.000",
-        "symbol":"NSE:HDFCAMC",
-        "open":2672.0,
-        "high":2678.0,
-        "low":2671.8,
-        "close":2675.7,
-        "volume":24664.0
-    },
-    {
-        "datetime":"2025-12-31T05:00:00.000",
-        "symbol":"NSE:HDFCAMC",
-        "open":2675.6,
-        "high":2676.0,
-        "low":2670.4,
-        "close":2675.0,
-        "volume":7135.0
-    },
-    {
-        "datetime":"2025-12-31T05:15:00.000",
-        "symbol":"NSE:HDFCAMC",
-        "open":2673.0,
-        "high":2675.0,
-        "low":2670.0,
-        "close":2673.8,
-        "volume":8062.0
-    },
-    {
-        "datetime":"2025-12-31T05:30:00.000",
-        "symbol":"NSE:HDFCAMC",
-        "open":2672.0,
-        "high":2673.8,
-        "low":2666.2,
-        "close":2666.9,
-        "volume":16637.0
-    },
-    {
         "datetime":"2025-12-31T05:45:00.000",
         "symbol":"NSE:HDFCAMC",
         "open":2668.2,
@@ -35994,9 +35958,45 @@
         "datetime":"2026-08-25T08:30:00.000",
         "symbol":"NSE:HDFCAMC",
         "open":2661.1,
-        "high":2673.2,
+        "high":2674.9,
         "low":2660.1,
-        "close":2667.8,
-        "volume":78322.0
+        "close":2673.7,
+        "volume":98418.0
+    },
+    {
+        "datetime":"2026-08-25T08:45:00.000",
+        "symbol":"NSE:HDFCAMC",
+        "open":2671.6,
+        "high":2678.0,
+        "low":2669.0,
+        "close":2678.0,
+        "volume":45465.0
+    },
+    {
+        "datetime":"2026-08-25T09:00:00.000",
+        "symbol":"NSE:HDFCAMC",
+        "open":2677.3,
+        "high":2682.0,
+        "low":2676.0,
+        "close":2679.2,
+        "volume":74223.0
+    },
+    {
+        "datetime":"2026-08-25T09:15:00.000",
+        "symbol":"NSE:HDFCAMC",
+        "open":2679.2,
+        "high":2688.0,
+        "low":2677.8,
+        "close":2677.8,
+        "volume":96959.0
+    },
+    {
+        "datetime":"2026-08-25T09:30:00.000",
+        "symbol":"NSE:HDFCAMC",
+        "open":2677.8,
+        "high":2682.6,
+        "low":2672.7,
+        "close":2680.0,
+        "volume":155888.0
     }
 ]

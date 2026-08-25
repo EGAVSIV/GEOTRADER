@@ -1,41 +1,5 @@
 [
     {
-        "datetime":"2025-12-31T04:45:00.000",
-        "symbol":"NSE:PHOENIXLTD",
-        "open":1844.8,
-        "high":1853.0,
-        "low":1844.8,
-        "close":1852.7,
-        "volume":3250.0
-    },
-    {
-        "datetime":"2025-12-31T05:00:00.000",
-        "symbol":"NSE:PHOENIXLTD",
-        "open":1853.8,
-        "high":1855.6,
-        "low":1850.8,
-        "close":1853.0,
-        "volume":2589.0
-    },
-    {
-        "datetime":"2025-12-31T05:15:00.000",
-        "symbol":"NSE:PHOENIXLTD",
-        "open":1853.5,
-        "high":1859.0,
-        "low":1852.4,
-        "close":1858.0,
-        "volume":2556.0
-    },
-    {
-        "datetime":"2025-12-31T05:30:00.000",
-        "symbol":"NSE:PHOENIXLTD",
-        "open":1858.3,
-        "high":1861.9,
-        "low":1851.0,
-        "close":1851.5,
-        "volume":5676.0
-    },
-    {
         "datetime":"2025-12-31T05:45:00.000",
         "symbol":"NSE:PHOENIXLTD",
         "open":1852.1,
@@ -35996,7 +35960,43 @@
         "open":1923.6,
         "high":1925.5,
         "low":1921.7,
-        "close":1922.4,
-        "volume":1294.0
+        "close":1922.8,
+        "volume":1396.0
+    },
+    {
+        "datetime":"2026-08-25T08:45:00.000",
+        "symbol":"NSE:PHOENIXLTD",
+        "open":1925.4,
+        "high":1926.6,
+        "low":1920.6,
+        "close":1926.0,
+        "volume":4906.0
+    },
+    {
+        "datetime":"2026-08-25T09:00:00.000",
+        "symbol":"NSE:PHOENIXLTD",
+        "open":1926.0,
+        "high":1929.2,
+        "low":1922.2,
+        "close":1926.3,
+        "volume":9041.0
+    },
+    {
+        "datetime":"2026-08-25T09:15:00.000",
+        "symbol":"NSE:PHOENIXLTD",
+        "open":1925.8,
+        "high":1936.9,
+        "low":1925.6,
+        "close":1930.0,
+        "volume":26571.0
+    },
+    {
+        "datetime":"2026-08-25T09:30:00.000",
+        "symbol":"NSE:PHOENIXLTD",
+        "open":1930.0,
+        "high":1934.9,
+        "low":1922.2,
+        "close":1930.0,
+        "volume":64522.0
     }
 ]

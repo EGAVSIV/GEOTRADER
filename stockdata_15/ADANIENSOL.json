@@ -1,32 +1,5 @@
 [
     {
-        "datetime":"2025-12-31T05:00:00.000",
-        "symbol":"NSE:ADANIENSOL",
-        "open":1020.2,
-        "high":1021.5,
-        "low":1018.75,
-        "close":1020.75,
-        "volume":11893.0
-    },
-    {
-        "datetime":"2025-12-31T05:15:00.000",
-        "symbol":"NSE:ADANIENSOL",
-        "open":1021.0,
-        "high":1021.35,
-        "low":1018.0,
-        "close":1020.35,
-        "volume":10785.0
-    },
-    {
-        "datetime":"2025-12-31T05:30:00.000",
-        "symbol":"NSE:ADANIENSOL",
-        "open":1020.05,
-        "high":1021.8,
-        "low":1019.75,
-        "close":1021.8,
-        "volume":6571.0
-    },
-    {
         "datetime":"2025-12-31T05:45:00.000",
         "symbol":"NSE:ADANIENSOL",
         "open":1021.8,
@@ -35094,10 +35067,10 @@
         "datetime":"2026-08-19T07:45:00.000",
         "symbol":"NSE:ADANIENSOL",
         "open":1546.1,
-        "high":1547.0,
+        "high":1547.3,
         "low":1545.0,
         "close":1546.8,
-        "volume":62089.0
+        "volume":72892.0
     },
     {
         "datetime":"2026-08-19T08:00:00.000",
@@ -35994,9 +35967,36 @@
         "datetime":"2026-08-25T08:45:00.000",
         "symbol":"NSE:ADANIENSOL",
         "open":1569.7,
-        "high":1569.7,
+        "high":1575.0,
         "low":1568.4,
-        "close":1569.4,
-        "volume":3499.0
+        "close":1572.3,
+        "volume":68768.0
+    },
+    {
+        "datetime":"2026-08-25T09:00:00.000",
+        "symbol":"NSE:ADANIENSOL",
+        "open":1572.8,
+        "high":1573.9,
+        "low":1571.6,
+        "close":1573.9,
+        "volume":50496.0
+    },
+    {
+        "datetime":"2026-08-25T09:15:00.000",
+        "symbol":"NSE:ADANIENSOL",
+        "open":1573.9,
+        "high":1577.5,
+        "low":1573.6,
+        "close":1574.9,
+        "volume":210190.0
+    },
+    {
+        "datetime":"2026-08-25T09:30:00.000",
+        "symbol":"NSE:ADANIENSOL",
+        "open":1575.0,
+        "high":1588.0,
+        "low":1573.5,
+        "close":1584.9,
+        "volume":262122.0
     }
 ]

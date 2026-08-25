@@ -1,41 +1,5 @@
 [
     {
-        "datetime":"2025-12-31T04:45:00.000",
-        "symbol":"NSE:KALYANKJIL",
-        "open":483.25,
-        "high":485.7,
-        "low":483.25,
-        "close":485.55,
-        "volume":28485.0
-    },
-    {
-        "datetime":"2025-12-31T05:00:00.000",
-        "symbol":"NSE:KALYANKJIL",
-        "open":485.55,
-        "high":486.3,
-        "low":484.3,
-        "close":485.6,
-        "volume":37722.0
-    },
-    {
-        "datetime":"2025-12-31T05:15:00.000",
-        "symbol":"NSE:KALYANKJIL",
-        "open":485.8,
-        "high":485.8,
-        "low":485.0,
-        "close":485.75,
-        "volume":15681.0
-    },
-    {
-        "datetime":"2025-12-31T05:30:00.000",
-        "symbol":"NSE:KALYANKJIL",
-        "open":485.75,
-        "high":486.35,
-        "low":485.3,
-        "close":485.65,
-        "volume":11893.0
-    },
-    {
         "datetime":"2025-12-31T05:45:00.000",
         "symbol":"NSE:KALYANKJIL",
         "open":486.0,
@@ -35996,7 +35960,43 @@
         "open":609.5,
         "high":610.7,
         "low":609.5,
-        "close":610.25,
-        "volume":186316.0
+        "close":610.0,
+        "volume":187150.0
+    },
+    {
+        "datetime":"2026-08-25T08:45:00.000",
+        "symbol":"NSE:KALYANKJIL",
+        "open":610.0,
+        "high":612.5,
+        "low":609.55,
+        "close":612.3,
+        "volume":234566.0
+    },
+    {
+        "datetime":"2026-08-25T09:00:00.000",
+        "symbol":"NSE:KALYANKJIL",
+        "open":612.05,
+        "high":617.3,
+        "low":611.9,
+        "close":616.2,
+        "volume":777079.0
+    },
+    {
+        "datetime":"2026-08-25T09:15:00.000",
+        "symbol":"NSE:KALYANKJIL",
+        "open":616.4,
+        "high":616.5,
+        "low":613.6,
+        "close":614.1,
+        "volume":604052.0
+    },
+    {
+        "datetime":"2026-08-25T09:30:00.000",
+        "symbol":"NSE:KALYANKJIL",
+        "open":613.8,
+        "high":614.65,
+        "low":611.15,
+        "close":613.0,
+        "volume":777451.0
     }
 ]

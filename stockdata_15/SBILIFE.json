@@ -1,41 +1,5 @@
 [
     {
-        "datetime":"2025-12-31T04:45:00.000",
-        "symbol":"NSE:SBILIFE",
-        "open":1995.4,
-        "high":2007.0,
-        "low":1995.3,
-        "close":2006.5,
-        "volume":20119.0
-    },
-    {
-        "datetime":"2025-12-31T05:00:00.000",
-        "symbol":"NSE:SBILIFE",
-        "open":2006.5,
-        "high":2019.5,
-        "low":2006.4,
-        "close":2015.2,
-        "volume":34484.0
-    },
-    {
-        "datetime":"2025-12-31T05:15:00.000",
-        "symbol":"NSE:SBILIFE",
-        "open":2015.2,
-        "high":2017.2,
-        "low":2013.5,
-        "close":2015.0,
-        "volume":6553.0
-    },
-    {
-        "datetime":"2025-12-31T05:30:00.000",
-        "symbol":"NSE:SBILIFE",
-        "open":2015.3,
-        "high":2015.5,
-        "low":2012.3,
-        "close":2014.5,
-        "volume":6017.0
-    },
-    {
         "datetime":"2025-12-31T05:45:00.000",
         "symbol":"NSE:SBILIFE",
         "open":2015.0,
@@ -35996,7 +35960,43 @@
         "open":1756.6,
         "high":1759.5,
         "low":1754.8,
-        "close":1757.2,
-        "volume":39556.0
+        "close":1757.5,
+        "volume":39995.0
+    },
+    {
+        "datetime":"2026-08-25T08:45:00.000",
+        "symbol":"NSE:SBILIFE",
+        "open":1757.5,
+        "high":1760.2,
+        "low":1756.5,
+        "close":1757.9,
+        "volume":41952.0
+    },
+    {
+        "datetime":"2026-08-25T09:00:00.000",
+        "symbol":"NSE:SBILIFE",
+        "open":1757.2,
+        "high":1762.0,
+        "low":1754.4,
+        "close":1758.0,
+        "volume":288801.0
+    },
+    {
+        "datetime":"2026-08-25T09:15:00.000",
+        "symbol":"NSE:SBILIFE",
+        "open":1757.9,
+        "high":1758.1,
+        "low":1754.6,
+        "close":1755.0,
+        "volume":114585.0
+    },
+    {
+        "datetime":"2026-08-25T09:30:00.000",
+        "symbol":"NSE:SBILIFE",
+        "open":1754.8,
+        "high":1755.3,
+        "low":1751.2,
+        "close":1753.9,
+        "volume":150124.0
     }
 ]

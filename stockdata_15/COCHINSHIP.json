@@ -1,41 +1,5 @@
 [
     {
-        "datetime":"2025-12-31T04:45:00.000",
-        "symbol":"NSE:COCHINSHIP",
-        "open":1621.1,
-        "high":1624.5,
-        "low":1620.2,
-        "close":1624.2,
-        "volume":13388.0
-    },
-    {
-        "datetime":"2025-12-31T05:00:00.000",
-        "symbol":"NSE:COCHINSHIP",
-        "open":1623.5,
-        "high":1624.5,
-        "low":1621.0,
-        "close":1621.6,
-        "volume":8522.0
-    },
-    {
-        "datetime":"2025-12-31T05:15:00.000",
-        "symbol":"NSE:COCHINSHIP",
-        "open":1621.4,
-        "high":1625.9,
-        "low":1621.1,
-        "close":1623.9,
-        "volume":17147.0
-    },
-    {
-        "datetime":"2025-12-31T05:30:00.000",
-        "symbol":"NSE:COCHINSHIP",
-        "open":1623.3,
-        "high":1624.7,
-        "low":1621.1,
-        "close":1622.9,
-        "volume":5723.0
-    },
-    {
         "datetime":"2025-12-31T05:45:00.000",
         "symbol":"NSE:COCHINSHIP",
         "open":1623.0,
@@ -35997,6 +35961,42 @@
         "high":1519.0,
         "low":1516.0,
         "close":1517.5,
-        "volume":18433.0
+        "volume":18540.0
+    },
+    {
+        "datetime":"2026-08-25T08:45:00.000",
+        "symbol":"NSE:COCHINSHIP",
+        "open":1517.5,
+        "high":1518.2,
+        "low":1514.4,
+        "close":1516.8,
+        "volume":12203.0
+    },
+    {
+        "datetime":"2026-08-25T09:00:00.000",
+        "symbol":"NSE:COCHINSHIP",
+        "open":1516.8,
+        "high":1519.9,
+        "low":1515.6,
+        "close":1519.7,
+        "volume":33938.0
+    },
+    {
+        "datetime":"2026-08-25T09:15:00.000",
+        "symbol":"NSE:COCHINSHIP",
+        "open":1519.7,
+        "high":1524.4,
+        "low":1517.4,
+        "close":1522.1,
+        "volume":83469.0
+    },
+    {
+        "datetime":"2026-08-25T09:30:00.000",
+        "symbol":"NSE:COCHINSHIP",
+        "open":1521.3,
+        "high":1523.0,
+        "low":1517.0,
+        "close":1517.0,
+        "volume":98847.0
     }
 ]

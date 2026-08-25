@@ -1,41 +1,5 @@
 [
     {
-        "datetime":"2025-12-31T04:45:00.000",
-        "symbol":"NSE:SUPREMEIND",
-        "open":3342.0,
-        "high":3357.0,
-        "low":3340.6,
-        "close":3344.3,
-        "volume":11822.0
-    },
-    {
-        "datetime":"2025-12-31T05:00:00.000",
-        "symbol":"NSE:SUPREMEIND",
-        "open":3344.6,
-        "high":3348.4,
-        "low":3337.3,
-        "close":3343.1,
-        "volume":2698.0
-    },
-    {
-        "datetime":"2025-12-31T05:15:00.000",
-        "symbol":"NSE:SUPREMEIND",
-        "open":3345.0,
-        "high":3346.4,
-        "low":3335.6,
-        "close":3338.3,
-        "volume":3011.0
-    },
-    {
-        "datetime":"2025-12-31T05:30:00.000",
-        "symbol":"NSE:SUPREMEIND",
-        "open":3338.5,
-        "high":3340.1,
-        "low":3335.6,
-        "close":3339.4,
-        "volume":2662.0
-    },
-    {
         "datetime":"2025-12-31T05:45:00.000",
         "symbol":"NSE:SUPREMEIND",
         "open":3339.5,
@@ -35996,7 +35960,43 @@
         "open":3591.2,
         "high":3596.6,
         "low":3582.4,
-        "close":3585.2,
-        "volume":51010.0
+        "close":3586.4,
+        "volume":52247.0
+    },
+    {
+        "datetime":"2026-08-25T08:45:00.000",
+        "symbol":"NSE:SUPREMEIND",
+        "open":3586.9,
+        "high":3587.1,
+        "low":3571.3,
+        "close":3575.4,
+        "volume":41423.0
+    },
+    {
+        "datetime":"2026-08-25T09:00:00.000",
+        "symbol":"NSE:SUPREMEIND",
+        "open":3575.2,
+        "high":3576.5,
+        "low":3570.5,
+        "close":3575.2,
+        "volume":18062.0
+    },
+    {
+        "datetime":"2026-08-25T09:15:00.000",
+        "symbol":"NSE:SUPREMEIND",
+        "open":3576.5,
+        "high":3577.1,
+        "low":3571.6,
+        "close":3575.8,
+        "volume":13834.0
+    },
+    {
+        "datetime":"2026-08-25T09:30:00.000",
+        "symbol":"NSE:SUPREMEIND",
+        "open":3576.1,
+        "high":3589.5,
+        "low":3573.0,
+        "close":3589.5,
+        "volume":26365.0
     }
 ]

@@ -1,41 +1,5 @@
 [
     {
-        "datetime":"2025-12-31T04:45:00.000",
-        "symbol":"NSE:IEX",
-        "open":134.76,
-        "high":135.21,
-        "low":134.58,
-        "close":135.14,
-        "volume":196716.0
-    },
-    {
-        "datetime":"2025-12-31T05:00:00.000",
-        "symbol":"NSE:IEX",
-        "open":135.14,
-        "high":135.2,
-        "low":135.08,
-        "close":135.1,
-        "volume":86029.0
-    },
-    {
-        "datetime":"2025-12-31T05:15:00.000",
-        "symbol":"NSE:IEX",
-        "open":135.14,
-        "high":135.28,
-        "low":135.02,
-        "close":135.15,
-        "volume":80203.0
-    },
-    {
-        "datetime":"2025-12-31T05:30:00.000",
-        "symbol":"NSE:IEX",
-        "open":135.15,
-        "high":135.2,
-        "low":134.74,
-        "close":134.91,
-        "volume":97914.0
-    },
-    {
         "datetime":"2025-12-31T05:45:00.000",
         "symbol":"NSE:IEX",
         "open":134.91,
@@ -35995,8 +35959,44 @@
         "symbol":"NSE:IEX",
         "open":123.17,
         "high":123.22,
-        "low":122.88,
+        "low":122.85,
         "close":122.88,
-        "volume":37542.0
+        "volume":37674.0
+    },
+    {
+        "datetime":"2026-08-25T08:45:00.000",
+        "symbol":"NSE:IEX",
+        "open":122.82,
+        "high":123.16,
+        "low":122.82,
+        "close":123.0,
+        "volume":186734.0
+    },
+    {
+        "datetime":"2026-08-25T09:00:00.000",
+        "symbol":"NSE:IEX",
+        "open":123.04,
+        "high":123.5,
+        "low":123.0,
+        "close":123.38,
+        "volume":59081.0
+    },
+    {
+        "datetime":"2026-08-25T09:15:00.000",
+        "symbol":"NSE:IEX",
+        "open":123.37,
+        "high":123.82,
+        "low":123.34,
+        "close":123.54,
+        "volume":208568.0
+    },
+    {
+        "datetime":"2026-08-25T09:30:00.000",
+        "symbol":"NSE:IEX",
+        "open":123.59,
+        "high":124.28,
+        "low":123.5,
+        "close":124.2,
+        "volume":310841.0
     }
 ]

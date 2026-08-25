@@ -1,41 +1,5 @@
 [
     {
-        "datetime":"2025-12-31T04:45:00.000",
-        "symbol":"NSE:CANBK",
-        "open":156.4,
-        "high":156.7,
-        "low":155.89,
-        "close":156.62,
-        "volume":1758773.0
-    },
-    {
-        "datetime":"2025-12-31T05:00:00.000",
-        "symbol":"NSE:CANBK",
-        "open":156.56,
-        "high":157.25,
-        "low":156.41,
-        "close":157.21,
-        "volume":1783331.0
-    },
-    {
-        "datetime":"2025-12-31T05:15:00.000",
-        "symbol":"NSE:CANBK",
-        "open":157.25,
-        "high":157.48,
-        "low":156.71,
-        "close":157.25,
-        "volume":1495523.0
-    },
-    {
-        "datetime":"2025-12-31T05:30:00.000",
-        "symbol":"NSE:CANBK",
-        "open":157.27,
-        "high":157.48,
-        "low":157.02,
-        "close":157.19,
-        "volume":979971.0
-    },
-    {
         "datetime":"2025-12-31T05:45:00.000",
         "symbol":"NSE:CANBK",
         "open":157.2,
@@ -35996,7 +35960,43 @@
         "open":127.62,
         "high":127.62,
         "low":127.3,
-        "close":127.35,
-        "volume":430694.0
+        "close":127.39,
+        "volume":431822.0
+    },
+    {
+        "datetime":"2026-08-25T08:45:00.000",
+        "symbol":"NSE:CANBK",
+        "open":127.36,
+        "high":127.6,
+        "low":127.31,
+        "close":127.6,
+        "volume":380161.0
+    },
+    {
+        "datetime":"2026-08-25T09:00:00.000",
+        "symbol":"NSE:CANBK",
+        "open":127.59,
+        "high":127.89,
+        "low":127.54,
+        "close":127.81,
+        "volume":490168.0
+    },
+    {
+        "datetime":"2026-08-25T09:15:00.000",
+        "symbol":"NSE:CANBK",
+        "open":127.81,
+        "high":128.05,
+        "low":127.71,
+        "close":128.05,
+        "volume":592621.0
+    },
+    {
+        "datetime":"2026-08-25T09:30:00.000",
+        "symbol":"NSE:CANBK",
+        "open":128.04,
+        "high":128.31,
+        "low":127.82,
+        "close":128.05,
+        "volume":1245699.0
     }
 ]

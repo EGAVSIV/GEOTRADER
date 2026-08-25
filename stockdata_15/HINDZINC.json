@@ -1,41 +1,5 @@
 [
     {
-        "datetime":"2025-12-31T04:45:00.000",
-        "symbol":"NSE:HINDZINC",
-        "open":618.0,
-        "high":618.5,
-        "low":615.0,
-        "close":615.0,
-        "volume":323516.0
-    },
-    {
-        "datetime":"2025-12-31T05:00:00.000",
-        "symbol":"NSE:HINDZINC",
-        "open":615.0,
-        "high":616.55,
-        "low":614.0,
-        "close":616.25,
-        "volume":279151.0
-    },
-    {
-        "datetime":"2025-12-31T05:15:00.000",
-        "symbol":"NSE:HINDZINC",
-        "open":615.3,
-        "high":617.65,
-        "low":614.6,
-        "close":617.25,
-        "volume":229863.0
-    },
-    {
-        "datetime":"2025-12-31T05:30:00.000",
-        "symbol":"NSE:HINDZINC",
-        "open":617.35,
-        "high":618.75,
-        "low":616.55,
-        "close":616.55,
-        "volume":231929.0
-    },
-    {
         "datetime":"2025-12-31T05:45:00.000",
         "symbol":"NSE:HINDZINC",
         "open":616.8,
@@ -35996,7 +35960,43 @@
         "open":595.45,
         "high":595.85,
         "low":594.55,
-        "close":595.55,
-        "volume":63128.0
+        "close":595.0,
+        "volume":76173.0
+    },
+    {
+        "datetime":"2026-08-25T08:45:00.000",
+        "symbol":"NSE:HINDZINC",
+        "open":595.1,
+        "high":595.8,
+        "low":594.5,
+        "close":595.3,
+        "volume":121737.0
+    },
+    {
+        "datetime":"2026-08-25T09:00:00.000",
+        "symbol":"NSE:HINDZINC",
+        "open":595.45,
+        "high":595.45,
+        "low":591.9,
+        "close":592.4,
+        "volume":123946.0
+    },
+    {
+        "datetime":"2026-08-25T09:15:00.000",
+        "symbol":"NSE:HINDZINC",
+        "open":592.5,
+        "high":593.05,
+        "low":591.45,
+        "close":592.35,
+        "volume":258768.0
+    },
+    {
+        "datetime":"2026-08-25T09:30:00.000",
+        "symbol":"NSE:HINDZINC",
+        "open":592.1,
+        "high":592.6,
+        "low":591.0,
+        "close":591.35,
+        "volume":389798.0
     }
 ]

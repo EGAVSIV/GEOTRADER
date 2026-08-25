@@ -1,41 +1,5 @@
 [
     {
-        "datetime":"2025-12-31T04:45:00.000",
-        "symbol":"NSE:IDFCFIRSTB",
-        "open":85.16,
-        "high":85.2,
-        "low":85.07,
-        "close":85.13,
-        "volume":282984.0
-    },
-    {
-        "datetime":"2025-12-31T05:00:00.000",
-        "symbol":"NSE:IDFCFIRSTB",
-        "open":85.13,
-        "high":85.34,
-        "low":85.08,
-        "close":85.3,
-        "volume":313445.0
-    },
-    {
-        "datetime":"2025-12-31T05:15:00.000",
-        "symbol":"NSE:IDFCFIRSTB",
-        "open":85.29,
-        "high":85.55,
-        "low":85.22,
-        "close":85.51,
-        "volume":727590.0
-    },
-    {
-        "datetime":"2025-12-31T05:30:00.000",
-        "symbol":"NSE:IDFCFIRSTB",
-        "open":85.52,
-        "high":86.0,
-        "low":85.52,
-        "close":85.63,
-        "volume":1911943.0
-    },
-    {
         "datetime":"2025-12-31T05:45:00.000",
         "symbol":"NSE:IDFCFIRSTB",
         "open":85.6,
@@ -35996,7 +35960,43 @@
         "open":85.44,
         "high":85.46,
         "low":85.22,
-        "close":85.22,
-        "volume":194600.0
+        "close":85.25,
+        "volume":195668.0
+    },
+    {
+        "datetime":"2026-08-25T08:45:00.000",
+        "symbol":"NSE:IDFCFIRSTB",
+        "open":85.2,
+        "high":85.3,
+        "low":85.2,
+        "close":85.25,
+        "volume":173210.0
+    },
+    {
+        "datetime":"2026-08-25T09:00:00.000",
+        "symbol":"NSE:IDFCFIRSTB",
+        "open":85.25,
+        "high":85.34,
+        "low":85.16,
+        "close":85.25,
+        "volume":420346.0
+    },
+    {
+        "datetime":"2026-08-25T09:15:00.000",
+        "symbol":"NSE:IDFCFIRSTB",
+        "open":85.22,
+        "high":85.35,
+        "low":85.18,
+        "close":85.23,
+        "volume":642634.0
+    },
+    {
+        "datetime":"2026-08-25T09:30:00.000",
+        "symbol":"NSE:IDFCFIRSTB",
+        "open":85.25,
+        "high":85.29,
+        "low":85.1,
+        "close":85.15,
+        "volume":1171775.0
     }
 ]

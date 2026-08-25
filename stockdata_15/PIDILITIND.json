@@ -1,41 +1,5 @@
 [
     {
-        "datetime":"2025-12-31T04:45:00.000",
-        "symbol":"NSE:PIDILITIND",
-        "open":1460.0,
-        "high":1462.0,
-        "low":1459.1,
-        "close":1461.9,
-        "volume":2532.0
-    },
-    {
-        "datetime":"2025-12-31T05:00:00.000",
-        "symbol":"NSE:PIDILITIND",
-        "open":1461.9,
-        "high":1466.1,
-        "low":1461.3,
-        "close":1464.8,
-        "volume":7558.0
-    },
-    {
-        "datetime":"2025-12-31T05:15:00.000",
-        "symbol":"NSE:PIDILITIND",
-        "open":1464.9,
-        "high":1465.3,
-        "low":1462.0,
-        "close":1463.0,
-        "volume":7729.0
-    },
-    {
-        "datetime":"2025-12-31T05:30:00.000",
-        "symbol":"NSE:PIDILITIND",
-        "open":1463.0,
-        "high":1470.0,
-        "low":1461.9,
-        "close":1465.3,
-        "volume":23603.0
-    },
-    {
         "datetime":"2025-12-31T05:45:00.000",
         "symbol":"NSE:PIDILITIND",
         "open":1465.9,
@@ -35995,8 +35959,44 @@
         "symbol":"NSE:PIDILITIND",
         "open":1641.6,
         "high":1642.4,
+        "low":1637.2,
+        "close":1637.9,
+        "volume":11300.0
+    },
+    {
+        "datetime":"2026-08-25T08:45:00.000",
+        "symbol":"NSE:PIDILITIND",
+        "open":1637.8,
+        "high":1639.6,
+        "low":1636.6,
+        "close":1638.4,
+        "volume":16269.0
+    },
+    {
+        "datetime":"2026-08-25T09:00:00.000",
+        "symbol":"NSE:PIDILITIND",
+        "open":1638.4,
+        "high":1646.0,
         "low":1638.0,
-        "close":1639.1,
-        "volume":10831.0
+        "close":1644.4,
+        "volume":27651.0
+    },
+    {
+        "datetime":"2026-08-25T09:15:00.000",
+        "symbol":"NSE:PIDILITIND",
+        "open":1644.0,
+        "high":1650.1,
+        "low":1641.5,
+        "close":1649.7,
+        "volume":30938.0
+    },
+    {
+        "datetime":"2026-08-25T09:30:00.000",
+        "symbol":"NSE:PIDILITIND",
+        "open":1649.6,
+        "high":1650.0,
+        "low":1645.0,
+        "close":1645.0,
+        "volume":72057.0
     }
 ]

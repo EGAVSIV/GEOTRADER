@@ -1,41 +1,5 @@
 [
     {
-        "datetime":"2025-12-31T04:45:00.000",
-        "symbol":"NSE:SOLARINDS",
-        "open":12255.0,
-        "high":12300.0,
-        "low":12232.0,
-        "close":12300.0,
-        "volume":8998.0
-    },
-    {
-        "datetime":"2025-12-31T05:00:00.000",
-        "symbol":"NSE:SOLARINDS",
-        "open":12310.0,
-        "high":12339.0,
-        "low":12300.0,
-        "close":12330.0,
-        "volume":6645.0
-    },
-    {
-        "datetime":"2025-12-31T05:15:00.000",
-        "symbol":"NSE:SOLARINDS",
-        "open":12340.0,
-        "high":12350.0,
-        "low":12319.0,
-        "close":12325.0,
-        "volume":7059.0
-    },
-    {
-        "datetime":"2025-12-31T05:30:00.000",
-        "symbol":"NSE:SOLARINDS",
-        "open":12323.0,
-        "high":12340.0,
-        "low":12268.0,
-        "close":12305.0,
-        "volume":5101.0
-    },
-    {
         "datetime":"2025-12-31T05:45:00.000",
         "symbol":"NSE:SOLARINDS",
         "open":12304.0,
@@ -35997,6 +35961,42 @@
         "high":19786.0,
         "low":19755.0,
         "close":19760.0,
-        "volume":1923.0
+        "volume":1930.0
+    },
+    {
+        "datetime":"2026-08-25T08:45:00.000",
+        "symbol":"NSE:SOLARINDS",
+        "open":19761.0,
+        "high":19801.0,
+        "low":19761.0,
+        "close":19800.0,
+        "volume":1743.0
+    },
+    {
+        "datetime":"2026-08-25T09:00:00.000",
+        "symbol":"NSE:SOLARINDS",
+        "open":19789.0,
+        "high":19815.0,
+        "low":19785.0,
+        "close":19794.0,
+        "volume":2305.0
+    },
+    {
+        "datetime":"2026-08-25T09:15:00.000",
+        "symbol":"NSE:SOLARINDS",
+        "open":19794.0,
+        "high":19796.0,
+        "low":19776.0,
+        "close":19780.0,
+        "volume":2006.0
+    },
+    {
+        "datetime":"2026-08-25T09:30:00.000",
+        "symbol":"NSE:SOLARINDS",
+        "open":19777.0,
+        "high":19793.0,
+        "low":19761.0,
+        "close":19785.0,
+        "volume":6997.0
     }
 ]

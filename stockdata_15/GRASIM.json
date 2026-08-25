@@ -1,41 +1,5 @@
 [
     {
-        "datetime":"2025-12-31T04:45:00.000",
-        "symbol":"NSE:GRASIM",
-        "open":2854.4,
-        "high":2856.8,
-        "low":2852.0,
-        "close":2856.3,
-        "volume":3535.0
-    },
-    {
-        "datetime":"2025-12-31T05:00:00.000",
-        "symbol":"NSE:GRASIM",
-        "open":2856.3,
-        "high":2856.3,
-        "low":2852.2,
-        "close":2854.5,
-        "volume":2715.0
-    },
-    {
-        "datetime":"2025-12-31T05:15:00.000",
-        "symbol":"NSE:GRASIM",
-        "open":2854.5,
-        "high":2854.8,
-        "low":2849.2,
-        "close":2849.2,
-        "volume":3127.0
-    },
-    {
-        "datetime":"2025-12-31T05:30:00.000",
-        "symbol":"NSE:GRASIM",
-        "open":2850.0,
-        "high":2856.0,
-        "low":2849.0,
-        "close":2855.6,
-        "volume":10858.0
-    },
-    {
         "datetime":"2025-12-31T05:45:00.000",
         "symbol":"NSE:GRASIM",
         "open":2855.8,
@@ -35996,7 +35960,43 @@
         "open":3233.2,
         "high":3235.1,
         "low":3230.0,
-        "close":3230.0,
-        "volume":18501.0
+        "close":3230.1,
+        "volume":19760.0
+    },
+    {
+        "datetime":"2026-08-25T08:45:00.000",
+        "symbol":"NSE:GRASIM",
+        "open":3230.7,
+        "high":3234.7,
+        "low":3230.0,
+        "close":3233.6,
+        "volume":17541.0
+    },
+    {
+        "datetime":"2026-08-25T09:00:00.000",
+        "symbol":"NSE:GRASIM",
+        "open":3234.1,
+        "high":3248.3,
+        "low":3231.3,
+        "close":3246.5,
+        "volume":64312.0
+    },
+    {
+        "datetime":"2026-08-25T09:15:00.000",
+        "symbol":"NSE:GRASIM",
+        "open":3248.7,
+        "high":3269.7,
+        "low":3244.5,
+        "close":3262.2,
+        "volume":214372.0
+    },
+    {
+        "datetime":"2026-08-25T09:30:00.000",
+        "symbol":"NSE:GRASIM",
+        "open":3263.9,
+        "high":3300.2,
+        "low":3259.7,
+        "close":3300.0,
+        "volume":585019.0
     }
 ]

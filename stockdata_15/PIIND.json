@@ -1,41 +1,5 @@
 [
     {
-        "datetime":"2025-12-31T04:45:00.000",
-        "symbol":"NSE:PIIND",
-        "open":3208.3,
-        "high":3228.6,
-        "low":3205.8,
-        "close":3225.3,
-        "volume":3829.0
-    },
-    {
-        "datetime":"2025-12-31T05:00:00.000",
-        "symbol":"NSE:PIIND",
-        "open":3226.9,
-        "high":3230.0,
-        "low":3225.0,
-        "close":3229.0,
-        "volume":1055.0
-    },
-    {
-        "datetime":"2025-12-31T05:15:00.000",
-        "symbol":"NSE:PIIND",
-        "open":3229.7,
-        "high":3229.7,
-        "low":3223.6,
-        "close":3227.0,
-        "volume":623.0
-    },
-    {
-        "datetime":"2025-12-31T05:30:00.000",
-        "symbol":"NSE:PIIND",
-        "open":3227.5,
-        "high":3228.0,
-        "low":3207.0,
-        "close":3214.9,
-        "volume":3249.0
-    },
-    {
         "datetime":"2025-12-31T05:45:00.000",
         "symbol":"NSE:PIIND",
         "open":3214.5,
@@ -35996,7 +35960,43 @@
         "open":2470.0,
         "high":2470.0,
         "low":2466.0,
-        "close":2467.0,
-        "volume":5883.0
+        "close":2466.4,
+        "volume":7772.0
+    },
+    {
+        "datetime":"2026-08-25T08:45:00.000",
+        "symbol":"NSE:PIIND",
+        "open":2466.0,
+        "high":2472.4,
+        "low":2465.0,
+        "close":2470.9,
+        "volume":12678.0
+    },
+    {
+        "datetime":"2026-08-25T09:00:00.000",
+        "symbol":"NSE:PIIND",
+        "open":2472.3,
+        "high":2479.7,
+        "low":2469.1,
+        "close":2476.6,
+        "volume":39513.0
+    },
+    {
+        "datetime":"2026-08-25T09:15:00.000",
+        "symbol":"NSE:PIIND",
+        "open":2478.6,
+        "high":2478.6,
+        "low":2471.2,
+        "close":2474.2,
+        "volume":10672.0
+    },
+    {
+        "datetime":"2026-08-25T09:30:00.000",
+        "symbol":"NSE:PIIND",
+        "open":2474.1,
+        "high":2480.6,
+        "low":2469.6,
+        "close":2478.0,
+        "volume":22734.0
     }
 ]

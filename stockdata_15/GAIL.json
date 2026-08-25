@@ -1,41 +1,5 @@
 [
     {
-        "datetime":"2025-12-31T04:45:00.000",
-        "symbol":"NSE:GAIL",
-        "open":171.83,
-        "high":171.92,
-        "low":171.68,
-        "close":171.85,
-        "volume":121225.0
-    },
-    {
-        "datetime":"2025-12-31T05:00:00.000",
-        "symbol":"NSE:GAIL",
-        "open":171.85,
-        "high":171.98,
-        "low":171.75,
-        "close":171.98,
-        "volume":116149.0
-    },
-    {
-        "datetime":"2025-12-31T05:15:00.000",
-        "symbol":"NSE:GAIL",
-        "open":171.98,
-        "high":171.98,
-        "low":171.65,
-        "close":171.9,
-        "volume":113654.0
-    },
-    {
-        "datetime":"2025-12-31T05:30:00.000",
-        "symbol":"NSE:GAIL",
-        "open":171.87,
-        "high":172.14,
-        "low":171.82,
-        "close":171.94,
-        "volume":136121.0
-    },
-    {
         "datetime":"2025-12-31T05:45:00.000",
         "symbol":"NSE:GAIL",
         "open":171.96,
@@ -35996,7 +35960,43 @@
         "open":173.75,
         "high":173.83,
         "low":173.61,
-        "close":173.69,
-        "volume":101269.0
+        "close":173.7,
+        "volume":104196.0
+    },
+    {
+        "datetime":"2026-08-25T08:45:00.000",
+        "symbol":"NSE:GAIL",
+        "open":173.7,
+        "high":173.84,
+        "low":173.69,
+        "close":173.84,
+        "volume":157905.0
+    },
+    {
+        "datetime":"2026-08-25T09:00:00.000",
+        "symbol":"NSE:GAIL",
+        "open":173.84,
+        "high":174.0,
+        "low":173.65,
+        "close":173.98,
+        "volume":215287.0
+    },
+    {
+        "datetime":"2026-08-25T09:15:00.000",
+        "symbol":"NSE:GAIL",
+        "open":173.8,
+        "high":174.01,
+        "low":173.8,
+        "close":174.0,
+        "volume":536080.0
+    },
+    {
+        "datetime":"2026-08-25T09:30:00.000",
+        "symbol":"NSE:GAIL",
+        "open":174.0,
+        "high":174.5,
+        "low":173.97,
+        "close":174.15,
+        "volume":1032477.0
     }
 ]

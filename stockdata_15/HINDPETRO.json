@@ -1,41 +1,5 @@
 [
     {
-        "datetime":"2025-12-31T04:45:00.000",
-        "symbol":"NSE:HINDPETRO",
-        "open":478.65,
-        "high":479.25,
-        "low":478.1,
-        "close":479.0,
-        "volume":93561.0
-    },
-    {
-        "datetime":"2025-12-31T05:00:00.000",
-        "symbol":"NSE:HINDPETRO",
-        "open":478.8,
-        "high":481.35,
-        "low":478.2,
-        "close":481.2,
-        "volume":275038.0
-    },
-    {
-        "datetime":"2025-12-31T05:15:00.000",
-        "symbol":"NSE:HINDPETRO",
-        "open":481.4,
-        "high":482.7,
-        "low":479.75,
-        "close":482.7,
-        "volume":245841.0
-    },
-    {
-        "datetime":"2025-12-31T05:30:00.000",
-        "symbol":"NSE:HINDPETRO",
-        "open":482.7,
-        "high":486.8,
-        "low":482.6,
-        "close":486.5,
-        "volume":494334.0
-    },
-    {
         "datetime":"2025-12-31T05:45:00.000",
         "symbol":"NSE:HINDPETRO",
         "open":486.75,
@@ -35996,7 +35960,43 @@
         "open":370.45,
         "high":370.7,
         "low":369.95,
-        "close":370.3,
-        "volume":85883.0
+        "close":370.45,
+        "volume":96808.0
+    },
+    {
+        "datetime":"2026-08-25T08:45:00.000",
+        "symbol":"NSE:HINDPETRO",
+        "open":370.3,
+        "high":371.5,
+        "low":370.3,
+        "close":371.2,
+        "volume":210336.0
+    },
+    {
+        "datetime":"2026-08-25T09:00:00.000",
+        "symbol":"NSE:HINDPETRO",
+        "open":371.45,
+        "high":373.45,
+        "low":371.2,
+        "close":372.3,
+        "volume":970755.0
+    },
+    {
+        "datetime":"2026-08-25T09:15:00.000",
+        "symbol":"NSE:HINDPETRO",
+        "open":372.2,
+        "high":373.95,
+        "low":372.1,
+        "close":373.35,
+        "volume":937924.0
+    },
+    {
+        "datetime":"2026-08-25T09:30:00.000",
+        "symbol":"NSE:HINDPETRO",
+        "open":373.35,
+        "high":374.15,
+        "low":372.85,
+        "close":373.55,
+        "volume":999787.0
     }
 ]

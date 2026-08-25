@@ -1,41 +1,5 @@
 [
     {
-        "datetime":"2025-12-31T04:45:00.000",
-        "symbol":"NSE:GLENMARK",
-        "open":2027.7,
-        "high":2037.0,
-        "low":2027.7,
-        "close":2034.6,
-        "volume":7798.0
-    },
-    {
-        "datetime":"2025-12-31T05:00:00.000",
-        "symbol":"NSE:GLENMARK",
-        "open":2034.7,
-        "high":2040.0,
-        "low":2032.9,
-        "close":2039.5,
-        "volume":16931.0
-    },
-    {
-        "datetime":"2025-12-31T05:15:00.000",
-        "symbol":"NSE:GLENMARK",
-        "open":2040.0,
-        "high":2044.0,
-        "low":2037.2,
-        "close":2040.9,
-        "volume":8962.0
-    },
-    {
-        "datetime":"2025-12-31T05:30:00.000",
-        "symbol":"NSE:GLENMARK",
-        "open":2040.9,
-        "high":2042.9,
-        "low":2037.0,
-        "close":2037.1,
-        "volume":5427.0
-    },
-    {
         "datetime":"2025-12-31T05:45:00.000",
         "symbol":"NSE:GLENMARK",
         "open":2038.2,
@@ -35996,7 +35960,43 @@
         "open":2394.3,
         "high":2395.3,
         "low":2392.0,
-        "close":2394.3,
-        "volume":5081.0
+        "close":2393.5,
+        "volume":7463.0
+    },
+    {
+        "datetime":"2026-08-25T08:45:00.000",
+        "symbol":"NSE:GLENMARK",
+        "open":2393.7,
+        "high":2397.5,
+        "low":2386.0,
+        "close":2394.4,
+        "volume":18200.0
+    },
+    {
+        "datetime":"2026-08-25T09:00:00.000",
+        "symbol":"NSE:GLENMARK",
+        "open":2394.4,
+        "high":2396.6,
+        "low":2392.0,
+        "close":2392.4,
+        "volume":13360.0
+    },
+    {
+        "datetime":"2026-08-25T09:15:00.000",
+        "symbol":"NSE:GLENMARK",
+        "open":2392.8,
+        "high":2397.7,
+        "low":2391.9,
+        "close":2396.7,
+        "volume":20609.0
+    },
+    {
+        "datetime":"2026-08-25T09:30:00.000",
+        "symbol":"NSE:GLENMARK",
+        "open":2397.3,
+        "high":2399.9,
+        "low":2381.8,
+        "close":2381.8,
+        "volume":64546.0
     }
 ]

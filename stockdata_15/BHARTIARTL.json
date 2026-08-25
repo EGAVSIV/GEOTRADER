@@ -1,32 +1,5 @@
 [
     {
-        "datetime":"2025-12-31T05:00:00.000",
-        "symbol":"NSE:BHARTIARTL",
-        "open":2101.9,
-        "high":2108.6,
-        "low":2101.7,
-        "close":2106.8,
-        "volume":61114.0
-    },
-    {
-        "datetime":"2025-12-31T05:15:00.000",
-        "symbol":"NSE:BHARTIARTL",
-        "open":2106.8,
-        "high":2108.0,
-        "low":2104.4,
-        "close":2107.4,
-        "volume":49712.0
-    },
-    {
-        "datetime":"2025-12-31T05:30:00.000",
-        "symbol":"NSE:BHARTIARTL",
-        "open":2107.5,
-        "high":2114.4,
-        "low":2107.1,
-        "close":2113.9,
-        "volume":70546.0
-    },
-    {
         "datetime":"2025-12-31T05:45:00.000",
         "symbol":"NSE:BHARTIARTL",
         "open":2114.0,
@@ -35095,9 +35068,9 @@
         "symbol":"NSE:BHARTIARTL",
         "open":1927.9,
         "high":1929.4,
-        "low":1927.3,
+        "low":1927.2,
         "close":1927.4,
-        "volume":110692.0
+        "volume":126649.0
     },
     {
         "datetime":"2026-08-19T08:00:00.000",
@@ -35994,9 +35967,36 @@
         "datetime":"2026-08-25T08:45:00.000",
         "symbol":"NSE:BHARTIARTL",
         "open":1933.9,
-        "high":1934.6,
-        "low":1933.6,
-        "close":1934.5,
-        "volume":7188.0
+        "high":1936.7,
+        "low":1933.3,
+        "close":1935.9,
+        "volume":84326.0
+    },
+    {
+        "datetime":"2026-08-25T09:00:00.000",
+        "symbol":"NSE:BHARTIARTL",
+        "open":1935.9,
+        "high":1940.0,
+        "low":1935.6,
+        "close":1937.2,
+        "volume":198652.0
+    },
+    {
+        "datetime":"2026-08-25T09:15:00.000",
+        "symbol":"NSE:BHARTIARTL",
+        "open":1937.2,
+        "high":1942.8,
+        "low":1936.9,
+        "close":1939.6,
+        "volume":323428.0
+    },
+    {
+        "datetime":"2026-08-25T09:30:00.000",
+        "symbol":"NSE:BHARTIARTL",
+        "open":1939.6,
+        "high":1943.9,
+        "low":1937.5,
+        "close":1943.8,
+        "volume":412888.0
     }
 ]

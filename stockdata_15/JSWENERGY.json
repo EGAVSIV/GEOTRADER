@@ -1,41 +1,5 @@
 [
     {
-        "datetime":"2025-12-31T04:45:00.000",
-        "symbol":"NSE:JSWENERGY",
-        "open":476.1,
-        "high":478.5,
-        "low":476.1,
-        "close":477.75,
-        "volume":56207.0
-    },
-    {
-        "datetime":"2025-12-31T05:00:00.000",
-        "symbol":"NSE:JSWENERGY",
-        "open":477.9,
-        "high":478.95,
-        "low":477.05,
-        "close":478.85,
-        "volume":28195.0
-    },
-    {
-        "datetime":"2025-12-31T05:15:00.000",
-        "symbol":"NSE:JSWENERGY",
-        "open":478.65,
-        "high":479.0,
-        "low":477.4,
-        "close":478.25,
-        "volume":34502.0
-    },
-    {
-        "datetime":"2025-12-31T05:30:00.000",
-        "symbol":"NSE:JSWENERGY",
-        "open":478.4,
-        "high":479.8,
-        "low":477.05,
-        "close":477.8,
-        "volume":38831.0
-    },
-    {
         "datetime":"2025-12-31T05:45:00.000",
         "symbol":"NSE:JSWENERGY",
         "open":477.75,
@@ -35996,7 +35960,43 @@
         "open":540.3,
         "high":540.55,
         "low":539.15,
-        "close":540.0,
-        "volume":33857.0
+        "close":540.05,
+        "volume":34139.0
+    },
+    {
+        "datetime":"2026-08-25T08:45:00.000",
+        "symbol":"NSE:JSWENERGY",
+        "open":540.0,
+        "high":540.8,
+        "low":539.5,
+        "close":540.8,
+        "volume":45308.0
+    },
+    {
+        "datetime":"2026-08-25T09:00:00.000",
+        "symbol":"NSE:JSWENERGY",
+        "open":540.6,
+        "high":543.25,
+        "low":540.6,
+        "close":542.65,
+        "volume":317035.0
+    },
+    {
+        "datetime":"2026-08-25T09:15:00.000",
+        "symbol":"NSE:JSWENERGY",
+        "open":542.65,
+        "high":544.0,
+        "low":542.0,
+        "close":542.85,
+        "volume":122577.0
+    },
+    {
+        "datetime":"2026-08-25T09:30:00.000",
+        "symbol":"NSE:JSWENERGY",
+        "open":542.65,
+        "high":547.0,
+        "low":542.25,
+        "close":546.1,
+        "volume":152517.0
     }
 ]

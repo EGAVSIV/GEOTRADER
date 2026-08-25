@@ -1,32 +1,5 @@
 [
     {
-        "datetime":"2025-12-31T05:00:00.000",
-        "symbol":"NSE:DALBHARAT",
-        "open":2142.0,
-        "high":2144.2,
-        "low":2140.5,
-        "close":2141.2,
-        "volume":2081.0
-    },
-    {
-        "datetime":"2025-12-31T05:15:00.000",
-        "symbol":"NSE:DALBHARAT",
-        "open":2140.8,
-        "high":2141.7,
-        "low":2136.8,
-        "close":2136.8,
-        "volume":2520.0
-    },
-    {
-        "datetime":"2025-12-31T05:30:00.000",
-        "symbol":"NSE:DALBHARAT",
-        "open":2138.3,
-        "high":2145.0,
-        "low":2138.3,
-        "close":2145.0,
-        "volume":11645.0
-    },
-    {
         "datetime":"2025-12-31T05:45:00.000",
         "symbol":"NSE:DALBHARAT",
         "open":2145.0,
@@ -35103,10 +35076,10 @@
         "datetime":"2026-08-19T08:00:00.000",
         "symbol":"NSE:DALBHARAT",
         "open":1861.4,
-        "high":1864.4,
-        "low":1860.4,
+        "high":1863.7,
+        "low":1861.4,
         "close":1863.7,
-        "volume":7324.0
+        "volume":2369.0
     },
     {
         "datetime":"2026-08-19T08:15:00.000",
@@ -35994,9 +35967,36 @@
         "datetime":"2026-08-25T08:45:00.000",
         "symbol":"NSE:DALBHARAT",
         "open":1805.1,
-        "high":1806.5,
+        "high":1814.9,
         "low":1804.1,
-        "close":1806.5,
-        "volume":12102.0
+        "close":1813.5,
+        "volume":27963.0
+    },
+    {
+        "datetime":"2026-08-25T09:00:00.000",
+        "symbol":"NSE:DALBHARAT",
+        "open":1812.9,
+        "high":1833.3,
+        "low":1810.3,
+        "close":1833.2,
+        "volume":22195.0
+    },
+    {
+        "datetime":"2026-08-25T09:15:00.000",
+        "symbol":"NSE:DALBHARAT",
+        "open":1832.0,
+        "high":1841.2,
+        "low":1830.1,
+        "close":1841.2,
+        "volume":35570.0
+    },
+    {
+        "datetime":"2026-08-25T09:30:00.000",
+        "symbol":"NSE:DALBHARAT",
+        "open":1840.7,
+        "high":1841.0,
+        "low":1811.5,
+        "close":1811.5,
+        "volume":35112.0
     }
 ]

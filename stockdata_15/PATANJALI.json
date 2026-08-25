@@ -1,41 +1,5 @@
 [
     {
-        "datetime":"2025-12-31T04:45:00.000",
-        "symbol":"NSE:PATANJALI",
-        "open":533.7,
-        "high":536.45,
-        "low":533.55,
-        "close":535.35,
-        "volume":70161.0
-    },
-    {
-        "datetime":"2025-12-31T05:00:00.000",
-        "symbol":"NSE:PATANJALI",
-        "open":535.35,
-        "high":536.0,
-        "low":534.9,
-        "close":535.45,
-        "volume":28541.0
-    },
-    {
-        "datetime":"2025-12-31T05:15:00.000",
-        "symbol":"NSE:PATANJALI",
-        "open":535.65,
-        "high":535.85,
-        "low":534.25,
-        "close":534.5,
-        "volume":19814.0
-    },
-    {
-        "datetime":"2025-12-31T05:30:00.000",
-        "symbol":"NSE:PATANJALI",
-        "open":534.5,
-        "high":535.35,
-        "low":534.15,
-        "close":534.15,
-        "volume":21332.0
-    },
-    {
         "datetime":"2025-12-31T05:45:00.000",
         "symbol":"NSE:PATANJALI",
         "open":534.7,
@@ -35996,7 +35960,43 @@
         "open":347.85,
         "high":348.85,
         "low":347.4,
-        "close":348.35,
-        "volume":74280.0
+        "close":348.6,
+        "volume":75499.0
+    },
+    {
+        "datetime":"2026-08-25T08:45:00.000",
+        "symbol":"NSE:PATANJALI",
+        "open":348.1,
+        "high":348.55,
+        "low":348.0,
+        "close":348.55,
+        "volume":14771.0
+    },
+    {
+        "datetime":"2026-08-25T09:00:00.000",
+        "symbol":"NSE:PATANJALI",
+        "open":348.5,
+        "high":348.8,
+        "low":347.95,
+        "close":348.15,
+        "volume":19959.0
+    },
+    {
+        "datetime":"2026-08-25T09:15:00.000",
+        "symbol":"NSE:PATANJALI",
+        "open":348.35,
+        "high":348.7,
+        "low":348.15,
+        "close":348.5,
+        "volume":23280.0
+    },
+    {
+        "datetime":"2026-08-25T09:30:00.000",
+        "symbol":"NSE:PATANJALI",
+        "open":348.8,
+        "high":350.6,
+        "low":346.95,
+        "close":350.0,
+        "volume":280895.0
     }
 ]

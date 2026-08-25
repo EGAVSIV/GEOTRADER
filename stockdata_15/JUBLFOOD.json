@@ -1,41 +1,5 @@
 [
     {
-        "datetime":"2025-12-31T04:45:00.000",
-        "symbol":"NSE:JUBLFOOD",
-        "open":558.65,
-        "high":559.95,
-        "low":558.45,
-        "close":559.95,
-        "volume":8924.0
-    },
-    {
-        "datetime":"2025-12-31T05:00:00.000",
-        "symbol":"NSE:JUBLFOOD",
-        "open":559.65,
-        "high":559.95,
-        "low":559.0,
-        "close":559.65,
-        "volume":8201.0
-    },
-    {
-        "datetime":"2025-12-31T05:15:00.000",
-        "symbol":"NSE:JUBLFOOD",
-        "open":559.3,
-        "high":559.65,
-        "low":557.95,
-        "close":558.65,
-        "volume":10552.0
-    },
-    {
-        "datetime":"2025-12-31T05:30:00.000",
-        "symbol":"NSE:JUBLFOOD",
-        "open":558.65,
-        "high":559.35,
-        "low":558.3,
-        "close":558.5,
-        "volume":6307.0
-    },
-    {
         "datetime":"2025-12-31T05:45:00.000",
         "symbol":"NSE:JUBLFOOD",
         "open":558.5,
@@ -35995,8 +35959,44 @@
         "symbol":"NSE:JUBLFOOD",
         "open":507.9,
         "high":507.9,
-        "low":506.9,
-        "close":506.95,
-        "volume":45742.0
+        "low":506.85,
+        "close":506.85,
+        "volume":46225.0
+    },
+    {
+        "datetime":"2026-08-25T08:45:00.000",
+        "symbol":"NSE:JUBLFOOD",
+        "open":506.95,
+        "high":510.75,
+        "low":506.8,
+        "close":509.95,
+        "volume":152365.0
+    },
+    {
+        "datetime":"2026-08-25T09:00:00.000",
+        "symbol":"NSE:JUBLFOOD",
+        "open":509.95,
+        "high":510.0,
+        "low":508.6,
+        "close":509.5,
+        "volume":73539.0
+    },
+    {
+        "datetime":"2026-08-25T09:15:00.000",
+        "symbol":"NSE:JUBLFOOD",
+        "open":509.35,
+        "high":510.75,
+        "low":509.2,
+        "close":510.25,
+        "volume":125493.0
+    },
+    {
+        "datetime":"2026-08-25T09:30:00.000",
+        "symbol":"NSE:JUBLFOOD",
+        "open":510.55,
+        "high":513.75,
+        "low":509.25,
+        "close":512.25,
+        "volume":274398.0
     }
 ]

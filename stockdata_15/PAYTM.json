@@ -1,41 +1,5 @@
 [
     {
-        "datetime":"2025-12-31T04:45:00.000",
-        "symbol":"NSE:PAYTM",
-        "open":1303.0,
-        "high":1304.7,
-        "low":1302.4,
-        "close":1304.7,
-        "volume":16521.0
-    },
-    {
-        "datetime":"2025-12-31T05:00:00.000",
-        "symbol":"NSE:PAYTM",
-        "open":1304.7,
-        "high":1311.8,
-        "low":1304.6,
-        "close":1310.9,
-        "volume":59214.0
-    },
-    {
-        "datetime":"2025-12-31T05:15:00.000",
-        "symbol":"NSE:PAYTM",
-        "open":1310.9,
-        "high":1313.9,
-        "low":1310.0,
-        "close":1313.0,
-        "volume":43829.0
-    },
-    {
-        "datetime":"2025-12-31T05:30:00.000",
-        "symbol":"NSE:PAYTM",
-        "open":1313.0,
-        "high":1314.8,
-        "low":1310.4,
-        "close":1310.8,
-        "volume":47264.0
-    },
-    {
         "datetime":"2025-12-31T05:45:00.000",
         "symbol":"NSE:PAYTM",
         "open":1311.1,
@@ -35996,7 +35960,43 @@
         "open":1695.4,
         "high":1703.6,
         "low":1693.6,
-        "close":1699.4,
-        "volume":950906.0
+        "close":1700.0,
+        "volume":1005198.0
+    },
+    {
+        "datetime":"2026-08-25T08:45:00.000",
+        "symbol":"NSE:PAYTM",
+        "open":1700.5,
+        "high":1703.7,
+        "low":1698.1,
+        "close":1702.0,
+        "volume":391944.0
+    },
+    {
+        "datetime":"2026-08-25T09:00:00.000",
+        "symbol":"NSE:PAYTM",
+        "open":1701.2,
+        "high":1714.9,
+        "low":1687.0,
+        "close":1697.6,
+        "volume":1488267.0
+    },
+    {
+        "datetime":"2026-08-25T09:15:00.000",
+        "symbol":"NSE:PAYTM",
+        "open":1697.8,
+        "high":1705.1,
+        "low":1695.4,
+        "close":1700.6,
+        "volume":545990.0
+    },
+    {
+        "datetime":"2026-08-25T09:30:00.000",
+        "symbol":"NSE:PAYTM",
+        "open":1701.8,
+        "high":1715.8,
+        "low":1696.0,
+        "close":1712.0,
+        "volume":1029024.0
     }
 ]

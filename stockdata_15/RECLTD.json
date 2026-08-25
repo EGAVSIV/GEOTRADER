@@ -1,41 +1,5 @@
 [
     {
-        "datetime":"2025-12-31T04:45:00.000",
-        "symbol":"NSE:RECLTD",
-        "open":360.0,
-        "high":362.0,
-        "low":359.7,
-        "close":361.0,
-        "volume":763261.0
-    },
-    {
-        "datetime":"2025-12-31T05:00:00.000",
-        "symbol":"NSE:RECLTD",
-        "open":361.0,
-        "high":361.4,
-        "low":360.1,
-        "close":361.4,
-        "volume":234122.0
-    },
-    {
-        "datetime":"2025-12-31T05:15:00.000",
-        "symbol":"NSE:RECLTD",
-        "open":361.3,
-        "high":361.5,
-        "low":359.95,
-        "close":360.65,
-        "volume":177528.0
-    },
-    {
-        "datetime":"2025-12-31T05:30:00.000",
-        "symbol":"NSE:RECLTD",
-        "open":360.65,
-        "high":360.9,
-        "low":359.3,
-        "close":359.8,
-        "volume":162741.0
-    },
-    {
         "datetime":"2025-12-31T05:45:00.000",
         "symbol":"NSE:RECLTD",
         "open":359.8,
@@ -35996,7 +35960,43 @@
         "open":324.1,
         "high":324.5,
         "low":323.65,
-        "close":323.85,
-        "volume":154001.0
+        "close":323.65,
+        "volume":157800.0
+    },
+    {
+        "datetime":"2026-08-25T08:45:00.000",
+        "symbol":"NSE:RECLTD",
+        "open":323.6,
+        "high":323.95,
+        "low":323.5,
+        "close":323.9,
+        "volume":109229.0
+    },
+    {
+        "datetime":"2026-08-25T09:00:00.000",
+        "symbol":"NSE:RECLTD",
+        "open":323.95,
+        "high":325.2,
+        "low":323.85,
+        "close":325.15,
+        "volume":175132.0
+    },
+    {
+        "datetime":"2026-08-25T09:15:00.000",
+        "symbol":"NSE:RECLTD",
+        "open":325.1,
+        "high":325.9,
+        "low":325.0,
+        "close":325.8,
+        "volume":161766.0
+    },
+    {
+        "datetime":"2026-08-25T09:30:00.000",
+        "symbol":"NSE:RECLTD",
+        "open":325.85,
+        "high":326.95,
+        "low":325.6,
+        "close":326.35,
+        "volume":350854.0
     }
 ]

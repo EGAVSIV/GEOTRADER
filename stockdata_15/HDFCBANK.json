@@ -1,41 +1,5 @@
 [
     {
-        "datetime":"2025-12-31T04:45:00.000",
-        "symbol":"NSE:HDFCBANK",
-        "open":989.6,
-        "high":990.5,
-        "low":988.6,
-        "close":989.5,
-        "volume":122723.0
-    },
-    {
-        "datetime":"2025-12-31T05:00:00.000",
-        "symbol":"NSE:HDFCBANK",
-        "open":989.5,
-        "high":989.9,
-        "low":988.3,
-        "close":989.2,
-        "volume":129040.0
-    },
-    {
-        "datetime":"2025-12-31T05:15:00.000",
-        "symbol":"NSE:HDFCBANK",
-        "open":989.2,
-        "high":990.3,
-        "low":988.8,
-        "close":989.5,
-        "volume":205903.0
-    },
-    {
-        "datetime":"2025-12-31T05:30:00.000",
-        "symbol":"NSE:HDFCBANK",
-        "open":989.1,
-        "high":991.0,
-        "low":988.6,
-        "close":990.6,
-        "volume":355496.0
-    },
-    {
         "datetime":"2025-12-31T05:45:00.000",
         "symbol":"NSE:HDFCBANK",
         "open":990.5,
@@ -35996,7 +35960,43 @@
         "open":723.15,
         "high":723.25,
         "low":722.0,
-        "close":723.25,
-        "volume":467445.0
+        "close":723.2,
+        "volume":519231.0
+    },
+    {
+        "datetime":"2026-08-25T08:45:00.000",
+        "symbol":"NSE:HDFCBANK",
+        "open":723.15,
+        "high":723.6,
+        "low":723.0,
+        "close":723.5,
+        "volume":426790.0
+    },
+    {
+        "datetime":"2026-08-25T09:00:00.000",
+        "symbol":"NSE:HDFCBANK",
+        "open":723.5,
+        "high":723.95,
+        "low":722.65,
+        "close":723.1,
+        "volume":871447.0
+    },
+    {
+        "datetime":"2026-08-25T09:15:00.000",
+        "symbol":"NSE:HDFCBANK",
+        "open":723.25,
+        "high":724.35,
+        "low":722.85,
+        "close":724.05,
+        "volume":1949453.0
+    },
+    {
+        "datetime":"2026-08-25T09:30:00.000",
+        "symbol":"NSE:HDFCBANK",
+        "open":724.0,
+        "high":724.35,
+        "low":722.95,
+        "close":724.0,
+        "volume":1327369.0
     }
 ]

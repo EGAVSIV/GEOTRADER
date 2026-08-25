@@ -1,41 +1,5 @@
 [
     {
-        "datetime":"2025-12-31T04:45:00.000",
-        "symbol":"NSE:OFSS",
-        "open":7628.0,
-        "high":7645.5,
-        "low":7628.0,
-        "close":7645.5,
-        "volume":2404.0
-    },
-    {
-        "datetime":"2025-12-31T05:00:00.000",
-        "symbol":"NSE:OFSS",
-        "open":7644.5,
-        "high":7678.0,
-        "low":7644.5,
-        "close":7671.0,
-        "volume":3765.0
-    },
-    {
-        "datetime":"2025-12-31T05:15:00.000",
-        "symbol":"NSE:OFSS",
-        "open":7674.0,
-        "high":7678.0,
-        "low":7662.5,
-        "close":7665.5,
-        "volume":1058.0
-    },
-    {
-        "datetime":"2025-12-31T05:30:00.000",
-        "symbol":"NSE:OFSS",
-        "open":7662.0,
-        "high":7672.0,
-        "low":7660.0,
-        "close":7667.0,
-        "volume":622.0
-    },
-    {
         "datetime":"2025-12-31T05:45:00.000",
         "symbol":"NSE:OFSS",
         "open":7669.0,
@@ -35996,7 +35960,43 @@
         "open":11590.0,
         "high":11615.0,
         "low":11563.0,
-        "close":11603.0,
-        "volume":7134.0
+        "close":11604.0,
+        "volume":7602.0
+    },
+    {
+        "datetime":"2026-08-25T08:45:00.000",
+        "symbol":"NSE:OFSS",
+        "open":11607.0,
+        "high":11638.0,
+        "low":11596.0,
+        "close":11635.0,
+        "volume":7194.0
+    },
+    {
+        "datetime":"2026-08-25T09:00:00.000",
+        "symbol":"NSE:OFSS",
+        "open":11634.0,
+        "high":11676.0,
+        "low":11633.0,
+        "close":11665.0,
+        "volume":8590.0
+    },
+    {
+        "datetime":"2026-08-25T09:15:00.000",
+        "symbol":"NSE:OFSS",
+        "open":11665.0,
+        "high":11689.0,
+        "low":11640.0,
+        "close":11685.0,
+        "volume":9245.0
+    },
+    {
+        "datetime":"2026-08-25T09:30:00.000",
+        "symbol":"NSE:OFSS",
+        "open":11686.0,
+        "high":11705.0,
+        "low":11656.0,
+        "close":11656.0,
+        "volume":16120.0
     }
 ]

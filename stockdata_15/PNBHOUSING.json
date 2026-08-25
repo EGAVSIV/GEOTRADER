@@ -1,41 +1,5 @@
 [
     {
-        "datetime":"2025-12-31T04:45:00.000",
-        "symbol":"NSE:PNBHOUSING",
-        "open":945.7,
-        "high":946.35,
-        "low":942.05,
-        "close":944.35,
-        "volume":15161.0
-    },
-    {
-        "datetime":"2025-12-31T05:00:00.000",
-        "symbol":"NSE:PNBHOUSING",
-        "open":944.35,
-        "high":949.35,
-        "low":942.5,
-        "close":949.35,
-        "volume":14380.0
-    },
-    {
-        "datetime":"2025-12-31T05:15:00.000",
-        "symbol":"NSE:PNBHOUSING",
-        "open":949.05,
-        "high":949.35,
-        "low":947.7,
-        "close":949.0,
-        "volume":18245.0
-    },
-    {
-        "datetime":"2025-12-31T05:30:00.000",
-        "symbol":"NSE:PNBHOUSING",
-        "open":949.1,
-        "high":950.65,
-        "low":947.35,
-        "close":948.1,
-        "volume":11661.0
-    },
-    {
         "datetime":"2025-12-31T05:45:00.000",
         "symbol":"NSE:PNBHOUSING",
         "open":947.9,
@@ -35996,7 +35960,43 @@
         "open":1171.8,
         "high":1172.6,
         "low":1169.1,
+        "close":1171.3,
+        "volume":71173.0
+    },
+    {
+        "datetime":"2026-08-25T08:45:00.000",
+        "symbol":"NSE:PNBHOUSING",
+        "open":1171.1,
+        "high":1174.9,
+        "low":1170.0,
+        "close":1171.8,
+        "volume":29270.0
+    },
+    {
+        "datetime":"2026-08-25T09:00:00.000",
+        "symbol":"NSE:PNBHOUSING",
+        "open":1171.6,
+        "high":1172.6,
+        "low":1168.8,
         "close":1170.6,
-        "volume":70659.0
+        "volume":18329.0
+    },
+    {
+        "datetime":"2026-08-25T09:15:00.000",
+        "symbol":"NSE:PNBHOUSING",
+        "open":1170.8,
+        "high":1173.7,
+        "low":1170.2,
+        "close":1172.3,
+        "volume":26248.0
+    },
+    {
+        "datetime":"2026-08-25T09:30:00.000",
+        "symbol":"NSE:PNBHOUSING",
+        "open":1173.0,
+        "high":1183.0,
+        "low":1170.8,
+        "close":1179.3,
+        "volume":70189.0
     }
 ]

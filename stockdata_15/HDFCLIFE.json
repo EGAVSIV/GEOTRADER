@@ -1,41 +1,5 @@
 [
     {
-        "datetime":"2025-12-31T04:45:00.000",
-        "symbol":"NSE:HDFCLIFE",
-        "open":744.9,
-        "high":748.8,
-        "low":744.9,
-        "close":748.55,
-        "volume":67943.0
-    },
-    {
-        "datetime":"2025-12-31T05:00:00.000",
-        "symbol":"NSE:HDFCLIFE",
-        "open":748.35,
-        "high":751.65,
-        "low":748.2,
-        "close":751.1,
-        "volume":64172.0
-    },
-    {
-        "datetime":"2025-12-31T05:15:00.000",
-        "symbol":"NSE:HDFCLIFE",
-        "open":750.95,
-        "high":751.5,
-        "low":749.45,
-        "close":749.75,
-        "volume":70885.0
-    },
-    {
-        "datetime":"2025-12-31T05:30:00.000",
-        "symbol":"NSE:HDFCLIFE",
-        "open":749.55,
-        "high":749.85,
-        "low":748.05,
-        "close":749.2,
-        "volume":56198.0
-    },
-    {
         "datetime":"2025-12-31T05:45:00.000",
         "symbol":"NSE:HDFCLIFE",
         "open":749.0,
@@ -35996,7 +35960,43 @@
         "open":546.3,
         "high":547.2,
         "low":545.8,
-        "close":546.2,
-        "volume":43567.0
+        "close":546.1,
+        "volume":47198.0
+    },
+    {
+        "datetime":"2026-08-25T08:45:00.000",
+        "symbol":"NSE:HDFCLIFE",
+        "open":546.0,
+        "high":548.0,
+        "low":545.95,
+        "close":547.8,
+        "volume":79923.0
+    },
+    {
+        "datetime":"2026-08-25T09:00:00.000",
+        "symbol":"NSE:HDFCLIFE",
+        "open":547.8,
+        "high":549.25,
+        "low":547.6,
+        "close":549.15,
+        "volume":82396.0
+    },
+    {
+        "datetime":"2026-08-25T09:15:00.000",
+        "symbol":"NSE:HDFCLIFE",
+        "open":548.95,
+        "high":549.25,
+        "low":548.3,
+        "close":548.65,
+        "volume":107334.0
+    },
+    {
+        "datetime":"2026-08-25T09:30:00.000",
+        "symbol":"NSE:HDFCLIFE",
+        "open":548.6,
+        "high":548.7,
+        "low":547.5,
+        "close":548.35,
+        "volume":210944.0
     }
 ]

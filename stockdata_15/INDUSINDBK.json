@@ -1,41 +1,5 @@
 [
     {
-        "datetime":"2025-12-31T04:45:00.000",
-        "symbol":"NSE:INDUSINDBK",
-        "open":851.5,
-        "high":852.5,
-        "low":850.0,
-        "close":850.55,
-        "volume":58277.0
-    },
-    {
-        "datetime":"2025-12-31T05:00:00.000",
-        "symbol":"NSE:INDUSINDBK",
-        "open":850.55,
-        "high":851.45,
-        "low":849.9,
-        "close":850.9,
-        "volume":18670.0
-    },
-    {
-        "datetime":"2025-12-31T05:15:00.000",
-        "symbol":"NSE:INDUSINDBK",
-        "open":851.0,
-        "high":854.4,
-        "low":848.55,
-        "close":852.7,
-        "volume":72532.0
-    },
-    {
-        "datetime":"2025-12-31T05:30:00.000",
-        "symbol":"NSE:INDUSINDBK",
-        "open":853.0,
-        "high":857.55,
-        "low":852.75,
-        "close":856.7,
-        "volume":139184.0
-    },
-    {
         "datetime":"2025-12-31T05:45:00.000",
         "symbol":"NSE:INDUSINDBK",
         "open":856.65,
@@ -35996,7 +35960,43 @@
         "open":1011.4,
         "high":1011.9,
         "low":1010.2,
-        "close":1010.9,
-        "volume":56508.0
+        "close":1011.1,
+        "volume":57275.0
+    },
+    {
+        "datetime":"2026-08-25T08:45:00.000",
+        "symbol":"NSE:INDUSINDBK",
+        "open":1011.0,
+        "high":1012.9,
+        "low":1010.0,
+        "close":1011.8,
+        "volume":84138.0
+    },
+    {
+        "datetime":"2026-08-25T09:00:00.000",
+        "symbol":"NSE:INDUSINDBK",
+        "open":1011.8,
+        "high":1013.7,
+        "low":1011.2,
+        "close":1012.6,
+        "volume":94700.0
+    },
+    {
+        "datetime":"2026-08-25T09:15:00.000",
+        "symbol":"NSE:INDUSINDBK",
+        "open":1013.6,
+        "high":1015.2,
+        "low":1011.5,
+        "close":1015.2,
+        "volume":181954.0
+    },
+    {
+        "datetime":"2026-08-25T09:30:00.000",
+        "symbol":"NSE:INDUSINDBK",
+        "open":1015.1,
+        "high":1022.0,
+        "low":1015.0,
+        "close":1016.0,
+        "volume":267724.0
     }
 ]

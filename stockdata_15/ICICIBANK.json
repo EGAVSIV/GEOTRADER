@@ -1,41 +1,5 @@
 [
     {
-        "datetime":"2025-12-31T04:45:00.000",
-        "symbol":"NSE:ICICIBANK",
-        "open":1342.7,
-        "high":1343.2,
-        "low":1340.1,
-        "close":1341.0,
-        "volume":171676.0
-    },
-    {
-        "datetime":"2025-12-31T05:00:00.000",
-        "symbol":"NSE:ICICIBANK",
-        "open":1341.4,
-        "high":1343.2,
-        "low":1340.6,
-        "close":1342.9,
-        "volume":200715.0
-    },
-    {
-        "datetime":"2025-12-31T05:15:00.000",
-        "symbol":"NSE:ICICIBANK",
-        "open":1342.9,
-        "high":1343.1,
-        "low":1341.8,
-        "close":1342.6,
-        "volume":105485.0
-    },
-    {
-        "datetime":"2025-12-31T05:30:00.000",
-        "symbol":"NSE:ICICIBANK",
-        "open":1342.3,
-        "high":1343.0,
-        "low":1341.2,
-        "close":1341.8,
-        "volume":121340.0
-    },
-    {
         "datetime":"2025-12-31T05:45:00.000",
         "symbol":"NSE:ICICIBANK",
         "open":1341.7,
@@ -35996,7 +35960,43 @@
         "open":1423.7,
         "high":1423.7,
         "low":1420.8,
-        "close":1421.7,
-        "volume":233540.0
+        "close":1421.0,
+        "volume":243670.0
+    },
+    {
+        "datetime":"2026-08-25T08:45:00.000",
+        "symbol":"NSE:ICICIBANK",
+        "open":1421.3,
+        "high":1422.0,
+        "low":1418.1,
+        "close":1420.3,
+        "volume":717573.0
+    },
+    {
+        "datetime":"2026-08-25T09:00:00.000",
+        "symbol":"NSE:ICICIBANK",
+        "open":1420.4,
+        "high":1422.2,
+        "low":1419.3,
+        "close":1421.2,
+        "volume":658066.0
+    },
+    {
+        "datetime":"2026-08-25T09:15:00.000",
+        "symbol":"NSE:ICICIBANK",
+        "open":1421.4,
+        "high":1423.8,
+        "low":1420.4,
+        "close":1423.3,
+        "volume":630024.0
+    },
+    {
+        "datetime":"2026-08-25T09:30:00.000",
+        "symbol":"NSE:ICICIBANK",
+        "open":1423.4,
+        "high":1424.4,
+        "low":1420.7,
+        "close":1420.8,
+        "volume":638054.0
     }
 ]

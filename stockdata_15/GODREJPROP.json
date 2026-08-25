@@ -1,41 +1,5 @@
 [
     {
-        "datetime":"2025-12-31T04:45:00.000",
-        "symbol":"NSE:GODREJPROP",
-        "open":1998.0,
-        "high":2007.8,
-        "low":1997.5,
-        "close":2007.8,
-        "volume":20067.0
-    },
-    {
-        "datetime":"2025-12-31T05:00:00.000",
-        "symbol":"NSE:GODREJPROP",
-        "open":2005.9,
-        "high":2008.8,
-        "low":2003.6,
-        "close":2006.3,
-        "volume":14230.0
-    },
-    {
-        "datetime":"2025-12-31T05:15:00.000",
-        "symbol":"NSE:GODREJPROP",
-        "open":2006.5,
-        "high":2012.0,
-        "low":2005.3,
-        "close":2011.0,
-        "volume":14961.0
-    },
-    {
-        "datetime":"2025-12-31T05:30:00.000",
-        "symbol":"NSE:GODREJPROP",
-        "open":2011.7,
-        "high":2014.3,
-        "low":2006.3,
-        "close":2007.0,
-        "volume":18375.0
-    },
-    {
         "datetime":"2025-12-31T05:45:00.000",
         "symbol":"NSE:GODREJPROP",
         "open":2006.9,
@@ -35995,8 +35959,44 @@
         "symbol":"NSE:GODREJPROP",
         "open":2025.4,
         "high":2027.3,
-        "low":2024.4,
-        "close":2024.4,
-        "volume":6042.0
+        "low":2024.0,
+        "close":2025.1,
+        "volume":6442.0
+    },
+    {
+        "datetime":"2026-08-25T08:45:00.000",
+        "symbol":"NSE:GODREJPROP",
+        "open":2023.6,
+        "high":2029.4,
+        "low":2023.0,
+        "close":2029.1,
+        "volume":35578.0
+    },
+    {
+        "datetime":"2026-08-25T09:00:00.000",
+        "symbol":"NSE:GODREJPROP",
+        "open":2028.2,
+        "high":2041.3,
+        "low":2028.2,
+        "close":2040.3,
+        "volume":9186.0
+    },
+    {
+        "datetime":"2026-08-25T09:15:00.000",
+        "symbol":"NSE:GODREJPROP",
+        "open":2040.3,
+        "high":2045.0,
+        "low":2036.9,
+        "close":2040.2,
+        "volume":16162.0
+    },
+    {
+        "datetime":"2026-08-25T09:30:00.000",
+        "symbol":"NSE:GODREJPROP",
+        "open":2040.6,
+        "high":2045.0,
+        "low":2036.5,
+        "close":2036.5,
+        "volume":29413.0
     }
 ]

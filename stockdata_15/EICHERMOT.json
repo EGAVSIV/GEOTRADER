@@ -1,32 +1,5 @@
 [
     {
-        "datetime":"2025-12-31T05:00:00.000",
-        "symbol":"NSE:EICHERMOT",
-        "open":7222.5,
-        "high":7241.0,
-        "low":7218.5,
-        "close":7236.0,
-        "volume":8303.0
-    },
-    {
-        "datetime":"2025-12-31T05:15:00.000",
-        "symbol":"NSE:EICHERMOT",
-        "open":7238.0,
-        "high":7252.0,
-        "low":7230.5,
-        "close":7247.0,
-        "volume":9470.0
-    },
-    {
-        "datetime":"2025-12-31T05:30:00.000",
-        "symbol":"NSE:EICHERMOT",
-        "open":7246.0,
-        "high":7258.5,
-        "low":7243.5,
-        "close":7244.5,
-        "volume":6505.0
-    },
-    {
         "datetime":"2025-12-31T05:45:00.000",
         "symbol":"NSE:EICHERMOT",
         "open":7248.5,
@@ -35095,9 +35068,9 @@
         "symbol":"NSE:EICHERMOT",
         "open":8025.0,
         "high":8025.0,
-        "low":8011.0,
+        "low":8010.0,
         "close":8016.0,
-        "volume":6326.0
+        "volume":8289.0
     },
     {
         "datetime":"2026-08-19T08:00:00.000",
@@ -35994,9 +35967,36 @@
         "datetime":"2026-08-25T08:45:00.000",
         "symbol":"NSE:EICHERMOT",
         "open":8040.0,
-        "high":8043.0,
-        "low":8040.0,
-        "close":8042.5,
-        "volume":93.0
+        "high":8047.0,
+        "low":8030.5,
+        "close":8036.0,
+        "volume":17761.0
+    },
+    {
+        "datetime":"2026-08-25T09:00:00.000",
+        "symbol":"NSE:EICHERMOT",
+        "open":8036.5,
+        "high":8059.5,
+        "low":8031.5,
+        "close":8057.0,
+        "volume":45920.0
+    },
+    {
+        "datetime":"2026-08-25T09:15:00.000",
+        "symbol":"NSE:EICHERMOT",
+        "open":8056.0,
+        "high":8070.0,
+        "low":8050.0,
+        "close":8057.0,
+        "volume":33699.0
+    },
+    {
+        "datetime":"2026-08-25T09:30:00.000",
+        "symbol":"NSE:EICHERMOT",
+        "open":8056.0,
+        "high":8058.5,
+        "low":8050.0,
+        "close":8050.0,
+        "volume":15549.0
     }
 ]

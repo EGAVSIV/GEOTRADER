@@ -1,41 +1,5 @@
 [
     {
-        "datetime":"2025-12-31T04:45:00.000",
-        "symbol":"NSE:GMRAIRPORT",
-        "open":103.41,
-        "high":103.64,
-        "low":103.37,
-        "close":103.55,
-        "volume":161304.0
-    },
-    {
-        "datetime":"2025-12-31T05:00:00.000",
-        "symbol":"NSE:GMRAIRPORT",
-        "open":103.6,
-        "high":103.76,
-        "low":103.41,
-        "close":103.71,
-        "volume":150883.0
-    },
-    {
-        "datetime":"2025-12-31T05:15:00.000",
-        "symbol":"NSE:GMRAIRPORT",
-        "open":103.75,
-        "high":104.4,
-        "low":103.33,
-        "close":104.33,
-        "volume":1375188.0
-    },
-    {
-        "datetime":"2025-12-31T05:30:00.000",
-        "symbol":"NSE:GMRAIRPORT",
-        "open":104.35,
-        "high":104.5,
-        "low":104.25,
-        "close":104.25,
-        "volume":585918.0
-    },
-    {
         "datetime":"2025-12-31T05:45:00.000",
         "symbol":"NSE:GMRAIRPORT",
         "open":104.32,
@@ -35995,8 +35959,44 @@
         "symbol":"NSE:GMRAIRPORT",
         "open":98.42,
         "high":98.46,
-        "low":98.29,
-        "close":98.34,
-        "volume":307862.0
+        "low":98.24,
+        "close":98.25,
+        "volume":370093.0
+    },
+    {
+        "datetime":"2026-08-25T08:45:00.000",
+        "symbol":"NSE:GMRAIRPORT",
+        "open":98.25,
+        "high":98.45,
+        "low":98.24,
+        "close":98.32,
+        "volume":186451.0
+    },
+    {
+        "datetime":"2026-08-25T09:00:00.000",
+        "symbol":"NSE:GMRAIRPORT",
+        "open":98.32,
+        "high":98.8,
+        "low":98.3,
+        "close":98.78,
+        "volume":565056.0
+    },
+    {
+        "datetime":"2026-08-25T09:15:00.000",
+        "symbol":"NSE:GMRAIRPORT",
+        "open":98.77,
+        "high":99.19,
+        "low":98.74,
+        "close":99.05,
+        "volume":371583.0
+    },
+    {
+        "datetime":"2026-08-25T09:30:00.000",
+        "symbol":"NSE:GMRAIRPORT",
+        "open":99.05,
+        "high":99.3,
+        "low":98.99,
+        "close":99.03,
+        "volume":396361.0
     }
 ]

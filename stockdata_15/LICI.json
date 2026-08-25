@@ -1,32 +1,5 @@
 [
     {
-        "datetime":"2025-12-31T05:00:00.000",
-        "symbol":"NSE:LICI",
-        "open":427.325,
-        "high":427.95,
-        "low":426.85,
-        "close":427.675,
-        "volume":37056.0
-    },
-    {
-        "datetime":"2025-12-31T05:15:00.000",
-        "symbol":"NSE:LICI",
-        "open":427.7,
-        "high":428.25,
-        "low":427.225,
-        "close":428.25,
-        "volume":41464.0
-    },
-    {
-        "datetime":"2025-12-31T05:30:00.000",
-        "symbol":"NSE:LICI",
-        "open":428.4,
-        "high":428.5,
-        "low":427.75,
-        "close":428.3,
-        "volume":53254.0
-    },
-    {
         "datetime":"2025-12-31T05:45:00.000",
         "symbol":"NSE:LICI",
         "open":428.1,
@@ -35094,10 +35067,10 @@
         "datetime":"2026-08-19T07:45:00.000",
         "symbol":"NSE:LICI",
         "open":413.0,
-        "high":413.45,
+        "high":413.5,
         "low":412.55,
         "close":413.45,
-        "volume":94189.0
+        "volume":140044.0
     },
     {
         "datetime":"2026-08-19T08:00:00.000",
@@ -35994,9 +35967,36 @@
         "datetime":"2026-08-25T08:45:00.000",
         "symbol":"NSE:LICI",
         "open":422.7,
-        "high":422.75,
-        "low":422.7,
-        "close":422.75,
-        "volume":2571.0
+        "high":422.85,
+        "low":421.3,
+        "close":422.0,
+        "volume":493918.0
+    },
+    {
+        "datetime":"2026-08-25T09:00:00.000",
+        "symbol":"NSE:LICI",
+        "open":422.0,
+        "high":422.45,
+        "low":420.9,
+        "close":421.1,
+        "volume":639946.0
+    },
+    {
+        "datetime":"2026-08-25T09:15:00.000",
+        "symbol":"NSE:LICI",
+        "open":421.05,
+        "high":422.25,
+        "low":420.8,
+        "close":420.95,
+        "volume":1113461.0
+    },
+    {
+        "datetime":"2026-08-25T09:30:00.000",
+        "symbol":"NSE:LICI",
+        "open":421.2,
+        "high":423.2,
+        "low":420.7,
+        "close":421.65,
+        "volume":1189205.0
     }
 ]

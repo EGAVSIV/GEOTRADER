@@ -1,41 +1,5 @@
 [
     {
-        "datetime":"2025-12-31T04:45:00.000",
-        "symbol":"NSE:HINDUNILVR",
-        "open":2316.6,
-        "high":2317.3,
-        "low":2315.0,
-        "close":2316.0,
-        "volume":26713.0
-    },
-    {
-        "datetime":"2025-12-31T05:00:00.000",
-        "symbol":"NSE:HINDUNILVR",
-        "open":2316.4,
-        "high":2317.5,
-        "low":2310.4,
-        "close":2312.3,
-        "volume":98462.0
-    },
-    {
-        "datetime":"2025-12-31T05:15:00.000",
-        "symbol":"NSE:HINDUNILVR",
-        "open":2312.0,
-        "high":2313.4,
-        "low":2310.5,
-        "close":2311.1,
-        "volume":53508.0
-    },
-    {
-        "datetime":"2025-12-31T05:30:00.000",
-        "symbol":"NSE:HINDUNILVR",
-        "open":2311.1,
-        "high":2313.0,
-        "low":2311.0,
-        "close":2311.5,
-        "volume":23165.0
-    },
-    {
         "datetime":"2025-12-31T05:45:00.000",
         "symbol":"NSE:HINDUNILVR",
         "open":2311.5,
@@ -35996,7 +35960,43 @@
         "open":2014.0,
         "high":2016.1,
         "low":2013.6,
-        "close":2015.4,
-        "volume":19872.0
+        "close":2015.1,
+        "volume":21053.0
+    },
+    {
+        "datetime":"2026-08-25T08:45:00.000",
+        "symbol":"NSE:HINDUNILVR",
+        "open":2015.7,
+        "high":2017.7,
+        "low":2015.2,
+        "close":2016.7,
+        "volume":20197.0
+    },
+    {
+        "datetime":"2026-08-25T09:00:00.000",
+        "symbol":"NSE:HINDUNILVR",
+        "open":2017.4,
+        "high":2020.7,
+        "low":2016.3,
+        "close":2019.3,
+        "volume":40401.0
+    },
+    {
+        "datetime":"2026-08-25T09:15:00.000",
+        "symbol":"NSE:HINDUNILVR",
+        "open":2019.3,
+        "high":2024.0,
+        "low":2018.6,
+        "close":2022.8,
+        "volume":95332.0
+    },
+    {
+        "datetime":"2026-08-25T09:30:00.000",
+        "symbol":"NSE:HINDUNILVR",
+        "open":2023.5,
+        "high":2023.6,
+        "low":2020.2,
+        "close":2022.0,
+        "volume":87348.0
     }
 ]

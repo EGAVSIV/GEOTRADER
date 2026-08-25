@@ -1,41 +1,5 @@
 [
     {
-        "datetime":"2025-12-31T04:45:00.000",
-        "symbol":"NSE:POWERINDIA",
-        "open":18190.0,
-        "high":18200.0,
-        "low":18140.0,
-        "close":18190.0,
-        "volume":1950.0
-    },
-    {
-        "datetime":"2025-12-31T05:00:00.000",
-        "symbol":"NSE:POWERINDIA",
-        "open":18190.0,
-        "high":18215.0,
-        "low":18120.0,
-        "close":18190.0,
-        "volume":2836.0
-    },
-    {
-        "datetime":"2025-12-31T05:15:00.000",
-        "symbol":"NSE:POWERINDIA",
-        "open":18190.0,
-        "high":18295.0,
-        "low":18145.0,
-        "close":18270.0,
-        "volume":6517.0
-    },
-    {
-        "datetime":"2025-12-31T05:30:00.000",
-        "symbol":"NSE:POWERINDIA",
-        "open":18275.0,
-        "high":18310.0,
-        "low":18250.0,
-        "close":18310.0,
-        "volume":1902.0
-    },
-    {
         "datetime":"2025-12-31T05:45:00.000",
         "symbol":"NSE:POWERINDIA",
         "open":18320.0,
@@ -35996,7 +35960,43 @@
         "open":33370.0,
         "high":33395.0,
         "low":33230.0,
-        "close":33250.0,
-        "volume":2519.0
+        "close":33255.0,
+        "volume":2534.0
+    },
+    {
+        "datetime":"2026-08-25T08:45:00.000",
+        "symbol":"NSE:POWERINDIA",
+        "open":33250.0,
+        "high":33305.0,
+        "low":33240.0,
+        "close":33275.0,
+        "volume":1446.0
+    },
+    {
+        "datetime":"2026-08-25T09:00:00.000",
+        "symbol":"NSE:POWERINDIA",
+        "open":33260.0,
+        "high":33290.0,
+        "low":33200.0,
+        "close":33245.0,
+        "volume":4474.0
+    },
+    {
+        "datetime":"2026-08-25T09:15:00.000",
+        "symbol":"NSE:POWERINDIA",
+        "open":33235.0,
+        "high":33295.0,
+        "low":33215.0,
+        "close":33260.0,
+        "volume":5293.0
+    },
+    {
+        "datetime":"2026-08-25T09:30:00.000",
+        "symbol":"NSE:POWERINDIA",
+        "open":33235.0,
+        "high":33300.0,
+        "low":33190.0,
+        "close":33265.0,
+        "volume":7428.0
     }
 ]

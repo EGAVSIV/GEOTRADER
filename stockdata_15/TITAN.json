@@ -1,32 +1,5 @@
 [
     {
-        "datetime":"2025-12-31T05:00:00.000",
-        "symbol":"NSE:TITAN",
-        "open":4058.0,
-        "high":4061.9,
-        "low":4046.6,
-        "close":4050.8,
-        "volume":51361.0
-    },
-    {
-        "datetime":"2025-12-31T05:15:00.000",
-        "symbol":"NSE:TITAN",
-        "open":4050.1,
-        "high":4059.0,
-        "low":4047.5,
-        "close":4056.8,
-        "volume":53643.0
-    },
-    {
-        "datetime":"2025-12-31T05:30:00.000",
-        "symbol":"NSE:TITAN",
-        "open":4056.5,
-        "high":4061.0,
-        "low":4053.4,
-        "close":4060.0,
-        "volume":71196.0
-    },
-    {
         "datetime":"2025-12-31T05:45:00.000",
         "symbol":"NSE:TITAN",
         "open":4059.6,
@@ -35097,7 +35070,7 @@
         "high":5060.0,
         "low":5055.0,
         "close":5059.0,
-        "volume":7520.0
+        "volume":9204.0
     },
     {
         "datetime":"2026-08-19T08:00:00.000",
@@ -35994,9 +35967,36 @@
         "datetime":"2026-08-25T08:45:00.000",
         "symbol":"NSE:TITAN",
         "open":5082.9,
-        "high":5084.9,
-        "low":5081.9,
-        "close":5081.9,
-        "volume":734.0
+        "high":5099.0,
+        "low":5081.2,
+        "close":5098.4,
+        "volume":29444.0
+    },
+    {
+        "datetime":"2026-08-25T09:00:00.000",
+        "symbol":"NSE:TITAN",
+        "open":5098.1,
+        "high":5110.0,
+        "low":5093.6,
+        "close":5102.3,
+        "volume":35551.0
+    },
+    {
+        "datetime":"2026-08-25T09:15:00.000",
+        "symbol":"NSE:TITAN",
+        "open":5103.8,
+        "high":5107.2,
+        "low":5098.5,
+        "close":5107.0,
+        "volume":26247.0
+    },
+    {
+        "datetime":"2026-08-25T09:30:00.000",
+        "symbol":"NSE:TITAN",
+        "open":5107.6,
+        "high":5115.0,
+        "low":5100.0,
+        "close":5112.0,
+        "volume":54169.0
     }
 ]

@@ -1,41 +1,5 @@
 [
     {
-        "datetime":"2025-12-31T04:45:00.000",
-        "symbol":"NSE:HINDALCO",
-        "open":883.1,
-        "high":887.4,
-        "low":882.7,
-        "close":885.95,
-        "volume":167361.0
-    },
-    {
-        "datetime":"2025-12-31T05:00:00.000",
-        "symbol":"NSE:HINDALCO",
-        "open":885.95,
-        "high":887.1,
-        "low":884.8,
-        "close":885.55,
-        "volume":163124.0
-    },
-    {
-        "datetime":"2025-12-31T05:15:00.000",
-        "symbol":"NSE:HINDALCO",
-        "open":886.1,
-        "high":886.55,
-        "low":885.0,
-        "close":886.55,
-        "volume":94708.0
-    },
-    {
-        "datetime":"2025-12-31T05:30:00.000",
-        "symbol":"NSE:HINDALCO",
-        "open":886.7,
-        "high":889.0,
-        "low":886.0,
-        "close":886.4,
-        "volume":126186.0
-    },
-    {
         "datetime":"2025-12-31T05:45:00.000",
         "symbol":"NSE:HINDALCO",
         "open":886.0,
@@ -35996,7 +35960,43 @@
         "open":1049.4,
         "high":1049.4,
         "low":1045.05,
-        "close":1045.7,
-        "volume":197312.0
+        "close":1045.9,
+        "volume":203133.0
+    },
+    {
+        "datetime":"2026-08-25T08:45:00.000",
+        "symbol":"NSE:HINDALCO",
+        "open":1045.85,
+        "high":1048.85,
+        "low":1045.05,
+        "close":1048.45,
+        "volume":107915.0
+    },
+    {
+        "datetime":"2026-08-25T09:00:00.000",
+        "symbol":"NSE:HINDALCO",
+        "open":1048.5,
+        "high":1049.5,
+        "low":1047.05,
+        "close":1048.6,
+        "volume":149576.0
+    },
+    {
+        "datetime":"2026-08-25T09:15:00.000",
+        "symbol":"NSE:HINDALCO",
+        "open":1048.95,
+        "high":1050.4,
+        "low":1048.75,
+        "close":1050.4,
+        "volume":196901.0
+    },
+    {
+        "datetime":"2026-08-25T09:30:00.000",
+        "symbol":"NSE:HINDALCO",
+        "open":1050.4,
+        "high":1050.4,
+        "low":1045.6,
+        "close":1046.6,
+        "volume":298095.0
     }
 ]

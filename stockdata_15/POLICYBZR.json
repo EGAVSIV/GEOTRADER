@@ -1,41 +1,5 @@
 [
     {
-        "datetime":"2025-12-31T04:45:00.000",
-        "symbol":"NSE:POLICYBZR",
-        "open":1819.1,
-        "high":1834.0,
-        "low":1818.7,
-        "close":1833.4,
-        "volume":28983.0
-    },
-    {
-        "datetime":"2025-12-31T05:00:00.000",
-        "symbol":"NSE:POLICYBZR",
-        "open":1834.0,
-        "high":1834.3,
-        "low":1828.0,
-        "close":1828.6,
-        "volume":18469.0
-    },
-    {
-        "datetime":"2025-12-31T05:15:00.000",
-        "symbol":"NSE:POLICYBZR",
-        "open":1828.7,
-        "high":1835.6,
-        "low":1825.9,
-        "close":1830.3,
-        "volume":24439.0
-    },
-    {
-        "datetime":"2025-12-31T05:30:00.000",
-        "symbol":"NSE:POLICYBZR",
-        "open":1830.2,
-        "high":1831.6,
-        "low":1823.5,
-        "close":1825.9,
-        "volume":17557.0
-    },
-    {
         "datetime":"2025-12-31T05:45:00.000",
         "symbol":"NSE:POLICYBZR",
         "open":1825.9,
@@ -35996,7 +35960,43 @@
         "open":1795.1,
         "high":1797.6,
         "low":1794.2,
-        "close":1797.0,
-        "volume":23270.0
+        "close":1796.3,
+        "volume":24798.0
+    },
+    {
+        "datetime":"2026-08-25T08:45:00.000",
+        "symbol":"NSE:POLICYBZR",
+        "open":1798.8,
+        "high":1798.9,
+        "low":1795.0,
+        "close":1796.8,
+        "volume":23808.0
+    },
+    {
+        "datetime":"2026-08-25T09:00:00.000",
+        "symbol":"NSE:POLICYBZR",
+        "open":1796.5,
+        "high":1797.3,
+        "low":1793.5,
+        "close":1794.9,
+        "volume":115569.0
+    },
+    {
+        "datetime":"2026-08-25T09:15:00.000",
+        "symbol":"NSE:POLICYBZR",
+        "open":1795.8,
+        "high":1797.1,
+        "low":1794.6,
+        "close":1795.0,
+        "volume":24997.0
+    },
+    {
+        "datetime":"2026-08-25T09:30:00.000",
+        "symbol":"NSE:POLICYBZR",
+        "open":1794.9,
+        "high":1795.5,
+        "low":1786.2,
+        "close":1790.2,
+        "volume":92100.0
     }
 ]

@@ -1,41 +1,5 @@
 [
     {
-        "datetime":"2025-12-31T04:45:00.000",
-        "symbol":"NSE:ONGC",
-        "open":236.7,
-        "high":237.43,
-        "low":236.55,
-        "close":237.15,
-        "volume":169850.0
-    },
-    {
-        "datetime":"2025-12-31T05:00:00.000",
-        "symbol":"NSE:ONGC",
-        "open":237.15,
-        "high":237.25,
-        "low":236.95,
-        "close":237.23,
-        "volume":91774.0
-    },
-    {
-        "datetime":"2025-12-31T05:15:00.000",
-        "symbol":"NSE:ONGC",
-        "open":237.23,
-        "high":237.23,
-        "low":236.94,
-        "close":237.06,
-        "volume":50629.0
-    },
-    {
-        "datetime":"2025-12-31T05:30:00.000",
-        "symbol":"NSE:ONGC",
-        "open":237.06,
-        "high":237.27,
-        "low":237.02,
-        "close":237.23,
-        "volume":92701.0
-    },
-    {
         "datetime":"2025-12-31T05:45:00.000",
         "symbol":"NSE:ONGC",
         "open":237.23,
@@ -35995,8 +35959,44 @@
         "symbol":"NSE:ONGC",
         "open":234.16,
         "high":234.19,
-        "low":233.65,
-        "close":233.65,
-        "volume":407634.0
+        "low":233.54,
+        "close":233.54,
+        "volume":452372.0
+    },
+    {
+        "datetime":"2026-08-25T08:45:00.000",
+        "symbol":"NSE:ONGC",
+        "open":233.53,
+        "high":233.64,
+        "low":233.35,
+        "close":233.47,
+        "volume":331357.0
+    },
+    {
+        "datetime":"2026-08-25T09:00:00.000",
+        "symbol":"NSE:ONGC",
+        "open":233.54,
+        "high":233.91,
+        "low":233.46,
+        "close":233.91,
+        "volume":575284.0
+    },
+    {
+        "datetime":"2026-08-25T09:15:00.000",
+        "symbol":"NSE:ONGC",
+        "open":233.91,
+        "high":234.23,
+        "low":233.86,
+        "close":234.04,
+        "volume":953373.0
+    },
+    {
+        "datetime":"2026-08-25T09:30:00.000",
+        "symbol":"NSE:ONGC",
+        "open":234.0,
+        "high":234.11,
+        "low":233.9,
+        "close":234.0,
+        "volume":1448072.0
     }
 ]

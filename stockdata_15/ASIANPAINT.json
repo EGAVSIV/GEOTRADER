@@ -1,32 +1,5 @@
 [
     {
-        "datetime":"2025-12-31T05:00:00.000",
-        "symbol":"NSE:ASIANPAINT",
-        "open":2782.5,
-        "high":2785.0,
-        "low":2781.0,
-        "close":2785.0,
-        "volume":15883.0
-    },
-    {
-        "datetime":"2025-12-31T05:15:00.000",
-        "symbol":"NSE:ASIANPAINT",
-        "open":2785.0,
-        "high":2786.5,
-        "low":2771.3,
-        "close":2773.6,
-        "volume":138062.0
-    },
-    {
-        "datetime":"2025-12-31T05:30:00.000",
-        "symbol":"NSE:ASIANPAINT",
-        "open":2774.3,
-        "high":2779.3,
-        "low":2772.3,
-        "close":2775.0,
-        "volume":173062.0
-    },
-    {
         "datetime":"2025-12-31T05:45:00.000",
         "symbol":"NSE:ASIANPAINT",
         "open":2775.0,
@@ -35095,9 +35068,9 @@
         "symbol":"NSE:ASIANPAINT",
         "open":2603.1,
         "high":2606.5,
-        "low":2601.3,
+        "low":2601.0,
         "close":2601.4,
-        "volume":27322.0
+        "volume":33254.0
     },
     {
         "datetime":"2026-08-19T08:00:00.000",
@@ -35994,9 +35967,36 @@
         "datetime":"2026-08-25T08:45:00.000",
         "symbol":"NSE:ASIANPAINT",
         "open":2616.0,
-        "high":2617.7,
+        "high":2624.0,
         "low":2616.0,
-        "close":2617.0,
-        "volume":2078.0
+        "close":2622.0,
+        "volume":21386.0
+    },
+    {
+        "datetime":"2026-08-25T09:00:00.000",
+        "symbol":"NSE:ASIANPAINT",
+        "open":2622.0,
+        "high":2625.5,
+        "low":2620.0,
+        "close":2624.5,
+        "volume":28125.0
+    },
+    {
+        "datetime":"2026-08-25T09:15:00.000",
+        "symbol":"NSE:ASIANPAINT",
+        "open":2624.6,
+        "high":2631.9,
+        "low":2621.4,
+        "close":2631.5,
+        "volume":53469.0
+    },
+    {
+        "datetime":"2026-08-25T09:30:00.000",
+        "symbol":"NSE:ASIANPAINT",
+        "open":2631.9,
+        "high":2640.0,
+        "low":2625.7,
+        "close":2631.0,
+        "volume":58299.0
     }
 ]

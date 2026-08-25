@@ -1,41 +1,5 @@
 [
     {
-        "datetime":"2025-12-31T04:45:00.000",
-        "symbol":"NSE:HYUNDAI",
-        "open":2295.1,
-        "high":2300.0,
-        "low":2294.4,
-        "close":2298.7,
-        "volume":8059.0
-    },
-    {
-        "datetime":"2025-12-31T05:00:00.000",
-        "symbol":"NSE:HYUNDAI",
-        "open":2298.4,
-        "high":2300.0,
-        "low":2298.0,
-        "close":2298.2,
-        "volume":5349.0
-    },
-    {
-        "datetime":"2025-12-31T05:15:00.000",
-        "symbol":"NSE:HYUNDAI",
-        "open":2298.2,
-        "high":2302.3,
-        "low":2297.0,
-        "close":2301.0,
-        "volume":11913.0
-    },
-    {
-        "datetime":"2025-12-31T05:30:00.000",
-        "symbol":"NSE:HYUNDAI",
-        "open":2301.0,
-        "high":2301.8,
-        "low":2290.6,
-        "close":2292.8,
-        "volume":43769.0
-    },
-    {
         "datetime":"2025-12-31T05:45:00.000",
         "symbol":"NSE:HYUNDAI",
         "open":2291.4,
@@ -35996,7 +35960,43 @@
         "open":2214.6,
         "high":2214.7,
         "low":2206.6,
-        "close":2211.4,
-        "volume":13865.0
+        "close":2211.0,
+        "volume":15053.0
+    },
+    {
+        "datetime":"2026-08-25T08:45:00.000",
+        "symbol":"NSE:HYUNDAI",
+        "open":2211.0,
+        "high":2212.9,
+        "low":2207.1,
+        "close":2212.8,
+        "volume":14869.0
+    },
+    {
+        "datetime":"2026-08-25T09:00:00.000",
+        "symbol":"NSE:HYUNDAI",
+        "open":2212.8,
+        "high":2216.9,
+        "low":2207.0,
+        "close":2216.6,
+        "volume":24242.0
+    },
+    {
+        "datetime":"2026-08-25T09:15:00.000",
+        "symbol":"NSE:HYUNDAI",
+        "open":2215.7,
+        "high":2221.9,
+        "low":2215.7,
+        "close":2220.0,
+        "volume":58363.0
+    },
+    {
+        "datetime":"2026-08-25T09:30:00.000",
+        "symbol":"NSE:HYUNDAI",
+        "open":2220.0,
+        "high":2243.8,
+        "low":2219.6,
+        "close":2230.3,
+        "volume":121204.0
     }
 ]

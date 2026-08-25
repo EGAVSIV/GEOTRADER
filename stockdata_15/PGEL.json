@@ -1,41 +1,5 @@
 [
     {
-        "datetime":"2025-12-31T04:45:00.000",
-        "symbol":"NSE:PGEL",
-        "open":568.9,
-        "high":573.8,
-        "low":567.5,
-        "close":573.35,
-        "volume":81143.0
-    },
-    {
-        "datetime":"2025-12-31T05:00:00.000",
-        "symbol":"NSE:PGEL",
-        "open":573.5,
-        "high":573.9,
-        "low":571.8,
-        "close":573.0,
-        "volume":37327.0
-    },
-    {
-        "datetime":"2025-12-31T05:15:00.000",
-        "symbol":"NSE:PGEL",
-        "open":573.0,
-        "high":575.6,
-        "low":572.3,
-        "close":575.6,
-        "volume":86001.0
-    },
-    {
-        "datetime":"2025-12-31T05:30:00.000",
-        "symbol":"NSE:PGEL",
-        "open":575.8,
-        "high":576.0,
-        "low":571.35,
-        "close":571.9,
-        "volume":54452.0
-    },
-    {
         "datetime":"2025-12-31T05:45:00.000",
         "symbol":"NSE:PGEL",
         "open":572.5,
@@ -35996,7 +35960,43 @@
         "open":595.55,
         "high":596.0,
         "low":594.55,
-        "close":594.75,
-        "volume":16018.0
+        "close":595.05,
+        "volume":17838.0
+    },
+    {
+        "datetime":"2026-08-25T08:45:00.000",
+        "symbol":"NSE:PGEL",
+        "open":594.15,
+        "high":595.05,
+        "low":593.5,
+        "close":594.9,
+        "volume":13536.0
+    },
+    {
+        "datetime":"2026-08-25T09:00:00.000",
+        "symbol":"NSE:PGEL",
+        "open":595.05,
+        "high":596.35,
+        "low":594.6,
+        "close":596.2,
+        "volume":24924.0
+    },
+    {
+        "datetime":"2026-08-25T09:15:00.000",
+        "symbol":"NSE:PGEL",
+        "open":596.15,
+        "high":597.8,
+        "low":595.4,
+        "close":597.3,
+        "volume":39513.0
+    },
+    {
+        "datetime":"2026-08-25T09:30:00.000",
+        "symbol":"NSE:PGEL",
+        "open":597.2,
+        "high":597.3,
+        "low":595.0,
+        "close":595.0,
+        "volume":86149.0
     }
 ]

@@ -1,32 +1,5 @@
 [
     {
-        "datetime":"2025-12-31T05:00:00.000",
-        "symbol":"NSE:MFSL",
-        "open":1654.6,
-        "high":1662.3,
-        "low":1653.7,
-        "close":1661.5,
-        "volume":16896.0
-    },
-    {
-        "datetime":"2025-12-31T05:15:00.000",
-        "symbol":"NSE:MFSL",
-        "open":1660.6,
-        "high":1663.3,
-        "low":1658.2,
-        "close":1660.1,
-        "volume":13773.0
-    },
-    {
-        "datetime":"2025-12-31T05:30:00.000",
-        "symbol":"NSE:MFSL",
-        "open":1660.4,
-        "high":1662.5,
-        "low":1659.6,
-        "close":1660.8,
-        "volume":16592.0
-    },
-    {
         "datetime":"2025-12-31T05:45:00.000",
         "symbol":"NSE:MFSL",
         "open":1660.9,
@@ -35094,10 +35067,10 @@
         "datetime":"2026-08-19T07:45:00.000",
         "symbol":"NSE:MFSL",
         "open":1564.5,
-        "high":1567.1,
+        "high":1566.9,
         "low":1564.5,
         "close":1566.9,
-        "volume":5516.0
+        "volume":4670.0
     },
     {
         "datetime":"2026-08-19T08:00:00.000",
@@ -35994,9 +35967,36 @@
         "datetime":"2026-08-25T08:45:00.000",
         "symbol":"NSE:MFSL",
         "open":1583.1,
-        "high":1583.5,
-        "low":1583.1,
-        "close":1583.1,
-        "volume":196.0
+        "high":1586.2,
+        "low":1582.5,
+        "close":1583.2,
+        "volume":12606.0
+    },
+    {
+        "datetime":"2026-08-25T09:00:00.000",
+        "symbol":"NSE:MFSL",
+        "open":1583.1,
+        "high":1587.7,
+        "low":1582.7,
+        "close":1586.8,
+        "volume":17094.0
+    },
+    {
+        "datetime":"2026-08-25T09:15:00.000",
+        "symbol":"NSE:MFSL",
+        "open":1587.0,
+        "high":1588.5,
+        "low":1585.5,
+        "close":1587.4,
+        "volume":34136.0
+    },
+    {
+        "datetime":"2026-08-25T09:30:00.000",
+        "symbol":"NSE:MFSL",
+        "open":1587.4,
+        "high":1588.6,
+        "low":1581.6,
+        "close":1581.6,
+        "volume":56027.0
     }
 ]
