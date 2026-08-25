@@ -1,50 +1,5 @@
 [
     {
-        "datetime":"2025-12-30T08:00:00.000",
-        "symbol":"NSE:OBEROIRLTY",
-        "open":1638.9,
-        "high":1646.6,
-        "low":1638.2,
-        "close":1645.6,
-        "volume":9533.0
-    },
-    {
-        "datetime":"2025-12-30T08:15:00.000",
-        "symbol":"NSE:OBEROIRLTY",
-        "open":1645.6,
-        "high":1649.9,
-        "low":1643.7,
-        "close":1647.2,
-        "volume":9952.0
-    },
-    {
-        "datetime":"2025-12-30T08:30:00.000",
-        "symbol":"NSE:OBEROIRLTY",
-        "open":1647.2,
-        "high":1649.5,
-        "low":1646.1,
-        "close":1646.8,
-        "volume":3825.0
-    },
-    {
-        "datetime":"2025-12-30T08:45:00.000",
-        "symbol":"NSE:OBEROIRLTY",
-        "open":1646.8,
-        "high":1650.8,
-        "low":1646.8,
-        "close":1647.2,
-        "volume":9902.0
-    },
-    {
-        "datetime":"2025-12-30T09:00:00.000",
-        "symbol":"NSE:OBEROIRLTY",
-        "open":1647.9,
-        "high":1648.5,
-        "low":1643.7,
-        "close":1644.8,
-        "volume":8160.0
-    },
-    {
         "datetime":"2025-12-30T09:15:00.000",
         "symbol":"NSE:OBEROIRLTY",
         "open":1644.9,
@@ -35997,6 +35952,51 @@
         "high":1870.3,
         "low":1861.3,
         "close":1869.3,
-        "volume":5087.0
+        "volume":5924.0
+    },
+    {
+        "datetime":"2026-08-25T05:45:00.000",
+        "symbol":"NSE:OBEROIRLTY",
+        "open":1869.3,
+        "high":1874.9,
+        "low":1864.1,
+        "close":1864.6,
+        "volume":6251.0
+    },
+    {
+        "datetime":"2026-08-25T06:00:00.000",
+        "symbol":"NSE:OBEROIRLTY",
+        "open":1864.0,
+        "high":1873.0,
+        "low":1864.0,
+        "close":1868.0,
+        "volume":4311.0
+    },
+    {
+        "datetime":"2026-08-25T06:15:00.000",
+        "symbol":"NSE:OBEROIRLTY",
+        "open":1867.4,
+        "high":1868.0,
+        "low":1865.0,
+        "close":1866.7,
+        "volume":3506.0
+    },
+    {
+        "datetime":"2026-08-25T06:30:00.000",
+        "symbol":"NSE:OBEROIRLTY",
+        "open":1866.6,
+        "high":1868.7,
+        "low":1864.5,
+        "close":1868.5,
+        "volume":1863.0
+    },
+    {
+        "datetime":"2026-08-25T06:45:00.000",
+        "symbol":"NSE:OBEROIRLTY",
+        "open":1868.5,
+        "high":1868.8,
+        "low":1867.2,
+        "close":1867.3,
+        "volume":517.0
     }
 ]

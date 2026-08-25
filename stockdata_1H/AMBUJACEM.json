@@ -1,23 +1,5 @@
 [
     {
-        "datetime":"2024-04-30T05:45:00.000",
-        "symbol":"NSE:AMBUJACEM",
-        "open":620.2,
-        "high":623.0,
-        "low":619.4,
-        "close":621.9,
-        "volume":601077.0
-    },
-    {
-        "datetime":"2024-04-30T06:45:00.000",
-        "symbol":"NSE:AMBUJACEM",
-        "open":621.9,
-        "high":624.35,
-        "low":619.6,
-        "close":621.0,
-        "volume":690860.0
-    },
-    {
         "datetime":"2024-04-30T07:45:00.000",
         "symbol":"NSE:AMBUJACEM",
         "open":621.0,
@@ -35996,7 +35978,25 @@
         "open":407.0,
         "high":408.0,
         "low":405.75,
-        "close":407.55,
-        "volume":153467.0
+        "close":407.6,
+        "volume":154709.0
+    },
+    {
+        "datetime":"2026-08-25T05:45:00.000",
+        "symbol":"NSE:AMBUJACEM",
+        "open":407.8,
+        "high":407.9,
+        "low":405.1,
+        "close":406.05,
+        "volume":222502.0
+    },
+    {
+        "datetime":"2026-08-25T06:45:00.000",
+        "symbol":"NSE:AMBUJACEM",
+        "open":405.95,
+        "high":406.15,
+        "low":405.5,
+        "close":405.7,
+        "volume":19440.0
     }
 ]

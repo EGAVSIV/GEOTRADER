@@ -1,23 +1,5 @@
 [
     {
-        "datetime":"2024-04-30T05:45:00.000",
-        "symbol":"NSE:AUBANK",
-        "open":633.0,
-        "high":634.0,
-        "low":623.55,
-        "close":627.05,
-        "volume":720183.0
-    },
-    {
-        "datetime":"2024-04-30T06:45:00.000",
-        "symbol":"NSE:AUBANK",
-        "open":627.05,
-        "high":634.95,
-        "low":624.1,
-        "close":632.85,
-        "volume":778333.0
-    },
-    {
         "datetime":"2024-04-30T07:45:00.000",
         "symbol":"NSE:AUBANK",
         "open":632.55,
@@ -35996,7 +35978,25 @@
         "open":1131.9,
         "high":1137.0,
         "low":1129.1,
-        "close":1135.1,
-        "volume":503519.0
+        "close":1135.5,
+        "volume":510779.0
+    },
+    {
+        "datetime":"2026-08-25T05:45:00.000",
+        "symbol":"NSE:AUBANK",
+        "open":1135.5,
+        "high":1144.1,
+        "low":1132.1,
+        "close":1141.3,
+        "volume":1259954.0
+    },
+    {
+        "datetime":"2026-08-25T06:45:00.000",
+        "symbol":"NSE:AUBANK",
+        "open":1141.1,
+        "high":1141.1,
+        "low":1136.1,
+        "close":1137.0,
+        "volume":190795.0
     }
 ]

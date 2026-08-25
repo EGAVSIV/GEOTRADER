@@ -1,23 +1,5 @@
 [
     {
-        "datetime":"2024-04-30T05:45:00.000",
-        "symbol":"NSE:DIXON",
-        "open":8410.3,
-        "high":8435.0,
-        "low":8380.0,
-        "close":8390.55,
-        "volume":38352.0
-    },
-    {
-        "datetime":"2024-04-30T06:45:00.000",
-        "symbol":"NSE:DIXON",
-        "open":8392.45,
-        "high":8398.0,
-        "low":8352.6,
-        "close":8381.1,
-        "volume":31553.0
-    },
-    {
         "datetime":"2024-04-30T07:45:00.000",
         "symbol":"NSE:DIXON",
         "open":8383.85,
@@ -35994,9 +35976,27 @@
         "datetime":"2026-08-25T04:45:00.000",
         "symbol":"NSE:DIXON",
         "open":14472.0,
-        "high":14529.0,
+        "high":14530.0,
         "low":14455.0,
-        "close":14527.0,
-        "volume":37096.0
+        "close":14526.0,
+        "volume":41682.0
+    },
+    {
+        "datetime":"2026-08-25T05:45:00.000",
+        "symbol":"NSE:DIXON",
+        "open":14527.0,
+        "high":14530.0,
+        "low":14484.0,
+        "close":14493.0,
+        "volume":29245.0
+    },
+    {
+        "datetime":"2026-08-25T06:45:00.000",
+        "symbol":"NSE:DIXON",
+        "open":14490.0,
+        "high":14504.0,
+        "low":14477.0,
+        "close":14487.0,
+        "volume":5172.0
     }
 ]

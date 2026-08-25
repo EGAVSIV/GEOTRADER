@@ -1,50 +1,5 @@
 [
     {
-        "datetime":"2025-12-30T08:00:00.000",
-        "symbol":"NSE:BHARTIARTL",
-        "open":2094.9,
-        "high":2098.2,
-        "low":2094.5,
-        "close":2097.6,
-        "volume":181490.0
-    },
-    {
-        "datetime":"2025-12-30T08:15:00.000",
-        "symbol":"NSE:BHARTIARTL",
-        "open":2097.8,
-        "high":2099.7,
-        "low":2096.5,
-        "close":2097.4,
-        "volume":223316.0
-    },
-    {
-        "datetime":"2025-12-30T08:30:00.000",
-        "symbol":"NSE:BHARTIARTL",
-        "open":2097.2,
-        "high":2102.0,
-        "low":2097.2,
-        "close":2099.9,
-        "volume":179039.0
-    },
-    {
-        "datetime":"2025-12-30T08:45:00.000",
-        "symbol":"NSE:BHARTIARTL",
-        "open":2099.9,
-        "high":2101.0,
-        "low":2097.7,
-        "close":2097.7,
-        "volume":205723.0
-    },
-    {
-        "datetime":"2025-12-30T09:00:00.000",
-        "symbol":"NSE:BHARTIARTL",
-        "open":2097.8,
-        "high":2101.0,
-        "low":2097.7,
-        "close":2098.8,
-        "volume":311978.0
-    },
-    {
         "datetime":"2025-12-30T09:15:00.000",
         "symbol":"NSE:BHARTIARTL",
         "open":2098.8,
@@ -35995,8 +35950,53 @@
         "symbol":"NSE:BHARTIARTL",
         "open":1935.3,
         "high":1937.0,
-        "low":1933.8,
-        "close":1933.8,
-        "volume":89593.0
+        "low":1932.5,
+        "close":1934.8,
+        "volume":106610.0
+    },
+    {
+        "datetime":"2026-08-25T05:45:00.000",
+        "symbol":"NSE:BHARTIARTL",
+        "open":1934.1,
+        "high":1937.0,
+        "low":1934.0,
+        "close":1936.8,
+        "volume":54407.0
+    },
+    {
+        "datetime":"2026-08-25T06:00:00.000",
+        "symbol":"NSE:BHARTIARTL",
+        "open":1936.7,
+        "high":1937.0,
+        "low":1935.0,
+        "close":1935.9,
+        "volume":79931.0
+    },
+    {
+        "datetime":"2026-08-25T06:15:00.000",
+        "symbol":"NSE:BHARTIARTL",
+        "open":1935.9,
+        "high":1936.1,
+        "low":1931.2,
+        "close":1934.3,
+        "volume":90013.0
+    },
+    {
+        "datetime":"2026-08-25T06:30:00.000",
+        "symbol":"NSE:BHARTIARTL",
+        "open":1934.3,
+        "high":1938.5,
+        "low":1933.0,
+        "close":1938.3,
+        "volume":156714.0
+    },
+    {
+        "datetime":"2026-08-25T06:45:00.000",
+        "symbol":"NSE:BHARTIARTL",
+        "open":1938.3,
+        "high":1939.0,
+        "low":1934.9,
+        "close":1937.0,
+        "volume":79327.0
     }
 ]

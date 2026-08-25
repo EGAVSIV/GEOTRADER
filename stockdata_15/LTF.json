@@ -1,50 +1,5 @@
 [
     {
-        "datetime":"2025-12-30T08:00:00.000",
-        "symbol":"NSE:LTF",
-        "open":300.45,
-        "high":302.8,
-        "low":300.4,
-        "close":302.7,
-        "volume":415756.0
-    },
-    {
-        "datetime":"2025-12-30T08:15:00.000",
-        "symbol":"NSE:LTF",
-        "open":302.75,
-        "high":303.65,
-        "low":302.4,
-        "close":303.3,
-        "volume":417340.0
-    },
-    {
-        "datetime":"2025-12-30T08:30:00.000",
-        "symbol":"NSE:LTF",
-        "open":303.45,
-        "high":304.25,
-        "low":303.3,
-        "close":304.1,
-        "volume":545426.0
-    },
-    {
-        "datetime":"2025-12-30T08:45:00.000",
-        "symbol":"NSE:LTF",
-        "open":304.1,
-        "high":304.6,
-        "low":303.5,
-        "close":303.8,
-        "volume":609866.0
-    },
-    {
-        "datetime":"2025-12-30T09:00:00.000",
-        "symbol":"NSE:LTF",
-        "open":303.75,
-        "high":304.25,
-        "low":303.6,
-        "close":304.15,
-        "volume":517304.0
-    },
-    {
         "datetime":"2025-12-30T09:15:00.000",
         "symbol":"NSE:LTF",
         "open":304.2,
@@ -35996,7 +35951,52 @@
         "open":320.25,
         "high":320.55,
         "low":319.95,
+        "close":320.3,
+        "volume":82184.0
+    },
+    {
+        "datetime":"2026-08-25T05:45:00.000",
+        "symbol":"NSE:LTF",
+        "open":320.4,
+        "high":320.45,
+        "low":320.0,
+        "close":320.2,
+        "volume":105508.0
+    },
+    {
+        "datetime":"2026-08-25T06:00:00.000",
+        "symbol":"NSE:LTF",
+        "open":320.2,
+        "high":320.3,
+        "low":319.85,
         "close":320.0,
-        "volume":59850.0
+        "volume":75472.0
+    },
+    {
+        "datetime":"2026-08-25T06:15:00.000",
+        "symbol":"NSE:LTF",
+        "open":320.0,
+        "high":320.4,
+        "low":319.7,
+        "close":320.2,
+        "volume":149096.0
+    },
+    {
+        "datetime":"2026-08-25T06:30:00.000",
+        "symbol":"NSE:LTF",
+        "open":320.2,
+        "high":320.2,
+        "low":318.9,
+        "close":319.55,
+        "volume":203982.0
+    },
+    {
+        "datetime":"2026-08-25T06:45:00.000",
+        "symbol":"NSE:LTF",
+        "open":319.55,
+        "high":319.85,
+        "low":319.15,
+        "close":319.15,
+        "volume":13640.0
     }
 ]

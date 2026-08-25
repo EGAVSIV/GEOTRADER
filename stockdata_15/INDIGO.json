@@ -1,50 +1,5 @@
 [
     {
-        "datetime":"2025-12-30T08:00:00.000",
-        "symbol":"NSE:INDIGO",
-        "open":5007.0,
-        "high":5008.5,
-        "low":5003.0,
-        "close":5008.5,
-        "volume":19007.0
-    },
-    {
-        "datetime":"2025-12-30T08:15:00.000",
-        "symbol":"NSE:INDIGO",
-        "open":5008.5,
-        "high":5018.5,
-        "low":5006.5,
-        "close":5018.0,
-        "volume":39077.0
-    },
-    {
-        "datetime":"2025-12-30T08:30:00.000",
-        "symbol":"NSE:INDIGO",
-        "open":5018.0,
-        "high":5022.0,
-        "low":5015.0,
-        "close":5020.5,
-        "volume":37059.0
-    },
-    {
-        "datetime":"2025-12-30T08:45:00.000",
-        "symbol":"NSE:INDIGO",
-        "open":5020.5,
-        "high":5027.0,
-        "low":5018.5,
-        "close":5019.5,
-        "volume":54469.0
-    },
-    {
-        "datetime":"2025-12-30T09:00:00.000",
-        "symbol":"NSE:INDIGO",
-        "open":5019.0,
-        "high":5019.0,
-        "low":5004.5,
-        "close":5008.0,
-        "volume":35354.0
-    },
-    {
         "datetime":"2025-12-30T09:15:00.000",
         "symbol":"NSE:INDIGO",
         "open":5007.5,
@@ -35995,8 +35950,53 @@
         "symbol":"NSE:INDIGO",
         "open":5094.0,
         "high":5100.5,
+        "low":5093.5,
+        "close":5097.5,
+        "volume":1893.0
+    },
+    {
+        "datetime":"2026-08-25T05:45:00.000",
+        "symbol":"NSE:INDIGO",
+        "open":5097.0,
+        "high":5102.5,
+        "low":5092.0,
+        "close":5097.0,
+        "volume":5226.0
+    },
+    {
+        "datetime":"2026-08-25T06:00:00.000",
+        "symbol":"NSE:INDIGO",
+        "open":5097.0,
+        "high":5102.0,
+        "low":5092.5,
+        "close":5099.5,
+        "volume":2821.0
+    },
+    {
+        "datetime":"2026-08-25T06:15:00.000",
+        "symbol":"NSE:INDIGO",
+        "open":5099.5,
+        "high":5108.0,
         "low":5094.0,
+        "close":5103.0,
+        "volume":8427.0
+    },
+    {
+        "datetime":"2026-08-25T06:30:00.000",
+        "symbol":"NSE:INDIGO",
+        "open":5103.0,
+        "high":5103.0,
+        "low":5092.0,
         "close":5099.0,
-        "volume":1067.0
+        "volume":2338.0
+    },
+    {
+        "datetime":"2026-08-25T06:45:00.000",
+        "symbol":"NSE:INDIGO",
+        "open":5099.0,
+        "high":5102.5,
+        "low":5097.0,
+        "close":5101.0,
+        "volume":1656.0
     }
 ]
