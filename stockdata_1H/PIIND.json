@@ -1,14 +1,5 @@
 [
     {
-        "datetime":"2024-04-30T04:45:00.000",
-        "symbol":"NSE:PIIND",
-        "open":3678.65,
-        "high":3704.0,
-        "low":3592.0,
-        "close":3626.55,
-        "volume":263361.0
-    },
-    {
         "datetime":"2024-04-30T05:45:00.000",
         "symbol":"NSE:PIIND",
         "open":3626.5,
@@ -35815,9 +35806,9 @@
         "symbol":"NSE:PIIND",
         "open":2506.5,
         "high":2509.7,
-        "low":2503.7,
+        "low":2503.4,
         "close":2507.9,
-        "volume":13596.0
+        "volume":18523.0
     },
     {
         "datetime":"2026-08-19T08:45:00.000",
@@ -35995,8 +35986,17 @@
         "symbol":"NSE:PIIND",
         "open":2473.0,
         "high":2482.5,
-        "low":2467.0,
-        "close":2473.9,
-        "volume":17003.0
+        "low":2453.1,
+        "close":2459.5,
+        "volume":35951.0
+    },
+    {
+        "datetime":"2026-08-25T04:45:00.000",
+        "symbol":"NSE:PIIND",
+        "open":2461.5,
+        "high":2470.9,
+        "low":2459.0,
+        "close":2468.7,
+        "volume":12629.0
     }
 ]

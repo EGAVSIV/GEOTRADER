@@ -1,14 +1,5 @@
 [
     {
-        "datetime":"2024-04-30T04:45:00.000",
-        "symbol":"NSE:GODREJCP",
-        "open":1226.4,
-        "high":1228.9,
-        "low":1221.45,
-        "close":1227.0,
-        "volume":73247.0
-    },
-    {
         "datetime":"2024-04-30T05:45:00.000",
         "symbol":"NSE:GODREJCP",
         "open":1227.8,
@@ -35880,7 +35871,7 @@
         "high":947.5,
         "low":941.1,
         "close":941.1,
-        "volume":367048.0
+        "volume":367823.0
     },
     {
         "datetime":"2026-08-21T03:45:00.000",
@@ -35996,7 +35987,16 @@
         "open":928.9,
         "high":930.9,
         "low":923.4,
-        "close":924.8,
-        "volume":50728.0
+        "close":924.0,
+        "volume":67421.0
+    },
+    {
+        "datetime":"2026-08-25T04:45:00.000",
+        "symbol":"NSE:GODREJCP",
+        "open":924.0,
+        "high":925.0,
+        "low":923.1,
+        "close":923.5,
+        "volume":8174.0
     }
 ]

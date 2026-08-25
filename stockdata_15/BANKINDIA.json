@@ -1,32 +1,5 @@
 [
     {
-        "datetime":"2025-12-30T06:45:00.000",
-        "symbol":"NSE:BANKINDIA",
-        "open":140.53,
-        "high":140.6,
-        "low":140.25,
-        "close":140.51,
-        "volume":212709.0
-    },
-    {
-        "datetime":"2025-12-30T07:00:00.000",
-        "symbol":"NSE:BANKINDIA",
-        "open":140.56,
-        "high":140.85,
-        "low":140.51,
-        "close":140.61,
-        "volume":202041.0
-    },
-    {
-        "datetime":"2025-12-30T07:15:00.000",
-        "symbol":"NSE:BANKINDIA",
-        "open":140.61,
-        "high":140.78,
-        "low":140.49,
-        "close":140.49,
-        "volume":181159.0
-    },
-    {
         "datetime":"2025-12-30T07:30:00.000",
         "symbol":"NSE:BANKINDIA",
         "open":140.42,
@@ -35259,7 +35232,7 @@
         "high":142.08,
         "low":141.98,
         "close":142.08,
-        "volume":49264.0
+        "volume":62797.0
     },
     {
         "datetime":"2026-08-19T08:00:00.000",
@@ -35520,7 +35493,7 @@
         "high":143.02,
         "low":142.9,
         "close":142.97,
-        "volume":73509.0
+        "volume":72908.0
     },
     {
         "datetime":"2026-08-20T09:15:00.000",
@@ -35995,8 +35968,35 @@
         "symbol":"NSE:BANKINDIA",
         "open":143.09,
         "high":143.25,
-        "low":142.82,
-        "close":142.9,
-        "volume":66576.0
+        "low":142.42,
+        "close":142.52,
+        "volume":261620.0
+    },
+    {
+        "datetime":"2026-08-25T04:30:00.000",
+        "symbol":"NSE:BANKINDIA",
+        "open":142.53,
+        "high":142.61,
+        "low":142.27,
+        "close":142.47,
+        "volume":167748.0
+    },
+    {
+        "datetime":"2026-08-25T04:45:00.000",
+        "symbol":"NSE:BANKINDIA",
+        "open":142.45,
+        "high":142.53,
+        "low":142.2,
+        "close":142.4,
+        "volume":130830.0
+    },
+    {
+        "datetime":"2026-08-25T05:00:00.000",
+        "symbol":"NSE:BANKINDIA",
+        "open":142.38,
+        "high":142.38,
+        "low":142.33,
+        "close":142.33,
+        "volume":3928.0
     }
 ]

@@ -1,23 +1,5 @@
 [
     {
-        "datetime":"2025-12-30T06:45:00.000",
-        "symbol":"NSE:HINDZINC",
-        "open":623.25,
-        "high":627.5,
-        "low":622.9,
-        "close":627.3,
-        "volume":433665.0
-    },
-    {
-        "datetime":"2025-12-30T07:00:00.000",
-        "symbol":"NSE:HINDZINC",
-        "open":627.25,
-        "high":628.75,
-        "low":626.7,
-        "close":627.95,
-        "volume":386004.0
-    },
-    {
         "datetime":"2025-12-30T07:15:00.000",
         "symbol":"NSE:HINDZINC",
         "open":628.15,
@@ -35995,8 +35977,26 @@
         "symbol":"NSE:HINDZINC",
         "open":593.55,
         "high":593.55,
-        "low":592.6,
-        "close":593.3,
-        "volume":55208.0
+        "low":591.0,
+        "close":591.3,
+        "volume":321468.0
+    },
+    {
+        "datetime":"2026-08-25T04:30:00.000",
+        "symbol":"NSE:HINDZINC",
+        "open":591.3,
+        "high":592.3,
+        "low":590.1,
+        "close":590.3,
+        "volume":185142.0
+    },
+    {
+        "datetime":"2026-08-25T04:45:00.000",
+        "symbol":"NSE:HINDZINC",
+        "open":590.4,
+        "high":591.0,
+        "low":588.5,
+        "close":589.2,
+        "volume":184214.0
     }
 ]

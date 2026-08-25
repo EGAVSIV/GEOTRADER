@@ -1,23 +1,5 @@
 [
     {
-        "datetime":"2025-12-30T06:45:00.000",
-        "symbol":"NSE:WIPRO",
-        "open":263.64,
-        "high":264.14,
-        "low":263.63,
-        "close":263.72,
-        "volume":215335.0
-    },
-    {
-        "datetime":"2025-12-30T07:00:00.000",
-        "symbol":"NSE:WIPRO",
-        "open":263.75,
-        "high":264.07,
-        "low":263.7,
-        "close":263.98,
-        "volume":111874.0
-    },
-    {
         "datetime":"2025-12-30T07:15:00.000",
         "symbol":"NSE:WIPRO",
         "open":263.98,
@@ -35259,7 +35241,7 @@
         "high":179.52,
         "low":179.36,
         "close":179.36,
-        "volume":126610.0
+        "volume":97342.0
     },
     {
         "datetime":"2026-08-19T08:00:00.000",
@@ -35995,8 +35977,26 @@
         "symbol":"NSE:WIPRO",
         "open":180.44,
         "high":180.51,
-        "low":179.87,
+        "low":179.35,
         "close":179.9,
-        "volume":151046.0
+        "volume":811361.0
+    },
+    {
+        "datetime":"2026-08-25T04:30:00.000",
+        "symbol":"NSE:WIPRO",
+        "open":179.9,
+        "high":180.18,
+        "low":179.82,
+        "close":180.05,
+        "volume":360674.0
+    },
+    {
+        "datetime":"2026-08-25T04:45:00.000",
+        "symbol":"NSE:WIPRO",
+        "open":180.05,
+        "high":180.18,
+        "low":179.55,
+        "close":179.6,
+        "volume":176994.0
     }
 ]

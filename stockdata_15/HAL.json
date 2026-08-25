@@ -1,23 +1,5 @@
 [
     {
-        "datetime":"2025-12-30T06:45:00.000",
-        "symbol":"NSE:HAL",
-        "open":4321.5,
-        "high":4326.4,
-        "low":4315.9,
-        "close":4321.2,
-        "volume":31747.0
-    },
-    {
-        "datetime":"2025-12-30T07:00:00.000",
-        "symbol":"NSE:HAL",
-        "open":4321.3,
-        "high":4327.9,
-        "low":4318.0,
-        "close":4323.2,
-        "volume":23506.0
-    },
-    {
         "datetime":"2025-12-30T07:15:00.000",
         "symbol":"NSE:HAL",
         "open":4323.2,
@@ -35995,8 +35977,26 @@
         "symbol":"NSE:HAL",
         "open":4858.0,
         "high":4859.3,
-        "low":4852.1,
-        "close":4854.1,
-        "volume":5049.0
+        "low":4840.0,
+        "close":4841.6,
+        "volume":28136.0
+    },
+    {
+        "datetime":"2026-08-25T04:30:00.000",
+        "symbol":"NSE:HAL",
+        "open":4841.6,
+        "high":4841.6,
+        "low":4816.6,
+        "close":4826.0,
+        "volume":42494.0
+    },
+    {
+        "datetime":"2026-08-25T04:45:00.000",
+        "symbol":"NSE:HAL",
+        "open":4825.7,
+        "high":4828.2,
+        "low":4807.5,
+        "close":4812.2,
+        "volume":27494.0
     }
 ]

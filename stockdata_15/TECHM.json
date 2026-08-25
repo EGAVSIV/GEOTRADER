@@ -1,23 +1,5 @@
 [
     {
-        "datetime":"2025-12-30T06:45:00.000",
-        "symbol":"NSE:TECHM",
-        "open":1602.3,
-        "high":1603.3,
-        "low":1600.7,
-        "close":1602.2,
-        "volume":23867.0
-    },
-    {
-        "datetime":"2025-12-30T07:00:00.000",
-        "symbol":"NSE:TECHM",
-        "open":1602.7,
-        "high":1605.8,
-        "low":1602.2,
-        "close":1604.6,
-        "volume":34252.0
-    },
-    {
         "datetime":"2025-12-30T07:15:00.000",
         "symbol":"NSE:TECHM",
         "open":1604.5,
@@ -35940,10 +35922,10 @@
         "datetime":"2026-08-24T08:45:00.000",
         "symbol":"NSE:TECHM",
         "open":1581.7,
-        "high":1583.0,
+        "high":1584.7,
         "low":1579.6,
         "close":1580.2,
-        "volume":82435.0
+        "volume":130285.0
     },
     {
         "datetime":"2026-08-24T09:00:00.000",
@@ -35994,9 +35976,27 @@
         "datetime":"2026-08-25T04:15:00.000",
         "symbol":"NSE:TECHM",
         "open":1567.8,
-        "high":1567.8,
+        "high":1568.9,
         "low":1565.1,
-        "close":1566.1,
-        "volume":15035.0
+        "close":1568.6,
+        "volume":39010.0
+    },
+    {
+        "datetime":"2026-08-25T04:30:00.000",
+        "symbol":"NSE:TECHM",
+        "open":1569.1,
+        "high":1572.2,
+        "low":1567.6,
+        "close":1572.1,
+        "volume":42553.0
+    },
+    {
+        "datetime":"2026-08-25T04:45:00.000",
+        "symbol":"NSE:TECHM",
+        "open":1571.4,
+        "high":1572.6,
+        "low":1568.7,
+        "close":1568.7,
+        "volume":15020.0
     }
 ]

@@ -1,14 +1,5 @@
 [
     {
-        "datetime":"2024-04-30T04:45:00.000",
-        "symbol":"NSE:COLPAL",
-        "open":2775.55,
-        "high":2812.05,
-        "low":2755.0,
-        "close":2812.05,
-        "volume":113782.0
-    },
-    {
         "datetime":"2024-04-30T05:45:00.000",
         "symbol":"NSE:COLPAL",
         "open":2812.05,
@@ -35996,7 +35987,16 @@
         "open":1875.1,
         "high":1878.5,
         "low":1866.2,
-        "close":1873.3,
-        "volume":28840.0
+        "close":1874.5,
+        "volume":35739.0
+    },
+    {
+        "datetime":"2026-08-25T04:45:00.000",
+        "symbol":"NSE:COLPAL",
+        "open":1874.0,
+        "high":1876.8,
+        "low":1874.0,
+        "close":1876.0,
+        "volume":3968.0
     }
 ]

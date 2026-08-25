@@ -1,23 +1,5 @@
 [
     {
-        "datetime":"2025-12-30T06:45:00.000",
-        "symbol":"NSE:JINDALSTEL",
-        "open":1006.7,
-        "high":1007.7,
-        "low":1005.8,
-        "close":1006.3,
-        "volume":9411.0
-    },
-    {
-        "datetime":"2025-12-30T07:00:00.000",
-        "symbol":"NSE:JINDALSTEL",
-        "open":1006.5,
-        "high":1010.0,
-        "low":1006.1,
-        "close":1010.0,
-        "volume":25278.0
-    },
-    {
         "datetime":"2025-12-30T07:15:00.000",
         "symbol":"NSE:JINDALSTEL",
         "open":1010.0,
@@ -35995,8 +35977,26 @@
         "symbol":"NSE:JINDALSTEL",
         "open":1146.9,
         "high":1146.9,
-        "low":1143.1,
-        "close":1144.5,
-        "volume":16003.0
+        "low":1142.5,
+        "close":1143.9,
+        "volume":48102.0
+    },
+    {
+        "datetime":"2026-08-25T04:30:00.000",
+        "symbol":"NSE:JINDALSTEL",
+        "open":1144.7,
+        "high":1145.9,
+        "low":1143.8,
+        "close":1144.2,
+        "volume":13771.0
+    },
+    {
+        "datetime":"2026-08-25T04:45:00.000",
+        "symbol":"NSE:JINDALSTEL",
+        "open":1144.3,
+        "high":1144.5,
+        "low":1141.3,
+        "close":1143.4,
+        "volume":20617.0
     }
 ]

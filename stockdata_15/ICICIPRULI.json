@@ -1,23 +1,5 @@
 [
     {
-        "datetime":"2025-12-30T06:45:00.000",
-        "symbol":"NSE:ICICIPRULI",
-        "open":649.65,
-        "high":650.35,
-        "low":649.35,
-        "close":649.85,
-        "volume":4959.0
-    },
-    {
-        "datetime":"2025-12-30T07:00:00.000",
-        "symbol":"NSE:ICICIPRULI",
-        "open":649.75,
-        "high":650.2,
-        "low":649.0,
-        "close":649.15,
-        "volume":3470.0
-    },
-    {
         "datetime":"2025-12-30T07:15:00.000",
         "symbol":"NSE:ICICIPRULI",
         "open":649.35,
@@ -35994,9 +35976,27 @@
         "datetime":"2026-08-25T04:15:00.000",
         "symbol":"NSE:ICICIPRULI",
         "open":512.1,
+        "high":512.25,
+        "low":510.3,
+        "close":510.65,
+        "volume":21187.0
+    },
+    {
+        "datetime":"2026-08-25T04:30:00.000",
+        "symbol":"NSE:ICICIPRULI",
+        "open":511.05,
+        "high":512.0,
+        "low":510.75,
+        "close":511.75,
+        "volume":10500.0
+    },
+    {
+        "datetime":"2026-08-25T04:45:00.000",
+        "symbol":"NSE:ICICIPRULI",
+        "open":511.75,
         "high":512.1,
-        "low":511.65,
-        "close":511.65,
-        "volume":4520.0
+        "low":511.15,
+        "close":511.6,
+        "volume":9082.0
     }
 ]

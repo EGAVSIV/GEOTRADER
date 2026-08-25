@@ -1,23 +1,5 @@
 [
     {
-        "datetime":"2025-12-30T06:45:00.000",
-        "symbol":"NSE:HINDPETRO",
-        "open":477.3,
-        "high":477.9,
-        "low":476.5,
-        "close":476.9,
-        "volume":131834.0
-    },
-    {
-        "datetime":"2025-12-30T07:00:00.000",
-        "symbol":"NSE:HINDPETRO",
-        "open":476.7,
-        "high":477.25,
-        "low":476.0,
-        "close":476.45,
-        "volume":98822.0
-    },
-    {
         "datetime":"2025-12-30T07:15:00.000",
         "symbol":"NSE:HINDPETRO",
         "open":476.3,
@@ -35995,8 +35977,26 @@
         "symbol":"NSE:HINDPETRO",
         "open":372.35,
         "high":372.6,
-        "low":372.1,
-        "close":372.1,
-        "volume":44734.0
+        "low":371.55,
+        "close":371.55,
+        "volume":141587.0
+    },
+    {
+        "datetime":"2026-08-25T04:30:00.000",
+        "symbol":"NSE:HINDPETRO",
+        "open":371.55,
+        "high":371.75,
+        "low":371.2,
+        "close":371.35,
+        "volume":73117.0
+    },
+    {
+        "datetime":"2026-08-25T04:45:00.000",
+        "symbol":"NSE:HINDPETRO",
+        "open":371.35,
+        "high":371.4,
+        "low":370.9,
+        "close":371.35,
+        "volume":56921.0
     }
 ]

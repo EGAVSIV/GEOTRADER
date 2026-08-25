@@ -1,32 +1,5 @@
 [
     {
-        "datetime":"2025-12-30T06:45:00.000",
-        "symbol":"NSE:BHARATFORG",
-        "open":1463.3,
-        "high":1464.3,
-        "low":1461.9,
-        "close":1463.3,
-        "volume":18010.0
-    },
-    {
-        "datetime":"2025-12-30T07:00:00.000",
-        "symbol":"NSE:BHARATFORG",
-        "open":1462.8,
-        "high":1464.4,
-        "low":1461.9,
-        "close":1463.1,
-        "volume":14470.0
-    },
-    {
-        "datetime":"2025-12-30T07:15:00.000",
-        "symbol":"NSE:BHARATFORG",
-        "open":1463.0,
-        "high":1464.0,
-        "low":1459.9,
-        "close":1460.0,
-        "volume":9244.0
-    },
-    {
         "datetime":"2025-12-30T07:30:00.000",
         "symbol":"NSE:BHARATFORG",
         "open":1460.0,
@@ -35259,7 +35232,7 @@
         "high":2061.5,
         "low":2057.4,
         "close":2058.6,
-        "volume":22511.0
+        "volume":20238.0
     },
     {
         "datetime":"2026-08-19T08:00:00.000",
@@ -35520,7 +35493,7 @@
         "high":2058.7,
         "low":2056.1,
         "close":2057.2,
-        "volume":6653.0
+        "volume":6596.0
     },
     {
         "datetime":"2026-08-20T09:15:00.000",
@@ -35995,8 +35968,35 @@
         "symbol":"NSE:BHARATFORG",
         "open":2035.0,
         "high":2039.2,
-        "low":2035.0,
-        "close":2038.9,
-        "volume":10938.0
+        "low":2033.0,
+        "close":2038.4,
+        "volume":17722.0
+    },
+    {
+        "datetime":"2026-08-25T04:30:00.000",
+        "symbol":"NSE:BHARATFORG",
+        "open":2039.0,
+        "high":2040.0,
+        "low":2032.3,
+        "close":2036.5,
+        "volume":10743.0
+    },
+    {
+        "datetime":"2026-08-25T04:45:00.000",
+        "symbol":"NSE:BHARATFORG",
+        "open":2037.3,
+        "high":2037.4,
+        "low":2031.2,
+        "close":2035.5,
+        "volume":9130.0
+    },
+    {
+        "datetime":"2026-08-25T05:00:00.000",
+        "symbol":"NSE:BHARATFORG",
+        "open":2035.8,
+        "high":2035.8,
+        "low":2035.1,
+        "close":2035.1,
+        "volume":36.0
     }
 ]

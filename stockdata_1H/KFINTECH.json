@@ -1,14 +1,5 @@
 [
     {
-        "datetime":"2024-04-30T04:45:00.000",
-        "symbol":"NSE:KFINTECH",
-        "open":746.65,
-        "high":750.5,
-        "low":739.2,
-        "close":743.45,
-        "volume":439756.0
-    },
-    {
         "datetime":"2024-04-30T05:45:00.000",
         "symbol":"NSE:KFINTECH",
         "open":742.95,
@@ -35817,7 +35808,7 @@
         "high":949.9,
         "low":947.0,
         "close":948.0,
-        "volume":19458.0
+        "volume":20132.0
     },
     {
         "datetime":"2026-08-19T08:45:00.000",
@@ -35995,8 +35986,17 @@
         "symbol":"NSE:KFINTECH",
         "open":969.85,
         "high":976.6,
-        "low":965.2,
-        "close":968.95,
-        "volume":116222.0
+        "low":963.0,
+        "close":963.7,
+        "volume":163701.0
+    },
+    {
+        "datetime":"2026-08-25T04:45:00.000",
+        "symbol":"NSE:KFINTECH",
+        "open":963.9,
+        "high":964.8,
+        "low":960.35,
+        "close":960.85,
+        "volume":28225.0
     }
 ]
